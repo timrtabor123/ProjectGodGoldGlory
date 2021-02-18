@@ -1,0 +1,1072 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/21/2015 1:26:18 PM -->
+<GameData>
+
+
+	-<Civilizations>
+		- -
+
+		-<Row>
+
+			<Type>CIVILIZATION_RTRYPILLIA</Type>
+
+			<Description>TXT_KEY_CIV_RTRYPILLIA_DESC</Description>
+
+			<Civilopedia>TXT_KEY_CIV5_RTRYPILLIA_PEDIA</Civilopedia>
+
+			<CivilopediaTag>TXT_KEY_CIV5_RTRYPILLIA</CivilopediaTag>
+
+			<Strategy/>
+
+			<Playable>1</Playable>
+
+			<AIPlayable>1</AIPlayable>
+
+			<ShortDescription>TXT_KEY_CIV_RTRYPILLIA_SHORT_DESC</ShortDescription>
+
+			<Adjective>TXT_KEY_CIV_RTRYPILLIA_ADJECTIVE</Adjective>
+
+			<DefaultPlayerColor>PLAYERCOLOR_RTRYPILLIA</DefaultPlayerColor>
+
+			<ArtDefineTag>ART_DEF_CIVILIZATION_RUSSIA</ArtDefineTag>
+
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+
+			<ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+
+			<DerivativeCiv/>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>RTRYPILLIA_ICON_ATLAS</IconAtlas>
+
+			<AlphaIconAtlas>RTRYPILLIA_ALPHA_ATLAS</AlphaIconAtlas>
+
+			<MapImage>TrypilliaMap.dds</MapImage>
+
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_RTRYPILLIA_TEXT</DawnOfManQuote>
+
+			<DawnOfManImage>TrypilliaDOM.dds</DawnOfManImage>
+
+			<SoundtrackTag>Russia</SoundtrackTag>
+
+		</Row>
+
+	</Civilizations>
+
+	-<Civilization_Start_Region_Priority>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<RegionType>REGION_GRASS</RegionType>
+
+		</Row>
+
+	</Civilization_Start_Region_Priority>
+
+	-<Civilization_BuildingClassOverrides>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<BuildingClassType>BUILDINGCLASS_WALLS</BuildingClassType>
+
+			<BuildingType>BUILDING_RSTINA_1</BuildingType>
+
+		</Row>
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<BuildingClassType>BUILDINGCLASS_RSTINA_2</BuildingClassType>
+
+			<BuildingType>BUILDING_RSTINA_2</BuildingType>
+
+		</Row>
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<BuildingClassType>BUILDINGCLASS_RSTINA_3</BuildingClassType>
+
+			<BuildingType>BUILDING_RSTINA_3</BuildingType>
+
+		</Row>
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<BuildingClassType>BUILDINGCLASS_SHRINE</BuildingClassType>
+
+			<BuildingType>BUILDING_NOMNOM_SHRINE</BuildingType>
+
+		</Row>
+
+		
+
+	</Civilization_BuildingClassOverrides>
+	- -
+
+	-<Civilization_CityNames>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_0</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_1</CityName>
+
+		</Row>
+		- - -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_2</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_3</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_4</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_5</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_6</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_7</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_8</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_9</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_10</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_11</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_12</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_13</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_14</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_15</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_16</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_17</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_18</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_19</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_20</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_21</CityName>
+
+		</Row>
+
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_22</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_23</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_24</CityName>
+
+		</Row>
+		-
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_25</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_26</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_27</CityName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<CityName>TXT_KEY_CITY_NAME_RTRYPILLIA_28</CityName>
+
+		</Row>
+	</Civilization_CityNames>
+	- -
+
+	-<Civilization_FreeBuildingClasses>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+
+		</Row>
+
+	</Civilization_FreeBuildingClasses>
+	- -
+
+	-<Civilization_FreeTechs>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<TechType>TECH_AGRICULTURE</TechType>
+
+		</Row>
+
+	</Civilization_FreeTechs>
+	- -
+
+	-<Civilization_FreeUnits>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+
+			<Count>1</Count>
+
+		</Row>
+
+	</Civilization_FreeUnits>
+	- -
+
+	-<Civilization_Leaders>
+		- - -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<LeaderheadType>LEADER_VENERA</LeaderheadType>
+
+		</Row>
+
+	</Civilization_Leaders>
+	- -
+
+	-<Civilization_Religions>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<ReligionType>RELIGION_ORTHODOXY</ReligionType>
+
+		</Row>
+
+	</Civilization_Religions>
+	- -
+
+	-<Civilization_SpyNames>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RTRYPILLIA_0</SpyName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RTRYPILLIA_1</SpyName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RTRYPILLIA_2</SpyName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RTRYPILLIA_3</SpyName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RTRYPILLIA_4</SpyName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RTRYPILLIA_5</SpyName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RTRYPILLIA_6</SpyName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RTRYPILLIA_7</SpyName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RTRYPILLIA_8</SpyName>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<SpyName>TXT_KEY_SPY_NAME_RTRYPILLIA_9</SpyName>
+
+		</Row>
+
+	</Civilization_SpyNames>
+	- -
+
+	-<Civilization_UnitClassOverrides>
+		- -
+
+		-<Row>
+
+			<CivilizationType>CIVILIZATION_RTRYPILLIA</CivilizationType>
+
+			<UnitClassType>UNITCLASS_WORKER</UnitClassType>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+		</Row>
+
+	</Civilization_UnitClassOverrides>
+	- -
+
+	
+	- -
+
+	-<PlayerColors>
+		- -
+
+		-<Row>
+
+			<Type>PLAYERCOLOR_RTRYPILLIA</Type>
+
+			<PrimaryColor>COLOR_PLAYER_RTRYPILLIA_ICON</PrimaryColor>
+
+			<SecondaryColor>COLOR_PLAYER_RTRYPILLIA_BACKGROUND</SecondaryColor>
+
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+
+		</Row>
+
+	</PlayerColors>
+	- -
+
+	-<Colors>
+		- -
+
+		-<Row>
+
+			<Type>COLOR_PLAYER_RTRYPILLIA_ICON</Type>
+
+			<Red>0.832</Red>
+
+			<Green>0.6914</Green>
+
+			<Blue>0.4492</Blue>
+
+			<Alpha>1.0</Alpha>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Type>COLOR_PLAYER_RTRYPILLIA_BACKGROUND</Type>
+
+			<Red>0.6055</Red>
+
+			<Green>0.2852</Green>
+
+			<Blue>0.1953</Blue>
+
+			<Alpha>1.0</Alpha>
+
+		</Row>
+
+	</Colors>
+	- -
+
+	-<Language_en_US>
+		- -
+
+		-<Row Tag="TXT_KEY_CIV_RTRYPILLIA_DESC">
+
+			<Text>Trypillian Culture</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CIV5_RTRYPILLIA_FACTOID_HEADING">
+
+			<Text>Trypilla factoid</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CIV5_RTRYPILLIA_FACTOID_TEXT">
+			-
+			<Text>The vast area over which burnt buildings have been discovered is known as the 'Burned house horizon'[NEWLINE][NEWLINE]The feminist trope of an ancient, matriarchial society of Goddess' derives from Trypillia[NEWLINE][NEWLINE]The Trypillians worked the oldest salt mines in the world, and engaged in some of the earliest long distance trade.[NEWLINE][NEWLINE]Despite the sheer amount of coordination and centralisation that would be required to build the Trypillian monuments and cities, the Trypillians had no proper social stratification, and were thus more or less egalitarian.</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CIV5_RTRYPILLIA_HEADING_1">
+
+			<Text>History</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CIV5_RTRYPILLIA_HEADING_2">
+
+			<Text>Geography and Climate</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CIV5_RTRYPILLIA_HEADING_3">
+
+			<Text>Formation of the Culture</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CIV5_RTRYPILLIA_HEADING_4">
+
+			<Text>The beginning of metallurgy</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CIV5_RTRYPILLIA_HEADING_5">
+
+			<Text>The culture matures</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CIV5_RTRYPILLIA_HEADING_6">
+
+			<Text>Outside influences, the late period</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CIV5_RTRYPILLIA_HEADING_7">
+
+			<Text>Famine, war and feminists-Oh my!</Text>
+
+		</Row>
+		
+		
+
+		-<Row Tag="TXT_KEY_CIV5_RTRYPILLIA_TEXT_1">
+
+			<Text>The Cucuteni-Trypillian Culture was a copper age civilization that flourished in northern Romania and Southwestern Ukraine from 5500 BCE to 2700 BCE. The Cucuteni-Trypillian culture is known by its distinctive settlements, architecture, intricately decorated pottery and anthropomorphic and zoomorphic figurines, which are preserved in archaeological remains. At its peak it was one of the most technologically advanced societies in the world at the time, developing new techniques for ceramic production, housing building and agriculture, and producing woven textiles (although these have not survived and are known indirectly). An interesting tradition of the culture was the periodic burning of entire settlements every 60 to 80 years. The exact purpose of this has been heavily debated by scholars, but it seems it may have been for religious reasons.</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CIV5_RTRYPILLIA_TEXT_2">
+
+			<Text>
+				The Cucuteni-Trypillian culture flourished in the territory of what is now Moldova, northeastern Romania and parts of Western, Central and Southern Ukraine. The culture thus extended northeast from the Danube River Basin around the Iron Gates gorge to the Black Sea and Dnieper River. It encompassed the central Carpathian Mountains as well as the plains, steppe and forest steppe on either side of the range. Its historical core lay around the middle to upper Dniester River (the Podolian Upland). During the Atlantic and Subboreal climatic periods in which the culture flourished, Europe was at its warmest and moistest since the end of the last Ice Age, creating favorable conditions for agriculture in this region. As of 2003, about 3,000 cultural sites have been identified, ranging from small villages to "vast settlements consisting of hundreds of dwellings surrounded by multiple ditches".
+			</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CIV5_RTRYPILLIA_TEXT_3">
+
+			<Text>The roots of Cucuteni-Trypillian culture can be found in the Starčevo-Körös-Criș and Vinča cultures of the 6th to 5th millennia, with additional influence from the Bug-Dniester culture (6500-5000 BC). During the early period of its existence (in the 5th millennium BC), the Cucuteni-Trypillian culture was also influenced by the Linear Pottery culture from the north, and by the Boian-Giulesti culture from the south. Through colonization and acculturation from these other cultures, the formative Pre-Cucuteni/Trypillia A culture was established. Over the course of the fifth millennium, the Cucuteni-Trypillian culture expanded from its 'homeland' in the Prut-Siret region along the eastern foothills of the Carpathian Mountains into the basins and plains of the Dnieper and Southern Bug rivers of central Ukraine. Settlements also developed in the southeastern stretches of the Carpathian Mountains, with the materials known locally as the Ariuşd culture. Most of the settlements were located close to rivers, with fewer settlements located on the plateaus. Most early dwellings took the form of pit houses, though they were accompanied by an ever-increasing incidence of above-ground clay houses. The floors and hearths of these structures were made of clay, and the walls of clay-plastered wood or reeds. Roofing was made of thatched straw or reeds.</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CIV5_RTRYPILLIA_TEXT_4">
+
+			<Text>Clay statues of females and amulets have been found dating to this period. Copper items, primarily bracelets, rings and hooks, are occasionally found as well. A hoard of a large number of copper items was discovered in the village of Cărbuna, Moldova, consisting primarily of items of jewelry, which were dated back to the beginning of the 5th millennium BC. Some historians have used this evidence to support the theory that a social stratification was present in early Cucuteni culture, but this is disputed by others.</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CIV5_RTRYPILLIA_TEXT_5">
+
+			<Text>
+				In the middle era the Cucuteni-Trypillian culture spread over a wide area from Eastern Transylvania in the west to the Dnieper River in the east. During this period, the population immigrated into and settled along the banks of the upper and middle regions of the Right Bank (or western side) of the Dnieper River, in present-day Ukraine. The population grew considerably during this time, resulting in settlements being established on plateaus, near major rivers and springs. Their dwellings were built by placing vertical poles in the form of circles or ovals. The construction techniques incorporated log floors covered in clay, wattle-and-daub walls that were woven from pliable branches and covered in clay, and a clay oven, which was situated in the center of the dwelling. As the population in this area grew, more land was put under cultivation. Hunting supplemented the practice of animal husbandry of domestic livestock. Tools made of flint, rock, clay, wood and bones continued to be used for cultivation and other chores. Much less common than other materials, copper axes and other tools have been discovered that were made from ore mined in Volyn, Ukraine, as well as some deposits along the Dnieper river. Pottery-making by this time had become sophisticated, however they still relied on techniques of making pottery by hand (the potter's wheel was not used yet). Characteristics of the Cucuteni-Trypillian pottery included a monochromic spiral design, painted with black paint on a yellow and red base. Large pear-shaped pottery for the storage of grain, dining plates, and other goods, was also prevalent. Additionally, ceramic statues of female "Goddess" figures, as well as figurines of animals and models of houses dating to this period have also been discovered.
+			</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CIV5_RTRYPILLIA_TEXT_6">
+
+			<Text>During the late period the Cucuteni-Trypillian territory expanded to include the Volyn region in northwest Ukraine, the Sluch and Horyn Rivers in northern Ukraine, and along both banks of the Dnieper river near Kiev. Members of the Cucuteni-Trypillian culture who lived along the coastal regions near the Black Sea came into contact with other cultures. Animal husbandry increased in importance, as hunting diminished; horses also became more important. Outlying communities were established on the Don and Volga rivers in present-day Russia. Dwellings were constructed differently from previous periods, and a new rope-like design replaced the older spiral-patterned designs on the pottery. Different forms of ritual burial were developed where the deceased were interred in the ground with elaborate burial rituals. An increasingly larger number of Bronze Age artifacts originating from other lands were found as the end of the Cucuteni-Trypillian culture drew near.</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CIV5_RTRYPILLIA_TEXT_7">
+
+			<Text>There is a debate among scholars regarding how the end of the Cucuteni-Trypillian culture took place. Some advocate the Kurgan hypothesis, most notably the feminist archeologist Marija Gimbutas, arguing that patriarchial, Sky God worshipping proto-IndoEuropeans came from the east and displaced the culture quickly and violently, noting the not-so gradual change in the region's culture from peaceful matriarchies, to warrior chiefdoms. This has fallen under scrutiny in light of recent evidence and investigation, though this view still has a large following. Some have suggested a more gradual elimination via cultural changes and diffusion. In more recent years, archeologists have given support to the theory that climate change is responsible, noting that the Earth entered a cold, dry period at the end of the Culture's existence, resulting in terrible drought across Europe. As the old Trypillian way of life could not be sustained, they adapted the pastoralist techniques of their neighbor, the Yamna culture, effectively ending their culture. This theory is also, not without controversy.[NEWLINE][NEWLINE]Regardless of what happened, one cannot underestimate the fascination and mystery that revolves around this mysterious proto-civilization. Had it not ended abrduptly, it could've been a 7th cradle of civilisation, with it's own writing system and technological, cultural and religious sophistication that would not been seen again until the rise of Sumer.</Text>
+
+		</Row>
+		-
+		- -
+
+		-<Row Tag="TXT_KEY_CIV5_RTRYPILLIA_TITLE">
+
+			<Text>Trypillian Culture</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CIV_RTRYPILLIA_SHORT_DESC">
+
+			<Text>Trypillia</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CIV_RTRYPILLIA_ADJECTIVE">
+
+			<Text>Trypillian</Text>
+
+			<Gender>neuter:an</Gender>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CIV5_DAWN_RTRYPILLIA_TEXT">
+
+			<Text>We humbly greet you Great Goddess Venera! May you and your followers forever be blessed! You guide the Trypillians, a people older than civilization itself. First emerging around 5500BC, the Trypillians were a distinctive group of farming communities that once plowed the great grasslands of the Ukraine and Romania. Over the course of thousands of years the Trypillians founded the most advanced and complex culture of its time. Scattered across hundreds of cities, they produced some of the world’s finest pottery and constructed monumental temples, reaching a height of technological sophistication and population density that would not be seen in again by the world until the rise of Sumer hundreds of years later![NEWLINE][NEWLINE]Most benevolent Goddess, the people of old Europe dream of an escape from obscurity, they wait for the day when your name, lost to time, is chanted once more. Will the Trypillians carry your light across the world? Or will it succumb to your idols? Can you build a civilization to stand the test of time?</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_0">
+
+			<Text>Talianki</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_1">
+
+			<Text>Nebelivka</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_2">
+
+			<Text>Maydanets</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_3">
+
+			<Text>Chychyrkozivka</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_4">
+
+			<Text>Myropillya</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_5">
+
+			<Text>Trypillia</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_6">
+
+			<Text>Dobrovody</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_7">
+
+			<Text>Tomashovka</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_8">
+
+			<Text>Cucuteni</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_9">
+
+			<Text>Fedorovka</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_10">
+
+			<Text>Kharkivka</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_11">
+
+			<Text>Glubochek</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_12">
+
+			<Text>Pianeshkove</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_13">
+
+			<Text>Vil’khovets</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_14">
+
+			<Text>Khrystynivka</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_15">
+
+			<Text>Volodymyrivka</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_16">
+
+			<Text>Peregonivka</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_17">
+
+			<Text>Vladyslavcyk</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_18">
+
+			<Text>Kvitky</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_19">
+
+			<Text>Ksaverove</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_20">
+
+			<Text>Yaltushkiv</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_21">
+
+			<Text>Sushkivka</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_22">
+
+			<Text>Stina</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_23">
+
+			<Text>Romanivka</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_24">
+
+			<Text>Rozsokhuvatka</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_25">
+
+			<Text>Apolyanka</Text>
+
+		</Row>
+
+
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_26">
+
+			<Text>Kocherzhyntsi</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_27">
+
+			<Text>Kosenivka</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_CITY_NAME_RTRYPILLIA_28">
+
+			<Text>Mogylna</Text>
+
+		</Row>
+		
+		
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RTRYPILLIA_0">
+
+			<Text>Dobrogost</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RTRYPILLIA_1">
+
+			<Text>Zevs</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RTRYPILLIA_2">
+
+			<Text>Patriarkhat</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RTRYPILLIA_3">
+
+			<Text>Dionis</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RTRYPILLIA_4">
+
+			<Text>Poseydon</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RTRYPILLIA_5">
+
+			<Text>Amur</Text>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RTRYPILLIA_6">
+
+			<Text>Ludmila</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RTRYPILLIA_7">
+
+			<Text>Afina</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RTRYPILLIA_8">
+
+			<Text>Hayya</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+		- -
+
+		-<Row Tag="TXT_KEY_SPY_NAME_RTRYPILLIA_9">
+
+			<Text>Gimbutas</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+	</Language_en_US>
+	
+</GameData>

@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d006d930-006f-4ad8-8baa-fc0b9dd2932c" version="2">
+  <Properties>
+    <Name>The Cucuteni-Trypillian culture</Name>
+    <Teaser>A mod adding Trypillia to the game</Teaser>
+    <Description>A mod adding Trypillia to the game</Description>
+    <Authors>ryanjames</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>0</AffectsSavedGames>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YNAEMP" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural influence" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety and Prestige" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="RED" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="93A4B4171F71374821654BFE04634D18" import="1">Assets/Alpha Atlas/PotterAlpha128.dds</File>
+    <File md5="D63A5B691A04F0A6AFDAEC0AC7BF5675" import="1">Assets/Alpha Atlas/PotterAlpha256.dds</File>
+    <File md5="F19BD5CD77CE02D8553DECB5A29A2917" import="1">Assets/Alpha Atlas/PotterAlpha32.dds</File>
+    <File md5="A98E364EB827794B45BC3771C9C051C5" import="1">Assets/Alpha Atlas/PotterAlpha45.dds</File>
+    <File md5="51E3DA67C5C426D88EB1AB005DC978DD" import="1">Assets/Alpha Atlas/PotterAlpha64.dds</File>
+    <File md5="FFDFA801B79E5E3151FFE914401488BF" import="1">Assets/Alpha Atlas/PotterAlpha80.dds</File>
+    <File md5="F731BBEDA5105C39D8BAE056D44BCE46" import="1">Assets/Alpha Atlas/TrypilliaAlpha128.dds</File>
+    <File md5="E464199367462374C948E5478F629C25" import="1">Assets/Alpha Atlas/TrypilliaAlpha16.dds</File>
+    <File md5="606C4435067E22E47DF61EFF6A055F1E" import="1">Assets/Alpha Atlas/TrypilliaAlpha24.dds</File>
+    <File md5="0DCCAEE6D16299F0C4125E361D77BC55" import="1">Assets/Alpha Atlas/TrypilliaAlpha256.dds</File>
+    <File md5="601966C73983BAD1139236713E52C448" import="1">Assets/Alpha Atlas/TrypilliaAlpha32.dds</File>
+    <File md5="0281F0012E069A8178B4DD1690414CF8" import="1">Assets/Alpha Atlas/TrypilliaAlpha45.dds</File>
+    <File md5="F3BFB799C357963E5460A2BE0D165FED" import="1">Assets/Alpha Atlas/TrypilliaAlpha48.dds</File>
+    <File md5="75E0C1113E8B502E67A7989E47BFB989" import="1">Assets/Alpha Atlas/TrypilliaAlpha64.dds</File>
+    <File md5="3119160369A7948F9182D20E8B8A63A8" import="1">Assets/Alpha Atlas/TrypilliaAlpha80.dds</File>
+    <File md5="FC05D476D2B4EEC6659039E7A7C012D2" import="1">Assets/Icon Atlas/TrypilliaAtlas128.dds</File>
+    <File md5="426F7DCBCC2071D8324C3B56C4595D4D" import="1">Assets/Icon Atlas/TrypilliaAtlas32.dds</File>
+    <File md5="CE5BD47AE6FD0F8BAD37515995DB23C7" import="1">Assets/Icon Atlas/TrypilliaAtlas45.dds</File>
+    <File md5="101A0970A56F2F8FC5E529BB47B5A1C8" import="1">Assets/Icon Atlas/TrypilliaAtlas64.dds</File>
+    <File md5="F78321B180FD5261F14FC1B61CFE3C0D" import="1">Assets/Icon Atlas/TrypilliaAtlas80.dds</File>
+    <File md5="50F9E2BCC5426BEC5E5F87B640879D61" import="1">Assets/Potter Skin 1/secret_worker_1.fxsxml</File>
+    <File md5="747C9EDE036734EA080D8547B383205A" import="1">Assets/Potter Skin 1/secret_worker_1.gr2</File>
+    <File md5="7EF3FC8ACA2E3B4E31DFCC0D092E1C8A" import="1">Assets/Potter Skin 1/secret_worker_1_diff.dds</File>
+    <File md5="93A0D84BEE80A3464A28279A38CBC265" import="1">Assets/Potter Skin 1/secret_worker_1_sref.dds</File>
+    <File md5="320980B6261F5D64A05678EB755B8517" import="1">Assets/Potter Skin 2/secret_worker_2.fxsxml</File>
+    <File md5="CA1E6222ACAE537609713C1C58EF19D8" import="1">Assets/Potter Skin 2/secret_worker_2.gr2</File>
+    <File md5="36680B3CC9C88A765256F8A773381952" import="1">Assets/Potter Skin 2/secret_worker_2_diff.dds</File>
+    <File md5="93A0D84BEE80A3464A28279A38CBC265" import="1">Assets/Potter Skin 2/secret_worker_2_sref.dds</File>
+    <File md5="4CA7807FA76E70B1665E32CD1DA5BEEA" import="1">Assets/TrypilliaDOM.dds</File>
+    <File md5="66F2829252BD08BB53B90571583D6ED6" import="1">Assets/TrypilliaMap.dds</File>
+    <File md5="C34C93CA69990FCF6E4DCE10481F6836" import="1">Assets/VeneraPeace.mp3</File>
+    <File md5="B388C91E9730B277E46CDFE5C9427788" import="1">Assets/VeneraScene.dds</File>
+    <File md5="6F28BD8EBCA8223437B285BD4040CCFF" import="1">Assets/VeneraWar.mp3</File>
+    <File md5="CB3D8A0A2F483B376AC61DCAB5328ECD" import="1">Assets/Icon Atlas/TrypilliaAtlas256.dds</File>
+    <File md5="8E0224228362F33004C946D1213F8774" import="1">Lua/PlotIterators.lua</File>
+    <File md5="A306D85AEFCBEA6325CB2B3B1C98742C" import="0">Lua/Trypillia_Trait.lua</File>
+    <File md5="C17C34094848D012DF64FC5BE511D65F" import="0">SQL/Trypilla_RED.sql</File>
+    <File md5="4B501A196FB7F910202ADBA2C652A754" import="0">SQL/Trypillia_Cult_Diversity.sql</File>
+    <File md5="FA2555F51D5AD1B98FBD2C1C0B5BC37A" import="0">SQL/Trypillia_Leader_Traits.sql</File>
+    <File md5="78098E0878A0F8429EAB8B60088695BE" import="0">SQL/Trypillia_PietyPrestige.sql</File>
+    <File md5="1BA2358A4599B79C60BD6E5C402A4E9E" import="0">XML/Trypillia_Buildings.xml</File>
+    <File md5="61AEFAF2B588B9D751C9A2A2F4BFD7EB" import="0">XML/Trypillia_Civilisation.xml</File>
+    <File md5="1BB5A9973B10564A89C6EB56A33BB278" import="0">XML/Trypillia_Decisions.xml</File>
+    <File md5="FCBF0AF9067BF18D0E757B12AC198D61" import="0">XML/Trypillia_Icon_Atlas.xml</File>
+    <File md5="A9F00DCEAAC6D325D9BF2A3CC2D848F7" import="0">XML/Trypillia_Leader.xml</File>
+    <File md5="1C36440B3E4053F04E6F46B2B58DE635" import="0">XML/Trypillia_Music.xml</File>
+    <File md5="18D366D7CDCD8C22469AFB590F1FE607" import="1">XML/Trypillia_Scene.xml</File>
+    <File md5="698D3FF146218CE3DCAC45F5823284E1" import="0">XML/Trypillia_Trait.xml</File>
+    <File md5="6902E89982DD9EE7CA068F6DE48C9858" import="0">XML/Trypillia_UCI.xml</File>
+    <File md5="43EB42B5E55DBA10C1C9B4371C07F27A" import="0">XML/Trypillia_Unit.xml</File>
+    <File md5="6073A83B6E5129E2CDB72541C9F61B0B" import="0">XML/Trypillia_Unit_Art_Defines.xml</File>
+    <File md5="367E8D3FDF69EB678B5DE5C2C6BCD570" import="0">XML/Trypillia_YNAEMP.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Trypillia_Civilisation.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trypillia_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trypillia_Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trypillia_Unit.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trypillia_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trypillia_Icon_Atlas.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Trypilla_RED.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Trypillia_Cult_Diversity.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Trypillia_Leader_Traits.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Trypillia_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trypillia_Music.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trypillia_Unit_Art_Defines.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Trypillia_PietyPrestige.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Trypillia_UCI.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trypillia_YNAEMP.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Trypillia_Trait.lua">
+      <Name>Burned House horizon</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

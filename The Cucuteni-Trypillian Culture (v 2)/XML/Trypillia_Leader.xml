@@ -1,0 +1,856 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/21/2015 1:08:28 PM -->
+<GameData>
+
+
+	-<Leaders>
+
+
+		-<Row>
+
+			<Type>LEADER_VENERA</Type>
+
+			<Description>TXT_KEY_LEADER_VENERA</Description>
+
+			<Civilopedia>TXT_KEY_LEADER_VENERA_PEDIA</Civilopedia>
+
+			<CivilopediaTag>TXT_KEY_CIVILOPEDIA_LEADERS_VENERA</CivilopediaTag>
+
+			<ArtDefineTag>Trypillia_Scene.xml</ArtDefineTag>
+
+			<VictoryCompetitiveness>4</VictoryCompetitiveness>
+
+			<WonderCompetitiveness>5</WonderCompetitiveness>
+
+			<MinorCivCompetitiveness>3</MinorCivCompetitiveness>
+
+			<Boldness>4</Boldness>
+
+			<DiploBalance>3</DiploBalance>
+
+			<WarmongerHate>9</WarmongerHate>
+
+			<WorkAgainstWillingness>3</WorkAgainstWillingness>
+
+			<WorkWithWillingness>7</WorkWithWillingness>
+
+			<DenounceWillingness>7</DenounceWillingness>
+
+			<DoFWillingness>7</DoFWillingness>
+
+			<Loyalty>5</Loyalty>
+
+			<Neediness>7</Neediness>
+
+			<Forgiveness>7</Forgiveness>
+
+			<Chattiness>3</Chattiness>
+
+			<Meanness>3</Meanness>
+
+			<IconAtlas>RTRYPILLIA_ICON_ATLAS</IconAtlas>
+
+			<PortraitIndex>1</PortraitIndex>
+
+		</Row>
+
+	</Leaders>
+
+
+	-<Leader_MajorCivApproachBiases>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
+
+			<Bias>3</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
+
+			<Bias>3</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
+
+			<Bias>4</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
+
+			<Bias>5</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
+
+			<Bias>7</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
+
+			<Bias>8</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
+
+			<Bias>4</Bias>
+
+		</Row>
+
+	</Leader_MajorCivApproachBiases>
+
+
+	-<Leader_MinorCivApproachBiases>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
+
+			<Bias>7</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
+
+			<Bias>6</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
+
+			<Bias>5</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
+
+			<Bias>2</Bias>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
+
+			<Bias>3</Bias>
+
+		</Row>
+
+	</Leader_MinorCivApproachBiases>
+
+
+	-<Leader_Flavors>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+
+			<Flavor>3</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+
+			<Flavor>8</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+
+			<Flavor>9</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+
+			<Flavor>3</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_RECON</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_RANGED</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+
+			<Flavor>4</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+
+			<Flavor>4</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_AIR</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_EXPANSION</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+
+			<Flavor>8</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+
+			<Flavor>8</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_GOLD</FlavorType>
+
+			<Flavor>3</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+
+			<Flavor>4</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_WONDER</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+
+			<Flavor>8</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+
+			<Flavor>4</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_SPACESHIP</FlavorType>
+
+			<Flavor>8</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+
+			<Flavor>4</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_NUKE</FlavorType>
+
+			<Flavor>3</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_USE_NUKE</FlavorType>
+
+			<Flavor>2</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_ANTIAIR</FlavorType>
+
+			<Flavor>6</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+
+			<Flavor>4</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+
+			<Flavor>8</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
+
+			<Flavor>7</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+
+			<Flavor>4</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+
+			<Flavor>5</Flavor>
+
+		</Row>
+
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<FlavorType>FLAVOR_AIRLIFT</FlavorType>
+
+			<Flavor>4</Flavor>
+
+		</Row>
+
+	</Leader_Flavors>
+
+
+	-<Diplomacy_Responses>
+
+
+		-<Row LeaderType="LEADER_VENERA">
+
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+
+			<Response>TXT_KEY_LEADER_VENERA_FIRSTGREETING_%</Response>
+
+		</Row>
+
+
+		-<Row LeaderType="LEADER_VENERA">
+
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+
+			<Response>TXT_KEY_LEADER_VENERA_DEFEATED_%</Response>
+
+		</Row>
+
+		-<Row LeaderType="LEADER_VENERA">
+
+			<ResponseType>RESPONSE_ATTACKED</ResponseType>
+
+			<Response>TXT_KEY_LEADER_VENERA_ATTACKED%</Response>
+
+		</Row>
+
+		-<Row LeaderType="LEADER_VENERA">
+
+			<ResponseType>RESPONSE_LOSEWAR</ResponseType>
+
+			<Response>TXT_KEY_LEADER_VENERA_LOSEWAR%</Response>
+
+		</Row>
+
+
+		-<Row LeaderType="LEADER_VENERA">
+
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+
+			<Response>TXT_KEY_VENERA_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+
+		</Row>
+		-
+
+		-<Row LeaderType="LEADER_VENERA">
+
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+
+			<Response>TXT_KEY_VENERA_EXPANSION_SERIOUS_WARNING%</Response>
+
+		</Row>
+
+		-<Row LeaderType="LEADER_VENERA">
+
+			<ResponseType>RESPONSE_DOW_GENERIC</ResponseType>
+
+			<Response>TXT_KEY_LEADER_VENERA_DECLAREWAR%</Response>
+
+		</Row>
+
+	</Diplomacy_Responses>
+
+
+	-<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_LEADER_VENERA">
+
+			<Text>Venera</Text>
+
+			<Gender>feminine</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_LEADER_VENERA_PEDIA">
+
+			<Text>Venera</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VENERA">
+
+			<Text>Test text.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VENERA_HEADING_1">
+
+			<Text>History</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VENERA_TEXT_1">
+
+			<Text>The Cucuteni-Trypillians worshipped a mysterious matriarchial figure often referred to as a 'Mother Goddess' or 'Great Goddess' by archeologists. Mother Goddess' were common among ancient cultures as representing nature, fertility and the Earth itself. Very little is known about the actual Cucuteni-Trypillian pantheon and religion, other than that it was very ritualistic and complex with a heavy emphasis on often wide-hipped idols and other idols of fertility. Venera is simply the Ukrainian word for Venus, with a Venus being the name given by archeologists to prehistoric figurines representing women.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VENERA_SUBTITLE">
+
+			<Text>Leader of Trypillia</Text>
+
+		</Row>
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VENERA_TITLES_1">
+
+			<Text>The Great Goddess</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VENERA_NAME">
+
+			<Text>Venera</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_VENERA_LIVED">
+
+			<Text> ??? </Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_LEADER_VENERA_FIRSTGREETING_1">
+
+			<Text>Welcome Barbarian, what brings you to this ancient land?</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_LEADER_VENERA_FIRSTGREETING_2">
+
+			<Text>I am the guardian of this sacred place, tread wisely.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_LEADER_VENERA_FIRSTGREETING_3">
+
+			<Text>Hello travellers. What's that? You smell burning? I wouldn't worry, it's part of a ceremony.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_LEADER_VENERA_DEFEATED_1">
+
+			<Text>Our cities burn for the last time.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_LEADER_VENERA_DEFEATED_2">
+
+			<Text>Destroyed by patriarchial barbarians, what a suprise.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_LEADER_VENERA_ATTACKED_1">
+
+			<Text>Your efforts to establish a patriarchy will come to nothing!</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_LEADER_VENERA_ATTACKED_2">
+
+			<Text>I am, astounded by your stupidity.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_LEADER_VENERA_DECLAREWAR_1">
+
+			<Text>We have watched your people suffer under your leadership, it is time for change!</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_LEADER_VENERA_DECLAREWAR_2">
+
+			<Text>We are not monsters. We are not violent. But there is no other way to address our quarrels with you.</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_LEADER_VENERA_DECLAREWAR_3">
+
+			<Text>You may not understand now, but your destruction is for the best.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_VENERA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+
+			<Text>I can see you spreading patriarchy across the world</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_VENERA_EXPANSION_SERIOUS_WARNING_1">
+
+			<Text>Your people have established settlements very close to our own. If we are to tolerate you, you must promise to avoid this in future,</Text>
+
+		</Row>
+		-
+	</Language_en_US>
+	-
+
+	-<Leader_Traits>
+		-
+
+		-<Row>
+
+			<LeaderType>LEADER_VENERA</LeaderType>
+
+			<TraitType>TRAIT_BURNED_HOUSE</TraitType>
+
+		</Row>
+
+	</Leader_Traits>
+  
+</GameData>

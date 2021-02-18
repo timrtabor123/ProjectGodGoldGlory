@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/18/2015 4:25:19 PM -->
+<GameData>
+
+	-
+
+	-<Civilizations_YagemStartPosition>
+		- -
+
+		-<Row>
+
+			<Type>CIVILIZATION_RTRYPILLIA</Type>
+
+			<X>35</X>
+
+			<Y>67</Y>
+
+		</Row>
+
+	</Civilizations_YagemStartPosition>
+	- -
+
+	-<Civilizations_YahemStartPosition>
+		- -
+
+		-<Row>
+
+			<Type>CIVILIZATION_RTRYPILLIA</Type>
+
+			<X>70</X>
+
+			<Y>59</Y>
+
+		</Row>
+
+	</Civilizations_YahemStartPosition>
+	- -
+
+	-<Civilizations_CordiformStartPosition>
+		- -
+
+		-<Row>
+
+			<Type>CIVILIZATION_RTRYPILLIA</Type>
+
+			<X>45</X>
+
+			<Y>29</Y>
+
+		</Row>
+
+	</Civilizations_CordiformStartPosition
+
+</GameData>

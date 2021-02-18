@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/25/2015 12:36:40 PM -->
+<GameData>
+
+
+	-<DecisionsAddin_Support>
+		-
+
+		-<Row>
+
+			<FileName>RJCherokee_Decisions.lua</FileName>
+
+		</Row>
+
+	</DecisionsAddin_Support>
+	-
+
+	-<Policies>
+		-
+
+		-<Row>
+
+			<Type>POLICY_UC_CHEROKEE_CONSTITUTION</Type>
+
+			<GreatWriterRateModifier>25</GreatWriterRateModifier>
+
+		</Row>
+
+	</Policies>
+	-
+
+	-<Language_en_US>
+		-
+
+		-<Row Tag="TXT_KEY_DECISIONS_UC_CHEROKEE_BLOOD_LAWS">
+
+			<Text>Begin settlement razing tradition</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_DECISIONS_UC_CHEROKEE_BLOOD_LAWS_DESC">
+
+			<Text>Some of our most revered religious leaders have made some remarkable observations about nature. They talk of the cycles of the world, the seasons, life, death and rebirth. They claim all things must live and die, only to be reborn, and, ahem they've had the 'genius' idea that this extends to ones home. And that we should raze our settlements every few decades. I personally don't support this idea, but alot of our priests are quite attached the idea and I guess it would be a good way to bring the community together . . .[NEWLINE][NEWLINE]Requirement/Restrictions: [NEWLINE][ICON_BULLET]Player must be Trypillia [NEWLINE][ICON_BULLET]May only be enacted from the beginning of the ancient Era [NEWLINE][ICON_BULLET]May only be enacted once [NEWLINE]Costs: [NEWLINE][ICON_BULLET]20 [ICON_CULTURE] culture [NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate [NEWLINE]Rewards: [NEWLINE][ICON_BULLET]Free settler [NEWLINE][ICON_BULLET][ICON_PEACE] 40 Faith </Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_DECISIONS_UC_CHEROKEE_BLOOD_LAWS_ENACTED_DESC">
+
+			<Text>Some of our most revered religious leaders have made some remarkable observations about nature. They talk of the cycles of the world, the seasons, life, death and rebirth. They claim all things must live and die, only to be reborn, and, ahem they've had the 'genius' idea that this extends to ones home. And that we should raze our settlements every few decades. I personally don't support this idea, but alot of our priests are quite attached the idea and I guess it would be a good way to bring the community together . . .[NEWLINE] [NEWLINE]Rewards: [NEWLINE][ICON_BULLET]Free settler [NEWLINE][ICON_BULLET][ICON_PEACE] 40 Faith </Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_WORLD_EVENT_UC_CHEROKEE_BLOOD_LAWS">
+
+			<Text>The Trypillians now routinely burn down their own houses.</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_DECISIONS_UC_CHEROKEE_CONSTITUTION">
+
+			<Text>Import minerals</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_DECISIONS_UC_CHEROKEE_CONSTITUTION_DESC">
+
+			<Text>
+				We have recieved word that far off lands hold various flints and minerals that are scarce here. A few people have offered to setup a thing called a 'trade network' which they say can help us access some sorely needed materials.[NEWLINE][NEWLINE]Requirement/Restrictions: [NEWLINE][ICON_BULLET]Player must be Trypillia [NEWLINE][ICON_BULLET]May only be enacted from the beginning of the Ancient Era [NEWLINE][ICON_BULLET]May only be enacted once [NEWLINE]Costs:[ICON_BULLET]{1_Num} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET][ICON_MAGISTRATES] Magistrate [NEWLINE]Rewards:[NEWLINE][ICON_BULLET]+25% [ICON_GREAT_PEOPLE] Great Writer generation
+			</Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_DECISIONS_UC_CHEROKEE_CONSTITUTION_ENACTED_DESC">
+
+			<Text>Our society and culture is progressing quickly, and to consolidate this we should draft a constituion of sorts, to provide checks and balances, and neccersary executive legislature.[NEWLINE] [NEWLINE]Rewards: [NEWLINE][ICON_BULLET]+25% [ICON_GREAT_PEOPLE] Great Writer generation </Text>
+
+		</Row>
+		-
+
+		-<Row Tag="TXT_KEY_WORLD_EVENT_UC_CHEROKEE_CONSTITUTION">
+
+			<Text>The Cherokee have established an official constitution.</Text>
+
+		</Row>
+
+	</Language_en_US>
+  
+</GameData>

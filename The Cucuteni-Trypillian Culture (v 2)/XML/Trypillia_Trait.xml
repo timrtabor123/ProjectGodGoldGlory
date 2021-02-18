@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/21/2015 1:22:09 PM -->
+<GameData>
+
+		-<Traits>
+
+
+			-<Row>
+
+				<Type>TRAIT_BURNED_HOUSE</Type>
+
+				<Description>TXT_KEY_TRAIT_BURNED_HOUSE</Description>
+
+				<ShortDescription>TXT_KEY_TRAIT_BURNED_HOUSE_SHORT</ShortDescription>
+
+			</Row>
+
+		</Traits>
+
+
+		-<Language_en_US>
+
+
+			-<Row Tag="TXT_KEY_TRAIT_BURNED_HOUSE">
+
+				<Text>[ICON_PEACE] Faith in cities contributes towards settler production. Shrines carry over 10% of [ICON_FOOD] food when a new citizen is born.</Text>
+
+			</Row>
+
+
+			-<Row Tag="TXT_KEY_TRAIT_BURNED_HOUSE_SHORT">
+
+				<Text>Burned House Horizon</Text>
+
+			</Row>
+
+		</Language_en_US>
+
+  
+</GameData>

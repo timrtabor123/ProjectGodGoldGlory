@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/6/2015 8:49:45 PM -->
+<GameData>
+
+	-<IconTextureAtlases>
+		-
+
+		-<Row>
+
+			<Atlas>RTRYPILLIA_ICON_ATLAS</Atlas>
+
+			<IconSize>256</IconSize>
+
+			<Filename>TrypilliaAtlas256.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RTRYPILLIA_ICON_ATLAS</Atlas>
+
+			<IconSize>128</IconSize>
+
+			<Filename>TrypilliaAtlas128.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RTRYPILLIA_ICON_ATLAS</Atlas>
+
+			<IconSize>80</IconSize>
+
+			<Filename>TrypilliaAtlas80.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RTRYPILLIA_ICON_ATLAS</Atlas>
+
+			<IconSize>64</IconSize>
+
+			<Filename>TrypilliaAtlas64.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RTRYPILLIA_ICON_ATLAS</Atlas>
+
+			<IconSize>45</IconSize>
+
+			<Filename>TrypilliaAtlas45.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RTRYPILLIA_ICON_ATLAS</Atlas>
+
+			<IconSize>32</IconSize>
+
+			<Filename>TrypilliaAtlas32.dds</Filename>
+
+			<IconsPerRow>8</IconsPerRow>
+
+			<IconsPerColumn>8</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RTRYPILLIA_ALPHA_ATLAS</Atlas>
+
+			<IconSize>256</IconSize>
+
+			<Filename>TrypilliaAlpha256.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RTRYPILLIA_ALPHA_ATLAS</Atlas>
+
+			<IconSize>128</IconSize>
+
+			<Filename>TrypilliaAlpha128.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RTRYPILLIA_ALPHA_ATLAS</Atlas>
+
+			<IconSize>80</IconSize>
+
+			<Filename>TrypilliaAlpha80.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RTRYPILLIA_ALPHA_ATLAS</Atlas>
+
+			<IconSize>64</IconSize>
+
+			<Filename>TrypilliaAlpha64.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RTRYPILLIA_ALPHA_ATLAS</Atlas>
+
+			<IconSize>48</IconSize>
+
+			<Filename>TrypilliaAlpha48.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RTRYPILLIA_ALPHA_ATLAS</Atlas>
+
+			<IconSize>45</IconSize>
+
+			<Filename>TrypilliaAlpha45.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RTRYPILLIA_ALPHA_ATLAS</Atlas>
+
+			<IconSize>32</IconSize>
+
+			<Filename>TrypilliaAlpha32.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RTRYPILLIA_ALPHA_ATLAS</Atlas>
+
+			<IconSize>24</IconSize>
+
+			<Filename>TrypilliaAlpha24.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>RTRYPILLIA_ALPHA_ATLAS</Atlas>
+
+			<IconSize>16</IconSize>
+
+			<Filename>TrypilliaAlpha16.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>POTTER_ALPHA</Atlas>
+
+			<IconSize>256</IconSize>
+
+			<Filename>PotterAlpha256.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>POTTER_ALPHA</Atlas>
+
+			<IconSize>128</IconSize>
+
+			<Filename>PotterAlpha128.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>POTTER_ALPHA</Atlas>
+
+			<IconSize>80</IconSize>
+
+			<Filename>PotterAlpha80.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>POTTER_ALPHA</Atlas>
+
+			<IconSize>64</IconSize>
+
+			<Filename>PotterAlpha64.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>POTTER_ALPHA</Atlas>
+
+			<IconSize>45</IconSize>
+
+			<Filename>PotterAlpha45.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+		- -
+
+		-<Row>
+
+			<Atlas>POTTER_ALPHA</Atlas>
+
+			<IconSize>32</IconSize>
+
+			<Filename>PotterAlpha32.dds</Filename>
+
+			<IconsPerRow>1</IconsPerRow>
+
+			<IconsPerColumn>1</IconsPerColumn>
+
+		</Row>
+
+	</IconTextureAtlases>
+  
+</GameData>

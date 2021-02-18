@@ -1,0 +1,368 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/25/2015 11:41:29 AM -->
+<GameData>
+
+
+	-<Units>
+
+		-<Row>
+
+			<Type>UNIT_ROLAR</Type>
+
+			<Description>TXT_KEY_UNIT_ROLAR</Description>
+
+			<Civilopedia>TXT_KEY_CIV5_ROLAR_TEXT</Civilopedia>
+
+			<Strategy>TXT_KEY_UNIT_ROLAR_STRATEGY</Strategy>
+
+			<Help>TXT_KEY_UNIT_HELP_ROLAR</Help>
+
+			<Cost>70</Cost>
+
+			<Moves>2</Moves>
+
+			<Class>UNITCLASS_WORKER</Class>
+
+			<Capture>UNITCLASS_WORKER</Capture>
+
+			<Domain>DOMAIN_LAND</Domain>
+
+			<DefaultUnitAI>UNITAI_WORKER</DefaultUnitAI>
+
+			<AdvancedStartCost>20</AdvancedStartCost>
+
+			<WorkRate>100</WorkRate>
+
+			<UnitArtInfo>ART_DEF_UNIT_ROLAR</UnitArtInfo>
+
+			<ShowInPedia>1</ShowInPedia>
+
+			<MoveRate>BIPED</MoveRate>
+
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+
+			<PortraitIndex>2</PortraitIndex>
+
+			<IconAtlas>RTRYPILLIA_ICON_ATLAS</IconAtlas>
+
+			<UnitFlagAtlas>POTTER_ALPHA</UnitFlagAtlas>
+
+			<PrereqTech>TECH_POTTERY</PrereqTech>
+		</Row>
+
+	</Units>
+
+
+	-<Unit_AITypes>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<UnitAIType>UNITAI_WORKER</UnitAIType>
+
+		</Row>
+
+	</Unit_AITypes>
+
+
+	-<Unit_Builds>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_ROAD</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_RAILROAD</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_FARM</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_MINE</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_TRADING_POST</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_LUMBERMILL</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_PASTURE</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_CAMP</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_PLANTATION</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_QUARRY</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_WELL</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_FORT</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_REMOVE_JUNGLE</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_REMOVE_MARSH</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_REMOVE_FOREST</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_SCRUB_FALLOUT</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_REPAIR</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_REMOVE_ROUTE</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_TERRACE_FARM</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_MOAI</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_POLDER</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_BRAZILWOOD_CAMP</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_KASBAH</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_FEITORIA</BuildType>
+
+		</Row>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<BuildType>BUILD_CHATEAU</BuildType>
+
+		</Row>
+
+	</Unit_Builds>
+
+
+
+	-<Unit_Flavors>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+
+			<Flavor>30</Flavor>
+
+		</Row>
+
+	</Unit_Flavors>
+
+
+
+
+	-<UnitGameplay2DScripts>
+
+
+		-<Row>
+
+			<UnitType>UNIT_ROLAR</UnitType>
+
+			<SelectionSound>AS2D_SELECT_WORKER</SelectionSound>
+
+			<FirstSelectionSound>AS2D_SELECT_WORKER</FirstSelectionSound>
+
+		</Row>
+
+	</UnitGameplay2DScripts>
+
+
+	-<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_UNIT_ROLAR">
+
+			<Text>Olar</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_ROLAR_TEXT">
+
+
+			-<Text>Olar is Romanian for Potter, and as you might have guessed the Olar crafts Pottery. A distinct feature of Trypillian culture and technology was its Pottery making skills, artifacts dating from over 6000 years ago have retained their bright colours and quality, and are incredibly numerous. Despite being mostly egalitarian, gender roles existed to an extent. It was a matriarchial society with women heading the household, doing agricultural work as well as crafting Pottery and textiles. Men were commonly hunters, or tended to domestic animals.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_UNIT_ROLAR_STRATEGY">
+
+			<Text>The Olar is a unique replacement for the worker that is unlocked at pottery. Unlike the worker, it grants a small amount of faith [ICON_PEACE] whenever it completes an improvement! The Olar is therefore very useful in getting a strong religion running early in the game. Use it to keep the faith strong through the centuries!</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_UNIT_HELP_ROLAR">
+
+			<Text>Unlocked at Pottery. Improves [ICON_FOOD] Food [ICON_PRODUCTION] Production and [ICON_GOLD] Gold by constructing Improvements on map tiles outside of Cities. Yields [ICON_PEACE] faith from completing actions</Text>
+
+		</Row>
+
+	</Language_en_US>
+  
+</GameData>

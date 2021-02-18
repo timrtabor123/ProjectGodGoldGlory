@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/24/2015 1:56:29 PM -->
+<GameData>
+
+	<Buildings>
+
+		<Row>
+			<Type>BUILDING_RSTINA_1</Type>
+			<BuildingClass>BUILDINGCLASS_WALLS</BuildingClass>
+			<Cost>50</Cost>
+			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+			<Help>TXT_KEY_BUILDING_RSTINA_1_HELP</Help>
+			<Description>TXT_KEY_BUILDING_RSTINA_1</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_RSTINA_1_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_RSTINA_1_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_WALLS</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<AllowsRangeStrike>true</AllowsRangeStrike>
+			<Defense>200</Defense>
+			<ExtraCityHitPoints>20</ExtraCityHitPoints>
+			<CityWall>true</CityWall>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>RTRYPILLIA_ICON_ATLAS</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>3</PortraitIndex>
+			<GoldMaintenance>1</GoldMaintenance>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_RSTINA_2</Type>
+			<BuildingClass>BUILDINGCLASS_RSTINA_2</BuildingClass>
+			<Cost>75</Cost>
+			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+			<Help>TXT_KEY_BUILDING_RSTINA_1_HELP</Help>
+			<Description>TXT_KEY_BUILDING_RSTINA_1</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_RSTINA_1_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_RSTINA_1_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_WALLS</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<AllowsRangeStrike>true</AllowsRangeStrike>
+			<Defense>200</Defense>
+			<ExtraCityHitPoints>20</ExtraCityHitPoints>
+			<CityWall>false</CityWall>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>RTRYPILLIA_ICON_ATLAS</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>3</PortraitIndex>
+			<GoldMaintenance>1</GoldMaintenance>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_RSTINA_3</Type>
+			<BuildingClass>BUILDINGCLASS_RSTINA_3</BuildingClass>
+			<Cost>100</Cost>
+			<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+			<Help>TXT_KEY_BUILDING_RSTINA_1_HELP</Help>
+			<Description>TXT_KEY_BUILDING_RSTINA_1</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_RSTINA_1_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_RSTINA_1_STRATEGY</Strategy>
+			<ArtDefineTag>ART_DEF_BUILDING_WALLS</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<AllowsRangeStrike>true</AllowsRangeStrike>
+			<Defense>200</Defense>
+			<ExtraCityHitPoints>20</ExtraCityHitPoints>
+			<CityWall>false</CityWall>
+			<HurryCostModifier>25</HurryCostModifier>
+			<IconAtlas>RTRYPILLIA_ICON_ATLAS</IconAtlas>
+			<NeverCapture>true</NeverCapture>
+			<PortraitIndex>3</PortraitIndex>
+			<Happiness>1</Happiness>
+			<GoldMaintenance>1</GoldMaintenance>
+		</Row>
+
+		<Row>
+			<Type>BUILDING_NOMNOM_SHRINE</Type>
+			<Description>TXT_KEY_BUILDING_SHRINE</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_SHRINE_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_SHRINE_STRATEGY</Strategy>
+			<Cost>40</Cost>
+			<GoldMaintenance>1</GoldMaintenance>
+			<MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+			<HurryCostModifier>25</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<FoodKept>10</FoodKept>
+			<BuildingClass>BUILDINGCLASS_SHRINE</BuildingClass>
+			<ArtDefineTag>TEMPLE</ArtDefineTag>
+			<FreeStartEra>ERA_MEDIEVAL</FreeStartEra>
+			<MaxStartEra>ERA_RENAISSANCE</MaxStartEra>
+			<PrereqTech>TECH_POTTERY</PrereqTech>
+			<PortraitIndex>9</PortraitIndex>
+			<IconAtlas>EXPANSION_BW_ATLAS_1</IconAtlas>
+		</Row>
+
+	
+		-<Row>
+
+			<Type>BUILDING_RSTINA_3_DUMMY</Type>
+
+			<BuildingClass>BUILDINGCLASS_RSTINA_3</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_RSTINA_2_DUMMY</Type>
+
+			<BuildingClass>BUILDINGCLASS_RSTINA_3</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDING_RFAITH_SETTLER</Type>
+
+			<BuildingClass>BUILDINGCLASS_RFAITH_SETTLER</BuildingClass>
+
+			<Cost>-1</Cost>
+
+			<FaithCost>-1</FaithCost>
+
+			<PrereqTech>NULL</PrereqTech>
+
+			<GreatWorkCount>-1</GreatWorkCount>
+
+			<ArtDefineTag>NONE</ArtDefineTag>
+
+			<MinAreaSize>-1</MinAreaSize>
+
+			<NeverCapture>true</NeverCapture>
+
+			<HurryCostModifier>-1</HurryCostModifier>
+
+			<PortraitIndex>0</PortraitIndex>
+
+			<IconAtlas>CIV_COLOR_ATLAS</IconAtlas>
+
+		</Row>
+
+	</Buildings>
+
+	<BuildingClasses>
+
+		-<Row>
+
+			<Type>BUILDINGCLASS_RFAITH_SETTLER</Type>
+
+			<DefaultBuilding>BUILDING_RFAITH_SETTLER</DefaultBuilding>
+
+			<Description>Production from faith</Description>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDINGCLASS_RSTINA_2</Type>
+
+			<DefaultBuilding>BUILDING_RSTINA_2_DUMMY</DefaultBuilding>
+
+			<Description>2nd Stina</Description>
+
+		</Row>
+
+		-<Row>
+
+			<Type>BUILDINGCLASS_RSTINA_3</Type>
+
+			<DefaultBuilding>BUILDING_RSTINA_3_DUMMY</DefaultBuilding>
+
+			<Description>3rd Stina</Description>
+
+		</Row>
+		
+	</BuildingClasses>
+
+	-<Building_ClassesNeededInCity>
+
+
+		-<Row>
+
+			<BuildingType>BUILDING_RSTINA_2</BuildingType>
+
+			<BuildingClassType>BUILDINGCLASS_WALLS</BuildingClassType>
+
+		</Row>
+
+		-<Row>
+
+			<BuildingType>BUILDING_RSTINA_3</BuildingType>
+
+			<BuildingClassType>BUILDINGCLASS_RSTINA_2</BuildingClassType>
+
+		</Row>
+
+
+	</Building_ClassesNeededInCity>
+
+	<Building_Flavors>
+
+		<Row>
+			<BuildingType>BUILDING_RSTINA_1</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_RSTINA_2</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_RSTINA_3</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_RSTINA_1</BuildingType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_RSTINA_2</BuildingType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_RSTINA_3</BuildingType>
+			<FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_RSTINA_1</BuildingType>
+			<FlavorType>FLAVOR_CITY_RELIGION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_RSTINA_2</BuildingType>
+			<FlavorType>FLAVOR_CITY_RELIGION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_RSTINA_3</BuildingType>
+			<FlavorType>FLAVOR_CITY_RELIGION</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+
+		<Row>
+			<BuildingType>BUILDING_NOMNOM_SHRINE</BuildingType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>40</Flavor>
+		</Row>
+		
+	</Building_Flavors>
+
+	-<Building_YieldChanges>
+
+
+		-<Row>
+
+			<BuildingType>BUILDING_RSTINA_1</BuildingType>
+
+			<YieldType>YIELD_FOOD</YieldType>
+
+			<Yield>1</Yield>
+
+		</Row>
+
+		-<Row>
+
+			<BuildingType>BUILDING_RSTINA_2</BuildingType>
+
+			<YieldType>YIELD_FOOD</YieldType>
+
+			<Yield>1</Yield>
+
+		</Row>
+
+		-<Row>
+
+			<BuildingType>BUILDING_RSTINA_3</BuildingType>
+
+			<YieldType>YIELD_FOOD</YieldType>
+
+			<Yield>1</Yield>
+
+		</Row>
+
+		-<Row>
+
+			<BuildingType>BUILDING_RSTINA_1</BuildingType>
+
+			<YieldType>YIELD_FAITH</YieldType>
+
+			<Yield>1</Yield>
+
+		</Row>
+
+		-<Row>
+
+			<BuildingType>BUILDING_RSTINA_2</BuildingType>
+
+			<YieldType>YIELD_FAITH</YieldType>
+
+			<Yield>1</Yield>
+
+		</Row>
+
+		-<Row>
+
+			<BuildingType>BUILDING_RSTINA_3</BuildingType>
+
+			<YieldType>YIELD_FAITH</YieldType>
+
+			<Yield>1</Yield>
+
+		</Row>
+
+		-<Row>
+
+			<BuildingType>BUILDING_NOMNOM_SHRINE</BuildingType>
+
+			<YieldType>YIELD_FAITH</YieldType>
+
+			<Yield>1</Yield>
+
+		</Row>
+
+
+		-<Row>
+
+			<BuildingType>BUILDING_RFAITH_SETTLER</BuildingType>
+
+			<YieldType>YIELD_PRODUCTION</YieldType>
+
+			<Yield>1</Yield>
+
+		</Row>
+
+
+	</Building_YieldChanges>
+
+	-<Language_en_US>
+
+
+		-<Row Tag="TXT_KEY_BUILDING_RSTINA_1">
+
+			<Text>Stina</Text>
+
+			<Gender>neuter:the</Gender>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_CIV5_BUILDINGS_RSTINA_1_TEXT">
+
+			<Text>At sites such as Maydanets, housing consisted of sometimes decorated wattle and daub huts. These buildings were often raised by a story, featured elaborate decor and doubled up as a defensive structure of sorts in uniform rows. The Trypillians periodically burnt down these buildings every 80 or so years, the leading hypothesis and so why they did this is that the Trypillians were animist, and believed nature was cyclical. It has been proposed that they thought that buildings had souls, and that the periodic building of structures was a physical manifestation of rebirth for the building's soul.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_BUILDING_RSTINA_1_STRATEGY">
+
+			<Text>The Stina is a walls replacement available right from the beginning of the game. Yielding extra [ICON_FOOD], it can support larger populations aswell as fend of early invasions. Vitally, it yields [ICON_PEACE] faith, and is useful for establishing an early pantheon. It's great for expansion too, the faith contributes towards settlers, and your new cities benefit from the defensive and food bonuses the Stina provides! It even yields a little [ICON_HAPPINESS_1] when all 3 have been completed. Don't go crazy with them though, the ascending production and gold cost of the Stina might do your empire more harm than good.</Text>
+
+		</Row>
+
+
+		-<Row Tag="TXT_KEY_BUILDING_RSTINA_1_HELP">
+
+			<Text>Replaces walls, gives less defensive bonuses, but yields +1 [ICON_FOOD] food and +1 [ICON_PEACE] faith. May be built 3 times, with ascending [ICON_PRODUCTION] production  and [ICON_GOLD] maintenance cost. Available at agriculture.</Text>
+
+		</Row>
+
+	</Language_en_US>
+  
+</GameData>

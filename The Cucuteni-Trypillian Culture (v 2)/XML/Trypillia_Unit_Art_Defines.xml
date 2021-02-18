@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/13/2015 7:46:02 PM -->
+<GameData>
+
+
+	-<ArtDefine_UnitInfos>
+
+
+		-<Row>
+
+			<Type>ART_DEF_UNIT_ROLAR</Type>
+
+			<DamageStates>1</DamageStates>
+
+			<Formation>LooseCivilian</Formation>
+
+		</Row>
+
+	</ArtDefine_UnitInfos>
+
+
+	-<ArtDefine_UnitInfoMemberInfos>
+
+
+		-<Row>
+
+			<UnitInfoType>ART_DEF_UNIT_ROLAR</UnitInfoType>
+
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_RWORKER_1</UnitMemberInfoType>
+
+			<NumMembers>4</NumMembers>
+
+		</Row>
+
+		-<Row>
+
+			<UnitInfoType>ART_DEF_UNIT_ROLAR</UnitInfoType>
+
+			<UnitMemberInfoType>ART_DEF_UNIT_MEMBER_RWORKER_2</UnitMemberInfoType>
+
+			<NumMembers>4</NumMembers>
+
+		</Row>
+
+	</ArtDefine_UnitInfoMemberInfos>
+
+
+	-<ArtDefine_UnitMemberInfos>
+
+
+		-<Row>
+
+			<Type>ART_DEF_UNIT_MEMBER_RWORKER_1</Type>
+
+			<Scale>0.140000000596046</Scale>
+
+			<Model>secret_worker_1.fxsxml</Model>
+
+			<MaterialTypeTag>CLOTH</MaterialTypeTag>
+
+			<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+
+		</Row>
+
+
+		-<Row>
+
+			<Type>ART_DEF_UNIT_MEMBER_RWORKER_2</Type>
+
+			<Scale>0.140000000596046</Scale>
+
+			<Model>secret_worker_2.fxsxml</Model>
+
+			<MaterialTypeTag>CLOTH</MaterialTypeTag>
+
+			<MaterialTypeSoundOverrideTag>FLESH</MaterialTypeSoundOverrideTag>
+
+		</Row>
+
+	</ArtDefine_UnitMemberInfos>
+
+
+	-<ArtDefine_UnitMemberCombats>
+
+
+		-<Row>
+
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_RWORKER_1</UnitMemberType>
+
+			<EnableActions>Idle Death BombardDefend Run</EnableActions>
+
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+
+		</Row>
+
+		-<Row>
+
+			<UnitMemberType>ART_DEF_UNIT_MEMBER_RWORKER_2</UnitMemberType>
+
+			<EnableActions>Idle Death BombardDefend Run</EnableActions>
+
+			<HasRefaceAfterCombat>1</HasRefaceAfterCombat>
+
+		</Row>
+
+	</ArtDefine_UnitMemberCombats>
+
+
+	-<ArtDefine_StrategicView>
+
+
+		-<Row>
+
+			<StrategicViewType>ART_DEF_UNIT_ROLAR</StrategicViewType>
+
+			<TileType>Unit</TileType>
+
+			<Asset>PotterAlpha128.dds</Asset>
+
+		</Row>
+
+	</ArtDefine_StrategicView>
+  
+</GameData>

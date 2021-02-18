@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="38913056-1032-40ac-9cd9-cc2e52e845e4" version="1">
+  <Properties>
+    <Name>JFD's Civilizations - Rome (Julius Caesar)</Name>
+    <Teaser>Adds Rome under Julius Caesar as a playable civilization. Click for details.</Teaser>
+    <Description>------------------------------------[NEWLINE]CIVILIZATION: ROME[NEWLINE]LEADER: JULIUS CAESAR[NEWLINE][NEWLINE]TRAIT: DICTATOR PERPETUO[NEWLINE]+25% Combat Bonus vs. Barbarian Units and earn Great General Points from defeating them. Receive [ICON_CULTURE] Culture when a Great General is born.[NEWLINE][NEWLINE]UNIQUE UNIT: PRAETORIA (SWORDSMAN)[NEWLINE]Elite Melee Unit that specializes in working with Great Generals, receiving bonus [ICON_STRENGTH] Combat Strength and earning [ICON_GOLDEN_AGE] Golden Age Points from combat victories when stacked with one. Only Rome under Julius Caesar may train it.[NEWLINE][NEWLINE]UNIQUE UNIT: BALLISTA (CATAPULT)[NEWLINE]Siege Unit that does major damage against units from a distance but not so much to cities. Only Rome under Julius Caesar may train it. This Unit reduces the Combat Strength of nearby enemy units by 10%.[NEWLINE]------------------------------------[NEWLINE]CIVILIZATION: ROME[NEWLINE]LEADER: AUGUSTUS CAESAR[NEWLINE][NEWLINE]TRAIT: BRICK TO MARBLE[NEWLINE]+15% [ICON_PRODUCTION] Production towards any buildings that already exist in the [ICON_CAPITAL] Capital. Buildings present in all cities provide +2 [ICON_GOLDEN_AGE] Golden Age Points.[NEWLINE][NEWLINE]UNIQUE BUILDING: FORUM (MARKET)[NEWLINE]Provides an extra Merchant specialist. +25% [ICON_GREAT_PEOPLE] Great People generation during a [ICON_GOLDEN_AGE] Golden Age.[NEWLINE][NEWLINE]UNIQUE UNIT: MILITES (SWORDSMAN)[NEWLINE]Strong, front-line Land Unit of the Classical Era that replaces the Swordsman for Augustus' Rome. This Unit begins with the March promotion, allowing it to heal each turn even when performing an action. It also earns extra Combat Experience when adjacent to another Milites.[NEWLINE]------------------------------------[NEWLINE]------------------------------------[NEWLINE]When using JFDLC:[NEWLINE]------------------------------------[NEWLINE]------------------------------------[NEWLINE]CIVILIZATION: ROME[NEWLINE]LEADER: JULIUS CAESAR[NEWLINE][NEWLINE]TRAIT: DICTATOR PERPETUO[NEWLINE]+25% Combat Bonus vs. Barbarian Units and earn Great General Points from defeating them. Reduce [ICON_JFD_REFORM] Reform Cooldown when a Great General is born.[NEWLINE]------------------------------------[NEWLINE]CIVILIZATION: ROME[NEWLINE]LEADER: AUGUSTUS CAESAR[NEWLINE][NEWLINE]UNIQUE BUILDING: FORUM (MARKET)[NEWLINE]Provides a Magistrate specialist. +25% [ICON_GREAT_PEOPLE] Great People generation during a [ICON_GREAT_AGE] Great Age.</Description>
+    <Authors>JFD, Leugi, Hypereon, DMS</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Rise to Power" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events and Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="68CAFB000490E10DA446B50A12F8E2E9" import="1">Art/Font Icons/FontIcons_CheckBox_22.dds</File>
+    <File md5="DFD94044A521926701E1F822B88A57AF" import="1">Art/Font Icons/FontIcons_CheckBox_22.ggxml</File>
+    <File md5="53F7558A4E62422918B4A555AE3C1656" import="1">Art/Font Icons/FontIcons_UncheckBox_22.dds</File>
+    <File md5="E8510719093B198D9628B4BE0D9DB708" import="1">Art/Font Icons/FontIcons_UncheckBox_22.ggxml</File>
+    <File md5="82267F11204EDE7B9AF3E61C42141893" import="1">Art/Font Icons/JFD_RomeJuliusFontIcons_22.dds</File>
+    <File md5="39D59C0BBD714748FEADB445C38AB1A4" import="1">Art/Font Icons/JFD_RomeJuliusFontIcons_22.ggxml</File>
+    <File md5="C7806E54AB9316F93504E25EAA6F01F5" import="1">Art/Graphics/Praetorian Guard/Longswordsman_Rome.dds</File>
+    <File md5="8FC2E266780E9A818A2B609DA125E5E6" import="1">Art/Graphics/Praetorian Guard/Longswordsman_Rome.fxsxml</File>
+    <File md5="C4E21D6D6994D5CAE1587792D43B3F4A" import="1">Art/Graphics/Praetorian Guard/Longswordsman_Rome.gr2</File>
+    <File md5="74A1C9F84EC6D63E1CEEEF18DA68C0C7" import="1">Art/Graphics/Praetorian Guard/Longswordsman_Rome_gloss.dds</File>
+    <File md5="A754AB228079C81A261990E6254C363E" import="1">Art/Graphics/Praetorian Guard/sv_Praetorian.dds</File>
+    <File md5="148B118A6314171FEB130234AF20220A" import="1">Art/Icon Atlas/JFD_RomeJulius_AlphaAtlas_128.dds</File>
+    <File md5="7188A29688134D85F42ABE8B5532A4F5" import="1">Art/Icon Atlas/JFD_RomeJulius_AlphaAtlas_16.dds</File>
+    <File md5="574532B9F8C92CD5A5D4427DEC93C793" import="0">Art/Icon Atlas/JFD_RomeJulius_AlphaAtlas_22.dds</File>
+    <File md5="505398174D800FD86275599BD0E18ED0" import="1">Art/Icon Atlas/JFD_RomeJulius_AlphaAtlas_24.dds</File>
+    <File md5="CE391A032A68262535BBA22C2F8659E4" import="1">Art/Icon Atlas/JFD_RomeJulius_AlphaAtlas_32.dds</File>
+    <File md5="31573C9FCBDABA607425668A9B7F5F1E" import="1">Art/Icon Atlas/JFD_RomeJulius_AlphaAtlas_45.dds</File>
+    <File md5="76C7189CFDD747F5EDC0731ECE40779A" import="1">Art/Icon Atlas/JFD_RomeJulius_AlphaAtlas_48.dds</File>
+    <File md5="820E50EFA7ABA0DC77BC70DF25C7D9B1" import="1">Art/Icon Atlas/JFD_RomeJulius_AlphaAtlas_64.dds</File>
+    <File md5="4DB7A26B1E2F3854BD8C895B1B12CD9B" import="1">Art/Icon Atlas/JFD_RomeJulius_AlphaAtlas_80.dds</File>
+    <File md5="2E259486117CDC63F17F3190372953B1" import="1">Art/Icon Atlas/JFD_RomeJulius_IconAtlas_128.dds</File>
+    <File md5="5F0F7DDAD8540C2D206A759E37E66F5D" import="1">Art/Icon Atlas/JFD_RomeJulius_IconAtlas_256.dds</File>
+    <File md5="4756E1B7BE0E9D963E511CFF10146488" import="1">Art/Icon Atlas/JFD_RomeJulius_IconAtlas_32.dds</File>
+    <File md5="B5084EBDF387D3342BC8538363F2F4F1" import="1">Art/Icon Atlas/JFD_RomeJulius_IconAtlas_45.dds</File>
+    <File md5="FE27F86F41596F94C3FD252E016036A0" import="1">Art/Icon Atlas/JFD_RomeJulius_IconAtlas_64.dds</File>
+    <File md5="6FA1BABF00A55F65BD9499BC30FBB16A" import="1">Art/Icon Atlas/JFD_RomeJulius_IconAtlas_80.dds</File>
+    <File md5="B01554504D52CE96BB97A1041BC36FFD" import="1">Art/Icon Atlas/JFD_RomeJulius_UnitFlagAtlas_32.dds</File>
+    <File md5="21CDCEED7D81983A502F1C20ED00BC57" import="1">Art/Icon Atlas/Tomatekh_PromotionAtlas_256.dds</File>
+    <File md5="4515CFD32CBCA5FD9B31BA7E74BDF85D" import="1">Art/Icon Atlas/Tomatekh_PromotionAtlas_32.dds</File>
+    <File md5="2D64910169FF17FBFD6D2CFAAAADE518" import="1">Art/Icon Atlas/Tomatekh_PromotionAtlas_45.dds</File>
+    <File md5="D2E665F6B269588CF10F19FE789271C9" import="1">Art/Icon Atlas/Tomatekh_PromotionAtlas_64.dds</File>
+    <File md5="5C37232A655BEA38D891FA260E53646B" import="1">Art/Images/JFD_DOM_RomeJulius.dds</File>
+    <File md5="39FCEE19BD3BBBE5996689F16B545963" import="1">Art/Images/JFD_MapRomeJulius512.dds</File>
+    <File md5="5A96858A18E545D016C4F4E3C264BD47" import="1">Art/Leaderscene/JFD_Julius_Diplo.dds</File>
+    <File md5="23855E0CA99870A98C8970489F934575" import="1">Art/Leaderscene/JFD_Julius_Scene.xml</File>
+    <File md5="E7B05F5FDCD2767AF21D91C43723D3A7" import="1">Audio/Themes/JFD_Julius_Peace.mp3</File>
+    <File md5="66CE114FD27E580266B674281DD25BE4" import="1">Audio/Themes/JFD_Julius_War.mp3</File>
+    <File md5="F6880435D93F3DD54F3029ACAD46C975" import="0">Core/JFD_RomeAugustus_ArtDefines.sql</File>
+    <File md5="AB0022974ED9C5D70D95B65788693FFF" import="0">Core/JFD_RomeAugustus_GameDefines.sql</File>
+    <File md5="B4D709E723CC498C889D14F60C8888CA" import="0">Core/JFD_RomeAugustus_GameText.xml</File>
+    <File md5="A83AE84EF6DCB4D6C4D17903256B1E0A" import="0">Core/JFD_RomeAugustus_ModSupport.sql</File>
+    <File md5="9B93B3B2E5BF5197838B00E998B189E4" import="0">Core/JFD_RomeJulius_ArtDefines.sql</File>
+    <File md5="B0A823441ED5F483C41058EBB1AA9815" import="0">Core/JFD_RomeJulius_GameDefines.sql</File>
+    <File md5="B697348A03A20E82C0866978E7688E4A" import="0">Core/JFD_RomeJulius_GameText.xml</File>
+    <File md5="586AA4E965FF9D3653F4EB5B73B83C11" import="0">Core/JFD_RomeJulius_ModSupport.sql</File>
+    <File md5="B0FB3A08CD970B044A4AC47529D6AE67" import="0">Credits.txt</File>
+    <File md5="BEA95BEE8A8E49A3A5633D8857E34F97" import="0">JFD_UserSettings.sql</File>
+    <File md5="8D29BF634604E3E4CAD7EC54839CAA9A" import="0">Lua/JFD_Civs_RomeAugustus_Functions.lua</File>
+    <File md5="D1C224B301ADF8531CF97D3D71599E15" import="1">Lua/JFD_Civs_RomeJulius_Decisions.lua</File>
+    <File md5="1522599BEACEC7BCD8071D8BD4A29AFB" import="0">Lua/JFD_Civs_RomeJulius_Functions.lua</File>
+    <File md5="F17154982141D271B74B7A037292CF27" import="1">Lua/JFD_Civs_RomeAugustus_Decisions.lua</File>
+    <File md5="8F5FC1C6AA7CCBE2ACC642A741197965" import="1">Lua/Utilities/JFD DTP/JFD_RomeAugustus_DTP.lua</File>
+    <File md5="7BD2FBE46D0E789BDFF45CAC065DB4E4" import="1">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="A4759D7B62448C31C908D01635EC0FB7" import="1">Lua/Utilities/UniqueDiplomacyUtilsV2.lua</File>
+    <File md5="CB9BD69F5CACB6657550F9F8E7C8FDFD" import="0">RandomSupport.txt</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>JFD_UserSettings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_RomeJulius_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_RomeJulius_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_RomeJulius_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_RomeJulius_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_RomeAugustus_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_RomeAugustus_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_RomeAugustus_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/JFD_RomeAugustus_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Civs_RomeJulius_Functions.lua">
+      <Name>JFD_Civs_RomeJulius_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Civs_RomeAugustus_Functions.lua">
+      <Name>JFD_Civs_RomeAugustus_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

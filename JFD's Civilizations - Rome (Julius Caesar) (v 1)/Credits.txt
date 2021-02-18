@@ -1,0 +1,58 @@
+-- Credits
+-- Author: JFD
+-- DateCreated: 1/6/2018 1:43:31 PM
+----------------
+JFD: 
+----------------
+	Art (Julius Caesar Leader Icon)
+	Author
+	Coding 
+	Design 
+	Research 
+	Writing
+----------------
+Andreas Waldeloft: 
+----------------
+	Music (Peace Theme: Europa Universalis: Rome Soundtrack - Imperator; War Theme: Europa Universalis: Rome Soundtrack - Legions of Rome)
+	https://www.youtube.com/watch?v=Y3KlpFBIb00
+	https://www.youtube.com/watch?v=IR5N0-DqZoU
+----------------
+Civilization Wikia: 
+----------------
+	Pedias (Julius Caesar; Praetorian Guard)
+	http://civilization.wikia.com/wiki/Julius_Caesar_(Civ4)
+	http://civilization.wikia.com/wiki/Praetorian_(Civ4)
+----------------
+Danrell: 
+----------------
+	Graphics (Praetorian Guard Unit Model)
+	https://forums.civfanatics.com/resources/civ5-ancient-unit-pack-01-rome.19536/
+----------------
+DMS: 
+----------------
+	Art (Praetorian Guard Unit Icon)
+----------------
+Encyclopedia Britannica: 
+----------------
+	Pedias (Forum)
+	https://www.britannica.com/topic/forum-ancient-Rome
+----------------
+Hypereon: 
+----------------
+	Art (Julius Caesar Map, Julius Caesar Leaderscene Background, Forum Building Icon)
+----------------
+Leugi: 
+----------------
+	Art (Julius Caesar Leaderscene)
+----------------
+Typhlomence:
+----------------
+	Utilities (UniqueDiplomacyUtils.lua)
+	https://forums.civfanatics.com/threads/uniquediplomacyutils-a-set-of-lua-functions-to-enable-unique-diplomacy-responses.550294/
+----------------
+Whoward:
+----------------
+	Utilities (PlotIterators.lua)
+	https://forums.civfanatics.com/threads/border-and-area-plot-iterators.474634/
+--------------------------------------------------------------
+--------------------------------------------------------------

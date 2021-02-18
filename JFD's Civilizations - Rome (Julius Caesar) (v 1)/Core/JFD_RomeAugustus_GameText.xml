@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/4/2014 8:45:16 AM -->
+<GameData>
+	<Language_en_US>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_ROME_AUGUSTUS_DESCRIPTION">
+			<Text>------------------------------------[NEWLINE]CIVILIZATION: ROME[NEWLINE]LEADER: AUGUSTUS CAESAR[NEWLINE][NEWLINE]TRAIT: BRICK TO MARBLE[NEWLINE]+15% [ICON_PRODUCTION] Production towards any buildings that already exist in the [ICON_CAPITAL] Capital. Buildings present in all cities provide +2 [ICON_GOLDEN_AGE] Golden Age Points.[NEWLINE][NEWLINE]UNIQUE BUILDING: FORUM (MARKET)[NEWLINE]Provides an extra Merchant specialist. +25% [ICON_GREAT_PEOPLE] Great People generation during a [ICON_GOLDEN_AGE] Golden Age.[NEWLINE][NEWLINE]UNIQUE UNIT: MILITES (SWORDSMAN)[NEWLINE]Strong, front-line Land Unit of the Classical Era that replaces the Swordsman for Augustus' Rome. This Unit begins with the March promotion, allowing it to heal each turn even when performing an action. It also earns extra Combat Experience when adjacent to another Milites.[NEWLINE]------------------------------------[NEWLINE]------------------------------------[NEWLINE]When using JFDLC:[NEWLINE]------------------------------------[NEWLINE]------------------------------------[NEWLINE]CIVILIZATION: ROME[NEWLINE]LEADER: AUGUSTUS CAESAR[NEWLINE][NEWLINE]UNIQUE BUILDING: FORUM (MARKET)[NEWLINE]Provides a Magistrate specialist. +25% [ICON_GREAT_PEOPLE] Great People generation during a [ICON_GREAT_AGE] Great Age.</Text>
+		</Row>
+		<!--BRICK TO MARBLE-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_ROME_AUGUSTUS_SHORT">
+			<Text>Brick to Marble</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_ROME_AUGUSTUS">
+			<Text>+15% [ICON_PRODUCTION] Production towards any buildings that already exist in the [ICON_CAPITAL] Capital. Buildings present in all cities provide +2 [ICON_GOLDEN_AGE] Golden Age Points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_ROME_AUGUSTUS_PRESTIGE">
+			<Text>+15% [ICON_PRODUCTION] Production towards any buildings that already exist in the [ICON_CAPITAL] Capital. Buildings present in all cities provide +2 [ICON_GOLDEN_AGE] Prestige.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_ROME_AUGUSTUS_GAP_FROM_BUILDINGS">
+			<Text>{1_Num} is added per turn from Buildings present in all cities.</Text>
+		</Row>
+		<!--FORUM-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_FORUM">
+			<Text>Forum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_FORUM_HELP">
+			<Text>Provides an extra Merchant specialist.[NEWLINE][NEWLINE]+25% [ICON_GREAT_PEOPLE] Great People generation during a [ICON_GOLDEN_AGE] Golden Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_FORUM_HELP_CLAIMS">
+			<Text>Provides a Magistrate specialist.[NEWLINE][NEWLINE]+25% [ICON_GREAT_PEOPLE] Great People generation during a [ICON_GOLDEN_AGE] Golden Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_FORUM_HELP_PRESTIGE">
+			<Text>Provides an extra Merchant specialist.[NEWLINE][NEWLINE]+25% [ICON_GREAT_PEOPLE] Great People generation during a [ICON_GREAT_AGE] Great Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_FORUM_HELP_CLAIMS_PRESTIGE">
+			<Text>Provides a Magistrate specialist.[NEWLINE][NEWLINE]+25% [ICON_GREAT_PEOPLE] Great People generation during a [ICON_GREAT_AGE] Great Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_FORUM_STRATEGY">
+			<Text>The unique Forum increases the amount of [ICON_GOLD] Gold and [ICON_GREAT_PEOPLE] Great People a city generates. In addition to the standard abilities of the Market, the Forum provides an additional Merchant specialist slot. It also increases the generation of Great People during a [ICON_GOLDEN_AGE] Golden Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_FORUM_STRATEGY_CLAIMS">
+			<Text>The unique Forum increases the amount of [ICON_GOLD] Gold and [ICON_GREAT_PEOPLE] Great People a city generates. In addition to the standard abilities of the Market, the Forum provides a Magistrate specialist slot. It also increases the generation of Great People during a [ICON_GOLDEN_AGE] Golden Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_FORUM_STRATEGY_PRESTIGE">
+			<Text>The unique Forum increases the amount of [ICON_GOLD] Gold and [ICON_GREAT_PEOPLE] Great People a city generates. In addition to the standard abilities of the Market, the Forum provides an additional Merchant specialist slot. It also increases the generation of Great People during a [ICON_GREAT_AGE] Great Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_FORUM_STRATEGY_CLAIMS_PRESTIGE">
+			<Text>The unique Forum increases the amount of [ICON_GOLD] Gold and [ICON_GREAT_PEOPLE] Great People a city generates. In addition to the standard abilities of the Market, the Forum provides a Magistrate specialist slot. It also increases the generation of Great People during a [ICON_GREAT_AGE] Great Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_FORUM_TEXT">
+			<Text>A forum, in Roman cities in antiquity, was a multipurpose, centrally located open area that was surrounded by public buildings and colonnades and that served as a public gathering place. It was an orderly spatial adaptation of the Greek agora, or marketplace, and acropolis.</Text>
+		</Row>
+		<!--JFD: Forum-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_FORUM_GREAT_PEOPLE">
+			<Text>JFD: Forum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_FORUM_GREAT_PEOPLE_HELP">
+			<Text>+25% [ICON_GREAT_PEOPLE] Great People generation.</Text>
+		</Row>
+		<!--MILITES-->
+		<Row Tag="TXT_KEY_UNIT_JFD_MILITES">
+			<Text>Milites</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_MILITES">
+			<Text>Strong, front-line Land Unit of the Classical Era that replaces the Swordsman for Augustus' Rome. This Unit begins with the March promotion, allowing it to heal each turn even when performing an action. It also earns extra Combat Experience when adjacent to another Milites.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_MILITES_STRATEGY">
+			<Text>The Milites are the unique unit for Augustus' Rome, replacing the Swordsman. The Milites begin with the March promotion, making it one of the more resilient units of the Classical Era. The Milites can also construct roads and forts. When beginning its turn adjacent to another Milites unit, it also earns +20% Combat Experience.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_MILITES_TEXT">
+			<Text>Milites were the trained regular footsoldiers of ancient Rome. These men were the non-specialist regular soldiers that made up the bulk of a Legion's numbers. Alongside soldiering, they also performed guard duties, labour work, building and other non-combat roles. Milites would usually have to serve for several years before becoming eligible for training to become immunes and thus become specialists with better pay.</Text>
+		</Row>
+		<!--Exercitus Romanus-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LEGION">
+			<Text>Exercitus Romanus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LEGION_ACTIVE">
+			<Text>Exercitus Romanus (Active)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LEGION_ACTIVE_HELP">
+			<Text>+20% Combat Experience [COLOR_CYAN]if beginning its turn adjacent to another Legion Unit[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LEGION_INACTIVE">
+			<Text>Exercitus Romanus (Inactive)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_LEGION_INACTIVE_HELP">
+			<Text>+20% Combat Experience [COLOR_CYAN]if beginning its turn adjacent to another Legion Unit[ENDCOLOR].</Text>
+		</Row>
+		<!--Cultivate Roman Wines-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ROME_AUGUSTUS_WINE">
+			<Text>Cultivate Roman Wines</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ROME_AUGUSTUS_WINE_DESC">
+			<Text>Roman viticulture is an unmatched and democratic art. To ensure all the peoples of the world know no finer wine than Roman, it must be cultivated on a regular basis.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE]{1_Icon}Must have at least 1 local [ICON_RES_WINE] Wine.
+				[NEWLINE]{2_Icon}Must have researched Calendar.
+				[NEWLINE][ICON_UNCHECKBOX]May only be enacted once per era.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{3_Num} [ICON_GOLD] Gold.
+				[NEWLINE][ICON_BULLET]2 {4_ResourceDesc}.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Receive 1 [ICON_RES_JFD_ROMAN_WINE] Roman Wine for each local source of [ICON_RES_WINE] Wine you have.
+				[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note: The [ICON_GOLD] Culture cost increases with each local source of [ICON_RES_WINE] Wine you have.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ROME_AUGUSTUS_WINE_ENACTED_DESC">
+			<Text>Roman viticulture is an unmatched and democratic art. To ensure all the peoples of the world know no finer wine than Roman, it must be cultivated on a regular basis.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Receive 1 source of [ICON_RES_JFD_ROMAN_WINE] Roman Wine for each source of [ICON_RES_WINE] Wine you have.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_ROME_AUGUSTUS_WINE">
+			<Text>{1_LeaderDesc} of {2_CivDesc} has cultivated new Roman wines.</Text>
+		</Row>
+		<!--Roman Wine-->
+		<Row Tag="TXT_KEY_RESOURCE_DECISIONS_JFD_ROMAN_WINE">
+			<Text>Roman Wine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_DECISIONS_JFD_ROMAN_WINE_HELP">
+			<Text>Roman Wine are only available by enacting the 'Cultivate Roman Wines' decision.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_DECISIONS_JFD_ROMAN_WINE_TEXT">
+			<Text>Ancient Rome played a pivotal role in the history of wine. The Roman belief that wine was a daily necessity made the drink "democratic" and ubiquitous; in various forms, it was available to slaves, peasants, women and aristocrats alike. To ensure the steady supply of wine to Roman soldiers and colonists, viticulture and wine production spread to every part of the empire. The economic opportunities presented by trading in wine drew merchants to do business with tribes native to Gaul and Germania, bringing Roman influences to these regions even before the arrival of the Roman military.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

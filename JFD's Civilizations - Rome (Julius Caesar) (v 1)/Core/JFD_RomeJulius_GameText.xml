@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/4/2014 8:45:16 AM -->
+<GameData>
+	<Language_en_US>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_ROME_JULIUS_DESCRIPTION">
+			<Text>------------------------------------[NEWLINE]CIVILIZATION: ROME[NEWLINE]LEADER: JULIUS CAESAR[NEWLINE][NEWLINE]TRAIT: DICTATOR PERPETUO[NEWLINE]+25% Combat Bonus vs. Barbarian Units and earn Great General Points from defeating them. Receive [ICON_CULTURE] Culture when a Great General is born.[NEWLINE][NEWLINE]UNIQUE UNIT: PRAETORIA (SWORDSMAN)[NEWLINE]Elite Melee Unit that specializes in working with Great Generals, receiving bonus [ICON_STRENGTH] Combat Strength and earning [ICON_GOLDEN_AGE] Golden Age Points from combat victories when stacked with one. Only Rome under Julius Caesar may train it.[NEWLINE][NEWLINE]UNIQUE UNIT: BALLISTA (CATAPULT)[NEWLINE]Siege Unit that does major damage against units from a distance but not so much to cities. Only Rome under Julius Caesar may train it. This Unit reduces the Combat Strength of nearby enemy units by 10%.[NEWLINE]------------------------------------[NEWLINE]CIVILIZATION: ROME[NEWLINE]LEADER: AUGUSTUS CAESAR[NEWLINE][NEWLINE]TRAIT: BRICK TO MARBLE[NEWLINE]+15% [ICON_PRODUCTION] Production towards any buildings that already exist in the [ICON_CAPITAL] Capital. Buildings present in all cities provide +2 [ICON_GOLDEN_AGE] Golden Age Points.[NEWLINE][NEWLINE]UNIQUE BUILDING: FORUM (MARKET)[NEWLINE]Provides an extra Merchant specialist. +25% [ICON_GREAT_PEOPLE] Great People generation during a [ICON_GOLDEN_AGE] Golden Age.[NEWLINE][NEWLINE]UNIQUE UNIT: MILITES (SWORDSMAN)[NEWLINE]Strong, front-line Land Unit of the Classical Era that replaces the Swordsman for Augustus' Rome. This Unit begins with the March promotion, allowing it to heal each turn even when performing an action. It also earns extra Combat Experience when adjacent to another Milites.[NEWLINE]------------------------------------[NEWLINE]------------------------------------[NEWLINE]When using JFDLC:[NEWLINE]------------------------------------[NEWLINE]------------------------------------[NEWLINE]CIVILIZATION: ROME[NEWLINE]LEADER: JULIUS CAESAR[NEWLINE][NEWLINE]TRAIT: DICTATOR PERPETUO[NEWLINE]+25% Combat Bonus vs. Barbarian Units and earn Great General Points from defeating them. Reduce [ICON_JFD_REFORM] Reform Cooldown when a Great General is born.[NEWLINE]------------------------------------[NEWLINE]CIVILIZATION: ROME[NEWLINE]LEADER: AUGUSTUS CAESAR[NEWLINE][NEWLINE]UNIQUE BUILDING: FORUM (MARKET)[NEWLINE]Provides a Magistrate specialist. +25% [ICON_GREAT_PEOPLE] Great People generation during a [ICON_GREAT_AGE] Great Age.</Text>
+		</Row>
+		<!--JULIUS-->
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS">
+			<Text>Julius Caesar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_JULIUS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_JULIUS_TEXT_1">
+			<Text>Gaius Julius Caesar was born - according to legend by Caesarean section - to a noble family. His father was a praetor, a mid-level functionary in the Republic. His family was respected, but not especially rich or influential. His father died while Caesar was still a teenager. At 19, Caesar married Cornelia, daughter of a prominent member of the popular political faction. The dictator of Rome at the time was Sulla, who belonged to the rival Optimate (pro-aristocrat) faction. He ordered Caesar to divorce Cornelia, and when he refused, Sulla ordered him to be executed. Caesar went into hiding until his influential friends got him a pardon.[NEWLINE][NEWLINE]During his early manhood, Caesar had a varied career. He served on the staff of a military officer, where he was awarded oak leaves for saving a man's life in battle. He was sent on an embassy to Bithynia, where he persuaded the king to provide Rome with a fleet of ships. He worked as an orator/lawyer in the courts of Rome, where he honed his skills as a public speaker.[NEWLINE][NEWLINE]During a trip to Greece, Caesar was captured by pirates and held for ransom. When the pirates told him that they planned to ask for 20 talents for his release, he indignantly insisted that he was worth 50 talents at least. He maintained friendly relations with his captors, at one point jokingly informing them that upon his release he intended to hunt them down and crucify them. Imagine their surprise when, after they released him, he did just that. The pirates had treated Caesar well during his captivity, however, so he mercifully slit their throats before nailing them to the crosses.[NEWLINE][NEWLINE]Caesar began his climb to power. He was elected to the Senate, where he gave his support to Gnaeus Pompeius (Pompey the Great), who with Caesar's help was given command of the war against King Mithridates. He spoke at funerals, including the one of his wife, Cornelia, dazzling the crowds with his oratory skill and personal magnetism. He married the granddaughter of his old enemy, Sulla. He later divorced her because of rumors that she had had an affair, saying famously, "The wife of Caesar must be above suspicion." He spent lavishly on games to win popular support.[NEWLINE][NEWLINE]In 60 BC, at the age of 40, Caesar entered into an alliance with Pompey and Crassus, two very important and influential men of Rome. He agreed to support their aims if they, in turn, would help him get elected to the consulship of Rome (at the time, Rome was ruled by two consuls, each elected for one-year terms). Upon being elected, Caesar pushed through measures that helped the other two men achieve their goals. At the end of his term, he strong-armed the Assembly into giving him a five-year term as the powerful proconsul of Gaul, and thus leader of a large portion of Rome's best troops.[NEWLINE][NEWLINE]Caesar was to remain in the field of battle for the next nine years. During that time he conquered most of what is now Central Europe, adding "great general" to his already formidable reputation. During his absence, however, Crassus died in battle against the Parthians, and Pompey took sole control of Rome. Worse, Pompey was siding with Caesar's enemies, the Optimates. When Caesar was informed that the Optimates intended to prosecute him for his illegal actions in forcing the Assembly to give him the Gaul proconsul, he broke relations with Pompey.[NEWLINE][NEWLINE]Having earned his legions firm loyalty and support, in 49 BC Caesar led them "across the Rubicon" and to Rome. Most of Pompey's legions at the time were in Spain, so he and the Senate abandoned the city to Caesar's legions. In a lightning campaign, Caesar destroyed Pompey's Spanish troops before his enemy could consolidate his forces, and Pompey retreated to Greece, where there remained forces still loyal to him. Caesar pursued as quickly as possible.[NEWLINE][NEWLINE]Caesar's sea transportation was limited, and he could only support about 20,000 troops in Greece. He left behind his trusted lieutenant Marc Antony, ordering Antony to rectify the supply situation and get him more troops as soon as possible. Knowing, however, that Pompey was using every moment's delay to gather allies and increase his forces, Caesar couldn't wait; at the head of his now 21,000-strong army he marched to battle.[NEWLINE][NEWLINE]The two armies met on the plains of Pharasulus, with Pompey's army outnumbering Caesar's by more than two-to-one. Despite the odds, Caesar was victorious, his brilliant generalship making up for his disadvantage in numbers. Pompey fled the field, and shortly thereafter was betrayed and murdered by the Egyptians. Now undisputed ruler of Rome, Caesar went to Egypt, where he set his lover Cleopatra upon the throne after a short but bitter fight.[NEWLINE][NEWLINE]Back in Rome, Caesar began an extensive program of reforms. He began to resolve the Roman debt problem; he settled his veterans abroad, giving them the land they craved but not dispossessing others (other Romans, that is). He reformed the Roman calendar, regulated public assistance and strengthened the middle class. His actions greatly improved life for the average citizen, but angered the aristocracy, the remnants of the Optimate party.[NEWLINE][NEWLINE]In February of 44 BC, the puppet Senate voted Caesar "dictator perpetuus," or dictator for life. For the first time he began wearing purple garb, a color associated at that time with kings and emperors. Further, he allowed his statues to be adorned like the statues of the gods. On March 15, Caesar was murdered, stabbed at least 23 times by a coalition of aristocrats and senators.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_JULIUS_LIVED">
+			<Text>1884 - 1948</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_JULIUS_NAME">
+			<Text>Gauis Julius Caesar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_JULIUS_SUBTITLE">
+			<Text>Leader of Rome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_JULIUS_TITLES_1">
+			<Text>Dictator of Rome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ROME_JULIUS_DAWN">
+			<Text>O' Gaius Julius Caesar, consul and dictator of Rome! Who amongst your foes could rival your prowess and fame? Having conquered Gaul and secured the loyalty of your soldiers, you would soon become the undisputed ruler of Rome; facing down your rival Pompey the Great and installing your lover Cleopatra upon the throne of Egypt. But at peace you were as comfortable as at war; taking the the title of Dictator in Perpetuity, you would set out to resolve Rome's debts and to reform her society. Yet jealous friends still dwelt amongst your ranks, and your death would ultimately come at the hands of those you trusted.[NEWLINE][NEWLINE]Vanquisher of Vercingetorix, conqueror of Cleopatra; O' great Caesar, cry havoc and let slip the dogs of war! Can you bring your enemies to their kness? Can you lead Rome on the path to rule and reform over the earth? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_FIRSTGREETING_1">
+			<Text>Hail. I am Gaius Julius Caesar, dictator of Rome and commander of her legions. What business do you have with me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_AUGUSTUS_FIRSTGREETING_1">
+			<Text>Salve, Octavian. Do you have business with me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_CLEOPATRA_FIRSTGREETING_1">
+			<Text>Salve, my beauty. What brings you all this way?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_POMPEY_FIRSTGREETING_1">
+			<Text>Hail Pompey. What news?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_DEFEATED_1">
+			<Text>So the die falls in your favour.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_AUGUSTUS_DEFEATED_1">
+			<Text>You do me proud, Octavian. Know that I would trust no other with the task ahead.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_CLEOPATRA_DEFEATED_1">
+			<Text>So tell me. Was it the age difference?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_POMPEY_DEFEATED_1">
+			<Text>I can only pray that you do Rome no dishonour, Pompey.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_ATTACKED_GENERIC_1">
+			<Text>Then we will go to battle then. I look forward to meeting you on the field.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_DEC_FRIENDSHIP_1">
+			<Text>The honour between us can only be shown in a public declaration of friendship. What do you say?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_DENOUNCE_1">
+			<Text>You are no better than one of the barbarian savages that I have had the pleasure to conquer.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_DOW_GENERIC_1">
+			<Text>You cannot resist the might of Rome. Surrender quickly, and to her service.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_DOW_LAND_1">
+			<Text>Face your fate with honour. The victor over your lands will be who is strongest.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_DOW_WORLD_CONQUEST_1">
+			<Text>All the earth will come under Roman rule if I should have anything to do with it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_EXPANSION_SERIOUS_WARNING_1">
+			<Text>You tread into Roman lands. You will be repelled one way or another.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_GREETING_AT_WAR_HOSTILE_1">
+			<Text>Do you come with your terms of surrender? I will hear it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_GREETING_POLITE_HELLO_1">
+			<Text>Salve, and hail.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_GREETING_NEUTRAL_HELLO_1">
+			<Text>Hail.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_GREETING_HOSTILE_HELLO_1">
+			<Text>I will listen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Do you consider yourself able to challenge Rome? Very well, I await you to make the first move.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now joining your legions and having orgies every calends! I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_INFLUENTIAL_ON_HUMAN_1">
+			<Text>We are glad to see that your people are now joining our legions and having orgies every calends. The amazing works of our civilization are truly inspiring!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_INSULT_GENERIC_1">
+			<Text>You know no honour.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_INSULT_MILITARY_1">
+			<Text>Your undisciplined men will be your undoing. Rome cannot offer anything but servitude to them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_LETS_HEAR_IT_1">
+			<Text>Speak then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_LOSEWAR_1">
+			<Text>The die is cast, and I am facing defeat. I am willing to listen to your terms for surrender, if you have them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_LUXURY_TRADE_1">
+			<Text>Rome envies your great riches.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_NO_PEACE_1">
+			<Text>Any peace now would only be temporary. No, Rome, and I with her, goes on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_OPEN_BORDERS_EXCHANGE">
+			<Text>The free movement of peoples is one of the great privileges afforded by Rome. Perhaps you would consider sharing in this privilege?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_REPEAT_NO_1">
+			<Text>It cannot be so.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_RESPONSE_REQUEST_1">
+			<Text>Rome and her people with it are in dire need. We come to you, our friend, for aide.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>This does not come as a surprise. The uncivilized peoples of the world know neither peace nor war with honour.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_TOO_SOON_NO_PEACE_1">
+			<Text>To end this war now would be to condemn our peoples to dishonour.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_JULIUS_WINWAR_1">
+			<Text>The die is cast, and my victory is at hand. Do you come with terms of surrender?</Text>
+		</Row>
+		<!--DICTATOR PERPETUO-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_ROME_JULIUS_SHORT">
+			<Text>Dictator Perpetuo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_ROME_JULIUS">
+			<Text>+25% Combat Bonus vs. Barbarian Units and earn Great General Points from defeating them. Receive [ICON_CULTURE] Culture when a Great General is born.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_ROME_JULIUS_SOVEREIGNTY">
+			<Text>+25% Combat Bonus vs. Barbarian Units and earn Great General Points from defeating them. Reduce [ICON_JFD_REFORM] Reform Cooldown when a Great General is born.</Text>
+		</Row>
+		<!--Dictator Perpetuo-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DICTATOR_PERPETUO">
+			<Text>Dictator Perpetuo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_DICTATOR_PERPETUO_HELP">
+			<Text>This unit has provided [ICON_CULTURE] Culture from its spawning.</Text>
+		</Row>
+		<!--BALLISTA-->
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_BALLISTA">
+			<Text>Siege Unit that does major damage against units from a distance but not so much to cities. Only Rome under Julius Caesar may train it. This Unit reduces the [ICON_STRENGTH] Combat Strength of adjacent enemy units by 10%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_BALLISTA_STRATEGY">
+			<Text>A Roman unique unit for Julius Caesar, weaker than the Catapult against cities, but more effective against units. It instills fear into enemy units that get too close to it, reducing their Combat Strength by 10%. The Ballista must first "set up" (1 MP) before attacking.</Text>
+		</Row>
+		<!--Feared Machine-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BALLISTA">
+			<Text>Feared Machine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_BALLISTA_HELP">
+			<Text>+25% [ICON_STRENGTH] Combat Strength vs. Land Units. Enemy units receive -10% [ICON_STRENGTH] Combat Strength when adjacent to any unit with this promotion.</Text>
+		</Row>
+		<!--PRAETORIAN-->
+		<Row Tag="TXT_KEY_UNIT_JFD_PRAETORIAN">
+			<Text>Praetorian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_PRAETORIAN">
+			<Text>Elite Melee Unit that specializes in working with Great Generals, receiving bonus [ICON_STRENGTH] Combat Strength and earning [ICON_GOLDEN_AGE] Golden Age Points from combat victories when stacked with one. Only Rome under Julius Caesar may train it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JFD_PRAETORIAN_PRESTIGE">
+			<Text>Elite Melee Unit that specializes in working with Great Generals, receiving bonus [ICON_STRENGTH] Combat Strength and earning [ICON_GOLDEN_AGE] Prestige from combat victories when stacked with one. Only Rome under Julius Caesar may train it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_PRAETORIAN_STRATEGY">
+			<Text>The Praetorian is the elite melee unit of the Classical Era, replacing the Swordsman for Julius Caesar. Although it is much costlier than the Swordsman, it is significantly stronger in combat. It may also be stacked with a Great General for a 15% Combat Bonus as well as to earn [ICON_GOLDEN_AGE] Golden Age Points from combat victories.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_PRAETORIAN_STRATEGY_PRESTIGE">
+			<Text>The Praetorian is the elite melee unit of the Classical Era, replacing the Swordsman for Julius Caesar. Although it is much costlier than the Swordsman, it is significantly stronger in combat. It may also be stacked with a Great General for a 15% Combat Bonus as well as to earn [ICON_GOLDEN_AGE] Prestige from combat victories.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_PRAETORIAN_TEXT">
+			<Text>The term "Praetorian" came from the tent of the legatus of a legion in the field-the praetorium. It was a habit of many Roman generals to choose a private force of soldiers from the ranks to act as bodyguards of the tent or the person. These elite troops consisted of both infantry and cavalry. In time, this cohort came to be known as the cohors praetoria; various notable figures possessed one, including Julius Caesar, Mark Antony and Augustus Caesar (Octavianus). As Julius Caesar discovered with the Legio X Equestris, a powerful unit more dangerous than its fellow legions was desirable in the field. When Augustus became the first ruler of the Roman Empire in 27 BC, he decided such a formation was useful not only in war but in politics. Thus, from the ranks of the legions throughout the provinces, Augustus recruited the Praetorian Guard.</Text>
+		</Row>
+		<!--Cohors Praetoria-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PRAETORIAN">
+			<Text>Cohors Praetoria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PRAETORIAN_ACTIVE">
+			<Text>Cohors Praetoria (Active)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PRAETORIAN_ACTIVE_HELP">
+			<Text>Earns [ICON_GOLDEN_AGE] Golden Age Points from kills equal to 100% of the enemy's strength [COLOR_CYAN]if beginning its turn stacked with a Great General[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PRAETORIAN_ACTIVE_HELP_PRESTIGE">
+			<Text>Earns [ICON_GOLDEN_AGE] Prestige from kills equal to 100% of the enemy's strength [COLOR_CYAN]if beginning its turn stacked with a Great General[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PRAETORIAN_INACTIVE">
+			<Text>Cohors Praetoria (Inactive)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PRAETORIAN_INACTIVE_HELP">
+			<Text>Earns [ICON_GOLDEN_AGE] Golden Age Points from kills equal to 100% of the enemy's strength [COLOR_CYAN]if beginning its turn stacked with a Great General[ENDCOLOR].</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_PRAETORIAN_INACTIVE_HELP_PRESTIGE">
+			<Text>Earns [ICON_GOLDEN_AGE] Prestige from kills equal to 100% of the enemy's strength [COLOR_CYAN]if beginning its turn stacked with a Great General[ENDCOLOR].</Text>
+		</Row>
+		<!--DECISIONS-->
+		<!--Declare the Triumvirate-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ROME_JULIUS_TRIUMVIRATE">
+			<Text>Declare the Triumvirate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ROME_JULIUS_TRIUMVIRATE_DESC">
+			<Text>Politics is a tricky business, and is best conducted through an alliance of prominent men whose interests and ambitions can be kept - if not aligned with our own - restrained. In Rome, there are two such men that come to mind.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE]{1_Icon}Must control your original Capital.
+				[NEWLINE]{2_Icon}Must have at least three Great Generals.
+				{3_Icon}Must have at least two Courthouses.
+				[NEWLINE]{4_Icon}Must have at least one City-State Ally.
+				[NEWLINE][ICON_UNCHECKBOX]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{5_Num} [ICON_GOLDEN_AGE] {6_Desc}.
+				[NEWLINE][ICON_BULLET]{7_Num} [ICON_GOLD] Gold.
+				[NEWLINE][ICON_BULLET]3 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Grants 3 free [ICON_CULTURE] Social Policies.
+				[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note: The [ICON_GOLDEN_AGE] {6_Desc} cost is equal to half your current total.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ROME_JULIUS_TRIUMVIRATE_DESC_SOVEREIGNTY">
+			<Text>Politics is a tricky business, and is best conducted through an alliance of prominent men whose interests and ambitions can be kept - if not aligned with our own - restrained. In Rome, there are two such men that come to mind.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE]{1_Icon}Must control your original Capital.
+				[NEWLINE]{2_Icon}Must have at least three Great Generals.
+				{3_Icon}Must have at least two Courthouses.
+				[NEWLINE]{4_Icon}Must have at least one City-State Ally.
+				[NEWLINE][ICON_UNCHECKBOX]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{5_Num} [ICON_GOLDEN_AGE] {6_Desc}.
+				[NEWLINE][ICON_BULLET]{7_Num} [ICON_GOLD] Gold.
+				[NEWLINE][ICON_BULLET]3 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Grants 3 free [ICON_JFD_REFORM] Political Reforms.
+				[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note: The [ICON_GOLDEN_AGE] {6_Desc} cost is equal to half your current total.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ROME_JULIUS_TRIUMVIRATE_ENACTED_DESC">
+			<Text>Politics is a tricky business, and is best conducted through an alliance of prominent men whose interests and ambitions can be kept - if not aligned with our own - restrained. In Rome, there are two such men that come to mind.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Grants 3 free [ICON_CULTURE] Social Policies.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ROME_JULIUS_TRIUMVIRATE_ENACTED_DESC_SOVEREIGNTY">
+			<Text>Politics is a tricky business, and is best conducted through an alliance of prominent men whose interests and ambitions can be kept - if not aligned with our own - restrained. In Rome, there are two such men that come to mind.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Grants 3 free [ICON_JFD_REFORM] Political Reforms.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_ROME_JULIUS_TRIUMVIRATE">
+			<Text>{1_LeaderDesc} of {2_CivDesc} has formed a political alliance between himself and two other prominent men of Rome.</Text>
+		</Row>
+		<!--Compose new Commentaries-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ROME_JULIUS_COMMENTARII">
+			<Text>Compose new Commentaries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ROME_JULIUS_COMMENTARII_DESC">
+			<Text>It is useful to keep a record of our dealings with our enemies, so that we might refer back to them in the face of those in the future. It is thus time to compose new commentaries on the status of our current war.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE]{1_Icon}Must be at War.
+				[NEWLINE]{2_Icon}Must have researched Writing.
+				[NEWLINE][ICON_UNCHECKBOX]May only be enacted once per era.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{3_Num} [ICON_CULTURE] Culture.
+				[NEWLINE][ICON_BULLET]1 {4_ResourceDesc}.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{5_Num} Great General Points.
+				[NEWLINE][ICON_BULLET]20 HP for all Units.
+				[NEWLINE][NEWLINE][COLOR_POSITIVE_TEXT]Note: The Great General Points reward increases with the level of your units.[ENDCOLOR]
+				[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note: The [ICON_CULTURE] Culture cost increases with each era.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_ROME_JULIUS_COMMENTARII_ENACTED_DESC">
+			<Text>It is useful to keep a record of our dealings with our enemies, so that we might refer back to them in the face of those in the future. It is thus time to compose new commentaries on the status of our current war.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Lump sum of Great General Points.
+				[NEWLINE][ICON_BULLET]Lump sum of HP for all Units.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_ROME_JULIUS_COMMENTARII">
+			<Text>{1_LeaderDesc} of {2_CivDesc} has written new commentaries on the status of his current war.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

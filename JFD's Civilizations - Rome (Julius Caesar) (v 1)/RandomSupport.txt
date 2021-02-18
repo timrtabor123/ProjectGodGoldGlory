@@ -1,0 +1,72 @@
+TraitBasedLua = 'TRUE';
+
+OVERRIDE_AUTO  = { 
+	CIVILIZATIONS = {
+		CIVILIZATION = {
+			Civilization = 'CIVILIZATION_JFD_ROME_JULIUS';
+			Leader = 'LEADER_JFD_JULIUS';
+		};
+	};
+
+	MOD_SUPPORT = {
+		Civ4Traits = {
+			LEADER_JFD_JULIUS = {
+				Leader 	= 	'LEADER_JFD_JULIUS';
+				LeaderTXT	=	'Gaius Julius ';
+			};
+		};
+	};
+
+	COMPONENTS = {
+		COMPONENT = {
+			Type = 'UNIT_ROMAN_LEGION';
+			Class = 'UNITCLASS_SWORDSMAN';
+		};
+		COMPONENT = {
+			Type = 'UNIT_ROMAN_BALLISTA';
+			Class = 'UNITCLASS_CATAPULT';
+		};
+	};
+
+	TRAITS = {
+		TRAIT = {
+			Type = 'TRAIT_JFD_ROME_JULIUS';
+		};
+	};
+};
+
+
+OVERRIDE_AUTO  = { 
+	CIVILIZATIONS = {
+		CIVILIZATION = {
+			Civilization = 'CIVILIZATION_ROME';
+			Leader = 'LEADER_AUGUSTUS';
+		};
+	};
+
+	MOD_SUPPORT = {
+		Civ4Traits = {
+			LEADER_SULEIMAN = {
+				Leader 	= 	'LEADER_AUGUSTUS';
+				LeaderTXT	=	'Augustus ';
+			};
+		};
+	};
+
+	COMPONENTS = {
+		COMPONENT = {
+			Type = 'UNIT_JFD_PRAETORIAN';
+			Class = 'UNITCLASS_SWORDSMAN';
+		};
+		COMPONENT = {
+			Type = 'BUILDING_JFD_FORUM';
+			Class = 'BUILDINGCLASS_MARKET';
+		};
+	};
+
+	TRAITS = {
+		TRAIT = {
+			Type = 'TRAIT_JFD_ROME_AUGUSTUS';
+		};
+	};
+};

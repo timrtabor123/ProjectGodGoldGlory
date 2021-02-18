@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/8/2012 9:49:05 AM -->
+<GameData>
+
+	<IconFontTextures>
+		<Row>
+			<IconFontTexture>ICON_FONT_TEXTURE_LUNG_NORSECHRIST</IconFontTexture>
+			<IconFontTextureFile>LUNG_NORSECHRISTFontIcons</IconFontTextureFile>
+		</Row>
+	</IconFontTextures>
+	<IconFontMapping>
+		<Row>
+			<IconName>ICON_RELIGION_LUNG_NORSECHRIST</IconName>
+			<IconMapping>1</IconMapping>
+			<IconFontTexture>ICON_FONT_TEXTURE_LUNG_NORSECHRIST</IconFontTexture>
+		</Row>
+	</IconFontMapping>
+	<IconTextureAtlases>
+		<Row>
+			<Atlas>RELIGION_ATLAS_WHITE_LUNG_NORSECHRIST</Atlas>
+			<IconSize>128</IconSize>
+			<Filename>LUNG_NORSECHRIST_128.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>RELIGION_ATLAS_WHITE_LUNG_NORSECHRIST</Atlas>
+			<IconSize>80</IconSize>
+			<Filename>LUNG_NORSECHRIST_80.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>RELIGION_ATLAS_WHITE_LUNG_NORSECHRIST</Atlas>
+			<IconSize>64</IconSize>
+			<Filename>LUNG_NORSECHRIST_64.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>RELIGION_ATLAS_WHITE_LUNG_NORSECHRIST</Atlas>
+			<IconSize>48</IconSize>
+			<Filename>LUNG_NORSECHRIST_48.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>RELIGION_ATLAS_WHITE_LUNG_NORSECHRIST</Atlas>
+			<IconSize>32</IconSize>
+			<Filename>LUNG_NORSECHRIST_32.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>RELIGION_ATLAS_WHITE_LUNG_NORSECHRIST</Atlas>
+			<IconSize>24</IconSize>
+			<Filename>LUNG_NORSECHRIST_24.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+		<Row>
+			<Atlas>RELIGION_ATLAS_WHITE_LUNG_NORSECHRIST</Atlas>
+			<IconSize>16</IconSize>
+			<Filename>LUNG_NORSECHRIST_16.dds</Filename>
+			<IconsPerRow>1</IconsPerRow>
+			<IconsPerColumn>1</IconsPerColumn>
+		</Row>
+	</IconTextureAtlases>
+	<Religions>
+		<Row>
+			<Type>RELIGION_LUNG_NORSECHRIST</Type>
+			<Description>TXT_KEY_RELIGION_LUNG_NORSECHRIST</Description>
+			<Civilopedia>TXT_KEY_RELIGION_LUNG_NORSECHRIST_PEDIA</Civilopedia>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>RELIGION_ATLAS_WHITE_LUNG_NORSECHRIST</IconAtlas>
+			<IconString>[ICON_RELIGION_LUNG_NORSECHRIST]</IconString>
+		</Row>
+	</Religions>
+
+	<LocalizedText>
+		<Row Language="en_US" Tag="TXT_KEY_RELIGION_LUNG_NORSECHRIST">
+			<Text>Norse Christianity</Text>
+		</Row>
+		<Row Language="en_US" Tag="TXT_KEY_RELIGION_LUNG_NORSECHRIST_PEDIA">
+			<Text>
+				In the first days of Christian conversion in Scandinavia the incoming beliefs of the Roman Church were met with a fair degree of hesitation, due to this many priests attempting to spread the gospel of god would draw comparisons to the local Norse Paganism. Early Norse Christianity while the word of God is heavily saturated with Norse Pagan beliefs.
+			</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

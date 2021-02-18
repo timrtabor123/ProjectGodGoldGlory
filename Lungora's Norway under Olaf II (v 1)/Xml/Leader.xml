@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Leaders>
+    <Row>
+      <Type>LEADER_LUNG_OLAFII</Type>
+      <Description>TXT_KEY_LEADER_LUNG_OLAFII</Description>
+      <Civilopedia>TXT_KEY_LEADER_LUNG_OLAFII_PEDIA</Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_LUNG_OLAFII</CivilopediaTag>
+      <ArtDefineTag>Lung_Olaf_Scene.xml</ArtDefineTag>
+      <VictoryCompetitiveness>3</VictoryCompetitiveness>
+      <WonderCompetitiveness>3</WonderCompetitiveness>
+      <MinorCivCompetitiveness>5</MinorCivCompetitiveness>
+      <Boldness>7</Boldness>
+      <DiploBalance>4</DiploBalance>
+      <WarmongerHate>4</WarmongerHate>
+      <WorkAgainstWillingness>0</WorkAgainstWillingness>
+      <WorkWithWillingness>0</WorkWithWillingness>
+      <DenounceWillingness>5</DenounceWillingness>
+      <DoFWillingness>5</DoFWillingness>
+      <Loyalty>7</Loyalty>
+      <Neediness>4</Neediness>
+      <Forgiveness>5</Forgiveness>
+      <Chattiness>4</Chattiness>
+      <Meanness>6</Meanness>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>LUNG_Norway_Olaf_Atlas</IconAtlas>
+    </Row>
+  </Leaders>
+
+  <Leader_MajorCivApproachBiases>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_WAR</MajorCivApproachType>
+      <Bias>8</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_HOSTILE</MajorCivApproachType>
+      <Bias>7</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_DECEPTIVE</MajorCivApproachType>
+      <Bias>2</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_GUARDED</MajorCivApproachType>
+      <Bias>6</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_AFRAID</MajorCivApproachType>
+      <Bias>1</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_FRIENDLY</MajorCivApproachType>
+      <Bias>3</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <MajorCivApproachType>MAJOR_CIV_APPROACH_NEUTRAL</MajorCivApproachType>
+      <Bias>5</Bias>
+    </Row>
+  </Leader_MajorCivApproachBiases>
+  <Leader_MinorCivApproachBiases>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_IGNORE</MinorCivApproachType>
+      <Bias>6</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_FRIENDLY</MinorCivApproachType>
+      <Bias>7</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_PROTECTIVE</MinorCivApproachType>
+      <Bias>5</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_CONQUEST</MinorCivApproachType>
+      <Bias>8</Bias>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <MinorCivApproachType>MINOR_CIV_APPROACH_BULLY</MinorCivApproachType>
+      <Bias>7</Bias>
+    </Row>
+  </Leader_MinorCivApproachBiases>
+  <Leader_Flavors>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_OFFENSE</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_DEFENSE</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_CITY_DEFENSE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_MILITARY_TRAINING</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_RECON</FlavorType>
+      <Flavor>4</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_RANGED</FlavorType>
+      <Flavor>3</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_MOBILE</FlavorType>
+      <Flavor>2</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_NAVAL</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_NAVAL_GROWTH</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_NAVAL_TILE_IMPROVEMENT</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_AIR</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_EXPANSION</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_GROWTH</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_TILE_IMPROVEMENT</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_INFRASTRUCTURE</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_PRODUCTION</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_GOLD</FlavorType>
+      <Flavor>3</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_SCIENCE</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_CULTURE</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_HAPPINESS</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_GREAT_PEOPLE</FlavorType>
+      <Flavor>3</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_WONDER</FlavorType>
+      <Flavor>3</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_RELIGION</FlavorType>
+      <Flavor>9</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_DIPLOMACY</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_SPACESHIP</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_WATER_CONNECTION</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_NUKE</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_USE_NUKE</FlavorType>
+      <Flavor>7</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_ESPIONAGE</FlavorType>
+      <Flavor>3</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_ANTIAIR</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_AIR_CARRIER</FlavorType>
+      <Flavor>6</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_ARCHAEOLOGY</FlavorType>
+      <Flavor>3</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_I_LAND_TRADE_ROUTE</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_I_SEA_TRADE_ROUTE</FlavorType>
+      <Flavor>8</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_I_TRADE_ORIGIN</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_I_TRADE_DESTINATION</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <FlavorType>FLAVOR_AIRLIFT</FlavorType>
+      <Flavor>5</Flavor>
+    </Row>
+  </Leader_Flavors>
+  <Leader_Traits>
+    <Row>
+      <LeaderType>LEADER_LUNG_OLAFII</LeaderType>
+      <TraitType>TRAIT_LUNG_OLDESTSAGA</TraitType>
+    </Row>
+  </Leader_Traits>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_LEADER_LUNG_OLAFII">
+      <Text>Olaf II</Text>
+    </Row>
+    <Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_PEDIA">
+      <Text>Olaf II Haraldsson (c. 995 – 29 July 1030), later known as St. Olaf was King of Norway from 1015 to 1028. Son of Harald Grenske, a petty king in Vestfold, Norway, he was posthumously given the title Rex Perpetuus Norvegiae and canonised at Nidaros by Bishop Grimkell, one year after his death in the Battle of Stiklestad on 29 July 1030. His remains were enshrined in Nidaros Cathedral, built over his burial site. His sainthood encouraged the widespread adoption of the Christian religion among the Vikings / Norsemen in Scandinavia.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNG_OLAFII_FACTOID_HEADING">
+      <Text></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNG_OLAFII_FACTOID_TEXT">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNG_OLAFII_HEADING_1">
+      <Text>Early Life</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNG_OLAFII_HEADING_2">
+      <Text>Unification</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNG_OLAFII_HEADING_3">
+      <Text>Legacy</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNG_OLAFII_HEADING_4">
+      <Text></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNG_OLAFII_HEADING_5">
+      <Text></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNG_OLAFII_HEADING_6">
+      <Text></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNG_OLAFII_LIVED">
+      <Text>~995 AD -  1030</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNG_OLAFII_NAME">
+      <Text>Olaf II</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNG_OLAFII_SUBTITLE">
+      <Text>King of Norway</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNG_OLAFII_TEXT_1">
+      <Text>St. Olaf was born in Ringerike. His mother was Åsta Gudbrandsdatter, and his father was Harald Grenske, petty king in Vestfold, great-great-grandchild of Harald Fairhair, the first king of Norway. Harald Grenske died when Åsta Gudbrandsdatter was pregnant with Olaf. [NEWLINE][NEWLINE]About 1008, Olaf landed on the Estonian island of Saaremaa (Osilia). The Osilians, taken by surprise, had at first agreed to pay the demands made by Olaf, but then gathered an army during the negotiations and attacked the Norwegians. Olaf nevertheless won the battle. [NEWLINE][NEWLINE]It is said that Olaf participated alongside fellow Viking Thorkell the Tall in the Siege of Canterbury in 1011. [NEWLINE][NEWLINE]Olaf sailed to the southern coast of Finland sometime in 1008. The journey resulted in the Battle at Herdaler where Olaf and his men were eventually ambushed in the woods. Olaf lost many men but made it back to his boats. He ordered his ships to depart despite a riding storm. Finns started a pursuit and made the same progress on land as Olaf and his men made with ships. Despite these events they survived. The exact location of the battle is uncertain and the Finnish equivalent for the place Herdaler is not known. It is suggested that the place could be Uusimaa region of Finland. [NEWLINE][NEWLINE]As a teenager he went to the Baltic, then to Denmark and later to England. Skaldic poetry suggests he led a successful seaborne attack which pulled down London Bridge, though this is not confirmed by Anglo-Saxon sources. This may have been in 1014, restoring London and the English throne to Æthelred the Unready and removing Cnut. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNG_OLAFII_TEXT_2">
+      <Text>Olaf saw it as his call to unite Norway into one kingdom, as his ancestor Harald Fairhair had largely succeeded in doing. On the way home he wintered with Duke Richard II of Normandy. This region had been conquered by Norsemen in the year 881. Duke Richard was himself an ardent Christian, and the Normans had also previously converted to Christianity. Before leaving, Olaf was baptised in Rouen in the pre-Romanesque Notre-Dame Cathedral by the Norman duke's brother Robert the Dane, archbishop of Normandy. [NEWLINE][NEWLINE]Olaf returned to Norway in 1015 and declared himself king, obtaining the support of the five petty kings of the Norwegian Uplands. In 1016 at the Battle of Nesjar he defeated Earl Sweyn, one of the earls of Lade and hitherto the virtual ruler of Norway. He founded the town of Borg, later to be known as Sarpsborg, by the waterfall Sarpsfossen in Østfold county. Within a few years he had won more power than had been enjoyed by any of his predecessors on the throne. [NEWLINE][NEWLINE]He had annihilated the petty kings of the South, subdued the aristocracy, asserted his suzerainty in the Orkney Islands, and conducted a successful raid on Denmark. He made peace with King Olof Skötkonung of Sweden through Þorgnýr the Lawspeaker, and was for some time engaged to Olof's daughter, Princess Ingegerd, though without Olof's approval. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNG_OLAFII_TEXT_3">
+      <Text>In 1019 Olaf married Astrid Olofsdotter, King Olof's illegitimate daughter and the half-sister of his former fiancée. The union produced a daughter, Wulfhild, who married Ordulf, Duke of Saxony in 1042. Numerous royal, grand ducal and ducal lines are descended from Ordulf and Wulfhild, including members of the House of Saxe-Coburg and Gotha. Maud of Wales, daughter of King Edward VII of the United Kingdom, was the mother of King Olav V of Norway, so Olav and his son Harald V, the present King of Norway, are thus descended from Olaf. [NEWLINE][NEWLINE]But Olaf's success was short-lived. In 1026 he lost the Battle of the Helgeå, and in 1029 the Norwegian nobles, seething with discontent, supported the invasion of King Cnut the Great of Denmark. Olaf was driven into exile in Kievan Rus. He stayed for some time in Sweden in the province of Nerike where, according to local legend, he baptised many locals. In 1029, King Cnut's Norwegian regent, Jarl Håkon Eiriksson, was lost at sea. Olaf seized the opportunity to win back the kingdom, but he fell in 1030 at the Battle of Stiklestad, where some of his own subjects from central Norway took arms against him. The exact position of Saint Olaf's grave in Nidaros is unknown [NEWLINE][NEWLINE]King Cnut, though distracted by the task of governing England, managed to rule Norway for five years after Stiklestad. However, their regency was unpopular, and when Olaf's illegitimate son Magnus (dubbed 'the Good') laid claim to the Norwegian throne, and Cnut’s vassal kings were forced to flee. </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNG_OLAFII_TEXT_4">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNG_OLAFII_TEXT_5">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNG_OLAFII_TEXT_6">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNG_OLAFII_TITLES_1">
+      <Text>King of Norway</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Units>
+		<Row>
+			<Type>UNIT_LUNG_SKUTILSVEINR</Type>
+			<Description>TXT_KEY_UNIT_LUNG_SKUTILSVEINR</Description>
+			<Civilopedia>TXT_KEY_CIV5_LUNG_SKUTILSVEINR_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_LUNG_SKUTILSVEINR_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_LUNG_SKUTILSVEINR</Help>
+			<Requirements></Requirements>
+			<Combat>14</Combat>
+			<Cost>75</Cost>
+			<FaithCost>150</FaithCost>
+			<RequiresFaithPurchaseEnabled>1</RequiresFaithPurchaseEnabled>
+			<Moves>2</Moves>
+			<BaseSightRange>2</BaseSightRange>
+			<Class>UNITCLASS_SWORDSMAN</Class>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_ATTACK</DefaultUnitAI>
+			<MilitarySupport>1</MilitarySupport>
+			<MilitaryProduction>1</MilitaryProduction>
+			<Pillage>1</Pillage>
+			<PillagePrereqTech></PillagePrereqTech>
+			<PrereqTech>TECH_IRON_WORKING</PrereqTech>
+			<ObsoleteTech>TECH_STEEL</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_LONGSWORDSMAN</GoodyHutUpgradeUnitClass>
+			<HurryCostModifier>20</HurryCostModifier>
+			<AdvancedStartCost>20</AdvancedStartCost>
+			<MinAreaSize>-1</MinAreaSize>
+			<NukeDamageLevel>-1</NukeDamageLevel>
+			<CombatLimit>100</CombatLimit>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>1</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_U_SAXON_HUSCARL</UnitArtInfo>
+			<ShowInPedia>1</ShowInPedia>
+			<MoveRate>HEAVY_BIPED</MoveRate>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>LUNG_Norway_Skutilsveinr_Atlas</IconAtlas>
+			<UnitFlagAtlas>LUNG_Norway_Skutilsveinr_Flag</UnitFlagAtlas>
+		</Row>
+	</Units>
+
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_LUNG_SKUTILSVEINR</UnitType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LUNG_SKUTILSVEINR</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<!-- Unit_Buildings -->
+	<!-- Unit_BuildingClassRequireds -->
+	<!-- Unit_ProductionModifierBuildings -->
+	<!-- Unit_Builds -->
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_LUNG_SKUTILSVEINR</UnitType>
+			<UnitClassType>UNITCLASS_LONGSWORDSMAN</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_LUNG_SKUTILSVEINR</UnitType>
+			<PromotionType>PROMOTION_OCP_SKUTILS_BUFF</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_LUNG_SKUTILSVEINR</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>8</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LUNG_SKUTILSVEINR</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>6</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<!-- Unit_GreatPersons -->
+	<Unit_ResourceQuantityRequirements>
+		<Row>
+			<UnitType>UNIT_LUNG_SKUTILSVEINR</UnitType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+			<Cost>1</Cost>
+		</Row>
+	</Unit_ResourceQuantityRequirements>
+	
+	<!-- Unit_UniqueNames -->
+	<!-- Unit_YieldFromKills -->
+	<!-- Unit_NotAITypes -->
+	<!-- Unit_ProductionTraits -->
+	<!-- Unit_TechTypes -->
+	<!-- UnitPromotions_CivilianUnitType -->
+	<UnitGameplay2DScripts>
+		<Row>
+			<UnitType>UNIT_LUNG_SKUTILSVEINR</UnitType>
+			<SelectionSound>AS2D_SELECT_SWORDSMAN</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_SWORDSMAN</FirstSelectionSound>
+		</Row>
+	</UnitGameplay2DScripts>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_LUNG_SKUTILSVEINR">
+			<Text>Skutilsveinr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LUNG_SKUTILSVEINR_TEXT">
+			<Text>
+				In Norway, housecarls were members of the king's or another powerful man's hirð. The institution of the hirð in Norway can be traced back to the 9th century. The texts dealing with royal power in medieval Norway, the Heimskringla and the Konungs skuggsjá, make explicit the link between a king or leader and his retainers. There was a special fine for the killing of a king's man, which in Konungs skuggsjá is underlined as an advantage of entering the king's service. Conversely, retainers were expected to avenge their leader if he was killed. In the late end of the Viking period houscarls began to go out of fashion, with the concept of the knight from central and western Europe gaining much more popularity amoung the Norwegian nobility. Skutilsveinr meaning literally “table-men” were the earliest versions of these housecarls given arms, titles, and a sense of nobility as per European knightly tradition though aside from leading their own families too they maintained much of the retainer aspects of the earlier housecarl duties.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LUNG_SKUTILSVEINR_STRATEGY">
+			<Text>The Skutilsveinr is a powerful melee unit availible in the Classical Era. While not immediately more powerful than its Swordsman counterpart the Skutilsveinr gains faith from fighting, converts captured cities, and inspires its allies in battle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LUNG_SKUTILSVEINR">
+			<Text>The guard of Norse Nobles, capable and tough front line infantry.</Text>
+		</Row>
+	</Language_en_US>
+
+	<Units>
+		<Row>
+			<Type>UNIT_LUNG_DREKKI</Type>
+			<Description>TXT_KEY_UNIT_LUNG_DREKKI</Description>
+			<Civilopedia>TXT_KEY_CIVILOPEDIA_UNITS_LUNG_DREKKI_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_LUNG_DREKKI_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_LUNG_DREKKI</Help>
+			<Requirements></Requirements>
+			<Combat>20</Combat>
+			<RangedCombat>0</RangedCombat>
+			<Cost>120</Cost>
+			<Moves>4</Moves>
+			<BaseSightRange>2</BaseSightRange>
+			<Class>UNITCLASS_CARAVEL</Class>
+			<CombatClass>UNITCOMBAT_NAVALMELEE</CombatClass>
+			<Domain>DOMAIN_SEA</Domain>
+			<CivilianAttackPriority></CivilianAttackPriority>
+			<DefaultUnitAI>UNITAI_ATTACK_SEA</DefaultUnitAI>
+			<MilitarySupport>1</MilitarySupport>
+			<MilitaryProduction>1</MilitaryProduction>
+			<Pillage>1</Pillage>
+			<Mechanized>1</Mechanized>
+			<PrereqTech>TECH_COMPASS</PrereqTech>
+			<ObsoleteTech>TECH_STEAM_POWER</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass></GoodyHutUpgradeUnitClass>
+			<HurryCostModifier>30</HurryCostModifier>
+			<AdvancedStartCost>50</AdvancedStartCost>
+			<MinAreaSize>10</MinAreaSize>
+			<NukeDamageLevel>-1</NukeDamageLevel>
+			<CombatLimit>100</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT_U_DANISH_LONGBOAT</UnitArtInfo>
+			<ShowInPedia>1</ShowInPedia>
+			<MoveRate>BOAT</MoveRate>
+			<UnitFlagIconOffset>0</UnitFlagIconOffset>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>LUNG_Norway_Dreki_Atlas</IconAtlas>
+			<UnitFlagAtlas>LUNG_Norway_Dreki_Flag</UnitFlagAtlas>
+		</Row>
+	</Units>
+
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_LUNG_DREKKI</UnitType>
+			<UnitAIType>UNITAI_ATTACK_SEA</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LUNG_DREKKI</UnitType>
+			<UnitAIType>UNITAI_RESERVE_SEA</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LUNG_DREKKI</UnitType>
+			<UnitAIType>UNITAI_ESCORT_SEA</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LUNG_DREKKI</UnitType>
+			<UnitAIType>UNITAI_EXPLORE_SEA</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<!-- Unit_Buildings -->
+	<!-- Unit_BuildingClassRequireds -->
+	<!-- Unit_ProductionModifierBuildings -->
+	<!-- Unit_Builds -->
+	<Unit_ClassUpgrades>
+		<Row>
+			<UnitType>UNIT_LUNG_DREKKI</UnitType>
+			<UnitClassType>UNITCLASS_IRONCLAD</UnitClassType>
+		</Row>
+	</Unit_ClassUpgrades>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_LUNG_DREKKI</UnitType>
+			<PromotionType>PROMOTION_EXTRA_SIGHT_I</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LUNG_DREKKI</UnitType>
+			<PromotionType>PROMOTION_OCP_DREKKI_DEBUFF</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LUNG_DREKKI</UnitType>
+			<PromotionType>PROMOTION_OCP_DREKKI_SPEED</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_GALLEASS</UnitType>
+			<PromotionType>PROMOTION_OCEAN_IMPASSABLE</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_LUNG_DREKKI</UnitType>
+			<FlavorType>FLAVOR_NAVAL</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_LUNG_DREKKI</UnitType>
+			<FlavorType>FLAVOR_NAVAL_RECON</FlavorType>
+			<Flavor>7</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<!-- Unit_GreatPersons -->
+	<!-- Unit_ResourceQuantityRequirements -->
+	<!-- Unit_UniqueNames -->
+	<!-- Unit_YieldFromKills -->
+	<!-- Unit_NotAITypes -->
+	<!-- Unit_ProductionTraits -->
+	<!-- Unit_TechTypes -->
+	<!-- UnitPromotions_CivilianUnitType -->
+	<UnitGameplay2DScripts>
+		<Row>
+			<UnitType>UNIT_LUNG_DREKKI</UnitType>
+			<SelectionSound>AS2D_SELECT_CARAVEL</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_CARAVEL</FirstSelectionSound>
+		</Row>
+	</UnitGameplay2DScripts>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_UNIT_LUNG_DREKKI">
+			<Text>Drekki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_LUNG_DREKKI_TEXT">
+			<Text>
+				Drekki 'dragon' are the type of ship, of thirty rowing benches and upwards that are only known from historical sources, such as the 13th-century Göngu-Hrólfs saga . Here, the ships are described as most unusual, elegant, ornately decorated, and used by those who went raiding and plundering. These ships were likely skeids that differed only in the carvings of menacing beasts, such as dragons and snakes, carried on the prow of the ship. These carvings allegedly protected the ship and crew, and warded off the terrible sea monsters of Norse mythology. It is however likely that the carvings, like those on the Oseberg ship, might have had a ritual purpose, or that the purported effect was to frighten enemies and townspeople.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LUNG_DREKKI_STRATEGY">
+			<Text>The Drekki is a powerful warship, adept at controlling the medieval seas and escorting your missionaries to convert foreigners on distant shores. Come the renaissance it gains access to deep ocean routes prime for exploration.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_LUNG_DREKKI">
+			<Text>Fast Medieval Warship with an enhanced sight radius, a frightening presence, and ability to escort missionaries across the seas. Gains deep sea access on Observation.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

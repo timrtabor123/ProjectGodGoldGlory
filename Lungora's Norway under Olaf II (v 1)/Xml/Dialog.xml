@@ -1,0 +1,198 @@
+
+	<GameData>
+		<Language_en_US>
+			<!-- DIPLOMACY -->
+			<!--First Greeting messages from AI leaders-->
+			<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_FIRSTGREETING_1">
+				<Text>Hail new friend! Welcome to the realm of Norway. I am King Olaf, second of my name, the lord of this land.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_FIRSTGREETING_2">
+				<Text>God welcomes this meeting between us. I happen to be King Olaf of Norway. Come drink with me, new friend!</Text>
+			</Row>
+			<!--Defeated messages from AI leaders-->
+			<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_DEFEATED_1">
+				<Text>My longships will sleep eternal on the sea floor. My soldiers will rest eternal in Heaven. I only hope you spare my women and children if the mercy of God is in your heart.</Text>
+			</Row>
+			<!-- Human repeats an action too much, gets the following responses -->
+			<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_REPEAT_TOO_MUCH_1">
+				<Text>Bah! I tire of this.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_REPEAT_TRADE_TOO_MUCH_1">
+				<Text>Get the deal overwith lest I raid your shores and do it on my own time.
+				</Text>
+			</Row>
+			<!-- Greetings -->
+			<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_GREETING_HOSTILE_HELLO_1">
+				<Text>God only knows why my warships have not yet pillaged your shores yet. Your being in my council is not appriciated.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_GREETING_POLITE_HELLO_1">
+				<Text>My friend! Do you come with stories to share with a warm mug of mead under the blessings of god?</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+				<Text>You again. I hope you have come here to beg for god's forgiveness for I have none.
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_GREETING_HUMAN_AT_WAR_1">
+				<Text>
+					Mighty heroes share my hall! Speak well to me of your achivements.
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+				<Text>Your warriors rest upon my shores and hills - god looks down upon such aggression. </Text>
+			</Row>
+			<Row Tag="TXT_KEY_LUNG_OLAFII_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+				<Text>Think not that the wily works of merchants hold any will against my fleets of longship!</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+				<Text>
+					Let god disagree, yet I piss on your aggression.
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+				<Text>
+					Your settlers settle on Norwegian lands! In time and with god's blessing I will see them returned.
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_GREETING_AGGRESSIVE_EXPANSION_1">
+				<Text> Bah! You have seen to it to make yourself a target of my raiding.
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_GREETING_FRIENDLY_STRONG_MILITARY_1">
+				<Text>A truely impressive general you are my friend! Viking kings of old and God look upon your forces with approval.
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+				<Text> Your vast wealth tempts many a raider, yet fear not my friend for we are in good times.
+				</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+				<Text>Yet another petty Jarl seeks to greaty with the favoured of God? Pathetic. </Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+				<Text>Have you so little men that can raise an ax or heft a spear? God is truely against you.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+				<Text>Sometimes victories number to many and other begin to be envious. I pray you see fit to stop your conquests and let your people rest should the world turn upon you.</Text>
+			</Row>
+			<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_TOO_SOON_FOR_DOF_1">
+				<Text>I welcome all friends in my meadhall! But we have not known eachother long enough for me to truely see if you have found god in your heart. </Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_DENOUNCE_1">
+						<Text>
+							See to it you find yourself in the pits of hell when this world bids you gone.  [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_DENOUNCE_2">
+						<Text>
+							Even God spits on your misdoings. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_RESPONSE_TO_BEING_DENOUNCED_1">
+						<Text>You fool. You only invite my warships and raiders into your supple lands.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_HUMAN_DOFED_FRIEND_1">
+						<Text>
+							You have found that {1_CivName} is a mighty friend indeed too! They feast in my halls with me and you should too!
+						</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_HUMAN_DOFED_ENEMY_1">
+						<Text>A poor choice. God sees you have accepted {1_CivName} into your heart, this is no better than letting Lucifer. </Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_HUMAN_DENOUNCED_FRIEND_1">
+						<Text>
+							Pray my axe does not find your skull soon. {1_CivName} deserves not your slander and is both honourable and pious.
+						</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_HUMAN_DENOUNCED_ENEMY_1">
+						<Text>Your take agrees with mine. A toast to {1_CivName}'s downfall!</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_HUMAN_DOF_SO_AI_DOF_1">
+						<Text>I see you have invited {1_CivName} into your heart, and so have I. Come feast the three of us in my hall!</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_HUMAN_DOF_SO_AI_DENOUNCE_1">
+						<Text>{1_CivName} is truely a vile and unholy menance that does the world harm. Your friendship with {1_CivName} is a league opposed to God.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+						<Text>Hah my friend! Should you join me on my longship we can pillage {1_CivName} together. </Text>
+					</Row>
+					<!-- General Diplo Text -->
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_DEC_FRIENDSHIP_1">
+						<Text> Together we shall feast, in friendship!
+						</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_DEC_FRIENDSHIP_2">
+						<Text>I will stand with you from this day till the day of judgement when we go unto Heaven. </Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_AGGRESSIVE_MILITARY_WARNING_1">
+						<Text>Bah! Move your warriors or face mine in the field.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_PLOT_BUYING_WARNING_1">
+						<Text> This is Norway, not whatever land inspired by hell itself that you come from. Defile no more of my territory. </Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_PLOT_BUYING_SERIOUS_WARNING_1">
+						<Text>Do you tempt my wrath? God will surely judge your theft of land. </Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_EXPANSION_SERIOUS_WARNING_1">
+						<Text>Your cities sit on Norwegian land. Should another and both will be my cities on Norwegian land. </Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_EXPANSION_WARNING">
+						<Text>Do you have honour? Both the true God and those of the pagans see none. </Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_RETURNED_CIVILIAN_1">
+						<Text>
+							Your heart is pure and virtuous. I thank you. Norway thanks you. God thanks as well.
+						</Text>
+					</Row>
+					<!--Public Declarations-->
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_DECLARATION_PROTECT_CITY_STATE_1">
+						<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_DECLARATION_ABANDON_CITY_STATE_1">
+						<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+					</Row>
+					<!-- Human is asking the AI for something -->
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_DONT_SETTLE_NO_1">
+						<Text>If you do not defend your lands well enough this is not my issue.
+						</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_DONT_SETTLE_YES_1">
+						<Text>
+							God sees your demand is just, I accept.
+						</Text>
+					</Row>
+					<!--Deal Offers and related-->
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_LUXURY_TRADE_1">
+						<Text>I believe I found this on foreign shores. Would you want some?</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_OPEN_BORDERS_EXCHANGE_1">
+						<Text>
+							My adventurers seek to explore your mead halls, your many lands, and your beautiful women! Norway has many of the same, are you interested?
+						</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_RESPONSE_REQUEST_1">
+						<Text>Only god knows.</Text>
+					</Row>
+					<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_ATTACKED_HOSTILE_1">
+						<Text>Your cities will burn and your women will wail! Norway fights with the blessing of God. </Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_ATTACKED_EXCITED_1">
+						<Text>Hah! Meet me on the field of battle alone and we shall settle this in a feat of heroism and valor.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_ATTACKED_SAD_1">
+						<Text>If you wish we shall make this short, God pitties the nonpious warmonger.</Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_ATTACKED_BETRAYED_1">
+						<Text>I let you into my hall! I shared you my mead, my bread, and my God. Your undoing will be the darkness in your heart if not the steel of my axe.</Text>
+					</Row>
+					<!--AI Responses to a human peace offer-->
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_TOO_SOON_NO_PEACE_1">
+						<Text>I am not yet done. Your fields are not pillaged enough.</Text>
+					</Row>
+					<!--AI Responses to a discussion mode topics-->
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_BAD_1">
+						<Text>I agree not.  </Text>
+					</Row>
+					<Row Tag="TXT_KEY_LEADER_LUNG_OLAFII_GOOD_1">
+						<Text>Yes! God sees that it will be.</Text>
+					</Row>
+				</Language_en_US>
+	</GameData>

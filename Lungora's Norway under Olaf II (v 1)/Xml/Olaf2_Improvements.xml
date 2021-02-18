@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/30/2019 9:36:06 AM -->
+<GameData>
+	<Improvements>
+		<Row>
+			<Type>IMPROVEMENT_OCP_NORWAYHOLYSITE</Type>
+			<Description>TXT_KEY_IMPROVEMENT_OCP_NORWAYHOLYSITE</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_HOLY_SITE_TEXT</Civilopedia>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_HOLY_SITE</ArtDefineTag>
+			<DefenseModifier>100</DefenseModifier>
+			<NearbyEnemyDamage>30</NearbyEnemyDamage>
+			<BuildableOnResources>true</BuildableOnResources>
+			<PillageGold>20</PillageGold>
+			<PortraitIndex>1</PortraitIndex>
+			<IconAtlas>EXPANSION_TERRAIN_ATLAS</IconAtlas>
+		</Row>
+	</Improvements>
+	<Improvement_ValidTerrains>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OCP_NORWAYHOLYSITE</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OCP_NORWAYHOLYSITE</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OCP_NORWAYHOLYSITE</ImprovementType>
+			<TerrainType>TERRAIN_DESERT</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OCP_NORWAYHOLYSITE</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OCP_NORWAYHOLYSITE</ImprovementType>
+			<TerrainType>TERRAIN_SNOW</TerrainType>
+		</Row>
+	</Improvement_ValidTerrains>
+	<Improvement_ResourceTypes>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OCP_NORWAYHOLYSITE</ImprovementType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OCP_NORWAYHOLYSITE</ImprovementType>
+			<ResourceType>RESOURCE_IRON</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OCP_NORWAYHOLYSITE</ImprovementType>
+			<ResourceType>RESOURCE_COAL</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OCP_NORWAYHOLYSITE</ImprovementType>
+			<ResourceType>RESOURCE_OIL</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OCP_NORWAYHOLYSITE</ImprovementType>
+			<ResourceType>RESOURCE_ALUMINUM</ResourceType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_OCP_NORWAYHOLYSITE</ImprovementType>
+			<ResourceType>RESOURCE_URANIUM</ResourceType>
+		</Row>
+	</Improvement_ResourceTypes>
+	<Policy_ImprovementYieldChanges>
+		<Row>
+			<PolicyType>POLICY_THEOCRACY</PolicyType>
+			<ImprovementType>IMPROVEMENT_OCP_NORWAYHOLYSITE</ImprovementType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>3</Yield>
+		</Row>
+		<Row>
+			<PolicyType>POLICY_NEW_DEAL</PolicyType>
+			<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>4</Yield>
+		</Row>
+	</Policy_ImprovementYieldChanges>
+	<Policy_ImprovementCultureChanges>
+		<Row>
+			<PolicyType>POLICY_PIETY_FINISHER</PolicyType>
+			<ImprovementType>IMPROVEMENT_HOLY_SITE</ImprovementType>
+			<CultureChange>3</CultureChange>
+		</Row>
+	</Policy_ImprovementCultureChanges>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_IMPROVEMENT_OCP_NORWAYHOLYSITE">
+			<Text>Norwegian Holy Site</Text>
+		</Row>
+	</Language_en_US>
+</GameData>
+
+
+
+
+
+
+
+

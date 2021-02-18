@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="f60adac4-1aca-4e13-b9ed-d734d2810dcd" version="1">
+  <Properties>
+    <Name>Lungora's Norway under Olaf II</Name>
+    <Teaser>Lungora's Norway under Olaf II in affiliation with the Overlooked Civs Project.</Teaser>
+    <Description>test</Description>
+    <Authors>Lungora</Authors>
+    <SpecialThanks>OCP, Tpangolin, Lordiestaven</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="B3030D39-C0D8-4bc7-91B1-7AD1CAF585AB" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="E1BBF7BB5018671EFF3E1D1C7F2B229A" import="1">Art/Drekialphasv.dds</File>
+    <File md5="B47D32CFF09B46ACADF286921317D752" import="1">Art/Drekialpha_32.dds</File>
+    <File md5="0B97D28EF1AA0638399A29FDD3287D5B" import="1">Art/LUNG_NORSECHRISTFontIcons.dds</File>
+    <File md5="BF4B6570A297B614177BB4B4B6899A91" import="1">Art/LUNG_NORSECHRISTFontIcons.ggxml</File>
+    <File md5="6FD48E015A3B9D63E9F2C412F2916A7D" import="1">Art/LUNG_NORSECHRIST_128.dds</File>
+    <File md5="64D770DCB71F9030F07B95D1AF192D8A" import="1">Art/LUNG_NORSECHRIST_24.dds</File>
+    <File md5="95290322D4CA3CAC6D0F7F0E438420F2" import="1">Art/LUNG_NORSECHRIST_32.dds</File>
+    <File md5="3300E99B7DF21F5EB899C7BFBAEBCFD6" import="1">Art/LUNG_NORSECHRIST_48.dds</File>
+    <File md5="EB75CCA8E90D4DBC61899AE4FE701821" import="1">Art/LUNG_NORSECHRIST_64.dds</File>
+    <File md5="B735A2ED63F2CB1B0E7D0CF5C6204116" import="1">Art/LUNG_NORSECHRIST_80.dds</File>
+    <File md5="DED36C9F953817BA0D31D6312AF3735D" import="1">Art/norwaymap.dds</File>
+    <File md5="23BFCD5CD250F82D7AF139F557B50C41" import="1">Art/Norway_128.dds</File>
+    <File md5="13D7BDEB77D6DED2F7A6C016363E1DC6" import="1">Art/Norway_24.dds</File>
+    <File md5="B97258AB68C2AD05C38F374998293D01" import="1">Art/Norway_256.dds</File>
+    <File md5="2EDCE20512F9714B4C7852E7CA29A5EC" import="1">Art/Norway_32.dds</File>
+    <File md5="F5FDE9209510B5735F4659F410E97E8E" import="1">Art/Norway_45.dds</File>
+    <File md5="9E69CE6811B84C0A836D9A2FA4AD1CBA" import="1">Art/Norway_64.dds</File>
+    <File md5="D965271C20DA1088805652B39DB8A30D" import="1">Art/Norway_80.dds</File>
+    <File md5="CAF96697AF2EDD0269FA78B0412C1AEC" import="1">Art/olafalpha_128.dds</File>
+    <File md5="76A66F3C7CB6A53AFF9E82C9C942EAA0" import="1">Art/olafalpha_16.dds</File>
+    <File md5="F2A70537447FA1AB1EDBF2540A99A9EF" import="1">Art/olafalpha_24.dds</File>
+    <File md5="75A86182FD6C54A451114C2A1F736835" import="1">Art/olafalpha_256.dds</File>
+    <File md5="DDB76549E38E5091838CCA3A4AF13F02" import="1">Art/olafalpha_32.dds</File>
+    <File md5="A4960FDD5CAD874B82E9D6DD97928880" import="1">Art/olafalpha_48.dds</File>
+    <File md5="1F3631F9F77B1B04CD7FED0B68EA68D5" import="1">Art/olafalpha_64.dds</File>
+    <File md5="0099741FDDEDC8A929A7A31238CB015E" import="1">Art/olafalpha_80.dds</File>
+    <File md5="5C08216CD9FDB4AC6A6E9A69AB4A388C" import="1">Art/olafdrekar_128.dds</File>
+    <File md5="AC88AE74DDB7954DB55FDD53046233E0" import="1">Art/olafdrekar_256.dds</File>
+    <File md5="1ECE9132627D0A5B782102CE5FE3EBD4" import="1">Art/olafdrekar_45.dds</File>
+    <File md5="C9BAFCF7059F148FAB409260E7EDFE0E" import="1">Art/olafdrekar_64.dds</File>
+    <File md5="AEFA4DDD837A581F553B31636D386777" import="1">Art/olafdrekar_80.dds</File>
+    <File md5="52F0423BA21AF15C87AFD0C9F1D0AE11" import="1">Art/olafhirdsman_128.dds</File>
+    <File md5="E387F2013001595FB02E8EDA12B94721" import="1">Art/olafhirdsman_256.dds</File>
+    <File md5="C68FECE5396D1284D8D2A2E57C048FE3" import="1">Art/olafhirdsman_45.dds</File>
+    <File md5="B27D84D189552658BACD2BDBCDDEAB1B" import="1">Art/olafhirdsman_64.dds</File>
+    <File md5="B3B1F48591D6B9344CDFD49112A8612A" import="1">Art/olafhirdsman_80.dds</File>
+    <File md5="5C45EFD7FC511AD4A98BBE233BB0544C" import="1">Art/olafleader_128.dds</File>
+    <File md5="CBF9EE8463ECB4E76CF784CE1AFD48DD" import="1">Art/olafleader_256.dds</File>
+    <File md5="3899827D1014CF62B4CA6786FD123453" import="1">Art/olafleader_45.dds</File>
+    <File md5="C1C13E1D8DB4156C0FA3942F606113AD" import="1">Art/olafleader_64.dds</File>
+    <File md5="3ABCBABBEFFFCF2626C7807ABC6FC80C" import="1">Art/olafleader_80.dds</File>
+    <File md5="6C7090B2E05E4A9FB92D8F86D43A1945" import="1">Art/OlafLS.dds</File>
+    <File md5="79550DD7C5D27B034E15D2952DF58941" import="1">Art/Olafnorwaydom.dds</File>
+    <File md5="A182784E886C61FE1390B57B7091B5CE" import="1">Art/skuitilsveinralphasv.dds</File>
+    <File md5="CAC54DDE2710FA034FF5ACA3C9162585" import="1">Art/skuitilsveinralpha_32.dds</File>
+    <File md5="E779CD77D34D4339A81F94864E492F09" import="0">Lua/Lordie_Norway_Functions.lua</File>
+    <File md5="9204A22CC1FD1698D35E4AC2D3354479" import="0">Lua/PlotIterators.lua</File>
+    <File md5="9D897B573BAB8F70927B23191C219199" import="0">Xml/Art.xml</File>
+    <File md5="8E4323252F49319B194193D6ECA9FFE5" import="0">Xml/Civilization.xml</File>
+    <File md5="933F1F15A2E229D191EF464CFCEC5F71" import="0">Xml/Dialog.xml</File>
+    <File md5="3762DF357FE997513FEC2BC804742618" import="0">Xml/Diplomacy.sql</File>
+    <File md5="10190C50BC19C074A8CD4E960DB4E671" import="1">Xml/Lung_Olaf_Scene.xml</File>
+    <File md5="03A1DB7C80EFEA633240F318350AAD26" import="0">Xml/Leader.xml</File>
+    <File md5="3CA694A581E93D7297461A6006D746E1" import="0">Xml/Mod_Support.sql</File>
+    <File md5="C776D024A7B44841383734DE56ECC85C" import="0">Xml/NorseChristianity.xml</File>
+    <File md5="737019BFDB75004E1D9EA97DE5A51760" import="0">Xml/Olaf2_Improvements.xml</File>
+    <File md5="9B011D37EA62E1466A51CD0478FF6EA4" import="0">Xml/Olaf2_Promotions.xml</File>
+    <File md5="6CF8E33901FA3B0A7CEB355A9D00306B" import="0">Xml/Trait.xml</File>
+    <File md5="BE614DDC7C6030D7994075DDC86453E3" import="0">Xml/Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Xml/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Units.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Art.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Dialog.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Xml/Mod_Support.sql</UpdateDatabase>
+      <UpdateDatabase>Xml/NorseChristianity.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Olaf2_Improvements.xml</UpdateDatabase>
+      <UpdateDatabase>Xml/Olaf2_Promotions.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Lordie_Norway_Functions.lua">
+      <Name>LungNorwayFunctions</Name>
+      <Description>They power the Norway</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/PlotIterators.lua">
+      <Name>PlotIterators</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

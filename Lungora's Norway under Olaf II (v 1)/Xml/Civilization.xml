@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_LUNGNORWAY</Type>
+      <Description>TXT_KEY_CIV_LUNGNORWAY_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_LUNGNORWAY</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_LUNGNORWAY_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_LUNGNORWAY_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_LUNGNORWAY</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_LUNGNORWAY</ArtDefineTag>
+      <ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+      <ArtStyleSuffix>_EURO</ArtStyleSuffix>
+      <ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>LUNG_Norway_Civ_Icon_Atlas</IconAtlas>
+      <AlphaIconAtlas>Alpha_Lung_Norway</AlphaIconAtlas>
+      <MapImage>norwaymap.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_LUNGNORWAY_TEXT</DawnOfManQuote>
+      <DawnOfManImage>Olafnorwaydom.dds</DawnOfManImage>
+      <DawnOfManAudio></DawnOfManAudio>
+      <SoundtrackTag></SoundtrackTag>
+    </Row>
+  </Civilizations>
+
+  <!-- Civilization_BuildingClassOverrides -->
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_25</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_26</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_27</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_28</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_29</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_30</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_31</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_32</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_33</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_34</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_35</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_36</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_37</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_38</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_39</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_40</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_41</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_42</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_43</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_44</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_45</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_46</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_47</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_LUNGNORWAY_48</CityName>
+    </Row>
+  </Civilization_CityNames>
+  <!-- Civilization_DisableTechs -->
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <LeaderheadType>LEADER_LUNG_OLAFII</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <ReligionType>RELIGION_LUNG_NORSECHRIST</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_LUNGNORWAY_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_LUNGNORWAY_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_LUNGNORWAY_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_LUNGNORWAY_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_LUNGNORWAY_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_LUNGNORWAY_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_LUNGNORWAY_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_LUNGNORWAY_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_LUNGNORWAY_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_LUNGNORWAY_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <UnitClassType>UNITCLASS_SWORDSMAN</UnitClassType>
+      <UnitType>UNIT_LUNG_SKUTILSVEINR</UnitType>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <UnitClassType>UNITCLASS_CARAVEL</UnitClassType>
+      <UnitType>UNIT_LUNG_DREKKI</UnitType>
+    </Row>
+  </Civilization_UnitClassOverrides>
+  <Civilization_Start_Along_Ocean>
+    <Row>
+      <CivilizationType>CIVILIZATION_LUNGNORWAY</CivilizationType>
+      <StartAlongOcean>1</StartAlongOcean>
+    </Row>
+  </Civilization_Start_Along_Ocean>
+  <!-- Civilization_Start_Along_River -->
+  <!-- Civilization_Start_Region_Priority -->
+  <!-- Civilization_Start_Region_Avoid -->
+  <!-- Civilization_Start_Place_First_Along_Ocean -->
+
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_LUNGNORWAY</Type>
+      <PrimaryColor>COLOR_PLAYER_LUNGNORWAY_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_LUNGNORWAY_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_LUNGNORWAY_ICON</Type>
+      <Red>1</Red>
+      <Green>0.804</Green>
+      <Blue>0</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_LUNGNORWAY_BACKGROUND</Type>
+      <Red>0.90588</Red>
+      <Green>0.22</Green>
+      <Blue>0.192158</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_LUNGNORWAY_DESC">
+      <Text>Kingdom of Norway</Text>
+    </Row>
+
+    <Row Tag="TXT_KEY_CIV5_LUNGNORWAY_STATBOX">
+      <Text>[NEWLINE]        Leader: Olaf II[NEWLINE]        Unique Unit: Skutilsveinr[NEWLINE]        Unique Unit: Drekki[NEWLINE][NEWLINE]</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNGNORWAY_TEXT_1">
+      <Text>The Kingdom of Norwaywas a loosely unified nation including the territory of modern-day Norway, modern-day Swedish territory of Jämtland, Herjedalen, Ranrike and Idre and Särna, as well as Norway's overseas possessions which had been settled by Norwegian seafarers for centuries before being annexed or incorporated into the kingdom as 'tax territories'. To the North, Norway also bordered extensive tax territories on the mainland. Norway, whose expansionism starts from the very foundation of the Kingdom in 872, reached the peak of its power in the years between 1240 and 1319. [NEWLINE][NEWLINE]A unified realm was initiated by King Harald I Fairhair in the 9th century. His efforts in unifying the petty kingdoms of Norway, resulted in the first known Norwegian central government. The country however fragmented soon, and was again collected into one entity in the first half of the 11th century by King Olaf II Haraldsson. Norway has been a monarchy since Fairhair, passing through several eras.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNGNORWAY_TEXT_2">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNGNORWAY_TEXT_3">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNGNORWAY_TEXT_4">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNGNORWAY_TEXT_5">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNGNORWAY_TEXT_6">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNGNORWAY_TEXT_7">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNGNORWAY_TEXT_8">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNGNORWAY_TEXT_9">
+      <Text><!-- Add Civilopedia text here --></Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_LUNGNORWAY_TITLE">
+      <Text>Norway</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_LUNGNORWAY_SHORT_DESC">
+      <Text>Norway</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_LUNGNORWAY_ADJECTIVE">
+      <Text>Norwegian</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_LUNGNORWAY_TEXT">
+		<Text>Glory to God and Hail to you, King Olaf Haraldsson, masterful Viking and man of faith. Under your rule Norway was united again from squalling petty kingdoms under the neglect of the now dead King Cnut. And not just united under your crown it was, as you brought God to your heathen kin and raised many a stave church in his name forging pilgrimage routes still journeyed to this day. You would eventually be overthrown by squabbling lords yet your dynasty would carry on and proceed to rule Norway for centuries. [NEWLINE][NEWLINE]Great King, your liege in the heavens calls. Heathens and foreigners across the waves and mountains seek to undermine your rule and usurp your thrown. Will you mount your mighty longships and raid the stormy seas once more? Will you build a civilization to stand the test of time?</Text>
+	</Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_0">
+      <Text>Niðarós</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_1">
+      <Text>Skíringssalr</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_2">
+      <Text>Bjørgvin</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_3">
+      <Text>Ánslo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_4">
+      <Text>Kongahälla </Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_5">
+      <Text>Stafangr</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_6">
+      <Text>Sarpsborg</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_7">
+      <Text>Veøy</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_8">
+      <Text>Túnsberg</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_9">
+      <Text>Torgar</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_10">
+      <Text>Rørvik</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_11">
+      <Text>Ålesund</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_12">
+      <Text>Röndaberg</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_13">
+      <Text>Avaldsnes</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_14">
+      <Text>Dofrar</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_15">
+      <Text>Lesja</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_16">
+      <Text>Uppdalr</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_17">
+      <Text>Aker</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_18">
+      <Text>Hamarr</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_19">
+      <Text>Hœnvin</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_20">
+      <Text>Litlikaupangr</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_21">
+      <Text>Kongsvoll</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_22">
+      <Text>Hjarðkinn</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_23">
+      <Text>Orkardalr</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_24">
+      <Text>Tofte</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_25">
+      <Text>Staurin</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_26">
+      <Text>Dombås</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_27">
+      <Text>Askvoll</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_28">
+      <Text>Måløy</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_29">
+      <Text>Haugesund</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_30">
+      <Text>Otruness</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_31">
+      <Text>Rastakalv</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_32">
+      <Text>Östersund</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_33">
+      <Text>Arvika</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_34">
+      <Text>Eikundarsund</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_35">
+      <Text>Flikkarfjord</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_36">
+      <Text>Korshavn</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_37">
+      <Text>Lygnudalr</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_38">
+      <Text>Drammen</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_39">
+      <Text>Hillerod</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_40">
+      <Text>Sonderborg</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_41">
+      <Text>Skien</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_42">
+      <Text>Svendborg</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_43">
+      <Text>Holbaek</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_44">
+      <Text>Hjorring</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_45">
+      <Text>Fladstrand</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_46">
+      <Text>Haderslev</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_47">
+      <Text>Ringsted</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_LUNGNORWAY_48">
+      <Text>Skive</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_LUNGNORWAY_0">
+      <Text>Jørgen</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_LUNGNORWAY_1">
+      <Text>Mette</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_LUNGNORWAY_2">
+      <Text>Loki</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_LUNGNORWAY_3">
+      <Text>Bjørn</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_LUNGNORWAY_4">
+      <Text>Sif</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_LUNGNORWAY_5">
+      <Text>Ivar</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_LUNGNORWAY_6">
+      <Text>Ingrid</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_LUNGNORWAY_7">
+      <Text>Astrid</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_LUNGNORWAY_8">
+      <Text>Freja</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_LUNGNORWAY_9">
+      <Text>Eirik</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

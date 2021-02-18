@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/30/2019 10:42:36 AM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_OCP_DREKKI_DEBUFF</Type>
+			<Description>TXT_KEY_PROMOTION_OCP_DREKKI_DEBUFF</Description>
+			<Help>TXT_KEY_PROMOTION_OCP_DREKKI_DEBUFF_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_OCP_DREKKI_DEBUFF</PediaEntry>
+			<AttackMod>-25</AttackMod>
+			<DefenseMod>-25</DefenseMod>
+		</Row>
+		<Row>
+			<Type>PROMOTION_OCP_DREKKI_SPEED</Type>
+			<Description>TXT_KEY_PROMOTION_OCP_DREKKI_SPEED</Description>
+			<Help>TXT_KEY_PROMOTION_OCP_DREKKI_SPEED_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_OCP_DREKKI_SPEED</PediaEntry>
+			<MovesChange>3</MovesChange>
+			<ExtraNavalMovement>3</ExtraNavalMovement>
+		</Row>
+		<Row>
+			<Type>PROMOTION_OCP_SKUTILS_BUFF</Type>
+			<Description>TXT_KEY_PROMOTION_OCP_SKUTILS_BUFF</Description>
+			<Help>TXT_KEY_PROMOTION_OCP_SKUTILS_BUFF_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PEDIA_PROMOTION_OCP_SKUTILS_BUFF</PediaEntry>
+			<AttackMod>10</AttackMod>
+			<DefenseMod>10</DefenseMod>
+		</Row>
+	</UnitPromotions>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_PROMOTION_OCP_DREKKI_DEBUFF">
+			<Text>Dragon Fear</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OCP_DREKKI_DEBUFF_HELP">
+			<Text>Adjacent units have reduced combat strength.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OCP_DREKKI_SPEED">
+			<Text>Fast Sails</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OCP_DREKKI_SPEED_HELP">
+			<Text>Missionaries that start their turn embarked on the same tile as a Drekki have additional embark speed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OCP_SKUTILS_BUFF">
+			<Text>Heroic Aura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_OCP_SKUTILS_BUFF_HELP">
+			<Text>Grants +10% combat strength to units with 2 tiles.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

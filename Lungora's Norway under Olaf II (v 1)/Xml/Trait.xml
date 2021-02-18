@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Traits>
+    <Row>
+      <Type>TRAIT_LUNG_OLDESTSAGA</Type>
+      <Description>TXT_KEY_TRAIT_LUNG_OLDESTSAGA</Description>
+      <ShortDescription>TXT_KEY_TRAIT_LUNG_OLDESTSAGA_SHORT</ShortDescription>
+    </Row>
+  </Traits>
+
+  <!-- Trait_ExtraYieldThresholds -->
+  <!-- Trait_YieldChanges -->
+  <!-- Trait_YieldChangesStrategicResources -->
+  <!-- Trait_YieldChangesNaturalWonder -->
+  <!-- Trait_YieldChangesPerTradePartner -->
+  <!-- Trait_YieldChangesIncomingTradeRoute -->
+  <!-- Trait_YieldModifiers -->
+  <!-- Trait_FreePromotions -->
+  <!-- Trait_MovesChangeUnitCombats -->
+  <!-- Trait_MaintenanceModifierUnitCombats -->
+  <!-- Trait_Terrains -->
+  <!-- Trait_ResourceQuantityModifiers -->
+  <!-- Trait_FreeResourceFirstXCities -->
+  <!-- Trait_ImprovementYieldChanges -->
+  <!-- Trait_SpecialistYieldChanges -->
+  <!-- Trait_UnimprovedFeatureYieldChanges -->
+  <!-- Trait_NoTrain -->
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_TRAIT_LUNG_OLDESTSAGA">
+      <Text>Holy Sites [ICON_PROPHET] damage adjacent enemy units and provide defense [ICON_STRENGTH] equal to Citadels. City faith [ICON_FAITH] yield is directly converted to production [ICON_PRODUCTION] when building Land and Naval units.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_TRAIT_LUNG_OLDESTSAGA_SHORT">
+      <Text>Oldest Saga</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

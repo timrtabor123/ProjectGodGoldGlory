@@ -1,0 +1,700 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_GREATER_ARMENIA_DESCRIPTION">
+			<Text>------------------------------------[NEWLINE]CIVILIZATION: GREATER ARMENIA[NEWLINE]LEADER: TIGRANES II[NEWLINE][NEWLINE]TRAIT: ARTAXIAD SHAHANSHAH[NEWLINE]Walls and Castles provide [ICON_RES_HORSE] Horses and increase [ICON_PRODUCTION] Mounted Unit Production (+10%). Cities garrisoned with a Mounted Unit do not enter [ICON_RESISTANCE] Resistance.[NEWLINE][NEWLINE]UNIQUE UNIT: AZATAVREAR (KNIGHT)[NEWLINE]A powerful Knight replacement that heals damage every turn, increasing with the number of major Civilizations you are at war with. Only Greater Armenia may train it.[NEWLINE][NEWLINE]UNIQUE BUILDING: SIEGE WORKSHOP (WORKSHOP)[NEWLINE]Allows [ICON_PRODUCTION] Production to be moved from this city along trade routes inside your civilization. +10% [ICON_PRODUCTION] Production toward Siege Units and an additional +10% [ICON_PRODUCTION] Production toward Siege Units in cities receiving a [ICON_SWAP] Trade Route from a city with a Siege Workshop. This effect stacks.</Text>
+		</Row>
+		<!--GREATER ARMENIA-->
+		<Row Tag="TXT_KEY_CIV_JFD_GREATER_ARMENIA_ADJECTIVE">
+			<Text>Greater Armenian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_GREATER_ARMENIA_DESC">
+			<Text>Greater Armenian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_GREATER_ARMENIA_SHORT_DESC">
+			<Text>Greater Armenia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_GREATER_ARMENIA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_GREATER_ARMENIA_TEXT_1">
+			<Text>After the defeat of the Seleucid king Antiochus III (the Great) by Rome at the Battle of Magnesia (winter 190–189 bce), his two Armenian satraps, Artaxias (Artashes) and Zariadres (Zareh), established themselves, with Roman consent, as kings of Greater Armenia and Sophene, respectively, thus becoming the creators of an independent Armenia. Artaxias built his capital, Artashat (Artaxata), on the Aras River near modern Yerevan. The Greek geographer Strabo refers to the capital of Sophene as Carcathiocerta. An attempt to end the division of Armenia into an eastern and a western part was made about 165 bce when the Artaxiad ruler sought to suppress his rival, but it was left to his descendant Tigranes II (the Great; 95–55 bce) to establish, by his conquest of Sophene, a unity that was to last almost 500 years.[NEWLINE][NEWLINE]Under Tigranes, Armenia ascended to a pinnacle of power unique in its history and became, albeit briefly, the strongest state in the Roman east. Extensive territories were taken from the kingdom of Parthia in Iran, which was compelled to sign a treaty of alliance. Iberia (Georgia), Albania, and Atropatene had already accepted Tigranes’ suzerainty when the Syrians, tired of anarchy, offered him their crown (83 bce). Tigranes penetrated as far south as Ptolemais (modern ʿAkko, Israel).[NEWLINE][NEWLINE]Although Armenian culture at the time of Tigranes was Iranian, as it had been and as it was fundamentally to remain for many centuries, Hellenic scholars and actors found a welcome at the Armenian court. The Armenian empire lasted until Tigranes became involved in the struggle between his father-in-law, Mithradates VI Eupator of Pontus, and Rome. The Roman general Lucius Licinius Lucullus captured Tigranocerta, Tigranes’ new capital, in 69 bce. He failed to reach Artashat, but in 66 bce the legions of Pompey, aided by one of Tigranes’ sons, succeeded, compelling the king to renounce Syria and other conquests in the south and to become an ally of Rome. Armenia became a buffer state, and often a battlefield, between Rome and Parthia. Maneuvering between larger neighbours, the Armenians gained a reputation for deviousness; the Roman historian Tacitus called them an ambigua gens (“ambiguous people”).</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_01">
+			<Text>Tigranocerta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_02">
+			<Text>Artashat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_03">
+			<Text>Vagharshapat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_04">
+			<Text>Nakhchivan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_05">
+			<Text>Van</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_06">
+			<Text>Kumayri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_07">
+			<Text>Paytakaran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_08">
+			<Text>Her</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_09">
+			<Text>Yervandashat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_10">
+			<Text>Amaras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_11">
+			<Text>Bagaran</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_12">
+			<Text>Armavir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_13">
+			<Text>Karin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_14">
+			<Text>Mtsbin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_15">
+			<Text>Karkatiokert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_16">
+			<Text>Samosata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_17">
+			<Text>Edessa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_18">
+			<Text>Arbela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_19">
+			<Text>Ganzak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_20">
+			<Text>Artahan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_21">
+			<Text>Manzikert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_22">
+			<Text>Antioch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_23">
+			<Text>Beroea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_24">
+			<Text>Tigranakert of Artsakh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_25">
+			<Text>Adana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_26">
+			<Text>Adamakert</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_27">
+			<Text>Seleucia Pieria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_28">
+			<Text>Sisian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_29">
+			<Text>Yerevan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_GREATER_ARMENIA_30">
+			<Text>Arsamosata</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREATER_ARMENIA_0">
+			<Text>Xepharnuges</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREATER_ARMENIA_1">
+			<Text>Amazasp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREATER_ARMENIA_2">
+			<Text>Mihrdat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREATER_ARMENIA_3">
+			<Text>Pharasmanes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREATER_ARMENIA_4">
+			<Text>Arshak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREATER_ARMENIA_5">
+			<Text>Kartam</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREATER_ARMENIA_6">
+			<Text>Mirian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREATER_ARMENIA_7">
+			<Text>Erato</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREATER_ARMENIA_8">
+			<Text>Artaxias</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREATER_ARMENIA_9">
+			<Text>Tigranes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREATER_ARMENIA_10">
+			<Text>Artavasdes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_GREATER_ARMENIA_11">
+			<Text>Zariadres</Text>
+		</Row>
+		<!--Government-->
+		<Row Tag="TXT_KEY_JFD_LEGISLATURE_NAME_JFD_GREATER_ARMENIA">
+			<Text>Grand Council</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA">
+			<Text>Tagadir</Text>
+		</Row>
+		<!--Heads of Govt.-->
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_1">
+			<Text>Ashot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_2">
+			<Text>Smbat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_3">
+			<Text>Bakur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_4">
+			<Text>Artavasdes Mamikonian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_5">
+			<Text>Vache Mamikonian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_6">
+			<Text>Hamazasp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_7">
+			<Text>Hovhan Mamikonyan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_8">
+			<Text>Mushegh Mamikonian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_9">
+			<Text>Shushanik</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_10">
+			<Text>Vardandukht</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_11">
+			<Text>Papas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_12">
+			<Text>Vassak Mamikonian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_13">
+			<Text>Vardan Mamikonian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_14">
+			<Text>Hovsep Abgari Orbeli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_15">
+			<Text>Leon Abgarovich Orbeli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_16">
+			<Text>Sohaemus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_17">
+			<Text>Hasan-Jalal Dawla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_18">
+			<Text>David I Anhoghin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_19">
+			<Text>Gregory Taronites</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_20">
+			<Text>John Taronites</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_21">
+			<Text>Michael Taronites</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_22">
+			<Text>Abu Ghanim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_23">
+			<Text>Katranide</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_24">
+			<Text>Hovhannes-Smbat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_JFD_GREATER_ARMENIA_25">
+			<Text>Varaztirots Bagratuni</Text>
+		</Row>
+		<!--Politics-->
+		<Row Tag="TXT_KEY_JFD_ASSEMBLY_JFD_MILITARY_JFD_GREATER_ARMENIA">
+			<Text>National Military Council</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FACTION_JFD_NATIONALIST_JFD_GREATER_ARMENIA">
+			<Text>Dignity, Democracy, Motherland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_FACTION_JFD_POPULARIST_JFD_GREATER_ARMENIA">
+			<Text>Civic Contract</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_BURGHERS_JFD_GREATER_ARMENIA">
+			<Text>Azats</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_CLERGY_JFD_GREATER_ARMENIA">
+			<Text>Catholicoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_NOBILITY_JFD_GREATER_ARMENIA">
+			<Text>Nakharars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_REVOLUTIONARY_JFD_GREATER_ARMENIA">
+			<Text>Dashnaktsutyun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_CONSERVATIVE_JFD_GREATER_ARMENIA">
+			<Text>Law and Unity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_LIBERAL_JFD_GREATER_ARMENIA">
+			<Text>My Step Alliance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_REACTIONARY_JFD_GREATER_ARMENIA">
+			<Text>Greater Armenia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_SOCIALIST_JFD_GREATER_ARMENIA">
+			<Text>All Armenian Labour Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_COMMUNIST_JFD_GREATER_ARMENIA">
+			<Text>Armenian Communist Party</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_FASCIST_JFD_GREATER_ARMENIA">
+			<Text>Mighty Fatherland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_PARTY_JFD_LIBERTARIAN_JFD_GREATER_ARMENIA">
+			<Text>Prosperous Armenia</Text>
+		</Row>
+		<!--Provinces-->
+		<Row Tag="TXT_KEY_PROVINCE_JFD_BARONY_DESC_JFD_GREATER_ARMENIA">
+			<Text>Bnakavayr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_BARONY_DESC_RULER_JFD_GREATER_ARMENIA">
+			<Text>Aspet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_BARONY_DESC_RULER_JFD_GREATER_ARMENIA_FEMININE">
+			<Text>Aspet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_COUNTY_DESC_JFD_GREATER_ARMENIA">
+			<Text>Hamaynk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_COUNTY_DESC_RULER_JFD_GREATER_ARMENIA">
+			<Text>Melik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_COUNTY_DESC_RULER_JFD_GREATER_ARMENIA_FEMININE">
+			<Text>Melik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_DUCHY_DESC_JFD_GREATER_ARMENIA">
+			<Text>Marz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_DUCHY_DESC_RULER_JFD_GREATER_ARMENIA">
+			<Text>Tanuter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROVINCE_JFD_DUCHY_DESC_RULER_JFD_GREATER_ARMENIA_FEMININE">
+			<Text>Tanuter</Text>
+		</Row>
+		<!--Privy Councillors-->
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_CHANCELLOR_DESC_JFD_GREATER_ARMENIA">
+			<Text>Nakhararutyun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_CHAPLAIN_DESC_JFD_GREATER_ARMENIA">
+			<Text>Patriarch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_MARSHAL_DESC_JFD_GREATER_ARMENIA">
+			<Text>Sparapetutyun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_HERALD_DESC_JFD_GREATER_ARMENIA">
+			<Text>Aspetutyun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_COUNCILLOR_JFD_STEWARD_DESC_JFD_GREATER_ARMENIA">
+			<Text>Hazarapetutyun</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_TRIBE_TITLE_LEADER_JFD_GREATER_ARMENIA">
+			<Text>Aspet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_PRINCIPALITY_TITLE_LEADER_JFD_GREATER_ARMENIA">
+			<Text>Ishkhanats Ishkhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_MONARCHY_TITLE_LEADER_JFD_GREATER_ARMENIA">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_EMPIRE_TITLE_LEADER_JFD_GREATER_ARMENIA">
+			<Text>Great King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_REPUBLIC_TITLE_LEADER_JFD_GREATER_ARMENIA">
+			<Text>Bdeshkh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_REPUBLIC_LATE_TITLE_LEADER_JFD_GREATER_ARMENIA">
+			<Text>President</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_DICTATORSHIP_TITLE_LEADER_JFD_GREATER_ARMENIA">
+			<Text>Sparapet</Text>
+		</Row>
+		<!--TIGRANES II-->
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II">
+			<Text>Tigranes II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIGRANES_II_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIGRANES_II_TEXT_1">
+			<Text>Tigranes II or Tigranes the Great ruled as the king of Armenia from c. 95 to c. 56 BCE. Expanding in all directions, at its peak, Tigranes’ Armenian Empire stretched from the Black Sea to the Mediterranean. Not before or since would Armenians control such a huge swathe of Asia. Tigranes would only be checked once his kingdom became enmeshed in the ambitions of the two regional superpowers, Parthia and Rome, when his alliance with Mithridates VI, king of Pontus, proved his undoing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIGRANES_II_HEADING_2">
+			<Text>The Artaxiad Dynasty</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIGRANES_II_TEXT_2">
+			<Text>The Artaxiad (Artashesian) dynasty had replaced the Orontid dynasty and ruled ancient Armenia from c. 200 BCE to the first decade of the 1st century CE. Founded by Artaxias I (r. c. 200 - c. 160 BCE), the dynasty would ensure Armenia enjoyed a sustained period of prosperity and regional importance and no one would contribute more than their greatest king Tigranes II, widely considered the most important and successful ruler in Armenia’s entire history.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIGRANES_II_HEADING_3">
+			<Text>Succession</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIGRANES_II_TEXT_3">
+			<Text>After a rather dim period for the historical record of Armenia, a shining light suddenly arrives on the scene with a mass of documentation covering the reign of Tigranes II (aka Tigran II). There is the caveat that most sources, and all contemporary ones, are from the Romans and so they tend to be more than a little biased against one of their more serious foes in the east. Later sources help redress the balance but these can also have their problems in their sometimes obvious selection and omission of events for patriotic reasons.[NEWLINE][NEWLINE]Tigranes was put upon the throne of Armenia by the Parthians after his uncle, the Armenian king Artavasdes I, had been forced to send Tigranes as a hostage to the Parthians following his military defeat to that state. When his father Tigranes I died c. 95 BCE, Tigranes was sent back to Armenia to take his place on the throne. The new king had to cede the “Seventy Valleys” to the Parthians (a territory probably towards modern Azerbaijan) but he soon proved to be anything but a compliant client ruler.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIGRANES_II_HEADING_4">
+			<Text>Expanding the Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIGRANES_II_TEXT_4">
+			<Text>Tigranes was able to take advantage of the crumbling of the Seleucid Empire as well as the Parthians being distracted by the still chaotic aftermath of Mithridates II’s death in 91 BCE and invasions on their eastern borders. The Armenian monarch could thus set about expanding his own kingdom even further. First, he annexed the other part of traditional Armenia, the kingdom of Sophene in 94 BCE. With formidable siege engines and units of heavily-armoured cavalry, he then re-took the “Seventy Valleys” and went on an extended spree of conquest from 88 to 85 BCE. He conquered Cappadocia, Adiabene, Gordyene, Media Atropatene, Phoenicia and parts of Cilicia and Syria, including Antioch. The latter city invited him to be their king and subsequently minted silver tetradrachm coins with images of Tigranes wearing his eastern tiara and, on the reverse, a woman with a turreted crown and holding the palm of victory. The Armenian king even sacked Ecbatana, the Parthian royal summer residence in 87 BCE while the Parthians were struggling to deal with invading northern nomads.[NEWLINE][NEWLINE]Another policy of Tigranes’, besides conquest, was to improve trade relations with certain states, notably Babylonia. Trade contacts were set up with the Skenite Arabs, through whose territory goods could be exchanged with Babylon. This was also the reason why Tigranes took no risks and installed his brother as ruler of Nisibis which controlled trade from Mesopotamia to the west.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIGRANES_II_HEADING_5">
+			<Text>King of Kings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIGRANES_II_TEXT_5">
+			<Text>From 85 BCE, having acquired a decent-sized empire, Tigranes rather grandly began calling himself the “King of Kings” (Persian: shahanshah), although the title is further evidence that he left conquered monarchs to rule as vassals. Indeed, the Greek writer Plutarch (c. 45 - c. 125 CE) famously noted that Tigranes was always followed around by an entourage of four kings who acted as his servants. This comment may well have been based on a misunderstanding and the four men in question could well have been close counsellors who were also kings of their own respective regions but served the Armenian king as viceroys. Within the empire, conquered states might have kept their political apparatus but they were still obliged to pay tribute and contribute to Tigranes’ army. Further, populations were relocated to reduce dissension and increase loyalty wherever required. Tigranes’ title of King of Kings was then well justified and he made sure he looked the part.[NEWLINE][NEWLINE]Tigranes was noted as an admirer of Greek culture and the capital city he founded in 83 BCE, Tigranocerta (aka Tigranakert, meaning “Tigranes’ foundation” but of uncertain location), was famously Hellenistic in its architecture. The city had impressive fortifications with the walls reaching a height of 22 metres and incorporating stables, such was their thickness. There were also such amenities as a Greek theatre, hunting parks and pleasure gardens. Tigranes was said to have forcibly relocated (a traditional figure of) 300,000 people to the new city, most of them from Cappadocia. Reflecting the cosmopolitan nature of the city, and the empire in general, the Greek language was likely used, along with Persian and Aramaic, as the language of the nobility and administration while commoners spoke Armenian. Persian elements continued to be an important part of the Armenian cultural mix, too, especially in the area of religion and the formalities of the court such as titles and dress.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIGRANES_II_HEADING_6">
+			<Text>Mithridates VI & Rome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIGRANES_II_TEXT_6">
+			<Text>Tigranes then made his major political blunder and allied himself with Mithridates VI, the king of Pontus (r. 120-63 BCE) who was a great enemy of Rome with whom he had been waging war for over two decades. Admittedly, Tigranes had been married to Mithdridates’ daughter Cleopatra since 92 BCE and, really, it seemed that whichever side Armenia chose - Rome or Parthia - the small kingdom caught between these great empires would always come off second best.[NEWLINE][NEWLINE]The Roman Republic saw the danger of such an alliance between the two regional powers, a suspicion which was confirmed by a joint Tigranes-Mithridates campaign against the Roman client state of Cappadoccia. The Romans responded by attacking Pontus and when Mithridates fled to the court of Tigranes in 70 BCE they asked for the former to be handed over. When Tigranes refused, the Romans invaded Armenia. Tigranes was defeated by a Roman army commanded by the general Licinius Lucullus, Tigranocerta was besieged and, after the betrayal of the Greek garrison, captured in 69 BCE. The Armenian king was, consequently, forced to abandon his conquests. The conquering Romans were amazed at the wealth of Tigranocerta, and that after Tigranes had already managed to spirit away his royal treasury.[NEWLINE][NEWLINE]Lucullus then moved to attack the important city of Artaxata (Artasat) but with winter coming on, his supply line dangerously thin and exposed, and even a mutiny amongst his own troops, the Roman general was forced to withdraw. Tigranes’ army harried the retreating Romans using guerrilla tactics and although Lucullus captured Nisibis, he was recalled to Rome in 67 BCE. The respite would not last for long as the Roman Senate proved determined to stamp its authority on the region once and for all.[NEWLINE][NEWLINE]In 66 BCE another Roman army headed eastwards, this time led by Pompey the Great who had already won great acclaim. He had also celebrated two Roman triumphs; Pontus, Parthia and Armenia seemed as good a place as any to grab his third and a handsome load of booty to go with it. First, he attacked Pontus and sent Mithridates fleeing to the Black Sea. Next was Armenia’s turn and here he was aided by Tigranes’ traitorous third son, Tigranes the Younger.[NEWLINE][NEWLINE]Artaxata (now capital after Tigranocerta's demise) was attacked and, although it had resisted a Parthian siege the year before, quickly surrendered. Perhaps Tigranes did not want to see a repeat of the destruction at Tigranocerta and so there may not have been much actual fighting. Tigranes was now in old age and he seems to have bought off Pompey with the vast wealth he had been accumulating over a lifetime. Roman writers record that the Armenian king gave (or was made to give) 6,000 talents of silver to Pompey, 10,000 drachmas to each military tribune, 1000 drachmas for each centurion and 50 for each legionary. In these agreeable circumstances, Tigranes was permitted to retain the heartland of his kingdom trimmed of those territories he had acquired through conquest and with Sophene being given to his traitorous son - who incidentally got his comeuppance when he later insulted Pompey and so was marched to Rome for display in the general’s third triumph there.[NEWLINE][NEWLINE]Armenia was, thus, made into a Roman protectorate but it is debatable if the empire of Tigranes, made up of such disparate and forcibly relocated populations and which was so loosely joined via tribute and coercion without much political apparatus, would have survived very long even without Roman interference. Henceforth, the Armenian state, although officially a friend and ally of the Romans, remained strategically important in the region and so was still a bone of contention between Rome and Parthia (and its successor, Sasanid Persia). Tigranes continued to rule most of Armenia quietly enough as a vassal state of the Roman Empire, acting as a useful buffer to the Parthians until his death c. 56 BCE aged around 85.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIGRANES_II_HEADING_7">
+			<Text>The Fall of the Artaxiads</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIGRANES_II_TEXT_7">
+			<Text>Tigranes was succeeded by his son, Artavasdes II (r. c. 56 - c. 34 BCE) but the wheels were already coming off the Artaxiad success train. The Roman general Marcus Licinius Crassus obliged Artavasdes to support his disastrous campaign against the Parthians in 53 BCE and then, in 36 BCE, the region was again destabilised when yet another Roman general, this time Mark Antony, passed through, and the Armenians were, once more, asked to provide troops. The Romans were defeated again by their nemesis the Parthians. In 34 BCE Antony turned his attention to Armenia, moved against the Artaxiads and took Artavasdes captive to Alexandria where he would later be executed by Queen Cleopatra. There followed a merry go round of changes in sovereign over the next few decades, first a ruler supported by Rome, then by Parthia until the Artaxiad dynasty fell, replaced by the Arsacid (Arshakuni) dynasty and their founder, Vonon (Vonones), who took the throne c. 12 CE.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIGRANES_II_NAME">
+			<Text>Tigranes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIGRANES_II_SUBTITLE">
+			<Text>Leader of Greater Armenia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIGRANES_II_TITLES_1">
+			<Text>Great King of Armenia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_TIGRANES_II_LIVED">
+			<Text>140 - 55 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JFD_GREATER_ARMENIA_TEXT">
+			<Text>Great Tigranes, King of Kings, you tower over the lands of Greater Armenia. It was under your rule that Armenia's ancient dynasties would finally be put to heel and, at your command, would give rise to a powerful kingdom like no other. So great was Armenia's strength that no army could overcome it. From Rome to Parthia, neighbouring empires trembled in fear. It is upon your example that future Armenian kings would look in both awe and envy.[NEWLINE][NEWLINE]Mighty Tigranes Magnus, Armenia is faced once again with great foes. These are the greatest empires of the world, and Armenia stands at their cross-roads. Can you lead the defense of your realm? Can you unite your bickering nobles to ensure Armenia remains free and strong? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_FIRSTGREETING_1">
+			<Text>Who comes before the great Tigranes II, King of Kings? These lands belong to Greater Armenia, and they bend to no will but my own. Speak quickly and leave my sight.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_DEFEATED_1">
+			<Text>My armies have been defeated, and I have been cast down. I hand to you the crown of the King of Kings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_ATTACKED_EXCITED_1">
+			<Text>I relish the opportunity to test the strength of my forces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_ATTACKED_HOSTILE_1">
+			<Text>Empires mightier than yours have tried the same and failed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_ATTACKED_SAD_1">
+			<Text>I had hoped I would not have to crush you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_DEC_FRIENDSHIP_1">
+			<Text>Honour is the only alternative to violence. Will you join Greater Armenia in a public Declaration of Friendship?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_DENOUNCE_1">
+			<Text>You are a blight upon these lands. All before me will know that yours is a throne free for the taking.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_DONT_SETTLE_NO_1">
+			<Text>You are in no position to make demands of me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_DONT_SETTLE_YES_1">
+			<Text>I will honour the wishes of a noble leader.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_DOW_GENERIC_1">
+			<Text>Enough. It is clear to me that we cannot co-exist in peace. We must go to war to decide who is righteous.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_DOW_LAND_1">
+			<Text>Enough. It is clear to me that we cannot co-exist in peace. We must go to war to decide who righteously rules these lands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_DOW_WORLD_CONQUEST_1">
+			<Text>Enough. It is clear to me that we cannot co-exist in peace. We must go to war to decide who righteously rules this world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_EMBASSY_EXCHANGE_1">
+			<Text>I am willing to seek diplomacy not war. Shall we begin with an embassy together?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_EXPANSION_SERIOUS_WARNING_1">
+			<Text>The lands of Greater Armenia are not yours to take. Soon, this expansion will lead to battle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_GREETING_AT_WAR_HOSTILE_1">
+			<Text>Come to bend the knee?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_GREETING_POLITE_HELLO_1">
+			<Text>You are welcome at my court.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_GREETING_NEUTRAL_HELLO_1">
+			<Text>I'm listening.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_GREETING_HOSTILE_HELLO_1">
+			<Text>If you must speak, then so do quickly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Are you so willing to throw away the lives of good men and soldiers? Turn back, or Greater Armenia will consume your forces.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now visiting your pagan temples and gathering at your vernissage markets! We're worried the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_INFLUENTIAL_ON_HUMAN_1">
+			<Text>We are glad to see that your people are now visiting our ancient temples and gathering at our vernissage markets. The amazing works of our civilization are truly inspiring!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_INSULT_CITIES_1">
+			<Text>Why don't you just give-in? Yours is no empire. Come, bend your knee as my vassal and let's stop playing this game.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_INSULT_MILITARY_1">
+			<Text>Hardly soldiers but children with toy swords. And are those steeds or painted asses?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_INSULT_POPULATION_1">
+			<Text>How is it you can say such a small realm as yours is worth keeping independent? Much better for your people to bend the knee to someone stronger.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_LETS_HEAR_IT_1">
+			<Text>Let's hear it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_LUXURY_TRADE_1">
+			<Text>Your great wealth is well-known. And so is my greatness as an ally. Perhaps we could make an exchange.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_NO_PEACE_1">
+			<Text>Not so long as I can still mount my horse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_OPEN_BORDERS_EXCHANGE">
+			<Text>I invite you to share in an open borders agreement with me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_PEACE_OFFER_1">
+			<Text>The time has come to rest. Peace, or we will both fall soon enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_REPEAT_NO_1">
+			<Text>I tire of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_REPEAT_TRADE_1">
+			<Text>These trade talks are growing tiresome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_RESPONSE_REQUEST_1">
+			<Text>Greater Armenia is in need. I ask for your help from one sovereign to another.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>I do not fear you and your talk. Return to me when you have a sword to swing.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_TOO_SOON_FOR_DOF_1">
+			<Text>You are no friend to Greater Armenia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_TOO_SOON_NO_PEACE_1">
+			<Text>I would take perpetual war before an unstable peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_WARMONGER_1">
+			<Text>You reputation for war my precede you, but with it you have only wrought instability - not glory - upon your own people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_TIGRANES_II_WINWAR_1">
+			<Text>I pronounced that no power could breach Greater Armenia's borders, and I spoke the truth. But I am willing to let you submit.</Text>
+		</Row>
+		<!--ARTAXIAD SHAHANSHAH-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_GREATER_ARMENIA_SHORT">
+			<Text>Artaxiad Shahanshah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_GREATER_ARMENIA">
+			<Text>Walls and Castles provide [ICON_RES_HORSE] Horses and increase [ICON_PRODUCTION] Mounted Unit Production (+10%). Cities garrisoned with a Mounted Unit do not enter [ICON_RESISTANCE] Resistance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_GREATER_ARMENIA_HORSES_HELP">
+			<Text>+1 [ICON_RES_HORSE] Horses. +10% [ICON_PRODUCTION] Production toward Mounted Units.</Text>
+		</Row>
+		<!--Artaxiad Shahanshah-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GREATER_ARMENIA">
+			<Text>Artaxiad Shahanshah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GREATER_ARMENIA_HELP">
+			<Text>No [ICON_RESISTANCE] Resistance for this city [COLOR_POSITIVE_TEXT]when this Mounted Unit is garrisoned[ENDCOLOR].</Text>
+		</Row>
+		<!--JFD: Greater Armenia Production-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_GREATER_ARMENIA_PRODUCTION">
+			<Text>JFD: Greater Armenia Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_GREATER_ARMENIA_PRODUCTION_HELP">
+			<Text>+20% [ICON_PRODUCTION] Mounted Unit Production.</Text>
+		</Row>
+		<!--SIEGE WORKSHOP-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_SIEGE_WORKSHOP">
+			<Text>Siege Workshop</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SIEGE_WORKSHOP_HELP">
+			<Text>Allows [ICON_PRODUCTION] Production to be moved from this city along trade routes inside your civilization. +10% [ICON_PRODUCTION] Production toward Siege Units and an additional +10% [ICON_PRODUCTION] Production toward Siege Units in cities receiving a [ICON_SWAP] Trade Route from a city with a Siege Workshop. This effect stacks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SIEGE_WORKSHOP_STRATEGY">
+			<Text>The Greater Armenian Siege Workshop is a unique replacement for the Workshop. It speeds a city's [ICON_PRODUCTION] Production and allows Domestic Trade Routes to send [ICON_PRODUCTION] Production to other cities. In addition to boosting the Production of Siege Units in a city, cities - both domestic and foreign - that receive a Trade Route from a city with a Siege Workshop also gain a boost in constructing Siege Units. This effect stacks, allowing you to quickly build up your siege weapons or those of your allies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SIEGE_WORKSHOP_TEXT">
+			<Text>A siege engine is a device that is designed to break or circumvent heavy castle doors, thick city walls and other fortifications in siege warfare. Some are immobile, constructed in place by sappers to attack enemy fortifications from a distance, while others have wheels to enable advancing up to the enemy fortification. The Armenians provided great help in the Crusaders' military campaigns in the Levant. In fact, the Crusaders employed Armenian siege engineers throughout their campaigns. For example, a certain specialist named "Havedic" designed the machines used to attack Tyre in 1124.</Text>
+		</Row>
+		<!--MCIS-->
+		<Row Tag="TXT_KEY_JFD_SIEGE_WORKSHOP_PRODUCTION_CITY_VIEW_HELP">
+			<Text>+{1_Num}% [ICON_PRODUCTION] Production toward Siege Units</Text>
+		</Row>
+		<!--JFD: Siege Workshop Production-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_SIEGE_WORKSHOP_PRODUCTION">
+			<Text>JFD: Siege Workshop Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_SIEGE_WORKSHOP_PRODUCTION_HELP">
+			<Text>+10% [ICON_PRODUCTION] Production toward Siege Units.</Text>
+		</Row>
+		<!--AZATAVREAR-->
+		<Row Tag="TXT_KEY_UNIT_JFD_AZATAVREAR">
+			<Text>Azatavrear</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_AZATAVREAR_HELP">
+			<Text>A powerful Knight replacement that heals damage every turn, increasing with the number of major Civilizations you are at war with. Only Greater Armenia may train it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_AZATAVREAR_STRATEGY">
+			<Text>The unique Greater Armenian Knight replacement is the Azatavrear. This unit is slightly stronger than the Knight, and in addition, it heals an extra +10 Damage per major Civilization with whom Greater Armenia is at war, up to 50 Damage each turn. Azatavrear will make for a sturdy and reliable mainstay in the Armenian force.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_AZATAVREAR_TEXT">
+			<Text>From ancient times in Armenia there existed "Azatavrear" cavalry which consisted of the Armenian elite. Azatavrear cavalry made up the main part of the Armenian king's court. In medieval times these cavalry were collected from nobles (usually the youngest sons of Armenian lords), and were known as Ayrudzi, or "horsemen." During times of peace, Armenian cavalry were divided into small groups which took the roles of guarding the King and other Armenian lords, as well as their families. Some part of the Armenian cavalry force was always patrolling Armenian borders, under the command of an Armenian general (sparapet). The group of Armenian cavalry whose main mission was the protection of the Armenian king and his family consisted of 6000 heavily armored horsemen in the ancient period, and 3000 horsemen in the medieval period. During times of war, the number of Armenian cavalry would rise, with estimates ranging from 10,000 to at least 20,000 horsemen. Besides heavy cavalry, there was also light cavalry, which primarily consisted of mounted archers.</Text>
+		</Row>
+		<!--Royal Vanguard-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_AZATAVREAR">
+			<Text>Royal Vanguard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_AZATAVREAR_HELP">
+			<Text>Heals 10 damage per major Civilization with whom you are at war, up to 50 per turn.</Text>
+		</Row>
+		<!--ACHIEVEMENTS-->
+		<!--JFDLC-->
+		<Replace Tag="TXT_KEY_TAB_JFD_JFDLC_HEADER">
+			<Text>JFDLC</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_TAB_JFD_JFDLC_DESC">
+			<Text>All Achievements related to or added by JFD mods.</Text>
+		</Replace>
+		<!--JFD's Civilizations - Greater Armenia-->
+		<Row Tag="TXT_KEY_MOD_JFD_GREATER_ARMENIA_NAME">
+			<Text>JFD's Civilizations - Greater Armenia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_JFD_GREATER_ARMENIA_MODID">
+			<Text>b9d05fa0-b262-47ea-b473-0b7530008ab2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_JFD_GREATER_ARMENIA_AUTHORS">
+			<Text>JFD, Leugi, Poom, Keniisu, DarthStarKiller, SeelingCat</Text>
+		</Row>
+		<!--A Great King for a Greater Armenia-->
+		<Row Tag="TXT_KEY_AA_JFD_GREATER_ARMENIA_VICTORY_HEADER">
+			<Text>A Great King for a Greater Armenia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_JFD_GREATER_ARMENIA_VICTORY_TEXT">
+			<Text>Beat the game on any difficulty setting as Tigranes II of Greater Armenia.</Text>
+		</Row>
+		<!--Tigranes Magnus-->
+		<Row Tag="TXT_KEY_AA_JFD_GREATER_ARMENIA_SPECIAL_HEADER">
+			<Text>Tigranes Magnus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_JFD_GREATER_ARMENIA_SPECIAL_TEXT">
+			<Text>As Tigranes II of Greater Armenia, be fighting three wars with Civilizations with more Cities than you at once.</Text>
+		</Row>
+		<!--DECISIONS-->
+		<!--Consolidate Power over the Nakharars-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_GREATER_ARMENIA_NAKHARARS">
+			<Text>Consolidate Power over the Nakharars</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_GREATER_ARMENIA_NAKHARARS_DESC">
+			<Text>
+				The feudal privileges of the Armenian nobility is an impediment to the power of the state. They - the Nakharar - must be brought to heel before us, their {1_Title}.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE]{2_Icon}Must have at least 3 [ICON_RES_HORSE] Horses.
+				[NEWLINE]{3_Icon}Must have at least 3 Great Generals.
+				[NEWLINE][ICON_UNCHECKBOX]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{4_Num} [ICON_GOLD] Gold.
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]All current Great Generals are converted into Azatavrear. These Azatavrear begin with +15 XP.
+				[NEWLINE][NEWLINE][COLOR_WARNING_TEXT]Note: The [ICON_GOLD] Gold cost increases with each Great General you have.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_GREATER_ARMENIA_NAKHARARS_ENACTED_DESC">
+			<Text>
+				The feudal privileges of the Armenian nobility is an impediment to the power of the state. They - the Nakharar - must be brought to heel before us, their {1_Title}.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]All current Great Generals are converted into Azatavrear. These Azatavrear begin with +15 XP.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_GREATER_ARMENIA_NAKHARARS">
+			<Text>{1_LeaderName} of {2_CivName} has united his power over the Armenian nobility to begin his goal to construct an empire.</Text>
+		</Row>
+		<!--Patron Greek Theatre-->
+		<Row Tag="TXT_KEY_DECISIONS_JFD_GREATER_ARMENIA_GREEK_THEATRE">
+			<Text>Patron Greek Theatre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_GREATER_ARMENIA_GREEK_THEATRE_DESC">
+			<Text>
+				Rightly, we are known for our great love of Greek culture. It is a source of not only the enlightenment of our people but also of their entertainment. Rightly, then, we must become a patron of that most Greek of past-times - the theatre and its drama.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE]{1_Icon}Must control at least one foreign Capital.
+				{2_Icon}May only be enacted from the beginning of the Classical Era.
+				[NEWLINE][ICON_UNCHECKBOX]May only be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{3_Num} [ICON_CULTURE] Culture.
+				[NEWLINE][ICON_BULLET]{4_Num} [ICON_GOLD] Gold.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Construct Amphitheatres 10% faster.
+				[NEWLINE][ICON_BULLET]Amphitheatres yield +1 [ICON_HAPPINESS_1] Happiness.
+				[NEWLINE][COLOR_WARNING_TEXT]Note: The [ICON_CULTURE] Culture and [ICON_GOLD] Gold costs increase with each city you have.[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_JFD_GREATER_ARMENIA_GREEK_THEATRE_ENACTED_DESC">
+			<Text>
+				Rightly, we are known for our great love of Greek culture. It is a source of not only the enlightenment of our people but also of their entertainment. Rightly, then, we must become a patron of that most Greek of past-times - the theatre and its drama.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Construct Amphitheatres 10% faster.
+				[NEWLINE][ICON_BULLET]Amphitheatres yield +1 [ICON_HAPPINESS_1] Happiness.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_WORLD_EVENT_JFD_GREATER_ARMENIA_GREEK_THEATRE">
+			<Text>{1_LeaderName} of {2_CivName} has become a patron of Greek culture.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b9d05fa0-b262-47ea-b473-0b7530008ab2" version="1">
+  <Properties>
+    <Name>JFD's Civilizations - Greater Armenia (Tigranes II)</Name>
+    <Teaser>Adds [COLOR_CYAN]Greater Armenia under Tigranes II[ENDCOLOR]. Click for details.</Teaser>
+    <Description>------------------------------------[NEWLINE]CIVILIZATION: GREATER ARMENIA[NEWLINE]LEADER: TIGRANES II[NEWLINE][NEWLINE]TRAIT: ARTAXIAD SHAHANSHAH[NEWLINE]Walls and Castles provide [ICON_RES_HORSE] Horses and increase [ICON_PRODUCTION] Mounted Unit Production (+10%). Cities garrisoned with a Mounted Unit do not enter [ICON_RESISTANCE] Resistance.[NEWLINE][NEWLINE]UNIQUE UNIT: AZATAVREAR (KNIGHT)[NEWLINE]A powerful Knight replacement that heals damage every turn, increasing with the number of major Civilizations you are at war with. Only Greater Armenia may train it.[NEWLINE][NEWLINE]UNIQUE BUILDING: SIEGE WORKSHOP (WORKSHOP)[NEWLINE]Allows [ICON_PRODUCTION] Production to be moved from this city along trade routes inside your civilization. +10% [ICON_PRODUCTION] Production toward Siege Units and an additional +10% [ICON_PRODUCTION] Production toward Siege Units in cities receiving a [ICON_SWAP] Trade Route from a city with a Siege Workshop. This effect stacks.</Description>
+    <Authors>JFD, Leugi, Poom, Keniisu, DarthStarKiller, SeelingCat</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Rise to Power" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events and Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="68CAFB000490E10DA446B50A12F8E2E9" import="1">Art/Font Icons/FontIcons_CheckBox_22.dds</File>
+    <File md5="DFD94044A521926701E1F822B88A57AF" import="1">Art/Font Icons/FontIcons_CheckBox_22.ggxml</File>
+    <File md5="53F7558A4E62422918B4A555AE3C1656" import="1">Art/Font Icons/FontIcons_UncheckBox_22.dds</File>
+    <File md5="E8510719093B198D9628B4BE0D9DB708" import="1">Art/Font Icons/FontIcons_UncheckBox_22.ggxml</File>
+    <File md5="F6EE48DFCA898C1F8BACAAE093E3F52F" import="1">Art/Graphics/Azatavrear/Azatavrear.fxsxml</File>
+    <File md5="6A8FC6182E47E8E655FCD312F8FAB8AF" import="1">Art/Graphics/Azatavrear/Azatavrear.gr2</File>
+    <File md5="571CAE36D7C38349A31A9811B45A224B" import="1">Art/Graphics/Azatavrear/Azatavrear_diff.dds</File>
+    <File md5="8A692870F17C5BEB6C60D95854CE138C" import="1">Art/Graphics/Azatavrear/sv_Azatavrear.dds</File>
+    <File md5="93D2C0931C1C42D7E73A24134BA7DCE1" import="1">Art/Icon Atlases/JFD_GreaterArmenia_AchievementAtlas_128.dds</File>
+    <File md5="239A47076944F5183A0225A19F20E139" import="1">Art/Icon Atlases/JFD_GreaterArmenia_AchievementAtlas_256.dds</File>
+    <File md5="27E37B090533CA46666E8D429FE0F57C" import="1">Art/Icon Atlases/JFD_GreaterArmenia_AchievementAtlas_45.dds</File>
+    <File md5="CB5A59F1633FD0814B1BC5D54C56CD19" import="1">Art/Icon Atlases/JFD_GreaterArmenia_AchievementAtlas_64.dds</File>
+    <File md5="14DB9FD11E2E0D9F7E5EC3E81B9CFA9A" import="1">Art/Icon Atlases/JFD_GreaterArmenia_AchievementAtlas_80.dds</File>
+    <File md5="0E13451245B5191E6A430A0C7001D10E" import="1">Art/Icon Atlases/JFD_GreaterArmenia_AlphaAtlas_128.dds</File>
+    <File md5="B98571B4971954FE94F9F808A9E59CEB" import="1">Art/Icon Atlases/JFD_GreaterArmenia_AlphaAtlas_16.dds</File>
+    <File md5="5D456803D5C402EF08BFD84B4CB483DA" import="1">Art/Icon Atlases/JFD_GreaterArmenia_AlphaAtlas_24.dds</File>
+    <File md5="057872981FF19C08FDD85474DBCABD34" import="1">Art/Icon Atlases/JFD_GreaterArmenia_AlphaAtlas_32.dds</File>
+    <File md5="4771E8792A0FC3D69C49CB97F9CE51F7" import="1">Art/Icon Atlases/JFD_GreaterArmenia_AlphaAtlas_45.dds</File>
+    <File md5="3C8BACF0E033FB42A4A7E17110395AC8" import="1">Art/Icon Atlases/JFD_GreaterArmenia_AlphaAtlas_48.dds</File>
+    <File md5="9A8669C748BEB954983B7E7CC11830AC" import="1">Art/Icon Atlases/JFD_GreaterArmenia_AlphaAtlas_64.dds</File>
+    <File md5="51D413E7794AF07BB69D0F088DB48C5F" import="1">Art/Icon Atlases/JFD_GreaterArmenia_AlphaAtlas_80.dds</File>
+    <File md5="133BDC085661D9382F1D8534D0F865F2" import="1">Art/Icon Atlases/JFD_GreaterArmenia_IconAtlas_128.dds</File>
+    <File md5="A43549E2DDA473ADC847D62BF3CDE3FB" import="1">Art/Icon Atlases/JFD_GreaterArmenia_IconAtlas_256.dds</File>
+    <File md5="23598E7BBA85B04964A0468FBCF0AE8A" import="1">Art/Icon Atlases/JFD_GreaterArmenia_IconAtlas_32.dds</File>
+    <File md5="A6D53B3DA2729E93FC0D0218002ED41A" import="1">Art/Icon Atlases/JFD_GreaterArmenia_IconAtlas_45.dds</File>
+    <File md5="B1C3A398DCBB073A9B7C5EF61576D5E9" import="1">Art/Icon Atlases/JFD_GreaterArmenia_IconAtlas_64.dds</File>
+    <File md5="A16579A9671651214E1FCC70B2001DA1" import="1">Art/Icon Atlases/JFD_GreaterArmenia_IconAtlas_80.dds</File>
+    <File md5="7C4968193AD47F7681821C563FC2BC28" import="1">Art/Icon Atlases/JFD_GreaterArmenia_UnitFlagAtlas_32.dds</File>
+    <File md5="21CDCEED7D81983A502F1C20ED00BC57" import="1">Art/Icon Atlases/Tomatekh_PromotionAtlas_256.dds</File>
+    <File md5="4515CFD32CBCA5FD9B31BA7E74BDF85D" import="1">Art/Icon Atlases/Tomatekh_PromotionAtlas_32.dds</File>
+    <File md5="2D64910169FF17FBFD6D2CFAAAADE518" import="1">Art/Icon Atlases/Tomatekh_PromotionAtlas_45.dds</File>
+    <File md5="D2E665F6B269588CF10F19FE789271C9" import="1">Art/Icon Atlases/Tomatekh_PromotionAtlas_64.dds</File>
+    <File md5="1D3ADB72345079A1590AC39EC7035E8E" import="1">Art/Images/DefeatScreenGreaterArmenia.dds</File>
+    <File md5="36EE4006AAEA7D6F03E99AB24F7C3848" import="1">Art/Leaderscene/JFD_TigranesII_Diplo.dds</File>
+    <File md5="A033FCC4A05DE063494A167D405CEF9C" import="1">Art/Leaderscene/JFD_TigranesII_Scene.xml</File>
+    <File md5="7C76B3F8F38E0C3E163DF6D46BF30E4C" import="1">Art/Map/JFD_DOM_GreaterArmenia.dds</File>
+    <File md5="D959D7BA14A005EC6C43D1C8E73CE8CE" import="1">Art/Map/JFD_MapGreaterArmenia512.dds</File>
+    <File md5="F488291B0EF9923357BD02DF546508BE" import="1">Audio/Themes/JFD_TigranesII_Peace.mp3</File>
+    <File md5="6146D120C122B83DC56F1A3A74D147C7" import="1">Audio/Themes/JFD_TigranesII_War.mp3</File>
+    <File md5="76EC910F389FCAC1C0D2E40A24E101E0" import="0">Core/GreaterArmenia_ArtDefines.sql</File>
+    <File md5="3A125FBB5FCCBA319FC37BC3C7145334" import="0">Core/GreaterArmenia_GameDefines.sql</File>
+    <File md5="882DDB46F2B414AB0915F66D6CEA09CA" import="0">Core/GreaterArmenia_GameText.xml</File>
+    <File md5="DC70E8C186119CD75D79075A8617B385" import="0">Core/GreaterArmenia_ModSupport.sql</File>
+    <File md5="F2825BF874A902868A9204AE97481F60" import="0">Credits.txt</File>
+    <File md5="D69F7D339D0BEAFF6810627F8D9AA2A3" import="1">Lua/JFD_Civs_GreaterArmenia_Decisions.lua</File>
+    <File md5="279D9ACE73B3E1D864BE12EBA4BC6061" import="0">Lua/JFD_Civs_GreaterArmenia_Functions.lua</File>
+    <File md5="5B204276619D2B35C98002E79B442FBB" import="1">Lua/Utilities/AdditionalAchievementsUtility.lua</File>
+    <File md5="64DF635BD57CDEB13DC1038934568A7E" import="0">Lua/Utilities/Sukritact MCIS/CityInfoStack.lua</File>
+    <File md5="4E7C5E4894BC0A0E0CBA1743787E1015" import="0">Lua/Utilities/Sukritact MCIS/CityInfoStack.xml</File>
+    <File md5="AE86D802C7FC6576C4BE98953DE526B3" import="0">Lua/Utilities/Sukritact MCIS/JFD_Civs_GreaterArmenia_SiegeWorkshop_CityInfo.lua</File>
+    <File md5="84A4B4DF404781DD55B9EA0F3CFDE8F7" import="0">Lua/Utilities/Sukritact MCIS/JFD_Civs_GreaterArmenia_SiegeWorkshop_CityInfo.xml</File>
+    <File md5="B697AAE7D969DA7A8D5FB32C1047F9BC" import="0">RandomSupport.txt</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/GreaterArmenia_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GreaterArmenia_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GreaterArmenia_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GreaterArmenia_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Civs_GreaterArmenia_Functions.lua">
+      <Name>JFD_Civs_GreaterArmenia_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact MCIS/CityInfoStack.xml">
+      <Name>CityInfoStack.xml</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact MCIS/JFD_Civs_GreaterArmenia_SiegeWorkshop_CityInfo.xml">
+      <Name>JFD_Civs_GreaterArmenia_SiegeWorkshop_CityInfo.xml</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

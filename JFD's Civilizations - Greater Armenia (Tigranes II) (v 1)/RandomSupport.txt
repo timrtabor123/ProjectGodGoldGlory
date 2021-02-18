@@ -1,0 +1,36 @@
+TraitBasedLua = 'TRUE';
+
+OVERRIDE_AUTO  = { 
+	CIVILIZATIONS = {
+		CIVILIZATION = {
+			Civilization = 'CIVILIZATION_JFD_GREATER_ARMENIA';
+			Leader = 'LEADER_JFD_TIGRANES_II';
+		};
+	};
+
+	MOD_SUPPORT = {
+		Civ4Traits = {
+			LEADER_JFD_TIGRANES_II = {
+				Leader 	= 	'LEADER_JFD_TIGRANES_II';
+				LeaderTXT	=	'Tigranes ';
+			};
+		};
+	};
+
+	COMPONENTS = {
+		COMPONENT = {
+			Type = 'UNIT_JFD_AZATAVREAR';
+			Class = 'UNITCLASS_KNIGHT';
+		};
+		COMPONENT = {
+			Type = 'BUILDING_JFD_SIEGE_WORKSHOP';
+			Class = 'BUILDINGCLASS_WORKSHOP';
+		};
+	};
+
+	TRAITS = {
+		TRAIT = {
+			Type = 'TRAIT_JFD_GREATER_ARMENIA';
+		};
+	};
+};

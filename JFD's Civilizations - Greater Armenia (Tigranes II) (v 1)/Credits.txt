@@ -1,0 +1,61 @@
+-- Credits
+-- Author: JFD
+-- DateCreated: 1/6/2018 1:43:31 PM
+----------------
+JFD: 
+----------------
+	Author
+	Art (Civ Icon, Unit Flag)
+	Coding 
+	Design 
+	Research 
+	Writing
+----------------
+DarthStarKiller: 
+----------------
+	Art (Unit Icon)
+----------------
+Keniisu: 
+----------------
+	Art (Leader Icon)
+----------------
+Leugi: 
+----------------
+	Art (Leaderscene)
+----------------
+Poom: 
+----------------
+	Art (Map)
+----------------
+SeelingCat: 
+----------------
+	Research (City-List)
+----------------
+Sukritact:
+----------------
+	Utilities (MCIS)
+	https://forums.civfanatics.com/threads/sukritacts-modular-city-info-stack.539332/
+----------------
+Andreas Waldeloft: 
+----------------
+	Music (Crusader Kings II Soundtrack - Path to glory; Europa Universalis III - To Constantinople)
+	https://www.youtube.com/watch?v=MDoVtUK_ky4
+	https://www.youtube.com/watch?v=GXSk-WVLS2A
+----------------
+Britannica.com: 
+----------------
+	Pedias
+	https://www.britannica.com/place/Armenia/Administration-and-social-conditions#ref481326
+----------------
+Mark Cartwright: 
+----------------
+	Pedias
+	https://www.ancient.eu/Tigranes_the_Great/
+----------------
+Wikipedia.com: 
+----------------
+	Pedias
+	https://en.wikipedia.org/wiki/Kingdom_of_Armenia_(antiquity)#Army
+	https://en.wikipedia.org/wiki/Siege_engine
+--------------------------------------------------------------
+--------------------------------------------------------------

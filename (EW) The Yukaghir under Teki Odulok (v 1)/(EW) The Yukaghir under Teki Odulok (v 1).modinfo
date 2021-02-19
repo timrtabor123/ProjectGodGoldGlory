@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="342caee7-0e6d-4400-804f-4e708b8ae500" version="1">
+  <Properties>
+    <Name>(EW) The Yukaghir under Teki Odulok</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>[COLOR_POSITIVE_TEXT]Adds the Yukaghir to Civilization 5![ENDCOLOR]</Teaser>
+    <Description>[COLOR_POSITIVE_TEXT]The Yukaghir - Teki Odulok[ENDCOLOR]
+[NEWLINE]
+[NEWLINE]
+UA: [COLOR_POSITIVE_TEXT]Chuoledii Nyiediil[ENDCOLOR] - Purchasing a Tile grants Scientist points and speeds up Border Growth in all other Cities. Border Growth attracts nearby Camp Resources.
+[NEWLINE]
+[NEWLINE]
+UU: [COLOR_POSITIVE_TEXT]Ligee Shoromokh[ENDCOLOR] - Replaces the Great Scientist. Can consume Camp Resources to construct an Academy without being expended. Generate Great Writer points upon constructing an Academy.
+[NEWLINE]
+[NEWLINE]
+UB: [COLOR_POSITIVE_TEXT]Shakhadibe[ENDCOLOR] - Replaces the Amphitheatre. Has an extra Great Work of Writing slot. Theming Bonuses in this City decrease the cost of new tiles.
+[NEWLINE]
+[NEWLINE]
+CREDITS:
+[NEWLINE] ExplosiveWatermelon - Design, Code, Art
+[NEWLINE] Arilasqueto - Art
+[NEWLINE] Irina Duskulova - Peace Theme
+[NEWLINE] The singers of the war theme are unknown, but it's part of the 5th Yukaghir congress</Description>
+    <Authors>ExplosiveWatermelon</Authors>
+    <SpecialThanks>Arilasqueto</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's CulDiv" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="5E58DC73F9243EA910D7B016B397C78B" import="1">Art/ligee_Alpha.dds</File>
+    <File md5="6A7239D9564741854BE5BF47ABBC2CC2" import="1">Art/ligee_SV.dds</File>
+    <File md5="274EBB98DC004FC6B289C0BA7049B049" import="1">Art/Model/ligeeSkin.fxsxml</File>
+    <File md5="654A5AA3BBD9DC1024145B59DEE0C4B6" import="1">Art/Model/ligeeSkin.gr2</File>
+    <File md5="BA466629B69A09C39A23611DD3BE695C" import="1">Art/Model/ligeeSkin_diff.dds</File>
+    <File md5="E9DBFC50D0E79FC31B9F2C6F5DF8C7DF" import="1">Art/Model/scout03_sref.dds</File>
+    <File md5="44AE1A08FDB91D968071EDAC6011E53F" import="1">Art/Music/Yuka_Peace.mp3</File>
+    <File md5="28678AD00905554533D78062D55D0F2D" import="1">Art/Music/Yuka_War.mp3</File>
+    <File md5="88A23C2508174193CADCE756825F2C4B" import="1">Art/tekiPlate_128.dds</File>
+    <File md5="177D9C3D8397236178B9C582FD7E1E5D" import="1">Art/tekiPlate_256.dds</File>
+    <File md5="25B97793BAA680C0C4ECB37D1160DAB5" import="1">Art/tekiPlate_32.dds</File>
+    <File md5="09D5CAE5864791602F5CCF00C6BE4B5E" import="1">Art/tekiPlate_45.dds</File>
+    <File md5="2DCDE51E6FB97CAAE53B6F00D9A903B0" import="1">Art/tekiPlate_48.dds</File>
+    <File md5="A39EF7582BB69571AACCEDA16918B5F4" import="1">Art/tekiPlate_64.dds</File>
+    <File md5="F169C0EACA355F11C160C31FE2F23840" import="1">Art/tekiPlate_80.dds</File>
+    <File md5="BD7832FBF977CB7AE312FA2F2C39F3F1" import="1">Art/Teki_LS.dds</File>
+    <File md5="6567A88BC22D17B67CE54964E74FDEEA" import="1">Art/Teki_LS.xml</File>
+    <File md5="24443ED7A399AF2657C69491BA94C66A" import="1">Art/yukaPlate_128.dds</File>
+    <File md5="648FC156FC1A62F0DF1341AF1835B23D" import="1">Art/yukaPlate_256.dds</File>
+    <File md5="AFED9D9BA7F3646378EB4944324EFF01" import="1">Art/yukaPlate_32.dds</File>
+    <File md5="D987AE3C76CE6AE6D79910008C71FD32" import="1">Art/yukaPlate_45.dds</File>
+    <File md5="A753888F8D4E7E3ACEFD5FCE30F536CB" import="1">Art/yukaPlate_64.dds</File>
+    <File md5="953F3C9B8AF97115EAE415586160D47C" import="1">Art/yukaPlate_80.dds</File>
+    <File md5="FC6A814F8C0885D33AFED654D5A630B3" import="1">Art/yuka_Alpha24.dds</File>
+    <File md5="3C0CA5104A9A18E450B1AFCFC895EA93" import="1">Art/yuka_Alpha32.dds</File>
+    <File md5="8CA0C629A1185FB63E8247D1F036B6A1" import="1">Art/yuka_Alpha48.dds</File>
+    <File md5="CD622796E9EC3E99418082C4B790FD48" import="1">Art/yuka_Alpha64.dds</File>
+    <File md5="2B687529CDD2A79AC708BDF899EBD1FC" import="1">Art/yuka_DoM.dds</File>
+    <File md5="8E139023E7A975CFCF521D3E4E173234" import="1">Art/yuka_Map.dds</File>
+    <File md5="F1462200DBD25C57990B623395B5482F" import="0">Core/EW_Yukaghir_ArtDefs.sql</File>
+    <File md5="07BEA38F9C18C4BE2E4E9954A4FE89E1" import="0">Core/EW_Yukaghir_Core.sql</File>
+    <File md5="5CC63B63C3C6718A858BD6F4769FB49F" import="0">Core/EW_Yukaghir_Text.xml</File>
+    <File md5="2EB4BA30438ADC746DA17ED7A4D1BFE1" import="0">Core/MasterSupportFile.sql</File>
+    <File md5="C654B31DDBF7FF2C383438ECAE7BE8C2" import="0">Lua/EW_Yukaghir_Functions.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/Plot Iterators/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/EW_Yukaghir_ArtDefs.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EW_Yukaghir_Core.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EW_Yukaghir_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Core/MasterSupportFile.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/EW_Yukaghir_Functions.lua">
+      <Name>EW Yukaghir Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

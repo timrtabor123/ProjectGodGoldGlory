@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/7/2021 12:14:57 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK">
+			<Text>Teki Odulok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_EW_ODULOK">
+			<Text>Purchasing a Tile grants [ICON_GREAT_PEOPLE] Scientist points and speeds up Border Growth in all other Cities. Border Growth attracts nearby Camp Resources.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_EW_ODULOK_SHORT">
+			<Text>Chuoledii Nyiediil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_PEDIA">
+			<Text>Nikolai Spiridonov, under the pen name Teki Odulok, was a prominent Yukaghir Scientist and Author. He is sometimes credited with creating the modern Yukaghir literary traditions. He was also politically active and attempted to create a state for his people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_ODULOK_LIVED">
+			<Text>1906 - 1938</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_ODULOK_NAME">
+			<Text>Nikolai Spiridonov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_ODULOK_SUBTITLE">
+			<Text>Leader of the Yukaghir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_ODULOK_TITLES_1">
+			<Text>Teki Odulok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_ODULOK_HEADING_1">
+			<Text>Youth and Studies</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_ODULOK_TEXT_1">
+			<Text>Nikolai Spiridonov, later known as Teki Odulok, was born in 1906 in the old village of Nelemnoe. Part of a growing community of Yukaghir intelligentsia, Teki Odulok was a prominent Siberian anthropologist, as well as a promising writer. One of his stories, the Life of Imteurgin the Elder, received praise from people throughout the Russian literary world. The young Spiridonov found himself a promising future- but one that would not last.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_ODULOK_HEADING_2">
+			<Text>Politics and Downfall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_ODULOK_TEXT_2">
+			<Text>Teki Odulok was a popular figure within the Yukaghir communities, and a proposal he created for the Yukaghir-Chuvantsy state would put him at the head of the Yukaghir peoples. However, Odulok was accused of being a spy and executed under Stalin. However, Odulok is not yet forgotten in Yukaghir circles. Various institutions, including a tribal community, are named after Teki Odulok- the Little Yukaghir.</Text>
+		</Row>
+		<!--Civilization-->
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR">
+			<Text>Yukaghir-Chuvantsy State</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_SHORT">
+			<Text>The Yukaghir</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_ADJ">
+			<Text>Yukaghir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_DOM">
+			<Text>May you walk the path of enlightenment, oh wise Teki Odulok of the Yukaghir. It was with pen and mind that you wrote the stories of the Siberian peoples, redefining the literary traditions of the Yukaghir. However, writing was not your only specialty- you were a man of science, with a keen eye for politics. Your proposal to form the Yukaghir-Chuvantsy State would've doubtless helped the cause of your people, but it was not meant to be. Accused of being a Japanese spy by the Soviet regime, you were tried and executed, leaving behind your wife and son. So the tale was destined to end.[NEWLINE][NEWLINE]The world needs a little more light, and it's up to you to guide your people as the brightest stars in the sky. Can you discover vast new territories, rich with the finest of hunts? Can you prove yourself where once you failed? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_YUKAGHIR_HEADING_1">
+			<Text>From Long Ago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_YUKAGHIR_TEXT_1">
+			<Text>The Yukaghir, or Odul, are one of the oldest people to inhabit Siberia. Oral traditions even record them living alongside mammoths! A proud warrior culture, their territory was so vast that the Yakut people would refer to the Aurora that hung in the sky as 'Yukaghir Lights,' in memory of the numerous campfires they left behind.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_YUKAGHIR_HEADING_2">
+			<Text>Towards the Present</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_EW_YUKAGHIR_TEXT_2">
+			<Text>In more recent times, the Yukaghir have settled down. There have been many attempts to preserve ancient traditions, and one of the greatest successes was the world of Yukaghir literature. Stories about the proud past of the Yukaghir were retained from generational stories, and finally recorded in text thanks to the work of proud Yukaghir writers. Today, Yukaghir intelligentsia struggle to maintain their land and earn new land rights for their people.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_1">
+			<Text>Nelemnoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_2">
+			<Text>Andryushkino</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_3">
+			<Text>Kolymskoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_4">
+			<Text>Chaila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_5">
+			<Text>Teki Odulok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_6">
+			<Text>Ianugail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_7">
+			<Text>Nizhnekolymsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_8">
+			<Text>Olenegorsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_9">
+			<Text>Tustakh-Sen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_10">
+			<Text>Zyryanka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_11">
+			<Text>Argakhtakh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_12">
+			<Text>Balygychan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_13">
+			<Text>Usun-Kyuyol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_14">
+			<Text>Ola</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_15">
+			<Text>Oyotung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_16">
+			<Text>Chersky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_17">
+			<Text>Srednekolymsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_18">
+			<Text>Chuvanskoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_19">
+			<Text>Markovo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_20">
+			<Text>Snezhnoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_21">
+			<Text>Verkhnekolymsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_22">
+			<Text>Seimchan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_23">
+			<Text>Yakutsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_24">
+			<Text>Ostrovnoe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_25">
+			<Text>Ust-Belaya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_26">
+			<Text>Tumat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_27">
+			<Text>Ust-Yansk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_28">
+			<Text>Yukaghir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_29">
+			<Text>Verkhniy Seimchan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_CITY_30">
+			<Text>Ust-Srednikan</Text>
+		</Row>
+		<!--Units-->
+		<Row Tag="TXT_KEY_UNIT_EW_SHOROMOKH">
+			<Text>Ligee Shoromokh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EW_SHOROMOKH_HELP">
+			<Text>Replaces the Great Scientist. Can consume Camp Resources to construct an Academy without being expended. Generate [ICON_GREAT_PEOPLE] Great Writer points upon constructing an Academy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EW_SHOROMOKH_STRATEGY">
+			<Text>By claiming as many camp resources as you can, you can build a lot more Academies. In fact, constructing Academies will speed up your production of Great Writers, as well! Of course, they have the issue that they can't produce Academies normally, or be expended for Science.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EW_SHOROMOKH_PEDIA">
+			<Text>The head elder, or Ligee Shoromokh, is a powerful figure within each village. They hold the responsibility of spreading traditions to the next generation of Yukaghir, and often serve as the most vital figure in the community.</Text>
+		</Row>
+		<!--Buildings-->
+		<Row Tag="TXT_KEY_BUILDING_EW_SHAKHADIBE">
+			<Text>Shakhadibe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EW_SHAKHADIBE_HELP">
+			<Text>Replaces the Amphitheatre. Has an extra Great Work of Writing slot. Theming Bonuses in this City decrease the cost of new tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EW_SHAKHADIBE_STRATEGY">
+			<Text>The Shakhadibe helps strengthen your cultural game with an extra Great Work slot, Theming Bonus, and the ability to discount new tiles based upon your Theming Bonuses. Use these to rapidly expand your borders, and don't forget to fill your Great Work slots!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EW_SHAKHADIBE_PEDIA">
+			<Text>Shakhadibe is a traditional Yukaghir festival. Conflicts would be resolved, stories would be told- it remains one of the strongest facets of traditional Yukaghir life.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EW_SHAKHADIBE_THEMING">
+			<Text>Different Eras</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_SPY_1">
+			<Text>Gennady</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_SPY_2">
+			<Text>Irina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_SPY_3">
+			<Text>Elizaveta</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_SPY_4">
+			<Text>Lyudmila</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_SPY_5">
+			<Text>Waldemar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_SPY_6">
+			<Text>Semyon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_SPY_7">
+			<Text>Gavril</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_SPY_8">
+			<Text>Shadrin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_SPY_9">
+			<Text>Lyubov</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_EW_YUKAGHIR_SPY_10">
+			<Text>Alexey</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_EW_YUKAGHIR_BORDER">
+			<Text>-5% Plot Cost</Text>
+		</Row>
+		<!--Unique Names-->
+		<Row Tag="TXT_KEY_UNIT_EW_SHOROMOKH_NAME_1">
+			<Text>Xalantin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EW_SHOROMOKH_NAME_2">
+			<Text>Kaniva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EW_SHOROMOKH_NAME_3">
+			<Text>Nevgoch</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EW_SHOROMOKH_NAME_4">
+			<Text>Mekerko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EW_SHOROMOKH_NAME_5">
+			<Text>Porotcha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EW_SHOROMOKH_NAME_6">
+			<Text>Mundit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EW_SHOROMOKH_NAME_7">
+			<Text>Morlet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EW_SHOROMOKH_NAME_8">
+			<Text>Burulga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EW_SHOROMOKH_NAME_9">
+			<Text>Peleva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EW_SHOROMOKH_NAME_10">
+			<Text>Kogyuney</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EW_SHOROMOKH_NAME_11">
+			<Text>Idilvey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EW_SHOROMOKH_NAME_12">
+			<Text>Imteurgin the Elder</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EW_SHOROMOKH_NAME_13">
+			<Text>Staryj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EW_SHOROMOKH_NAME_14">
+			<Text>Batat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EW_SHOROMOKH_NAME_15">
+			<Text>Vyacheslav Shadrin</Text>
+		</Row>
+		<!--Diplomacy-->
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_ATTACKED_GENERIC">
+			<Text>Can't I just write my books in peace?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_DEFEATED">
+			<Text>This was... an unexpected result, to say the least. Whatever, I concede.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_DOW_GENERIC">
+			<Text>You've got the devil's heart, and I'll see to it that it's ripped from your chest.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_EXPANSION_SERIOUS_WARNING">
+			<Text>The land is for all of us; your attempts to hoard it all is pitiful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_FIRSTGREETING_1">
+			<Text>Oh? I didn't expect there to be anyone else here. That's good, you can tell me all about yourself. I'll start- my name's Teki Odulok.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_FIRSTGREETING_2">
+			<Text>It's a pleasure to make your acquaintance. My name's Nikolai, but my fans know my as Teki Odulok. Yes, I did say fans.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_GREETING_AT_WAR_HOSTILE">
+			<Text>There's a tale of a Chukchi man as dreadful as you are, but I doubt an unread oaf like yourself would know about that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_GREETING_POLITE_HELLO">
+			<Text>Hello comrade. Care to discuss some of the finer matters of power, particularly the distribution of it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_GREETING_NEUTRAL_HELLO">
+			<Text>Hm? Oh, sorry! I was reading this book about economics by a German named... Well, I think you know.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_GREETING_HOSTILE_HELLO">
+			<Text>Unless you have something new to say, I suggest leaving.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>Your soldiers are a blot on this land, and I would suggest you remove them at once.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_LETS_HEAR_IT">
+			<Text>What have you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_LUXURY_TRADE">
+			<Text>I believe an exchange of resources is vital to the understanding of eachother's peoples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_NO_PEACE">
+			<Text>I'd hunt you and make a new pair of shoes if I could. Someone like you does not belong in this world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_OPEN_BORDERS_EXCHANGE">
+			<Text>Consider it a good sign for our peoples that we can coexist without walls to separate us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODUKOK_LOSEWAR">
+			<Text>I'll read up on strategy for next time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_REPEAT_NO">
+			<Text>Just stop.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEDAER_EW_ODULOK_RESPONSE_REQUEST">
+			<Text>Please consider donating to the sciences... preferably, me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_RESPONSE_TO_BEING_DENOUNCED">
+			<Text>I have more important things to do.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_TOO_SOON_NO_PEACE">
+			<Text>You're joking, right?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_WINWAR">
+			<Text>It's been a pleasure doing business with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_DENOUNCE">
+			<Text>As well read as I am, I can't seem to find the words to emphasize how much disgust I feel in your presence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_DEC_FRIENDSHIP">
+			<Text>You've got the mind and manners of an intelligent man. Only a fool would pass up the chance to be your friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EW_ODULOK_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now reciting your stories and practicing your ancient traditions. I fear the rest of the world will soon succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

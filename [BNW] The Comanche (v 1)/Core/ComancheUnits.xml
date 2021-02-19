@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/2/2016 1:58:00 PM -->
+<GameData>
+	<UnitClasses>
+		<Row>
+			<Type>UNITCLASS_HORSE2</Type>
+			<Description>TXT_KEY_UNIT_HORSE2</Description>
+			<DefaultUnit>UNIT_HORSE2</DefaultUnit>
+		</Row>
+		<Row>
+			<Type>UNITCLASS_HORSE4</Type>
+			<Description>TXT_KEY_UNIT_HORSE4</Description>
+			<DefaultUnit>UNIT_HORSE4</DefaultUnit>
+		</Row>
+	</UnitClasses>
+	<Units>
+		<Update>
+			<Where Type="UNIT_HORSEMAN"/>
+			<Set>
+				<WorkRate>100</WorkRate>
+			</Set>
+		</Update>
+
+		<Update>
+			<Where Type="UNIT_KNIGHT"/>
+			<Set>
+				<WorkRate>100</WorkRate>
+			</Set>
+		</Update>
+
+		<Update>
+			<Where Type="UNIT_LANCER"/>
+			<Set>
+				<WorkRate>100</WorkRate>
+			</Set>
+		</Update>
+
+		<Update>
+			<Where Type="UNIT_SHOSHONE_COMANCHE_RIDERS"/>
+			<Set>
+				<WorkRate>100</WorkRate>
+				<Description>TXT_KEY_UNIT_S_COMANCHE_RIDERS</Description>
+			</Set>
+		</Update>
+		<Row>
+			<Class>UNITCLASS_HORSE2</Class>
+			<Type>UNIT_HORSE2</Type>
+			<Cost>-1</Cost>
+			<Moves>4</Moves>
+			<Capture>UNITCLASS_HORSE2</Capture>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_WORKER</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_HORSE</Description>
+			<Civilopedia>TXT_KEY_CIV5_ANTIQUITY_WORKER_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_WORKER_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_WORKER</Help>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT_HORSEMAN</UnitArtInfo>
+			<UnitFlagIconOffset>17</UnitFlagIconOffset>
+			<PortraitIndex>17</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_1</IconAtlas>
+			<MoveRate>GREAT_PERSON</MoveRate>
+		</Row>
+		<Row>
+			<Class>UNITCLASS_HORSE4</Class>
+			<Type>UNIT_HORSE4</Type>
+			<Cost>-1</Cost>
+			<Moves>4</Moves>
+			<Capture>UNITCLASS_HORSE4</Capture>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<CivilianAttackPriority>CIVILIAN_ATTACK_PRIORITY_HIGH</CivilianAttackPriority>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_WORKER</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_HORSE</Description>
+			<Civilopedia>TXT_KEY_CIV5_ANTIQUITY_WORKER_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_WORKER_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_HELP_WORKER</Help>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT_HORSEMAN</UnitArtInfo>
+			<UnitFlagIconOffset>17</UnitFlagIconOffset>
+			<PortraitIndex>17</PortraitIndex>
+			<IconAtlas>UNIT_ATLAS_1</IconAtlas>
+			<MoveRate>GREAT_PERSON</MoveRate>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_HORSE2</UnitType>
+			<UnitAIType>UNITAI_WORKER</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_HORSE4</UnitType>
+			<UnitAIType>UNITAI_WORKER</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+</GameData>

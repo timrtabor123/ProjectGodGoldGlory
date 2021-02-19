@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/4/2016 7:35:29 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_JFD_LEGISLATURE_NAME_CIVILIZATION_S_COMANCHE">
+			<Text>Council of Chiefs</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_S_COMANCHE">
+			<Text>Chief</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_S_COMANCHE_1">
+			<Text>Spirit Talker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_S_COMANCHE_2">
+			<Text>Old Owl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_S_COMANCHE_3">
+			<Text>Amorous Man</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_S_COMANCHE_4">
+			<Text>Ten Bears</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_S_COMANCHE_5">
+			<Text>Santa Anna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_S_COMANCHE_6">
+			<Text>Buffalo Hump</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_S_COMANCHE_7">
+			<Text>Iron Jacket</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_S_COMANCHE_8">
+			<Text>Horseback</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_S_COMANCHE_9">
+			<Text>Tosahwi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_S_COMANCHE10">
+			<Text>Peta Nocona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_S_COMANCHE_11">
+			<Text>Big Red Meat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_S_COMANCHE_12">
+			<Text>Carne Muerto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_S_COMANCHE_13">
+			<Text>Isatai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_S_COMANCHE_14">
+			<Text>White Parker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_JFD_S_COMANCHE_15">
+			<Text>LaDonna Harris</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_GENERIC_S_COMANCHE_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now Stealing Horse and living in Tipis! We're worried the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

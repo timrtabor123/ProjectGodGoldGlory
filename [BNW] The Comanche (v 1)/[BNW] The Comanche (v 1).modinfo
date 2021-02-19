@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="28985e68-f13e-46d5-8316-c1e4406815bd" version="1">
+  <Properties>
+    <Name>[BNW] The Comanche</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Add the Lords of the Southern Plains, The Comanche to the Game under the Leadership of Quanah Parker,.</Teaser>
+    <Description>Add the Lords of the Southern Plains, The Comanche to the Game under the Leadership of Quanah Parker.</Description>
+    <Authors>Mayor S</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="14B9E7293D3D77A45C2236EB1E02871D" import="1">Art/Comanche_War.mp3</File>
+    <File md5="23EF96B9B6F00FE365FC7D8627CB103D" import="1">Art/Comanche_Peace.mp3</File>
+    <File md5="0990AE1755F8EF44E8F276D8D81686E9" import="1">Art/ComancheMap.dds</File>
+    <File md5="047A8A16F50E535C38389A8A16C71711" import="1">Art/ComancheDOM.dds</File>
+    <File md5="579DEA25DA5EE59403FE49DA571AE310" import="0">Art/Comanche_Music.xml</File>
+    <File md5="0B958123E0685359AC2535B1DBAD2354" import="1">Art/HuntingCamp/North American Encampment 2  PL.fxsxml</File>
+    <File md5="5B5F431C4A0F6F337092680AD6C7D792" import="1">Art/HuntingCamp/North American Encampment 2 B.fxsxml</File>
+    <File md5="FB519E1BA4F0299B3B8B4FF31FEA73F3" import="1">Art/HuntingCamp/North American Encampment 2 HB.fxsxml</File>
+    <File md5="376B31557CEA32FB364CFADBF49834C1" import="1">Art/HuntingCamp/North American Encampment 2 HB.gr2</File>
+    <File md5="BA978036DB657008DBFA263C25FF530E" import="1">Art/HuntingCamp/North American Encampment 2 PL.gr2</File>
+    <File md5="EFDBDDBCC07D2BA0E13C7D5BC47B140D" import="1">Art/HuntingCamp/North American Encampment 2.blend</File>
+    <File md5="4FC63BDB6DD3E8BF64325F20DF9AEA68" import="1">Art/HuntingCamp/North American Encampment 2.gr2</File>
+    <File md5="645C6794732427A911C21CD51ADC1C03" import="1">Art/HuntingCamp/North American Encampment 2.HBPL.blend</File>
+    <File md5="4EF8A12F11704310001FFF8ED4616FD5" import="1">Art/Icons/ComancheAlpha_128.dds</File>
+    <File md5="7627268C9D471C6D066139201805CA53" import="1">Art/Icons/ComancheAlpha_16.dds</File>
+    <File md5="DAC167825FC4E3033CFAB5D33485F0A6" import="1">Art/Icons/ComancheAlpha_24.dds</File>
+    <File md5="A9BD945B5DC206BF1E936E707BBAF09F" import="1">Art/Icons/ComancheAlpha_256.dds</File>
+    <File md5="736FE93F5EB60552E5A44C2C881ED947" import="1">Art/Icons/ComancheAlpha_32.dds</File>
+    <File md5="33CBC100D6528F7DC69D3AFA47F79CC3" import="1">Art/Icons/ComancheAlpha_45.dds</File>
+    <File md5="A241CA86920804F508E9B035DBD09889" import="1">Art/Icons/ComancheAlpha_48.dds</File>
+    <File md5="64CAC7DD219BBCF911DFEC21B51254FB" import="1">Art/Icons/ComancheAlpha_64.dds</File>
+    <File md5="1E504073DD29FBCDD1850C5595573792" import="1">Art/Icons/ComancheAlpha_80.dds</File>
+    <File md5="C15A616C7B88CC022CD9F7471980E5F0" import="1">Art/Icons/ComancheAtlas128.dds</File>
+    <File md5="94CAEA58C52130A1B056F02CCF219980" import="1">Art/Icons/ComancheAtlas256.dds</File>
+    <File md5="E0A713F623B1906DB6C41C355D36EC2E" import="1">Art/Icons/ComancheAtlas32.dds</File>
+    <File md5="BC6024A3E40D8AD4C243D08F5F4C98BC" import="1">Art/Icons/ComancheAtlas45.dds</File>
+    <File md5="E8CA95079D1E60EBB69ECA1E204A8EDD" import="1">Art/Icons/ComancheAtlas64.dds</File>
+    <File md5="7314F8ABFC6CBC0B5927770C7405D707" import="1">Art/Icons/ComancheAtlas80.dds</File>
+    <File md5="6379487624D8102C38D0B84339ACCB81" import="1">Art/Icons/HuntingCamp_45.dds</File>
+    <File md5="F89CEAE71D1A1AFE89959F884D9A5A24" import="1">Art/Icons/HuntingCamp_64.dds</File>
+    <File md5="E976259447CAC1457751BCD481A7F0FE" import="1">Art/Quanah_Parker_Scene.dds</File>
+    <File md5="52134C5BC683DB504B484A78F3ECC2B5" import="0">Core/ComancheUnits.xml</File>
+    <File md5="E0C0B488BF9B32E3C59E8779C9C9C565" import="0">Core/Comanche_Buildings.xml</File>
+    <File md5="FF7914A5CDEE2EBFE0060F534551022D" import="0">Core/Comanche_Civilization.xml</File>
+    <File md5="C993984CE211B86B16DD5AFD3F47548B" import="0">Core/Comanche_Icon_Atlas.xml</File>
+    <File md5="AD29488AE1E51F4F5736E77F00D96F8E" import="0">Core/Comanche_Mod_Support.sql</File>
+    <File md5="CFF298290F6CFFB6A0FFE4405629ED5F" import="0">Core/Comanche_Mod_Support_Text.xml</File>
+    <File md5="A731C796531FAA7773FABDA476E337B8" import="0">Core/Comanche_Text.xml</File>
+    <File md5="548447DADB747B05917F8AD6458C3602" import="0">Core/Comanche_Traits.xml</File>
+    <File md5="109AFE359C6A4B5F096C13667384DCCD" import="0">Core/HuntingCampDefine.sql</File>
+    <File md5="F0311A6C8275CACE11AAE0ABBB9AC2CB" import="0">Core/Quanah_Parker_Leader.xml</File>
+    <File md5="BCE73469B3D90EF7FA8A937D76CD6670" import="1">Core/Quanah_Parker_Scene.xml</File>
+    <File md5="2A7565C0D0A6284E2C356E1E4EA26834" import="1">LUA/ComancheMoonFunc.lua</File>
+    <File md5="C0555E00CE00029644E2E3EC8FE9AE3D" import="1">LUA/Comanche_Decisions.lua</File>
+    <File md5="40058453845283D64AE55A7CF8F3763E" import="0">LUA/Comanche_Decisions_Text.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Comanche_Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Comanche_Icon_Atlas.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Comanche_Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Comanche_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Comanche_Traits.xml</UpdateDatabase>
+      <UpdateDatabase>Core/HuntingCampDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Quanah_Parker_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Quanah_Parker_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ComancheUnits.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Comanche_Mod_Support.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Comanche_Mod_Support_Text.xml</UpdateDatabase>
+      <UpdateDatabase>LUA/Comanche_Decisions_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Comanche_Music.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/ComancheMoonFunc.lua">
+      <Name>ComancheMoonFunc</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

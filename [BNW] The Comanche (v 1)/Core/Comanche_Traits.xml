@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/1/2016 12:52:25 PM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_LORDS_OF_THE_PLAINS</Type>
+			<Description>TXT_KEY_TRAIT_LORDS_OF_THE_PLAINS</Description>
+			<ShortDescription>TXT_KEY_TRAIT_LORDS_OF_THE_PLAINS_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+	<Trait_FreePromotionUnitCombats>
+		<Row>
+			<TraitType>TRAIT_LORDS_OF_THE_PLAINS</TraitType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<PromotionType>PROMOTION_COMANCHEMOON</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats>
+</GameData>

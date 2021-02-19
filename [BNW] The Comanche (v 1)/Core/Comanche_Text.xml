@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/1/2016 12:52:08 PM -->
+<GameData>
+	<Language_en_US>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_01">
+			<Text>Húpenúú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_02">
+			<Text>Kúhtsútúúka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_03">
+			<Text>Kwaarú Núú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_04">
+			<Text>Mútsahne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_05">
+			<Text>Nokoni Núú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_06">
+			<Text>Tahnahwah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_07">
+			<Text>Tanimúú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_08">
+			<Text>Pagatsú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_09">
+			<Text>Pekwi Túhka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_10">
+			<Text>Penatúka Núú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_11">
+			<Text>Tayúúwit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_12">
+			<Text>Kúvahrahtpaht</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_13">
+			<Text>Taykahpwai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_14">
+			<Text>Pikaatamú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_15">
+			<Text>Saria Túhka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_16">
+			<Text>Yaparúhka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_17">
+			<Text>Ketahtoh Tú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_18">
+			<Text>Motso Tú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_19">
+			<Text>Pibianigwai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_20">
+			<Text>Súhmúhtúhka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_21">
+			<Text>Titchahkaynah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_22">
+			<Text>Wahkoh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_23">
+			<Text>Waw'ai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_24">
+			<Text>Hai'ne'na'úne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_25">
+			<Text>It'chit'a'búd'ah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_26">
+			<Text>Itehtah'o</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_27">
+			<Text>Naú'niem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_28">
+			<Text>Ohnonúú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_29">
+			<Text>Pahúraix</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_30">
+			<Text>Pohoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_31">
+			<Text>Tútsanoo Yehkú</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_COMANCHE_32">
+			<Text>Wianúú</Text>
+		</Row>
+
+		<!--Civilization-->
+		<Row Tag="TXT_KEY_CIV_S_COMANCHE_ADJECTIVE">
+			<Text>The Comanche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_S_COMANCHE_DESC">
+			<Text>Comancheria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_S_COMANCHE_SHORT_DESC">
+			<Text>The Comanche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_S_COMANCHE_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_S_COMANCHE_TEXT_1">
+			<Text>
+				The Comanche are a Native American tribe from the Great Plains whose historic territory, known as Comancheria, consisted of present day eastern New Mexico, southeastern Colorado, southwestern Kansas, western Oklahoma, and most of northwest Texas. The Comanche people are federally recognized as the Comanche Nation, headquartered in Lawton, Oklahoma.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_S_COMANCHE_HEADING_2">
+			<Text>Early History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_S_COMANCHE_TEXT_2">
+			<Text>
+				The Comanche emerged as a distinct group shortly before 1700, when they broke off from the Shoshone people[14] living along the upper Platte River in Wyoming. In 1680, the Comanche acquired horses from the Pueblo Indians after the Pueblo Revolt.[15] They separated from the Shoshone after this, as the horses allowed them greater mobility in their search for better hunting grounds.[NEWLINE]
+				The horse was a key element in the emergence of a distinctive Comanche culture. It was of such strategic importance that some scholars suggested that the Comanche broke away from the Shoshone and moved southward to search for additional sources of horses among the settlers of New Spain to the south (rather than search for new herds of buffalo.) The Comanche may have been the first group of Plains natives to fully incorporate the horse into their culture and to have introduced the animal to the other Plains peoples.
+			</Text>
+		</Row>
+
+		<!--Dull Knife-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_QUANAH_PARKER_NAME">
+			<Text>Quanah Parker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_QUANAH_PARKER_SUBTITLE">
+			<Text>Leader of The Comanche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_QUANAH_PARKER">
+			<Text>Quanah Parker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_QUANAH_PARKER_LIVED">
+			<Text>1845 - 1911 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_QUANAH_PARKER_TITLES_1">
+			<Text>Chief of the Quahada Comanche</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_QUANAH_PARKER_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_QUANAH_PARKER_TEXT_1">
+			<Text>
+				Quanah Parker was a Comanche chief, a leader in the Native American Church, and the last leader of the powerful Quahadi band before they surrendered their battle of the Great Plains and went to a reservation in Indian Territory. Quanah Parker also led his people on the reservation, where he became a wealthy rancher and influential in Comanche and European American society.
+			</Text>
+		</Row>
+
+		<!--DOM and Trait-->
+		<Row Tag="TXT_KEY_CIV5_DOM_S_COMANCHE_TEXT">
+			<Text>Greetings Quanah Parker, Chief of the Quahadi Comanche. The Comanche broke away from their Shoshone brother, to venture down south to the inhospitable Southern plains of what is now Texas. There the Comanche became the most feared and formidable tribe of the southern plains. Your opponents feared the hordes of the Comanche, that they increase their territory even withen the ever growing presence of Europeans. The Comanche may still be independence today if it wasn't for Outbreaks of smallpox, which took a major toll on the Comanche, whom was soon forced into reservations.[NEWLINE][NEWLINE]The Full Moon will rise soon, and the Comanche are preparing for a raid. Are you, Quanah Parker, ready to lead them into battle? Are you ready to bring glory back to Comancheria? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LORDS_OF_THE_PLAINS">
+			<Text>
+				Mounted Units may permanently steal [ICON_RES_HORSE] Horses from a tile containing Horses. Gain [ICON_GOLDEN_AGE] Golden Age point from Horses.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LORDS_OF_THE_PLAINS_SHORT">
+			<Text>Comanche Moon</Text>
+		</Row>
+
+		<!--Spies-->
+
+		<Row Tag="TXT_KEY_SPY_NAME_COMANCHE_0">
+			<Text>Dequan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_COMANCHE_1">
+			<Text>Jaquan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_COMANCHE_2">
+			<Text>Nacoma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_COMANCHE_3">
+			<Text>Nocona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_COMANCHE_4">
+			<Text>Quanah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_COMANCHE_5">
+			<Text>Tonarcy</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_COMANCHE_6">
+			<Text>Kimana</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_COMANCHE_7">
+			<Text>Chony</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_COMANCHE_8">
+			<Text>Haiwee</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_COMANCHE_9">
+			<Text>Weakeah</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<!--Units and Promotions-->
+		<Row Tag="TXT_KEY_BUILDING_SHOSHONE_SWEAT_LODGE">
+			<Text>Sweat Lodge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_SHOSHONE_SWEAT_LODGE_TEXT">
+			<Text>
+				The sweat lodge is a hut, typically dome-shaped and made with natural materials, used by Indigenous peoples of the Americas for ceremonial steam baths and prayer.[NEWLINE][NEWLINE]There are several styles of structures used in different cultures; these include a domed or oblong hut similar to a wickiup, a permanent structure made of wood and earth, or even a simple hole dug into the ground and covered with planks or tree trunks. Stones are typically heated and then water poured over them to create steam. In ceremonial usage, these ritual actions are accompanied by traditional prayers and songs.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SHOSHONE_SWEAT_LODGE_STRATEGY">
+			<Text>+25% [ICON_GREAT_PEOPLE] Great Person generation, +1 [ICON_PEACE] Faith, +2 [ICON_HAPPINESS] Happiness. City must border a River or a Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_SHOSHONE_SWEAT_LODGE_HELP">
+			<Text>+25% [ICON_GREAT_PEOPLE] Great Person generation, +1 [ICON_PEACE] Faith, +2 [ICON_HAPPINESS] Happiness. City must border a River or a Lake</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_COMANCHE_HUNTING_CAMP">
+			<Text>Hunting Camp</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_COMANCHE_HUNTING_CAMP_TEXT">
+			<Text>Plains Tribes use Tipis on their hunts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_COMANCHE_HUNTING_CAMP_HELP">
+			<Text>
+				May improve Horses, Cows, Deer, and Bisons. +2 [ICON_PRODUCTION] Production and [ICON_CULTURE] Culture. +1 [ICON_GOLD] with Economics.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILD_COMANCHE_HUNTING_CAMP">
+			<Text>Hunting Camp</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_COMANCHEMOON">
+			<Text>Horse Theft</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMANCHEMOON_HELP">
+			<Text>This unit can capture [ICON_RES_HORSE] Horses!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_HORSE">
+			<Text>Captured Horses</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_HORSE">
+			<Text>Captured Horses</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_HORSE_HELP">
+			<Text>Settle these Horses! (Permanently add the [ICON_RES_HORSE] Horses from this hex.)</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_IMPROVEMENT_PLANT_HORSES">
+			<Text>Settle Horses</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PLANT_HORSES_HELP">
+			<Text>Settle these Horses! (Permanently add the [ICON_RES_HORSE] Horses from this hex.)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PLANT_HORSES">
+			<Text>Settle Horses</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_COMANCHEMOONMOVE">
+			<Text>Comanche Moon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_COMANCHEMOONMOVE_HELP">
+			<Text>+1 Movement</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILD_STEALHORSE">
+			<Text>Capture Horses</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_STEALHORSE">
+			<Text>Capturing Horses</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_STEALHORSE_HELP">
+			<Text>Steal these Horses! (Permanently removes the [ICON_RES_HORSE] Horses from this hex.)[NEWLINE][NEWLINE][COLOR_NEGATIVE_TEXT]Warning: Stealing Horses from other civilizations will damage relations![ENDCOLOR]</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_UNIT_S_COMANCHE_RIDERS">
+			<Text>Full Moon Raider</Text>
+		</Row>
+
+
+		<!--Leader Text-->
+		<Row Tag="TXT_KEY_LEADER_QUANAH_PARKER_FIRSTGREETING_1">
+			<Text>Ah, Came to stop our raid?... Oh, Your someone new. Well then, Welcome to Comancheria.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_QUANAH_PARKER_DEFEATED_1">
+			<Text>You have destoryed the last of the Comanche. The world shall weep for this lost.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

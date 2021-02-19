@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/5/2016 11:53:33 AM -->
+<GameData>
+	<DecisionsAddin_Support>
+		<Row>
+			<FileName>Comanche_Decisions.lua</FileName>
+		</Row>
+	</DecisionsAddin_Support>
+	<Row Tag="TXT_KEY_DECISIONS_HORSEMIGRATION">
+		<Text>Fellow the Horses</Text>
+	</Row>
+	<Row Tag="TXT_KEY_DECISIONS_HORSEMIGRATION_DESC">
+		<Text>
+			The Horses are migrating to a new area, we should follow them.[NEWLINE]
+			[NEWLINE]Requirement/Restrictions:
+			[NEWLINE][ICON_BULLET]Player must be The Comanche
+			[NEWLINE][ICON_BULLET]May only be enacted once per game
+			[NEWLINE]Costs:
+			[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+			[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+			[NEWLINE]Rewards:
+			[NEWLINE][ICON_BULLET]Receive a Settler
+			[NEWLINE][ICON_BULLET]Receive a Captured Horse
+		</Text>
+	</Row>
+	<Row Tag="TXT_KEY_DECISIONS_HORSEMIGRATION_ENACTED_DESC">
+		<Text>
+			The Horses are migrating to a new area, we should follow them.[NEWLINE]
+			[NEWLINE][ICON_BULLET]Receive a Settler
+			[NEWLINE][ICON_BULLET]Receive a Captured Horse
+		</Text>
+	</Row>
+
+	<Row Tag="TXT_KEY_DECISIONS_MOONRAID">
+		<Text>Fellow the Horses</Text>
+	</Row>
+	<Row Tag="TXT_KEY_DECISIONS_MOONRAID_DESC">
+		<Text>
+			The Full Moon will soon rise, we should prepare for our raids.[NEWLINE]
+			[NEWLINE]Requirement/Restrictions:
+			[NEWLINE][ICON_BULLET]Player must be The Comanche
+			[NEWLINE][ICON_BULLET]May only be enacted once per era
+			[NEWLINE]Costs:
+			[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture
+			[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrates
+			[NEWLINE]Rewards:
+			[NEWLINE][ICON_BULLET]Receive a 3 Mounted Units with the Comanche Moon Promotion
+		</Text>
+	</Row>
+	<Row Tag="TXT_KEY_DECISIONS_MOONRAID_ENACTED_DESC">
+		<Text>
+			The Full Moon will soon rise, we should prepare for our raids.[NEWLINE]
+			[NEWLINE][ICON_BULLET]Receive a 3 Mounted Units with the Comanche Moon Promotion
+		</Text>
+	</Row>
+</GameData>

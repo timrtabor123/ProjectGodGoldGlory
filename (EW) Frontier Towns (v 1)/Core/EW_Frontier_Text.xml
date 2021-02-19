@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/30/2021 12:25:33 AM -->
+<GameData>
+	<Language_en_US>
+		<!--Buildings-->
+		<Row Tag="TXT_KEY_BUILDING_EW_HOMESTEAD">
+			<Text>Homestead</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EW_HOMESTEAD_PEDIA">
+			<Text>A homestead initially referred to a farmhouse and surrounding buildings, but eventually it just came to mean any small cluster of houses.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EW_HOMESTEAD_STRAT">
+			<Text>Use these to incorporate your newly settled cities!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EW_HOMESTEAD_HELP">
+			<Text>Incorporates an Occupied City. Can't be built in Captured Cities.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

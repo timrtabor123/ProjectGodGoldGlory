@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="9c2b2429-1cff-4868-8013-6d1022d001ae" version="1">
+  <Properties>
+    <Name>Relic and Arilasqueto's Deng Xiaoping</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Add Deng Xiaoping as a playable Civilization.</Teaser>
+    <Description>Adds Deng Xiaoping as a playable Civilization.</Description>
+    <Authors>Relix, Arilasqueto</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="7623E22424FA72B6D9C8D438162B16B7" import="1">Art/Audio/Relic_Deng_Peace.mp3</File>
+    <File md5="81C69375E7E96B6B6245CB1B5D640C9C" import="1">Art/Audio/Relic_Deng_War.mp3</File>
+    <File md5="A8CB88E0AD29FDFED8E76A0FFC620FA1" import="1">Art/DengFallback.xml</File>
+    <File md5="ED2EFBD1C12A97A1BFFE7213BA216F90" import="1">Art/RelicDomDeng.dds</File>
+    <File md5="C00A93E083D6155EFA627AFCA56C904F" import="1">Art/Deng.dds</File>
+    <File md5="82C3D79A99BE15D100DE9E32390CAE26" import="1">Art/RelicMapDeng512.dds</File>
+    <File md5="BBEE2C1A7E717FAA7DBB745C9D397419" import="1">Art/Icons/DengAlpha128.dds</File>
+    <File md5="FF901FF86BDB9F6E6B0D57EB13DC8822" import="1">Art/Icons/DengAlpha24.dds</File>
+    <File md5="8E188708348D7F65D18CF373B5408560" import="1">Art/Icons/DengAlpha32.dds</File>
+    <File md5="A2D5BCB941CBC66068DED8CEE48C36B4" import="1">Art/Icons/DengAlpha48.dds</File>
+    <File md5="1C17709189ABB7530487A2AA71520352" import="1">Art/Icons/DengAlpha64.dds</File>
+    <File md5="426D5755F58427C0AAB46B8321284FE7" import="1">Art/Icons/DengAtlas128.dds</File>
+    <File md5="DE38A6FD9961F07EA58A21E091D32F1F" import="1">Art/Icons/DengAtlas256.dds</File>
+    <File md5="4105B51FB4C6541DE3264FC454CF6D9E" import="1">Art/Icons/DengAtlas32.dds</File>
+    <File md5="6549F5B5A7A0551E015EB4A20C376CFC" import="1">Art/Icons/DengAtlas45.dds</File>
+    <File md5="8E3FD9C26F923BB5E74783C039DFB035" import="1">Art/Icons/DengAtlas64.dds</File>
+    <File md5="7C1311990F2F6D08B84E856791C46A03" import="1">Art/Icons/DengAtlas80.dds</File>
+    <File md5="9309774C33232FFC6E47E09F56BDD3C5" import="1">Art/T59/edited_aim_attack_city_to_run.dge</File>
+    <File md5="FA9CE373BB700CFCD8F0FA3A955B1E69" import="1">Art/T59/edited_aim_attack_to_run_graph.dge</File>
+    <File md5="BA4F6AEB27527AB47CC284B27C8288A8" import="1">Art/T59/edited_aim_bombard_defend_loop_graph.dge</File>
+    <File md5="CD02EC91E73F396297C2B3434A8BA034" import="1">Art/T59/edited_aim_combat_ready_graph.dge</File>
+    <File md5="6B4338103039DFBD431A44C89DA198D6" import="1">Art/T59/edited_aim_death_final_graph.dge</File>
+    <File md5="F9F109E1E43FD75DFC765D9B3A43CE48" import="1">Art/T59/edited_aim_death_graph.dge</File>
+    <File md5="014FBFBCB17012BEC0B32D9FFDBF721E" import="1">Art/T59/edited_aim_enter_bombard_defend_graph.dge</File>
+    <File md5="7A5A0ADFBBB05D6E4FB126383988B264" import="1">Art/T59/edited_aim_enter_combat_ready_graph.dge</File>
+    <File md5="34488A641F9D948D865BBECF8B3878DF" import="1">Art/T59/edited_aim_enter_fortify.dge</File>
+    <File md5="65FED4E2E20D7512D6B5E92C1CD37EF7" import="1">Art/T59/edited_aim_fortify_fidget_graph.dge</File>
+    <File md5="F758D65157483D32C6763F817B216937" import="1">Art/T59/edited_aim_fortify_graph.dge</File>
+    <File md5="C2C8D0ADFA388980A03E814BF2B335F5" import="1">Art/T59/edited_aim_fortify_leave_graph.dge</File>
+    <File md5="EF6168FF0903555EDCBB9FD626CFB00F" import="1">Art/T59/edited_aim_idle_graph.dge</File>
+    <File md5="268797759660DA55A0F792A966EB586B" import="1">Art/T59/edited_aim_idle_offset_continue_true_graph.dge</File>
+    <File md5="C4D8B3EB164B5525B92514645521D0C3" import="1">Art/T59/edited_aim_leave_bombard_defend_trans_idle_a_graph.dge</File>
+    <File md5="189E34C23C7A19F2C190E1ACB4212C91" import="1">Art/T59/edited_aim_leave_combat_ready.dge</File>
+    <File md5="225D164523FE1270306005CCD71B075A" import="1">Art/T59/edited_aim_melee_attacks.dge</File>
+    <File md5="4BB9881AAB8B9F3571AA787BB89B4FF1" import="1">Art/T59/edited_aim_ms_leave_combat_ready.dge</File>
+    <File md5="34D584D857E6CBA51D87EE2FD6950EC6" import="1">Art/T59/edited_aim_ms_stop_running.dge</File>
+    <File md5="A64E86033B61613B4F39979D5603E65F" import="1">Art/T59/edited_aim_running_loop.dge</File>
+    <File md5="BCF1F945C0CBE7A1C9F62E5B46F84F99" import="1">Art/T59/edited_aim_start_running.dge</File>
+    <File md5="2506D6C118D6A9FB915723F731C95FD4" import="1">Art/T59/edited_aim_transitions_for_idles.dge</File>
+    <File md5="108FD3B4BAAB4A605BF70CCD44F20E8B" import="1">Art/T59/edited_fx_triggers_tank.ftsxml</File>
+    <File md5="B233D27FC1FA1DB1127E263DC20D30DB" import="1">Art/T59/edited_mechanized_aim_state_01.fsmxml</File>
+    <File md5="FCF3F5D528ED93FC1D3F25D7E662C86E" import="1">Art/T59/T55China.dds</File>
+    <File md5="D780292902B4E45463A72CCD9D979105" import="1">Art/T59/T55China.fxsxml</File>
+    <File md5="BCE05AFBED6108B64DE6D2F94CD9F397" import="1">Art/T59/T55China.gr2</File>
+    <File md5="1CEA9C8D72C9995D15B338F24733950C" import="1">Art/T59/T55SREF.dds</File>
+    <File md5="149BBB3601240DCEB9E41E59955556E2" import="1">Art/Tiananmen32.dds</File>
+    <File md5="DEA0B7A8CF73055264A98D61A5BBF1CD" import="1">Art/SV_T59.dds</File>
+    <File md5="8B5621B36D358D66350050353CCF2B59" import="0">Core/DengArtDefs.sql</File>
+    <File md5="AA5F82008B2B30231721F100DBA55587" import="0">Core/DengDefines.sql</File>
+    <File md5="8E4384135E75C986E213B8F83189BED7" import="0">Core/DengDiplo.xml</File>
+    <File md5="DD2AB117708E7FEEF69CD76C247DDDB7" import="0">Core/DengModSupport.sql</File>
+    <File md5="BEEC98CD755F00855776E726188DA98D" import="0">Core/DengText.xml</File>
+    <File md5="C68E2505740D9D67678AC5EA7A9635EC" import="0">Lua/DengFunctions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/DengArtDefs.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DengDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DengModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DengText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DengDiplo.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/DengFunctions.lua">
+      <Name>Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

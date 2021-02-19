@@ -1,0 +1,206 @@
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_01">
+			<Text>Beijing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_02">
+			<Text>Shanghai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_03">
+			<Text>Tianjin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_04">
+			<Text>Shenzhen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_05">
+			<Text>Xiamen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_06">
+			<Text>Shantou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_07">
+			<Text>Zhuhai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_08">
+			<Text>Fujian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_09">
+			<Text>Guangzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_10">
+			<Text>Zhanjiang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_11">
+			<Text>Nanjing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_12">
+			<Text>Harbin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_13">
+			<Text>Xi'an</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_14">
+			<Text>Dalian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_15">
+			<Text>Hangzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_16">
+			<Text>Suzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_17">
+			<Text>Qingdao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_18">
+			<Text>Jinan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_19">
+			<Text>Zhengzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_20">
+			<Text>Wenzhou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_21">
+			<Text>Kuming</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_22">
+			<Text>Wuxi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_23">
+			<Text>Beihai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_RELIC_DENG_CHINA_24">
+			<Text>Changchun</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_RELIC_DENG_CHINA_0">
+			<Text>Lin</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RELIC_DENG_CHINA_1">
+			<Text>Ziyang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RELIC_DENG_CHINA_2">
+			<Text>Xiannan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RELIC_DENG_CHINA_3">
+			<Text>Shangkun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RELIC_DENG_CHINA_4">
+			<Text>Zemin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RELIC_DENG_CHINA_5">
+			<Text>Jintao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RELIC_DENG_CHINA_6">
+			<Text>Jinping</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RELIC_DENG_CHINA_7">
+			<Text>Jianying</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RELIC_DENG_CHINA_8">
+			<Text>Pufang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RELIC_DENG_CHINA_9">
+			<Text>Nan</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RELIC_DENG_CHINA_10">
+			<Text>Rong</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RELIC_DENG_CHINA_11">
+			<Text>Zhifang</Text>
+		</Row>
+
+		<!--Demonyms-->
+		<Row Tag="TXT_KEY_CIV_RELIC_DENG_CHINA_ADJECTIVE">
+			<Text>Chinese</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_RELIC_DENG_CHINA_DESC">
+			<Text>People's Republic of China</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_RELIC_DENG_CHINA_SHORT_DESC">
+			<Text>China</Text>
+		</Row>
+
+		<!--DoM-->
+		<Row Tag="TXT_KEY_DOM_RELIC_DENG_CHINA_TEXT">
+			<Text>
+				The counter-revolutionary cliques have returned, oh Supreme Leader Deng Xiaoping, great modernizer of China. An early follower of Marxism-Leninism, and an early follower of Mao Zedong, you were a revolutionary veteran who participated in the Long March, and, after being instrumental in the Great Leap Forward, were purged for your economic views. It was exactly these views, however, that made you a logical successor to Mao to again transform the country. With the Boluan Fanzheng program, you stabilized your country, still chaotic from years of change, and with your Four Modernizations, you set the course for China to become a global superpower. But those who would destroy your progress have risen again, Paramount leader, and target China with threats and sanctions. Internal dissent against your hard work rises, Deng Xiaoping, and you must rise to meet it. You must use all cunning available, and all resource must be engaged. Will you be able to hold your enemies at bay? Can you build a civilization to withstand the will of your enemies?
+			</Text>
+		</Row>
+
+		<!--Pedia-->
+		<!--Leader-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RELIC_DENG_LIVED">
+			<Text>1904 - 1997</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RELIC_DENG_CHINA_NAME">
+			<Text>Deng Xiaoping</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RELIC_DENG_SUBTITLE">
+			<Text>Chairman of the Central Advisory Commission</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RELIC_DENG_NAME">
+			<Text>Deng Xiaoping</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RELIC_DENG_TITLES_1">
+			<Text>Paramount Leader of the CPP</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RELIC_DENG_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RELIC_DENG_TEXT_1">
+			<Text>Born into an educated land-owning family in Sichuan province, Deng studied and worked in France in the 1920s, where he became a follower of Marxism–Leninism. He joined the Chinese Communist Party in 1923. Upon returning to China, Deng joined the party organization in Shanghai, becoming a political commissar for the Red Army in rural regions. In 1931, he was demoted within the party due to his support of Mao Zedong, but was promoted again during the 1935 Zunyi Conference. By the late 1930s, Deng was considered a "revolutionary veteran" because he participated in the Long March. Following the founding of the People's Republic of China in 1949, Deng worked in Tibet as well as in southwest China to consolidate Communist control. As the party's Secretary-general in the 1950s, Deng presided over the Anti-Rightist Campaign launched by Mao and became instrumental in China's economic reconstruction following the Great Leap Forward (1958–1960). However, his economic policies caused him to fall out of favor with Mao Zedong and he was purged twice during the Cultural Revolution.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RELIC_DENG_HEADING_2">
+			<Text>Political Career</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RELIC_DENG_TEXT_2">
+			<Text>Following Mao Zedong's death in 1976, Deng outmaneuvered the late chairman's chosen successor Hua Guofeng and became the de facto leader of China in December 1978. Inheriting a country beset with social conflict, disenchantment with the Communist Party and institutional disorder resulting from the chaotic policies of the Mao era, Deng started the "Boluan Fanzheng" program which brought the country back to order. From 1977 to early 1979, he resumed the National College Entrance Examination program that had been interrupted by the Cultural Revolution, initiated the historic Reform and Opening-up of China, and started a one-month Sino-Vietnamese War. In August 1980, he started China's political reforms by setting term limits for officials and proposing a systematic revision of China's third Constitution which was made under Hua Guofeng; the new Constitution embodied Chinese-style constitutionalism and was passed by the National People's Congress in December 1982, with most of its content still being effective as of today. In the 1980s, Deng supported the family planning policy to cope with China's overpopulation crisis, helped establish China's nine-year compulsory education, and launched the 863 Program for science and technology.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_RELIC_DENG_TEXT_3">
+			<Text>While Deng never held office as the head of state/government nor as the party's chairman/general secretary, he nevertheless exercised supreme authority in China through 1989 as Chairman of the Central Advisory Commission and as the commander-in-chief of the Chinese armed forces. During his leadership, he was characterized as "the architect" of a new brand of thinking combining socialist ideology with free enterprise, dubbed "socialism with Chinese characteristics". He opened China to foreign investment and the global market, policies that are credited with developing China into one of the fastest-growing economies in the world for several generations and raising the standard of living of hundreds of millions. Deng was the Time Person of the Year in 1978 and 1985, the third Chinese leader and the fourth time for a communist leader to be selected. He was criticized for ordering the crackdown on the 1989 Tiananmen Square protests, but was praised for his reaffirmation of the reform program in his Southern Tour of 1992 as well as the reversion of Hong Kong to Chinese control in 1997.</Text>
+		</Row>
+
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_RELIC_DENG_CHINA_SHORT">
+			<Text>Boluan Fanzheng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_RELIC_DENG_CHINA">
+			<Text>Generate [ICON_GOLDEN_AGE] Golden Age Points from [ICON_INTERNATIONAL_TRADE] Trade Routes with Civilizations that have adopted different policies than you. Gain a burst of [ICON_CULTURE] Culture whenever a friend adopts a policy or tenet.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_RELIC_T59">
+			<Text>T-59</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RELIC_T59_STRATEGY">
+			<Text>Cheaper Tank Replacement. Only Deng's China may build it. When at war, training one will also gift a copy to an allied city state. +3 Combat Strength for each Civilization you are trading with that does not share your ideology.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RELIC_T59_HELP">
+			<Text>Cheaper Tank Replacement. Only Deng's China may build it. When at war, training one will also gift a copy to an allied city state. +3 Combat Strength for each Civilization you are trading with that does not share your ideology.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_RELIC_T59_TEXT">
+			<Text>After the signing of Sino-Soviet Treaty of Friendship, Alliance, and Mutual Assistance, the Soviets agreed to assist China in building a tank manufacturing facility to manufacture the T-54A MBT in 1956. Initially, the tanks were assembled with Soviet-supplied parts, which were gradually replaced by Chinese-made components. The tank was accepted into service by the PLA in 1959, and given the designation Type 59. Type 59-IIA tanks. Over the years, the Type 59 design was enhanced with various domestically developed and western technologies; When the PLA captured a Soviet T-62 during the Sino-Soviet border conflict in 1969, improvements based on the T-62 were incorporated into the Type 59 design to become the Type 69 MBT. The Type 69 was further upgraded with Western technology and became the Type 79 MBT. The Type 59 was therefore, the first in China's first generation of main battle tanks, the Type 79 being the last. The Type 79 was superseded by the Type 80 second-generation MBT. The Type 59 MBT is also known as WZ-120 by its manufacturer. Over 10,000 were produced between 1959 and mid 1980s.[1] This tank gained worldwide infamy after the "Tank Man" incident in 1989. The Type 59, and its successor, the Type 69, were widely exported, with thousands sold overseas. Today an estimated 5,000 Type 59 MBTs remain in PLA inventory, but its being supplanted by the more capable Type 96 and Type 99 MBTs. T-59s were never present in Beijing on June 4, 1989. What could you possibly be referring to?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_RELIC_DENG_SEZ">
+			<Text>Special Economic Zone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RELIC_DENG_SEZ_STRATEGY">
+			<Text>Replaces the Stock Exchange. During a [ICON_GOLDEN_AGE] Golden Age, grant +1 [ICON_PRODUCTION] Production to every resource worked by this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RELIC_DENG_SEZ_HELP">
+			<Text>Replaces the Stock Exchange. During a [ICON_GOLDEN_AGE] Golden Age, grant +1 [ICON_PRODUCTION] Production to every resource worked by this city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_RELIC_DENG_SEZ_TEXT">
+			<Text>Special economic zones (SEZs) in mainland China are granted more free market-oriented economic policies and flexible governmental measures by the government of China, compared to the planned economy elsewhere. This allows SEZs to utilize economic management which is more attractive to foreign and domestic businesses. In SEZs, "...foreign and domestic trade and investment are conducted without the authorization of the Chinese central government in Beijing" with "tax and business incentives to attract foreign investment and technology".</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_RELIC_DENG_CHINA_PROD_DUMMY">
+			<Text>Dummy Building to handle resources</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

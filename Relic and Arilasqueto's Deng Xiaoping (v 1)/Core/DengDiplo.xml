@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_RELIC_DENG_FIRSTGREETING_1">
+			<Text>Welcome to China. I hope you find your stay to be enjoyable.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RELIC_DENG_VICTORIA_FIRSTGREETING_1">
+			<Text>I am Deng Xiaoping, Paramount Leader of China. Who might you be?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RELIC_DENG_DEFEATED_1">
+			<Text>I see. Perhaps I was too rash.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RELIC_DENG_ATTACKED_HOSTILE_1">
+			<Text>China is not the weak nation it once was. You have made a terrible mistake.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RELIC_DENG_DEC_FRIENDSHIP_1">
+			<Text>We have much to learn from each other. Shall we make a Declaration of Friendship?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RELIC_DENG_DENOUNCE_1">
+			<Text>So long as it can catch mice, a black cat and a white cat are both useful. You, however, cannot even catch mice.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RELIC_DENG_DENOUNCE_FRIEND_1">
+			<Text>You have done nothing to deserve the trust I placed in you.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RELIC_DENG_DOW_GENERIC_1">
+			<Text>That things had to come to this is unfortunate, but you leave me no choice.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RELIC_DENG_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Watch yourself. These lands belong to China, and I intend to keep it that way.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RELIC_DENG_GREETING_HOSTILE_HELLO_1">
+			<Text>Your nation offers nothing of value.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RELIC_DENG_GREETING_NEUTRAL_HELLO_1">
+			<Text>Hello. What brings you here today?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RELIC_DENG_GREETING_POLITE_HELLO_1">
+			<Text>It is good to see you. Here, have some tea.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RELIC_DENG_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Your armies scurry like rats on our borders. How long will you hide in the shadows?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RELIC_DENG_LUXURY_TRADE_1">
+			<Text>An exchange would help our nations grow closer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RELIC_DENG_OPEN_BORDERS_EXCHANGE_1">
+			<Text>We have much to learn from each other. Perhaps if we open our borders, we may both gain much.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RELIC_DENG_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>Your continued attempts at spreading your borders are becoming concerning. I urge you to stop.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RELIC_DENG_REQUEST_1">
+			<Text>China needs your help, my friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RELIC_DENG_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You have declared yourself an enemy of the Han people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RELIC_DENG_TOO_SOON_FOR_DOF_1">
+			<Text>You have not proved yourself to be worthy of China's friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_RELIC_DENG_TOO_SOON_NO_PEACE_1">
+			<Text>This war is far from finished.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

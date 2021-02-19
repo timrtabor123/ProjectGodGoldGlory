@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="476c98e3-3c8f-4038-8fb2-655e93197015" version="1">
+  <Properties>
+    <Name>JFD's Civilizations - Indo-Greeks (Menander I)</Name>
+    <Teaser>Adds [COLOR_CYAN]Indo-Greeks under Menander I[ENDCOLOR]. Click for details.</Teaser>
+    <Description>INDO-GREEKS (MENANDER)[NEWLINE][NEWLINE]UNIQUE TRAIT: DHARMIKASA[NEWLINE][ICON_BULLET]City conquests spread the Religion of the conquered city to your founded cities.[NEWLINE][ICON_BULLET][ICON_CULTURE] Culture and [ICON_PEACE] Faith from conquered cities add to [ICON_GOLDEN_AGE] GA progress.[NEWLINE][NEWLINE]UNIQUE BUILDING: ROYAL SILVERSMITH[NEWLINE][ICON_BULLET]Replaces Mint.[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture and +2 [ICON_PEACE] Faith if the city is [ICON_CONNECTED] Connected to the Capital.[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture for every nearby city [ICON_CONNECTED] Connected as well (up to +3).[NEWLINE][ICON_BULLET]No resource requirements.[NEWLINE][NEWLINE]UNIQUE UNIT: WAR MAHOUT[NEWLINE][ICON_BULLET]Replaces Chariot Archer.[NEWLINE][ICON_BULLET]Requires no [ICON_RES_HORSE] Horses.[NEWLINE][ICON_BULLET]+25% resistance to City Attacks.[NEWLINE][ICON_BULLET]Begins with bonus XP if trained in a conquered city based on Population.[NEWLINE][ICON_BULLET]Unlocked at Mathematics.</Description>
+    <Authors>JFD, COF, Darthstarkiller, Regalman, Alga</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="573743AB2C3BF1A0EE6109A7D4D2286F" import="1">Art/Graphics/War Mahout/sv_WarMahout.dds</File>
+    <File md5="B1CE7D80CB3AD4380173F91EB4119B12" import="1">Art/Graphics/War Mahout/WarMahout.fxsxml</File>
+    <File md5="A1665DD3D290EADA2CD4B074FD25F022" import="1">Art/Graphics/War Mahout/WarMahout.gr2</File>
+    <File md5="03A5B5E4F9C7BDEFE196D93D04438136" import="1">Art/Graphics/War Mahout/WarMahout_diff.dds</File>
+    <File md5="FB273A8ACD6D44213281042DA2EB7B31" import="1">Art/Graphics/War Mahout/WarMahout_sref.dds</File>
+    <File md5="F2CC1FC15690FEAF5C2CB08F9DD57DFC" import="1">Art/Icons/JFD_IndoGreeks_AlphaAtlas_128.dds</File>
+    <File md5="57A352B0C2581A47D0C1942F63C2278A" import="1">Art/Icons/JFD_IndoGreeks_AlphaAtlas_16.dds</File>
+    <File md5="46CA8E72329616306D841F6DEC9B8088" import="1">Art/Icons/JFD_IndoGreeks_AlphaAtlas_24.dds</File>
+    <File md5="1C0BFC78076F551C644D2FAAF8DEC055" import="1">Art/Icons/JFD_IndoGreeks_AlphaAtlas_32.dds</File>
+    <File md5="9761287B57B64AFCFE0D3C8BE579FF2D" import="1">Art/Icons/JFD_IndoGreeks_AlphaAtlas_45.dds</File>
+    <File md5="C308324FE9084499AC070CDCC8C6720D" import="1">Art/Icons/JFD_IndoGreeks_AlphaAtlas_48.dds</File>
+    <File md5="D9DE316CEAE078F426AF524A90A8D86A" import="1">Art/Icons/JFD_IndoGreeks_AlphaAtlas_64.dds</File>
+    <File md5="47105C83591F5A956565BFA63C028A41" import="1">Art/Icons/JFD_IndoGreeks_AlphaAtlas_80.dds</File>
+    <File md5="6F2D3CC4BFE3B5A7786300AC48C75F03" import="1">Art/Icons/JFD_IndoGreeks_IconAtlas_128.dds</File>
+    <File md5="D5D5D26CAE72814530F5F8274F843426" import="1">Art/Icons/JFD_IndoGreeks_IconAtlas_256.dds</File>
+    <File md5="556C1F786E73862A1C029EAF329AA5D1" import="1">Art/Icons/JFD_IndoGreeks_IconAtlas_32.dds</File>
+    <File md5="4F4D325862C59F33861F1D08AC4237D1" import="1">Art/Icons/JFD_IndoGreeks_IconAtlas_45.dds</File>
+    <File md5="BC49F2ABAE7C1F7F6A4B58A520073EFB" import="1">Art/Icons/JFD_IndoGreeks_IconAtlas_64.dds</File>
+    <File md5="F06CCB6EE029009F370D331679F48D72" import="1">Art/Icons/JFD_IndoGreeks_IconAtlas_80.dds</File>
+    <File md5="1D7F53878FA082C2ABA36B4B07A5F33B" import="1">Art/Icons/JFD_IndoGreeks_UnitFlagAtlas_32.dds</File>
+    <File md5="21CDCEED7D81983A502F1C20ED00BC57" import="1">Art/Icons/Tomatekh_PromotionAtlas_256.dds</File>
+    <File md5="4515CFD32CBCA5FD9B31BA7E74BDF85D" import="1">Art/Icons/Tomatekh_PromotionAtlas_32.dds</File>
+    <File md5="2D64910169FF17FBFD6D2CFAAAADE518" import="1">Art/Icons/Tomatekh_PromotionAtlas_45.dds</File>
+    <File md5="D2E665F6B269588CF10F19FE789271C9" import="1">Art/Icons/Tomatekh_PromotionAtlas_64.dds</File>
+    <File md5="CA862A097CEDD8B872905BFBD06FC33F" import="1">Art/Leaderscene/JFD_Menander_Diplo.dds</File>
+    <File md5="9D4DFD39CCA932F93F52C96371F86942" import="1">Art/Leaderscene/JFD_Menander_Scene.xml</File>
+    <File md5="69896C8B0326B6F8986D7619CBAA37B1" import="1">Art/Maps/JFD_DOM_IndoGreeks.dds</File>
+    <File md5="0444136A4C0DB710BC4A4237BA006F1A" import="1">Art/Maps/JFD_MapIndoGreeks512.dds</File>
+    <File md5="257BF89C852BE22A2DCC95C0C5C577A8" import="1">Audio/JFD_Menander_Peace.mp3</File>
+    <File md5="50916E92BFC5F32125BBB93968C5AC82" import="1">Audio/JFD_Menander_War.mp3</File>
+    <File md5="79B8BF2B2AC6E300BB0937CD03A44FC3" import="0">Core/IndoGreeks_ArtDefines.sql</File>
+    <File md5="2BA0FFAB4294F74D2BCC5C93395309CF" import="0">Core/IndoGreeks_GameDefines.sql</File>
+    <File md5="D7232AC6097A55582E90C528DA78E532" import="0">Core/IndoGreeks_GameText.xml</File>
+    <File md5="08FEDC82224DA92EA69BDC30EB93F389" import="0">Core/IndoGreeks_ModSupport.sql</File>
+    <File md5="3DF317A5A89E10488FCD61918B03C281" import="0">Credits.txt</File>
+    <File md5="01149ABDB528F4394D1AEDF89466DB5F" import="0">Lua/JFD_Civs_IndoGreeks_Functions.lua</File>
+    <File md5="14B8CFD86EF76C7BCD0A3B0287066426" import="1">Lua/Utilities/JFD DTP/JFD_Civs_IndoGreeks_DTP.lua</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/IndoGreeks_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/IndoGreeks_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/IndoGreeks_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/IndoGreeks_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Civs_IndoGreeks_Functions.lua">
+      <Name>JFD_Civs_IndoGreeks_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

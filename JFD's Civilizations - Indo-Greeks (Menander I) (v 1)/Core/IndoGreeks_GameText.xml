@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_INDO_GREEKS_DESCRIPTION">
+			<Text>INDO-GREEKS (MENANDER)[NEWLINE][NEWLINE]UNIQUE TRAIT: DHARMIKASA[NEWLINE][ICON_BULLET]City conquests spread the Religion of the conquered city to your founded cities.[NEWLINE][ICON_BULLET][ICON_CULTURE] Culture and [ICON_PEACE] Faith from conquered cities add to [ICON_GOLDEN_AGE] GA progress.[NEWLINE][NEWLINE]UNIQUE BUILDING: ROYAL SILVERSMITH[NEWLINE][ICON_BULLET]Replaces Mint.[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture and +2 [ICON_PEACE] Faith if the city is [ICON_CONNECTED] Connected to the Capital.[NEWLINE][ICON_BULLET]+1 [ICON_CULTURE] Culture for every nearby city [ICON_CONNECTED] Connected as well (up to +3).[NEWLINE][ICON_BULLET]No resource requirements.[NEWLINE][NEWLINE]UNIQUE UNIT: WAR MAHOUT[NEWLINE][ICON_BULLET]Replaces Chariot Archer.[NEWLINE][ICON_BULLET]Requires no [ICON_RES_HORSE] Horses.[NEWLINE][ICON_BULLET]+25% resistance to City Attacks.[NEWLINE][ICON_BULLET]Begins with bonus XP if trained in a conquered city based on Population.[NEWLINE][ICON_BULLET]Unlocked at Mathematics.</Text>
+		</Row>
+		<!--INDO-GREEKS-->
+		<Row Tag="TXT_KEY_CIV_JFD_INDO_GREEKS_ADJECTIVE">
+			<Text>Indo-Greek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_INDO_GREEKS_DESC">
+			<Text>Indo-Greek Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_INDO_GREEKS_SHORT_DESC">
+			<Text>The Indo-Greeks</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_INDO_GREEKS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JFD_INDO_GREEKS_TEXT_1">
+			<Text>The first Indo-Greek kingdom appeared circa 190 BCE may when the Greco-Bactrian king or (general for his father) Demetrios was busy in India, when his Indian possessions were divided between several kings, probably firstly in order to better govern them but then due to civil war. The term “Indo-Greek” is generally used because these kingdoms were almost always separated from Bactria and thus differed politically from the Greco-Bactrian kingdom.[NEWLINE][NEWLINE]These kingdoms, in which there were already some Greek settlers called Yonas, took more and more Indian characteristics, becoming truly unique political entities with a mix of Greek and Indian culture, at least for the ruling elites. Indo-Greek kingdoms timeline is very approximate. Between 190 BCE and circa 165 BCE, Greek possessions in India were divided between several Euthydemid kings which fought among themselves and their Greco-Bactrian neighbors. These kingdoms extended to Western Punjab and had Indians of Sunga dynasty as neighbors.[NEWLINE][NEWLINE]Circa 165 BCE the Greco-Bactrian rebel Eucratides invaded the Indo-Greek kingdoms and, defeating Antimachos II, succeeded to take control of most of the Indo-Greek possessions. Unluckily for him, Menander, his last Euthydemid enemy, pushed him back to Bactria circa 155 BCE. Thus the Indo-Greek kingdoms were safely under Euthydemid rule for the next 25 years. In this time Menander extended Greek rule as far as Paliputra (today Patna, in northeast India), but fell in a civil war.[NEWLINE][NEWLINE]However circa 130 BCE, the Euthydemid kings were chased away from Bactria by the Yuezhei and settled down in strength in the Indo-Greek territories. From 130 BCE to 80 BCE, numerous Indo-Greek kings ruled in India, often in little kingdoms, fighting among each other, while Arachosia was lost to the Sakas. Some kings seem to have nearly succeeded to reunite these areas, like Eucratids Philoxenos and Diomedes, but finally failed. One Euthydemid queen, Agathokleia, made a strong regency for her son Strato in this time too. Yet at the turn of the century the Indo-Greek regions were highly fragmented.[NEWLINE][NEWLINE]The disruptive element came circa 80 BCE, when the Saka king Maues attacked the Indo-Greek kingdoms. He won against several Euthydemid and Eucratid kings, taking the Paropamisadae, Gandhara and Western Punjab. Against this invader, the both dynasties forged an alliance under the rule of Amyntas, whose resistance in eastern Punjab saved Indo-Greek kingdoms, and by circa 65 BCE the Indo-Greek kings regained their kingdoms and their rivalry.[NEWLINE][NEWLINE]The final moments of Indo-Greek history are written in civil wars once more, with the quick loss of all the Western possessions to the Indo-Saka kings. The last Indo-Greek king Strato II ended his rule circa 10 BCE, vanquished by the Indo-Saka king Rajuvula.[NEWLINE][NEWLINE]The Indo-Greek kings and kingdoms are absent in the Greek imagination, because of the estrangement from the Greek world and the cut of political links due to Parthian and Sakas presence between India and Greece. However these kingdoms appear to have strongly influenced their Indian subject and Indian or nomad neighbors, as the nature of Indian art from the period, as well as the mention of the Yonas in Asoka's edicts suggest.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_01">
+			<Text>Sagala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_02">
+			<Text>Alexandria on the Caucausus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_03">
+			<Text>Taxila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_04">
+			<Text>Peukelaotis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_05">
+			<Text>Bactra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_06">
+			<Text>Alexandria in Arachosia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_07">
+			<Text>Alexandria on the Indus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_08">
+			<Text>Demetrias in Patalene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_09">
+			<Text>Alexandria on the Oxus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_10">
+			<Text>Ozene</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_11">
+			<Text>Arachosia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_12">
+			<Text>Bucephala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_13">
+			<Text>Alexandria Nicaea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_14">
+			<Text>Patala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_15">
+			<Text>Barygaza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_16">
+			<Text>Minnagara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_17">
+			<Text>Methora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_18">
+			<Text>Pataliputra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_19">
+			<Text>Alexandria Eskhata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_20">
+			<Text>Saraostus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_21">
+			<Text>Demetriaspolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_22">
+			<Text>Kapisa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_23">
+			<Text>Eucratideia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_24">
+			<Text>Saketa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_25">
+			<Text>Ujjain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_26">
+			<Text>Aornos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_27">
+			<Text>Gandhara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_28">
+			<Text>Ferghana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_29">
+			<Text>Simylla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_30">
+			<Text>Chiniot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_31">
+			<Text>Chorochoad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_32">
+			<Text>Phrasana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_33">
+			<Text>Bigis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_34">
+			<Text>Peuceula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_INDO_GREEKS_35">
+			<Text>Bala Hisar</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INDO_GREEKS_0">
+			<Text>Apollodotus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INDO_GREEKS_1">
+			<Text>Phillip</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INDO_GREEKS_2">
+			<Text>Alexander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INDO_GREEKS_3">
+			<Text>Bhallika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INDO_GREEKS_4">
+			<Text>Tapassu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INDO_GREEKS_5">
+			<Text>Deimachus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INDO_GREEKS_6">
+			<Text>Plutard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INDO_GREEKS_7">
+			<Text>Agathokleia</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INDO_GREEKS_8">
+			<Text>Anund</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INDO_GREEKS_9">
+			<Text>Eucratides</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INDO_GREEKS_10">
+			<Text>Demetrius</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_INDO_GREEKS_11">
+			<Text>Stratos</Text>
+		</Row>
+		<!--MENANDER I-->
+		<Row Tag="TXT_KEY_LEADER_JFD_MENANDER">
+			<Text>Menander I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MENANDER_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MENANDER_TEXT_1">
+			<Text>Menander, also spelled Minedra or Menadra, Pali Milinda, (flourished 160 bce?–135 bce?), the greatest of the Indo-Greek kings and the one best known to Western and Indian classical authors. He is believed to have been a patron of the Buddhist religion and the subject of an important Buddhist work, the Milinda-panha (“The Questions of Milinda”).[NEWLINE][NEWLINE]Menander was born in the Caucasus, but the Greek biographer Plutarch calls him a king of Bactria, and the Greek geographer and historian Strabo includes him among the Bactrian Greeks “who conquered more tribes than Alexander [the Great].” It is possible that he ruled over Bactria, and it has been suggested that he aided the Seleucid ruler Demetrius II Nicator against the Parthians. His kingdom in the Indian subcontinent consisted of an area extending from the Kabul River valley in the west to the Ravi River in the east and from the Swat River valley (in modern Pakistan) in the north to Arachosia (the Kandahār region) in Afghanistan in the south. Ancient Indian writers indicate that he probably led expeditions into Rajputana and as far east along the Ganges (Ganga) River valley as Pataliputra (now Patna), in the present-day Indian state of Bihar.[NEWLINE][NEWLINE]Menander was probably the Indo-Greek king who was converted to Buddhism by the holy man Nagasena after a prolonged and intelligent discussion, which has been recorded in the Milinda-panha. The style may have been influenced by Plato’s dialogues. The wheel engraved on some of Menander’s coins is probably connected with Buddhism, and Plutarch’s statement that when Menander died his earthly remains were divided equally among the cities of his kingdom and that monuments, possibly stupas (Buddhist commemorative monuments), were to be erected to enshrine them has been interpeted to indicate that he had probably become a Buddhist. Modern scholarship, however, has cast doubt on Plutarch’s account, speculating that he may have confused Menander’s death with the almost identical story of the death of the Buddha.[NEWLINE][NEWLINE]The only inscription referring to Menander has been found in Bajaur, the tribal territory between the Swat and Kunar rivers, but large numbers of Menander’s coins have been unearthed, mostly of silver and copper, attesting to both the duration of his reign and the flourishing commerce of his realm. According to Buddhist tradition he handed over his kingdom to his son and retired from the world, but Plutarch relates that he died in camp while on a military campaign.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MENANDER_NAME">
+			<Text>Menander I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MENANDER_SUBTITLE">
+			<Text>Leader of The Indo-Greeks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MENANDER_TITLES_1">
+			<Text>King of the Indo-Greeks</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_MENANDER_LIVED">
+			<Text>?? - 130 BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JFD_INDO_GREEKS_TEXT">
+			<Text>O' wise and compassionate King Menander, the knowledge of the East beckons. The Indo-Greek Kingdom was the legacy of Alexander's expedition into India. As the Indo-Greeks' most celebrated King, your reign would oversee the consolidation of an empire encompassing a diverse wealth of faiths and peoples. Yet, it was Buddhism that would leave its mark upon you, and the discourses of the Buddhist thinkers that frequented your court would cast your rule in the style of the great emperor Ashoka.[NEWLINE][NEWLINE]O' saviour-king, the Buddha's dharma speaks to you once more. Can you pursue an empire of a great many religions? Can you disseminate the enlightened teachings of the great awakened one? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_MENANDER_FIRSTGREETING_1">
+			<Text>Greetings. I am King Menander. Come then, I have questions for you about your people and their faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MENANDER_DEFEATED_1">
+			<Text>The burden of kingship was great. Now, I might finally find solace in my learnings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MENANDER_ATTACKED_HOSTILE_1">
+			<Text>So be it. I will set aside my studies for now and crush you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MENANDER_DEC_FRIENDSHIP_1">
+			<Text>There is much to be learned from our friendship. I beckon you to join me in a public Declaration of Friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MENANDER_DENOUNCE_1">
+			<Text>The knowledge of the world is not safe with you around.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MENANDER_DENOUNCE_FRIEND_1">
+			<Text>My time with you has told me enough. You have no interest in knowledge or learning.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MENANDER_DOW_GENERIC_1">
+			<Text>Your armies will be crushed beneath the feet of my war elephants.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_MENANDER_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>So be it. I will set aside my studies for now and crush you.</Text>
+		</Row>
+		<!--DHARMIKASA-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_INDO_GREEKS_SHORT">
+			<Text>Dharmikasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_INDO_GREEKS">
+			<Text>City conquests spread the Religion of the conquered city to your founded cities. [ICON_CULTURE] Culture and [ICON_PEACE] Faith from conquered cities add to [ICON_GOLDEN_AGE] GA progress.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_DTP_INDO_GREEKS_GAP_FROM_CULTURE_AND_FAITH">
+			<Text>{1_Num} is added per turn from [ICON_CULTURE] Culture and [ICON_PEACE] Faith output in conquered cities.</Text>
+		</Row>
+		<!--ROYAL SILVERSMITH-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_ROYAL_SILVERSMITH">
+			<Text>Royal Silversmith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ROYAL_SILVERSMITH_HELP">
+			<Text>+1 [ICON_CULTURE] Culture and +2 [ICON_PEACE] Faith if the city is [ICON_CONNECTED] Connected to the Capital, and an additional +1 [ICON_CULTURE] Culture for every nearby city [ICON_CONNECTED] Connected as well (up to +3).[NEWLINE][NEWLINE]Each source of [ICON_RES_GOLD] Gold and [ICON_RES_SILVER] Silver worked by this City produces +2 [ICON_GOLD] Gold.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ROYAL_SILVERSMITH_STRATEGY">
+			<Text>This unique Mint replacement for the Indo-Greeks is the Royal Silversmith. Unlike the Mint, this building does not require a nearby source of [ICON_RES_GOLD] Gold or [ICON_RES_SILVER] Silver in order to be built, although it does still increase their [ICON_GOLD] Gold output. The Royal Silversmith increases the city's [ICON_CULTURE] Culture and [ICON_PEACE] Faith output if the city has a [ICON_CONNECTED] Connection with the Capital. For every city within 5 tiles that also has a [ICON_CONNECTED] Connection, the Royal Silversmith receives an additional +1 [ICON_CULTURE] Culture (up to +3). At the hub of your road networks, a Royal Silversmith will prove highly valueable in disseminating your civilization's culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ROYAL_SILVERSMITH_TEXT">
+			<Text>Menander has left behind an immense corpus of silver and bronze coins, more so than any other Indo-Greek king. During his reign, the fusion between Indian and Greek coin standards reached its apogee. According to Bopearachchi, his silver coinage begins with a rare series of drachma depicting on the obverse Athena and on the reverse her attribute the owl. On the next series, Menander introduces his own portrait, a hitherto unknown custom among Indian rulers. The reverse features his dynastical trademark: the so-called Athena Alkidemos throwing a thunderbolt, an emblem used by many of Menander's successors and also the emblem of the Antigonid kings of Macedonia. In a further development, Menander changed the legends from circular orientation to the arrangement seen on coin 4 to the right. This modification ensured that the coins could be read without being rotated, and was used without exception by all later Indo-Greek kings.</Text>
+		</Row>
+		<!--JFD: Royal Silversmith Connected-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_ROYAL_SILVERSMITH_CONNECTED">
+			<Text>JFD: Royal Silversmith Connected</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ROYAL_SILVERSMITH_CONNECTED_HELP">
+			<Text></Text>
+		</Row>
+		<!--JFD: Royal Silversmith Connected Other-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_ROYAL_SILVERSMITH_CONNECTED_OTHER">
+			<Text>JFD: Royal Silversmith Connected Other</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_ROYAL_SILVERSMITH_CONNECTED_OTHER_HELP">
+			<Text></Text>
+		</Row>
+		<!--WAR MAHOUT-->
+		<Row Tag="TXT_KEY_UNIT_JFD_WAR_MAHOUT">
+			<Text>War Mahout</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_WAR_MAHOUT_HELP">
+			<Text>A unique Chariot Archer for the Indo-Greeks. Unlocks slightly later, but begins with bonus XP when trained in conquered cities. Is resistent to City Attacks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_WAR_MAHOUT_STRATEGY">
+			<Text>The War Mahout is the Indo-Greek unique unit, replacing the Chariot Archer. It is more powerful (if slower) than the Chariot Archer, but it unlocks slightly later, at Mathematics. It begins with +2 bonus XP per Population when it is trained in a conquered city. In addition, the War Mahout receives a +25% bonus to resisting City Attacks. This makes the War Mahout particularly useful when deployed into battle at the heart of your frontier.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_WAR_MAHOUT_TEXT">
+			<Text>A terrifying sight on the battlefield, often as dangerous to its own side as it was to the enemy, the war elephant could be considered the world's first weapon of mass destruction. Indians used elephants in war until the advent of gunpowder rendered them obsolete. In pre-gunpowder battle the war elephant served two primary purposes. First, their scent absolutely terrified horses, rendering the enemy's cavalry useless. Second, they could break through even the strongest line of infantry, crushing a wall of spears that no horse could ever surmount. Elephants were incredibly difficult to kill and history records them surviving sixty or more arrows. The primary problem with elephants was their tendency to go berserk with pain or rage, at which point they'd be impossible for their rider to control. Elephant riders often carried a spike and mallet that they could use to kill the animals if they attacked their own forces.</Text>
+		</Row>
+		<!--Elephant Hide-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_WAR_MAHOUT">
+			<Text>Elephant Hide</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_WAR_MAHOUT_HELP">
+			<Text>+50% resistance to City Attacks</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

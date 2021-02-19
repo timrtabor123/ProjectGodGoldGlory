@@ -1,0 +1,22 @@
+-- DMS_Eritrea_Credits
+-- Author: DMS
+--==========================================================================================================================
+DMS:
+	- Design
+	- Code
+	- Art
+Scapegrace:
+	- Design
+urdnot_scott:
+	- Map
+lime:
+	- DoM text
+darthstarkiller:
+	- City list
+	- Prettify civ icon
+War theme:
+	- Tigrigna Entertainment: Best Eritrean Instrumental Music - Part 2 (link: )
+Peace theme:
+	- Tigrigna Entertainment: Best Eritrean Instrumental Music - Part 3 (link: )
+--==========================================================================================================================
+--==========================================================================================================================

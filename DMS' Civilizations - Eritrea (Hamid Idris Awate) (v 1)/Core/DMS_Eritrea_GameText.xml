@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- City names -->
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_1">
+			<Text>Asmara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_2">
+			<Text>Keren</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_3">
+			<Text>Teseney</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_4">
+			<Text>Mendefera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_5">
+			<Text>Agordat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_6">
+			<Text>Assab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_7">
+			<Text>Massawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_8">
+			<Text>Adi Quala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_9">
+			<Text>Senafe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_10">
+			<Text>Dekemhare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_11">
+			<Text>Segheneyti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_12">
+			<Text>Nakfa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_13">
+			<Text>Adi Keyh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_14">
+			<Text>Barentu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_15">
+			<Text>Beilul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_16">
+			<Text>Edd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_17">
+			<Text>Ghinda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_18">
+			<Text>Mersa Fatuma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_19">
+			<Text>Himbirti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_20">
+			<Text>Nefasit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_21">
+			<Text>Badme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_22">
+			<Text>Filfil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_23">
+			<Text>Hazega</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_24">
+			<Text>Matara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_25">
+			<Text>Om Hajer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_26">
+			<Text>Quatit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_27">
+			<Text>Tserona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_28">
+			<Text>Tsazega</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_29">
+			<Text>Zula</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_30">
+			<Text>Afabet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_31">
+			<Text>Bisha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_32">
+			<Text>Dairo Paulos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_33">
+			<Text>Areza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_34">
+			<Text>Debaysima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_35">
+			<Text>Zahgir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_36">
+			<Text>Emba Derho</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_37">
+			<Text>Kudo-Felasi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_38">
+			<Text>Mersa Teklay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_39">
+			<Text>Mai Mine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_ERITREA_40">
+			<Text>Per Tokar</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_ERITREA_9">
+			<Text>Abraha Kassa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_ERITREA_8">
+			<Text>Kidane "Wedi Qeshi"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_ERITREA_7">
+			<Text>Petros Solomon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_ERITREA_6">
+			<Text>Idris Mohammed Adem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_ERITREA_5">
+			<Text>Hussein Kelifah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_ERITREA_4">
+			<Text>Ali Said Abdella</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_ERITREA_3">
+			<Text>Solomon Abera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_ERITREA_2">
+			<Text>Tiffany Haddish</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_ERITREA_1">
+			<Text>Joe Neguse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_ERITREA_0">
+			<Text>Nat Berhe</Text>
+		</Row>
+		<!-- Eritrea -->
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_ERITREA">
+			<Text>Eritrean Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_ERITREA_SHORT">
+			<Text>Eritrea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_ERITREA_ADJECTIVE">
+			<Text>Eritrean</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_ERITREA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_ERITREA_TEXT_1">
+			<Text>Eritrea, country of the Horn of Africa, located on the Red Sea. Eritrea’s coastal location has long been important in its history and culture—a fact reflected in its name, which is an Italianized version of Mare Erythraeum, Latin for “Red Sea.” The Red Sea was the route by which Christianity and Islam reached the area, and it was an important trade route that such powers as Turkey, Egypt, and Italy hoped to dominate by seizing control of ports on the Eritrean coast. Those ports promised access to the gold, coffee, and slaves sold by traders in the Ethiopian highlands to the south, and, in the second half of the 20th century, Ethiopia became the power from which the Eritrean people had to free themselves in order to create their own state.[NEWLINE][NEWLINE]In 1993, after a war of independence that lasted nearly three decades, Eritrea became a sovereign country. During the long struggle, the people of Eritrea managed to forge a common national consciousness, but, with peace established, they faced the task of overcoming their ethnic and religious differences in order to raise the country from a poverty made worse by years of drought, neglect, and war. Eritrea’s capital and largest city is Asmara (Asmera)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_ERITREA_HEADING_2">
+			<Text>Geography, Climate, Flora and Fauna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_ERITREA_TEXT_2">
+			<Text>The topography of Eritrea is dominated by the extension of the Ethiopian north-south trending highlands, descending on the east to a coastal desert plain and on the northeast to hills and on the southwest to flat-to-rolling plains. Approximately 4% of the land is arable. Natural resources include gold, potash, zinc, copper, salt, and fish. Frequent droughts, soil erosion, deforestation, and overgrazing all present environmental challenges.[NEWLINE][NEWLINE]Highs of 60°c (140°f) are not uncommon in the Danakil Depression in Eritrea's southernmost province, Denkalia. This is reportedly the hottest spot in the world. It is cooler and wetter in the central highlands. The western hills and lowlands are semiarid. Heavy rainfall occurs during June, July, and August, except in the coastal desert.[NEWLINE][NEWLINE]The giraffe and baboon are extinct in Eritrea. Populations of lion, leopard, zebra, species of monkey, gazelle, antelope, and elephant continue to thrive, however. The coastal areas are home to many species of turtle, lobster, and shrimp. Plant life includes acacia, cactus, aloe vera, prickly pear, and olive trees. As of 2002, there were at least 112 species of mammals and 138 species of birds throughout the country.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_ERITREA_HEADING_3">
+			<Text>Antiquity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_ERITREA_TEXT_3">
+			<Text>Together with Djibouti, Ethiopia, northern Somalia, and the Red Sea coast of Sudan, Eritrea is considered the most likely location of the land which the ancient Egyptians called Punt, first mentioned in the 25th century BC. The ancient Puntites had close relations with Ancient Egypt during the rule of Pharaoh Sahure and Queen Hatshepsut.[NEWLINE][NEWLINE]During the 10th to 5th centuries BC, D'mt was a kingdom that encompassed most of Eritrea and the northern frontier of Ethiopia. Given the presence of a massive temple complex at Yeha, this area was most likely the kingdom's capital. Qohaito, often identified as the town of Koloe in the Periplus of the Erythraean Sea, as well as Matara were important ancient Dʿmt kingdom cities in southern Eritrea. The realm developed irrigation schemes, used plows, grew millet, and made iron tools and weapons. After the fall of Dʿmt in the 5th century BC, the plateau came to be dominated by smaller successor kingdoms. This lasted until the rise of one of these polities during the first century, the Kingdom of Aksum, which was able to reunite the area.[NEWLINE][NEWLINE]From approximately 100–940 AD, the Kingdom of Aksum was a trading empire centered in Eritrea and northern Ethiopia. The Aksumites erected a number of large stelae, which served a religious purpose in pre-Christian times. One of these granite columns, the Obelisk of Aksum, is the largest such structure in the world. Under Ezana (fl. 320–360), Aksum later adopted Christianity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_ERITREA_HEADING_4">
+			<Text>Middle Ages</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_ERITREA_TEXT_4">
+			<Text>After the decline of Aksum, the Eritrean highlands were under the domain of Bahr Negash ruled by the Bahr Negus. The area was then known as Ma'ikele Bahr ("between the seas/rivers", i.e. the land between the Red Sea and the Mereb river). It was later renamed under Emperor Zara Yaqob as the domain of the Bahr Negash, the Medri Bahri ("Sea land" in Tingrinya). Turks briefly occupied the highland parts of Baharnagash in 1559 and withdrew after they encountered resistance and were pushed back by the Bahrnegash and highland forces. In 1578 they tried to expand into the highlands with the help of Bahr Negash Yisehaq who had switched alliances due to power struggle, and by 1589 once again they were apparently compelled to withdraw their forces to the coast. After that Ottomans abandoned their ambitions to establish themselves on the highlands and remained in the lowlands until they left the region by 1872.[NEWLINE][NEWLINE]At the end of the 16th century, the Aussa Sultanate was established in the Denkel lowlands of Eritrea. The polity had come into existence in 1577, when Muhammed Jasa moved his capital from Harar to Aussa (Asaita) with the split of the Adal Sultanate into Aussa and the Sultanate of Harar. In 1734, the Afar leader Kedafu, head of the Mudaito clan, seized power and established the Mudaito Dynasty. This marked the start of a new and more sophisticated polity that would last into the colonial period.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_ERITREA_HEADING_5">
+			<Text>Italian Eritrea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_ERITREA_TEXT_5">
+			<Text>The boundaries of the present-day Eritrea nation state were established during the Scramble for Africa. In 1869 or 1870, the ruling Sultan of Raheita sold lands surrounding the Bay of Assab to the Rubattino Shipping Company. The area served as a coaling station along the shipping lanes introduced by the recently completed Suez Canal. It had long been part of the Ottoman Habesh Eyalet centered in Egypt. The first Italian settlers arrived in 1880.[NEWLINE][NEWLINE]In the vacuum that followed the 1889 death of Emperor Yohannes IV, Gen. Oreste Baratieri occupied the highlands along the Eritrean coast and Italy proclaimed the establishment of the new colony of Italian Eritrea, a colony of the Kingdom of Italy. In the Treaty of Wuchale (It. Uccialli) signed the same year, King Menelik of Shewa, a southern Ethiopian kingdom, recognized the Italian occupation of his rivals' lands of Bogos, Hamasien, Akkele Guzay, and Serae in exchange for guarantees of financial assistance and continuing access to European arms and ammunition. His subsequent victory over his rival kings and enthronement as Emperor Menelek II (r. 1889–1913) made the treaty formally binding upon the entire territory.[NEWLINE][NEWLINE]In 1888, the Italian administration launched its first development projects in the new colony. The Eritrean Railway was completed to Saati in 1888, and reached Asmara in the highlands in 1911. The Asmara–Massawa Cableway was the longest line in the world during its time, but was later dismantled by the British in World War II. Besides major infrastructural projects, the colonial authorities invested significantly in the agricultural sector. It also oversaw the provision of urban amenities in Asmara and Massawa, and employed many Eritreans in public service, particularly in the police and public works departments. Thousands of Eritreans were concurrently enlisted in the army, serving during the Italo-Turkish War in Libya as well as the First and Second Italo-Abyssinian Wars.[NEWLINE][NEWLINE]Additionally, the Italian Eritrea administration opened a number of new factories, which produced buttons, cooking oil, pasta, construction materials, packing meat, tobacco, hide and other household commodities. In 1939, there were around 2,198 factories and most of the employees were Eritrean citizens. The establishment of industries also made an increase in the number of both Italians and Eritreans residing in the cities. The number of Italians residing in the territory increased from 4,600 to 75,000 in five years; and with the involvement of Eritreans in the industries, trade and fruit plantation was expanded across the nation, while some of the plantations were owned by Eritreans.[NEWLINE][NEWLINE]In 1922, Benito Mussolini's rise to power in Italy brought profound changes to the colonial government in Italian Eritrea. After il Duce declared the birth of the Italian Empire in May 1936, Italian Eritrea (enlarged with northern Ethiopia's regions) and Italian Somaliland were merged with the just conquered Ethiopia in the new Italian East Africa (Africa Orientale Italiana) administrative territory. This Fascist period was characterized by imperial expansion in the name of a "new Roman Empire". Eritrea was chosen by the Italian government to be the industrial center of Italian East Africa.[NEWLINE][NEWLINE]Asmara's architecture after 1935 was greatly improved to become a "modernist Art Deco city" (in 2017 has been declared a "UNESCO World City Heritage"), featuring eclectic and rationalist built forms, well-defined open spaces, and public and private buildings, including cinemas, shops, banks, religious structures, public and private offices, industrial facilities, and residences (according to UNESCO's publications). The Italians designed more than 400 buildings in a construction boom that was only halted by Italy's involvement in WW2. These included art deco masterpieces like the worldwide famous Fiat Tagliero Building and the Cinema Impero.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_ERITREA_HEADING_6">
+			<Text>British administration and federation with Ethiopia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_ERITREA_TEXT_6">
+			<Text>Through the 1941 Battle of Keren, the British expelled the Italians, and took over the administration of the country. The British placed Eritrea under British military administration until Allied forces could determine its fate. In the absence of agreement amongst the Allies concerning the status of Eritrea, British administration continued for the remainder of World War II and until 1950. During the immediate postwar years, the British proposed that Eritrea be divided along religious lines and annexed to their Sudan and to Ethiopia. The Soviet Union, anticipating a communist victory in the Italian polls, initially supported returning Eritrea to Italy under trusteeship or as a colony.[NEWLINE][NEWLINE]In the 1950s, the Ethiopian feudal administration under Emperor Haile Selassie sought to annex Eritrea and Italian Somaliland. He laid claim to both territories in a letter to Franklin D. Roosevelt at the Paris Peace Conference and at the First Session of the United Nations. In the United Nations, the debate over the fate of the former Italian colonies continued. The British and Americans preferred to cede all of Eritrea except the Western province to the Ethiopians as a reward for their support during World War II. The Independence Bloc of Eritrean parties consistently requested from the UN General Assembly that a referendum be held immediately to settle the Eritrean question of sovereignty.[NEWLINE][NEWLINE]Following the adoption of UN Resolution 390A(V) in December 1950, Eritrea was federated with Ethiopia under the prompting of the United States. The resolution called for Eritrea and Ethiopia to be linked through a loose federal structure under the sovereignty of the Emperor. Eritrea was to have its own administrative and judicial structure, its own flag, and control over its domestic affairs, including police, local administration, and taxation. The federal government, which for all practical purposes was the existing imperial government, was to control foreign affairs (including commerce), defense, finance, and transportation. The resolution ignored the wishes of Eritreans for independence, but guaranteed the population democratic rights and a measure of autonomy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_ERITREA_HEADING_7">
+			<Text>Independence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_ERITREA_TEXT_7">
+			<Text>In 1958, a group of Eritreans founded the Eritrean Liberation Movement (ELM). The organization mainly consisted of Eritrean students, professionals and intellectuals. It engaged in clandestine political activities intended to cultivate resistance to the centralizing policies of the imperial Ethiopian state. On 1 September 1961, the Eritrean Liberation Front (ELF), under the leadership of Hamid Idris Awate, waged an armed struggle for independence. In 1962, Emperor Haile Selassie unilaterally dissolved the Eritrean parliament and annexed the territory. The ensuing Eritrean War for Independence went on for 30 years against successive Ethiopian governments until 1991, when the Eritrean People's Liberation Front (EPLF), a successor of the ELF, defeated the Ethiopian forces in Eritrea and helped a coalition of Ethiopian rebel forces take control of the Ethiopian capital Addis Ababa.[NEWLINE][NEWLINE]Following a UN-supervised referendum in Eritrea (dubbed UNOVER) in which the Eritrean people overwhelmingly voted for independence, Eritrea declared its independence and gained international recognition in 1993. The EPLF seized power, established a one-party state along nationalist lines and banned further political activity. There have been no elections since.</Text>
+		</Row>
+		<!-- Hamid Idris Awate -->
+		<Row Tag="TXT_KEY_LEADER_DMS_HAMID_IDRIS_AWATE">
+			<Text>Hamid Idris Awate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HAMID_IDRIS_AWATE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HAMID_IDRIS_AWATE_TEXT_1">
+			<Text>Hamid Idris Awate (10 April 1910 – 28 May 1962) was an Eritrean independence leader. He was the founder of the Eritrean Liberation Army (the armed wing of the Eritrean Liberation Front), and is considered by most as the 'father' of the Eritrean struggle for independence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HAMID_IDRIS_AWATE_HEADING_2">
+			<Text>Youth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HAMID_IDRIS_AWATE_TEXT_2">
+			<Text>Awate was born in 1910 in Gerset, located between Tessenei and Omhajer in southwestern Italian Eritrea. His father, a peasant, trained him as early as childhood in the use of guns. In 1935, Awate was conscripted by the Italians to serve in the colonial army of the Eritrean Ascari. Beside his fluency in Arabic, Tigre, Tigrinya, Nara, Hedareb, and Kunama, Awate learned the Italian language very well within a short period of time and was sent to Rome for a course in military intelligence.[NEWLINE][NEWLINE]After returning from Italy, he was appointed as a security officer in western Eritrea. Shortly after, he served as deputy chief (Mayor) of the city of Kassala (Sudan) and its surroundings during the brief Italian occupation of that city in 1940/1941 at the beginning of World War II. As Mayor of Kassala he promoted the political union of that city to his country, Eritrea, but the English attack at the end of January 1941 forced him to renounce to it.[NEWLINE][NEWLINE]He fought as an Eritrean ascari in the Battle of Keren and participated in the Italian guerrilla war in Eritrea against the British and Ethiopians in World War II with the cavalrymen of Ali Gabre.After the victory of Great Britain against Italy in World War II in Eritrea, Awate settled in western Eritrea but eventually went into a dispute against the British authorities and began an armed campaign against the British presence in Eritrea from 1942 to 1949. Afterwards, Awate and his armed faction came to a truce agreement with the British authorities. In the meantime, the Eritrean independence movement was taking shape and working towards making Eritrea an independent country by peaceful means rather than joining landlocked Ethiopia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HAMID_IDRIS_AWATE_HEADING_3">
+			<Text>Resistance against Ethiopia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HAMID_IDRIS_AWATE_TEXT_3">
+			<Text>In 1958 a group of Eritrean exiles in Cairo founded the Eritrean Liberation Movement under Awate's leadership. In July 1960, in the city of Cairo, a group of young Eritrean students and intellectuals held a meeting and formed the Eritrean Liberation Front (ELF). Back home, the Ethiopian authorities were suspicious of Awate’s movements and activities and were watching him closely. Ethiopian police forces planned to arrest Awate in his village in August 1961. Turkey explains that the Ethiopians deployed a large amount of police forces but their plans were foiled by an Eritrean nationalist within the Ethiopian police who informed Awate earlier of that plan. Awate then fled to Mount Adal located to the west of Agordat.[NEWLINE][NEWLINE]Awate’s decision to begin armed resistance was reached after a period of long deliberations with other nationalists. In an interview with Eritrea Al-haditha, issue #75, second year, pioneer Mohammed Al-Hassan Dohen, a long time friend of Awate and Awate's assistant when he was district chief, says: "In the year 1960, Idris Mohammed Adem sent a letter to Awate, the letter was written in Arabic. Hamid Awate told me that Idris Mohammed Adem was asking him to declare the armed struggle; but he was not ready for it at that time. After four months, Mohammed Al-Shiekh Daood came and asked Awate to declare the revolution. Awate agreed to lead the armed struggle and declare the revolution but asked for support. Mohammed Al-Shiekh Daood provided Awate with old arms, three five bullet rifles "abu khamsa" and gave him 300 Birr with sugar and tea. In addition, Ibrahim Mohammed Ali brought two rifles and myself owned a rifle. At the beginning we were only seven, then shortly our number had grown to be 13 fighters."[NEWLINE][NEWLINE]The Ethiopian authorities immediately responded to Awate's declaration. According to Awate’s contemporaries, a military unit in six trucks was sent to apprehend Awate but failed. The Ethiopians resorted to using different tactics to deal with Awate. Mohammed Al-Hassan Dohen indicates in his interview that Omer Hassano and Ejiel Abdulrahman did a last-minute appeal to end Awate’s rebellion on August 1961. Awate responded saying: "If you want us to end our armed struggle, then you better lower the Ethiopian flag and raise up the Eritrean flag." On September 1, 1961, eleven rebels led by Awate attacked police posts in the west of Eritrea include one on Mount Adal. A fierce battle ensued between Awate's and Ethiopian forces, lasting seven hours and ending in a stalemate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HAMID_IDRIS_AWATE_HEADING_4">
+			<Text>Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HAMID_IDRIS_AWATE_TEXT_4">
+			<Text>On May 27, 1962, Awate drank milk for dinner, then soon told his unit that he was not feeling well. His condition began to deteriorate, and Awate died on May 28, 1962, aged 52. Further research proves his death has been due to wounds inflicted from a recent battle. He was buried near Haykota, Gash Barka.[NEWLINE][NEWLINE]Even in Italy Awate is celebrated by the Italo-Eritrean associations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HAMID_IDRIS_AWATE_HEADING_5">
+			<Text>Judgment of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HAMID_IDRIS_AWATE_TEXT_5">
+			<Text>The image of Awate has primarily functioned as a supplement to the myth of his heroism, which is the story of a man who defied the oppressors of his people. It is the legend of a common man who galloped to the mountain of Adal and shot the first bullet that was followed by freedom fighters from across the country. The photograph might not befit this legend as Awate is seen unarmed and his proud pose is devoid of movement. This might explain changes in latter-day depictions of Awate based on the same image, which portrayed him on his horse with a rifle on his back and a sword in his hands. Such illustrations that show Awate wearing tagiya (the rounded Islamic cap) and traditional lowland costume, manifest the modification of some components of the first image by replacement and addition of certain signifiers. This was also influenced by another photograph of Awate believed to have been taken when he started the armed struggle where he is portrayed mounted on a horse that is not fully shown in the picture. Although the composition and structure of Awate's photograph remain unchanged in latter reproductions, the Italian army outfit has been consistently substituted with particular traditional and religious attires. Awate's sword, which is added in the painted reproductions, serves as a symbol of defiance reflecting the preferred construction of the myth of Awate during the struggle for independence and after.[NEWLINE][NEWLINE]The signification created by the photograph of Awate has evolved to attain a meaning far exceeding its original significance as glamorized Italian colonial army imagery. Much of the meaning creation has been influenced by the legend and surrounding socio-cultural contextual factors including the local Orthodox Church iconography that adulates similar images of warrior saints on a white horse. Later painted reproductions of Awate's image put on display the preferred meaning-making process that substituted the traits of the colonial soldier with those of the local nomad hero with closer ties to his roots and religion. Although Awate's heroic stature and legend were maintained during the three decades of the war, the Eritrean independence movement did not create iconic imagery of individual heroism. The image of Hamid Idris Awate stands as the sole war icon in the visual discourse of the Eritrean armed struggle for freedom. Despite various individual photographs of fighter men and women produced during the armed struggle, there is a dearth of iconic images of war heroes and leaders, most likely attributable to the preference for collective heroism and persistent evasion of individual heroism in the political culture of EPLF.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HAMID_IDRIS_AWATE_NAME">
+			<Text>Hamid Idris Awate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HAMID_IDRIS_AWATE_SUBTITLE">
+			<Text>Leader of Eritrea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HAMID_IDRIS_AWATE_TITLES_1">
+			<Text>Eritrean Independence Leader</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HAMID_IDRIS_AWATE_TITLES_2">
+			<Text>Father of Eritrean Independence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_HAMID_IDRIS_AWATE_LIVED">
+			<Text>1910 - 1962</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_DMS_ERITREA_TEXT">
+			<Text>Hamid Idris Awate, you are rightfully called the National Hero of Eritrea, for without you there would be no Eritrea to speak of. You were born within the Italian colony on the continent, to a small village in peasantry, but it was not long before you showed your true colors. Your skill for linguistics and strategies alike earned you a commission with the Italian army, and it was not long after that you fought as one of the heroic Ascari. But it was only then that the prospect of Eritrean independence started to become a reality. It was under your leadership in Cairo that your countrymen put up a stalwart resistance against the Ethiopians, and time and time again you proved that Eritreans would never salute and Ethiopian flag.[NEWLINE][NEWLINE]But now your country needs you once more, just as they did at Mount Adal. Can you guide your people in the coming troubles? Can you fortify yourselves against what overwhelming enemies stand before you? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!-- Gedli -->
+		<Row Tag="TXT_KEY_TRAIT_DMS_GEDLI">
+			<Text>Upon training Military land Units, receive the average of your Cities' [ICON_PRODUCTION] Production as [ICON_CULTURE] Culture. Extra [ICON_MOVES] Moves and [ICON_STRENGTH] Combat Strength are granted to random Units each turn, the number dependent on adopted Policies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DMS_GEDLI_SHORT">
+			<Text>Gedli</Text>
+		</Row>
+		<!-- Cableway Station -->
+		<Row Tag="TXT_KEY_BUILDING_DMS_CABLEWAY_STATION">
+			<Text>Cableway Station</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_CABLEWAY_STATION_TEXT">
+			<Text>The Eritrean Cableway was built by the Italian engineering firm Ceretti and Tanfani S.A. in Eritrea. It connected the port of Massawa with the city of Italian Asmara and ran a distance of nearly 72 kilometres. It also moved food, supplies and war materials for the Imperial Italian Army, which had also conquered Ethiopia in 1936. In August 1936 was opened the first section of 26.6 km from Ghinda to Godaif, a suburb of Asmara.[NEWLINE][NEWLINE]With the capacity to transport 30 tons of material every hour in each direction from the seaport of Massawa to 2326 meters above sea level in Asmara, the cableway was the longest of its kind in the world when inaugurated in 1937. The bearing cables were in almost 30 sections, were powered by diesel engines, and carried freight in 1540 small transport gondolas. In southern Eritrea there was another small ropeway.[NEWLINE][NEWLINE]During their eleven-year occupation (1941-1952) of the former Italian colony, the British removed the diesel engines, the steel cables, and other equipment as war reparations. Iron towers that remained were scrapped in the 1980s.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_CABLEWAY_STATION_HELP">
+			<Text>Unique Eritrean Workshop replacement. +2 and +10% [ICON_PRODUCTION] Production. Allows [ICON_PRODUCTION] Production to be moved from this City along Trade Routes inside your Civilization. Additionally, it provides +25% [ICON_PRODUCTION] Production when constructing the same thing as the Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_CABLEWAY_STATION_STRATEGY">
+			<Text>With the same effects as the Workshop, which it replaces, the Cableway Station also provides increased [ICON_PRODUCTION] Production (+25%) if constructing the same thing as the Capital. Only Eritrea may build it.</Text>
+		</Row>
+		<!-- Penne di Falco -->
+		<Row Tag="TXT_KEY_UNIT_DMS_PENNE_DI_FALCO">
+			<Text>Penne di Falco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_PENNE_DI_FALCO_TEXT">
+			<Text>The Penne di Falco, so called because of the falcon feather worn in their hat bands, were both the sole RCTC Eritrea mounted contingent and somewhat the elite of the ascari corps. Originally raised in the 1890s, the force was expanded by the addition of camel mounted meharisti in 1922 and then armoured cars in the Early-Thirties.[NEWLINE][NEWLINE]Although belonging to an administrative group, which also included machine gun plotoni and meharisti and armoured cars, the Penne di Falco operating as independent squadrons and half-squadrons. Their roles included acting as; reconnaissance element for the RCTC ascari infantry, a mobile formation of mounted rifles and as a conventional cavalry formation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_PENNE_DI_FALCO_STRATEGY">
+			<Text>The Penne di Falco is the Eritrean Unique Unit, replacing the Cavalry. They have the same abilities as the Cavalry, and additionally +1 Sight and +5% Flanking Bonus per City connected to your Capital. Also provides +2 [ICON_PRODUCTION] Production when garrisoned in a City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_PENNE_DI_FALCO_HELP">
+			<Text>Mounted Unit that specializes in Flanking attacks, and provides [ICON_PRODUCTION] Production when garrisoned. Only Eritrea may build it.</Text>
+		</Row>
+		<!-- Promotions -->
+		<Row Tag="TXT_KEY_PROMOTION_DMS_ASKARI_CAVALRY">
+			<Text>Askari Cavalry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_ASKARI_CAVALRY_HELP">
+			<Text>+1 Sight.[NEWLINE][NEWLINE]+5% [ICON_STRENGTH] Flanking Bonus per City connected to the Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_STRENGTH_FROM_POLICIES">
+			<Text>Gedli Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_STRENGTH_FROM_POLICIES_HELP">
+			<Text>+1 [ICON_MOVES] Movement and +15% [ICON_STRENGTH] Combat Strength.[NEWLINE][NEWLINE]Granted to random Military Units each turn, the number of Units corresponding to half the number of adopted Policies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_1">
+			<Text>Askari Flanking I</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_1_HELP">
+			<Text>+3% [ICON_STRENGTH] Flanking Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_2">
+			<Text>Askari Flanking II</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_2_HELP">
+			<Text>+6% [ICON_STRENGTH] Flanking Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_3">
+			<Text>Askari Flanking III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_3_HELP">
+			<Text>+9% [ICON_STRENGTH] Flanking Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_4">
+			<Text>Askari Flanking IV</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_4_HELP">
+			<Text>+12% [ICON_STRENGTH] Flanking Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_5">
+			<Text>Askari Flanking V</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_5_HELP">
+			<Text>+15% [ICON_STRENGTH] Flanking Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_6">
+			<Text>Askari Flanking VI</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_6_HELP">
+			<Text>+18% [ICON_STRENGTH] Flanking Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_7">
+			<Text>Askari Flanking VII</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_7_HELP">
+			<Text>+21% [ICON_STRENGTH] Flanking Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_8">
+			<Text>Askari Flanking VIII</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_8_HELP">
+			<Text>+24% [ICON_STRENGTH] Flanking Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_9">
+			<Text>Askari Flanking IX</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_9_HELP">
+			<Text>+27% [ICON_STRENGTH] Flanking Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_10">
+			<Text>Askari Flanking X</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_10_HELP">
+			<Text>+30% [ICON_STRENGTH] Flanking Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_11">
+			<Text>Askari Flanking XI</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_11_HELP">
+			<Text>+33% [ICON_STRENGTH] Flanking Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_12">
+			<Text>Askari Flanking XII</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_12_HELP">
+			<Text>+36% [ICON_STRENGTH] Flanking Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_13">
+			<Text>Askari Flanking XIII</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_13_HELP">
+			<Text>+39% [ICON_STRENGTH] Flanking Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_14">
+			<Text>Askari Flanking XIV</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_14_HELP">
+			<Text>+42% [ICON_STRENGTH] Flanking Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_15">
+			<Text>Askari Flanking XV</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_15_HELP">
+			<Text>+45% [ICON_STRENGTH] Flanking Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_16">
+			<Text>Askari Flanking XVI</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_16_HELP">
+			<Text>+48% [ICON_STRENGTH] Flanking Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_17">
+			<Text>Askari Flanking XVII</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_17_HELP">
+			<Text>+51% [ICON_STRENGTH] Flanking Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_18">
+			<Text>Askari Flanking XVIII</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_18_HELP">
+			<Text>+54% [ICON_STRENGTH] Flanking Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_19">
+			<Text>Askari Flanking XIX</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_19_HELP">
+			<Text>+57% [ICON_STRENGTH] Flanking Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_20">
+			<Text>Askari Flanking XX</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_FLANKING_BONUS_20_HELP">
+			<Text>+60% [ICON_STRENGTH] Flanking Bonus</Text>
+		</Row>
+		<!-- Dummy buildings -->
+		<Row Tag="TXT_KEY_BUILDING_DMS_CABLEWAY_STATION_EXTRA_PRODUCTION">
+			<Text>DMS: Eritrea: Cableway Station Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_CABLEWAY_STATION_EXTRA_PRODUCTION_HELP">
+			<Text>+25% Production if producing the same thing as the Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_ASKARI_EXTRA_PRODUCTION">
+			<Text>DMS: Eritrea: Penne di Falco Production</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_ASKARI_EXTRA_PRODUCTION_HELP">
+			<Text>+2 Production if a Penne di Falco is garrisoned.</Text>
+		</Row>
+		<!-- MCIS -->
+		<Row Tag="TXT_KEY_DMS_PENNE_DI_FALCO_CITY_VIEW_HELP">
+			<Text>This City has a Penne di Falco garrisoned.[NEWLINE][NEWLINE]+2 [ICON_PRODUCTION] Production.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MCIS_DMS_CABLEWAY_STATION">
+			<Text>This City has a Cableway Station.[NEWLINE][NEWLINE]+{1_iProduction}% [ICON_PRODUCTION] Production {2_sInfo}.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

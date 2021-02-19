@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="44b9f3bd-e620-4ebb-a792-4e2dd1591d29" version="1">
+  <Properties>
+    <Name>DMS' Civilizations - Eritrea (Hamid Idris Awate)</Name>
+    <Teaser>This adds [COLOR_POSITIVE_TEXT]Eritrea[ENDCOLOR] led by Hamid Idris Awate to the game.</Teaser>
+    <Description>see more on civfanatics.com</Description>
+    <Authors>DMS, darth, scapegrace, urdnot_scott, lime</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="E87BA8CE69F8CC667BB7AEF8EA20E4B0" import="1">Art/DOM_Map/DMS_Awate_DOM.dds</File>
+    <File md5="7E6748265C673AC9FEF4DA205FA64C12" import="1">Art/DOM_Map/DMS_Eritrea_Map512.dds</File>
+    <File md5="94978557FAF2C5F6AC7884BBE619004E" import="1">Art/Graphics/sv_penne_di_falco.dds</File>
+    <File md5="04302B644742C1935112C241524C7F9B" import="1">Art/IconAtlases/DMS_EritreaAlphaAtlas_128.dds</File>
+    <File md5="8E2BFFF233DDE2C6CBDD2E48D8C4B292" import="1">Art/IconAtlases/DMS_EritreaAlphaAtlas_16.dds</File>
+    <File md5="9F1308FB5CEFF2CA1A3B46A79324792B" import="1">Art/IconAtlases/DMS_EritreaAlphaAtlas_24.dds</File>
+    <File md5="69C966BE2A764A7C3C6D217736CE36E3" import="1">Art/IconAtlases/DMS_EritreaAlphaAtlas_256.dds</File>
+    <File md5="7A2D6F8532C2E4F68AF47235EDD57F65" import="1">Art/IconAtlases/DMS_EritreaAlphaAtlas_32.dds</File>
+    <File md5="12339159609F0EDA6F47C70787FC46EE" import="1">Art/IconAtlases/DMS_EritreaAlphaAtlas_45.dds</File>
+    <File md5="0F78B27FF939F95B43DBD781570496D3" import="1">Art/IconAtlases/DMS_EritreaAlphaAtlas_48.dds</File>
+    <File md5="BBB977875ABCA01B7C6D6283A42C7F91" import="1">Art/IconAtlases/DMS_EritreaAlphaAtlas_64.dds</File>
+    <File md5="C5228A0D111A6CE6BEA3040640C40038" import="1">Art/IconAtlases/DMS_EritreaAlphaAtlas_80.dds</File>
+    <File md5="8B1F46F5E906F1BB77E6BFCCC29C32FE" import="1">Art/IconAtlases/DMS_EritreaAtlas_128.dds</File>
+    <File md5="E617003FCFDB173E04D0E19494C7D99F" import="1">Art/IconAtlases/DMS_EritreaAtlas_256.dds</File>
+    <File md5="B7EADB2B45FAECDA23802FB1CBECDE4B" import="1">Art/IconAtlases/DMS_EritreaAtlas_32.dds</File>
+    <File md5="CD81F45325CAD669150EB72116F566B7" import="1">Art/IconAtlases/DMS_EritreaAtlas_45.dds</File>
+    <File md5="252834BD0DF380393E12ECFA8CB1711E" import="1">Art/IconAtlases/DMS_EritreaAtlas_64.dds</File>
+    <File md5="AFD725D2324AF27CCA81C05001872774" import="1">Art/IconAtlases/DMS_EritreaAtlas_80.dds</File>
+    <File md5="02A78ED4271AC2196970D895C520FFBD" import="1">Art/IconAtlases/UnitFlag_PenneDiFalco_32.dds</File>
+    <File md5="9B0CFC412BC6AFD16BB6C91D3A119C7B" import="1">Art/Leaderscene/DMS_Awate_Diplo.dds</File>
+    <File md5="C8E54A20F48F3F9B7117E5F6B865CBA5" import="1">Art/Leaderscene/DMS_Awate_Diplo.xml</File>
+    <File md5="B342776463B6EDB99D2A782E564598E9" import="1">Audio/DMS_Awate_War.mp3</File>
+    <File md5="E46F2A4AED6B05983BCE131603F14BB6" import="1">Audio/DMS_Awate_Peace.mp3</File>
+    <File md5="D079DE105EC65E21A809045818B35677" import="0">Core/DMS_Eritrea_ArtDefines.sql</File>
+    <File md5="1ECC24A7D2C598C01B019DCC66A03B6D" import="0">Core/DMS_Eritrea_GameDefines.sql</File>
+    <File md5="737E56982B335B78734D286A12AA640A" import="0">Core/DMS_Eritrea_GameDefines_Diplomacy.sql</File>
+    <File md5="BE12D10BEDF2AF3B05C9DF62523AC5F3" import="0">Core/DMS_Eritrea_GameDefines_ModSupport.sql</File>
+    <File md5="886754A863C57C75B6437765560665F4" import="0">Core/DMS_Eritrea_GameText.xml</File>
+    <File md5="9007E14D19180668CCB303FBD0442A8B" import="0">Core/DMS_Eritrea_GameText_Diplomacy.xml</File>
+    <File md5="34C731C1E7AB5007531796E86802F15C" import="0">DMS_Eritrea_Credits.txt</File>
+    <File md5="52521130150E50B0B611625459BA4C39" import="0">DMS_Eritrea_UserSettings.sql</File>
+    <File md5="094822536D6C742FEC3D31BA7CC91B9B" import="0">Lua/DMS_Eritrea_Functions.lua</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Utilities/Sukritact's MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Utilities/Sukritact's MCIS/CityInfoStack.xml</File>
+    <File md5="CB35270CCDD399C507B9D1BFD7C96363" import="0">Lua/Utilities/Sukritact's MCIS/DMS_Eritrea_UB_CityInfo.lua</File>
+    <File md5="F1B450E579B4A25E0C23CE6128398DFD" import="0">Lua/Utilities/Sukritact's MCIS/DMS_Eritrea_UB_CityInfo.xml</File>
+    <File md5="051C614B9559035CD45A3A64AFA89757" import="0">Lua/Utilities/Sukritact's MCIS/DMS_Eritrea_UU_CityInfo.lua</File>
+    <File md5="81D3F63FABC6BED13360D87417E51F81" import="0">Lua/Utilities/Sukritact's MCIS/DMS_Eritrea_UU_CityInfo.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/DMS_Eritrea_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Eritrea_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Eritrea_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Eritrea_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Eritrea_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Eritrea_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>DMS_Eritrea_UserSettings.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/DMS_Eritrea_Functions.lua">
+      <Name>DMS_Eritrea_Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact's MCIS/CityInfoStack.lua">
+      <Name>CityInfoStack</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact's MCIS/DMS_Eritrea_UB_CityInfo.lua">
+      <Name>DMS_Eritrea_UB_CityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact's MCIS/DMS_Eritrea_UU_CityInfo.lua">
+      <Name>DMS_Eritrea_UU_CityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

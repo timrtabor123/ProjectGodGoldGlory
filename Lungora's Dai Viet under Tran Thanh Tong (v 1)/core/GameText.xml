@@ -1,0 +1,288 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Dai Viet -->
+		<Row Tag="TXT_KEY_CIV_LUNG_DAI_VIET_ADJECTIVE">
+			<Text>Viet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_LUNG_DAI_VIET_DESC">
+			<Text>Empire of Dai Viet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_LUNG_DAI_VIET_SHORT_DESC">
+			<Text>Dai Viet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LUNG_DAI_VIET_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LUNG_DAI_VIET_TEXT_1">
+			<Text>
+				Beginning with the rule of Din Tien Hoang (r. 968–979), the country of Dai Viet was officially established. The term "Viet" is the same as the Chinese word "Yue", a name in ancient times of various non-Chinese groups who lived in what is now northern/southern China and northern Viet Nam, though the Viet People had been for a long time a melting pot of both Yue and Tai peoples. In 1010 Ly Thai To, founder of the Ly Dynasty, issued the "Edict on the Transfer of the Capital" and moved the capital of Dai Viet to Thang Long and built the Imperial Citadel of Thang Long where the Hanoi Citadel would later stand.
+				[NEWLINE][NEWLINE] Dai Viet is a strategic location. By invading Dai Viet, the Mongols would be able to bypass the Himalaya and drive deep into South East Asia. However, the Mongolians of the Yuan Dynasty invaded Dai Viet three times and were defeated by the Tran Dynasty under the rule of Tran Hung Dao. The last battle, the Battle of Bach Dang, was a decisive defeat for the Mongolians. Dai Viet's perseverance thwarted Mongolian attempts to conquer South East Asia and prevented the third Mongolian invasion of Japan, as the Mongol navy was completely destroyed during Bach Dang. This became one the greatest victories in Vietnamese military history.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_LUNG_DAI_VIET_TEXT">
+			<Text>
+				Heaven's fortunes be upon you Tran Tranh Tong. You inherited your father's Empire, his legacy, and his enemies. The Mongols controlled China to the north and looked greedily towards your lands. They came three times. Each you, your brother, and the noble Viet people fended them off. But winning wars against great odds was not the only feat you achieved. You built up the grand citadels of Thang Long, Thanh Hoa, and Thanh Dong. You patronised the arts and sciences, bringing Dai Viet into a new age of prosperity and even introducing the first exclusively Viet written language allowing your court to write in its own way rather than that of China. The Tran dynasty would rule on in prosperity from the foundations you built and feats you achieved. [NEWLINE][NEWLINE] Great Tran Thanh Tong, the Viets call to you once more. Will you answer them and fend off the empires at the gates and be a champion of science and culture once more? Can you build an empire to stand the test of time?
+			</Text>
+		</Row>
+		<!--City List-->
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_01">
+			<Text>Thang Long</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_02">
+			<Text>Thanh Hoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_03">
+			<Text>Bac Giang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_04">
+			<Text>Thanh Dong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_05">
+			<Text>Hai Phong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_06">
+			<Text>Thai Nguyen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_07">
+			<Text>Bac Ninh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_08">
+			<Text>Thai Binh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_09">
+			<Text>Phu Xuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_10">
+			<Text>Ha Tinh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_11">
+			<Text>Tien Dien</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_12">
+			<Text>Ninh Binh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_13">
+			<Text>Duong Lam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_14">
+			<Text>Cao Bang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_15">
+			<Text>Dong Hoi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_16">
+			<Text>Ha Long</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_17">
+			<Text>Hung Yen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_18">
+			<Text>Yen Bai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_19">
+			<Text>Son Tay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_20">
+			<Text>Tuyen Quang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_21">
+			<Text>Hong Linh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_22">
+			<Text>Hoa Binh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_23">
+			<Text>Chi Linh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_24">
+			<Text>Phuc Yen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_25">
+			<Text>Dong Ha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_26">
+			<Text>Son La</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_27">
+			<Text>Lao Cai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_28">
+			<Text>Ha Giang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_29">
+			<Text>Cao Bang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_30">
+			<Text>Lang Son</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_31">
+			<Text>Cam Pha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_32">
+			<Text>Phu Ly</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_33">
+			<Text>Thai Hoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_34">
+			<Text>Hoang Mai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_35">
+			<Text>Sam Son</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_36">
+			<Text>Tu Son</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_37">
+			<Text>Hong Ky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_38">
+			<Text>Dong Lac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_39">
+			<Text>Trung Hoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_40">
+			<Text>An Khai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_41">
+			<Text>Gia Dong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_42">
+			<Text>Phu Cuong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_43">
+			<Text>Quang Tri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_44">
+			<Text>Quang Dong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_45">
+			<Text>Hong Linh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_46">
+			<Text>Nghi Van</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_47">
+			<Text>Bim Son</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_LUNG_DAI_VIET_48">
+			<Text>Hoi An</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_LUNG_DAI_VIET_9">
+			<Text>Phap Thuan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LUNG_DAI_VIET_8">
+			<Text>Khuong Viet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LUNG_DAI_VIET_7">
+			<Text>Van Hanh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LUNG_DAI_VIET_6">
+			<Text>Cuu Chi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LUNG_DAI_VIET_5">
+			<Text>Vien Chieu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LUNG_DAI_VIET_4">
+			<Text>Ngo An</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LUNG_DAI_VIET_3">
+			<Text>Chan Khong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LUNG_DAI_VIET_2">
+			<Text>Dieu Nhan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LUNG_DAI_VIET_1">
+			<Text>Man Giac</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LUNG_DAI_VIET_0">
+			<Text>Tu Lo</Text>
+		</Row>
+		<!-- TRAN THANH TONG -->
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET">
+			<Text>Tran Thanh Tong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LUNG_DAI_VIET_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_LUNG_DAI_VIET_TEXT_1">
+			<Text>
+				Beginning with the rule of Din Tien Hoang (r. 968–979), the country of Dai Viet was officially established. The term "Viet" is the same as the Chinese word "Yue", a name in ancient times of various non-Chinese groups who lived in what is now northern/southern China and northern Viet Nam, though the Viet People had been for a long time a melting pot of both Yue and Tai peoples. In 1010 Ly Thai To, founder of the Ly Dynasty, issued the "Edict on the Transfer of the Capital" and moved the capital of Dai Viet to Thang Long and built the Imperial Citadel of Thang Long where the Hanoi Citadel would later stand.
+				[NEWLINE][NEWLINE] Dai Viet is a strategic location. By invading Dai Viet, the Mongols would be able to bypass the Himalaya and drive deep into South East Asia. However, the Mongolians of the Yuan Dynasty invaded Dai Viet three times and were defeated by the Tran Dynasty under the rule of Tran Hung Dao. The last battle, the Battle of Bach Dang, was a decisive defeat for the Mongolians. Dai Viet's perseverance thwarted Mongolian attempts to conquer South East Asia and prevented the third Mongolian invasion of Japan, as the Mongol navy was completely destroyed during Bach Dang. This became one the greatest victories in Vietnamese military history.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_PEDIA_NAME">
+			<Text>Tran Thanh Tong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_PEDIA_SUBTITLE">
+			<Text>Leader of Dai Viet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_PEDIA_TITLES_1">
+			<Text>Emperor of Dai Viet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_PEDIA_LIVED">
+			<Text>1279-1290</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_LUNG_DAI_VIET_PEDIA_TEXT">
+			<Text>
+				temp
+			</Text>
+		</Row>
+		<!-- DANCE OF FLOWERS -->
+		<Row Tag="TXT_KEY_TRAIT_LUNG_DAIVIET_SHORT">
+			<Text>Dance of Flowers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LUNG_DAIVIET">
+			<Text>Mounted Units benefit from defensive terrain bonuses. Constructing buildings yielding [ICON_CULTURE] Culture provides [ICON_RESEARCH] Science, while constructing buildings yielding [ICON_RESEARCH] Science provides [ICON_CULTURE] Culture.</Text>
+		</Row>
+		<!-- CAM QUAN -->
+		<Row Tag="TXT_KEY_UNIT_LUNG_CAMQUAN">
+			<Text>Cam Quan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LUNG_CAMQUAN_TEXT">
+			<Text>
+				Cam Quan translates approximately to "Royal Army". Much like most states of the period Dai Viet's military was compromised primarily by peasant levies, but they did have a professional standing army. Historically these were some of the only troops that would be outfitted with sets of high quality lamelar and afforded mounts. The Cam Quan specifically are meant to represent the Royal Army under the leadership of Tran Thanh Tong's brother: Prince Tran Hung Dao who is regarded as one of the premier generals of history. Under his leadership the Cam Quan and levy support wrecked havoc upon the armies of invading Mongols. They cut supply lines, ambushed small portions of the invading force isolated, and made heavy use of the waterways of North Vietnam to out maneuver their foes. The Battle of Bach Dang is both the most famous and most awesome of Tran Hung Dao's exploits where he forced the entire invading fleet of Mongol-controlled China into a land battle with his cavalry, slaughtering and incinerating the entire enemy force with careful knowledge of the river's ebbing tides.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LUNG_CAMQUAN_HELP">
+			<Text>In addition to the Knight it replaces, the Cam Quan begins with the Amphibious promotion -which eliminates the combat penalty for attacking from the sea or over a river- and has a +33% [ICON_STRENGTH] Combat bonus against other mounted units. Once per turn killing an enemy unit or pillaging a trade route refreshes its moves and allows to perform another attack.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LUNG_CAMQUAN_STRATEGY">
+			<Text>
+				The Cam Quan is the Dai Viet's signature unit, a hard hitting fast moving danger to all who oppose you. It's best used as a hit and run unit, picking off enemies (particularly cavalry with its 33% bonus) that your ranged and siege units have weakened, refreshing its moves to do so a second time before utilising its ability to move after attack across a river or into a fort and defend. Tran Hung Dao used the Cam Quan to slaughter many foes including the Yuan navy; while the Cam Quan in civ can't quite attack boats make sure to use its Amphibious promotion to safely and effectively destroy enemy units who think themselves safe hiding across a river from you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CAMQUAN_HELP">
+			<Text>Once per turn, defeating an enemy unit or pillaging a trade route refreshes the unit's moves and allows it to perform another attack. [NEWLINE]+33% [ICON_STRENGTH] Combat bonus against other mounted units.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CAMQUAN">
+			<Text>
+				Tran Strategy
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CQATTACK">
+			<Text>Tran Strategy (Done)</Text>
+		</Row>
+		<!-- VO MIEU -->
+		<Row Tag="TXT_KEY_BUILDING_LUNG_VOMIEU">
+			<Text>Vo Mieu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LUNG_VOMIEU_HELP">
+			<Text>In addition to the Armory it replaces, the Vo Mieu provides +1 [ICON_CULTURE] Culture and +1 [ICON_RESEARCH] Science on Forts and Citadels. [NEWLINE][NEWLINE]+1 [ICON_GREAT_GENERAL] Great General point per turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LUNG_VOMIEU_STRATEGY">
+			<Text>
+				The Vo Mieu is a flat upgrade of the Armoury, giving the full experience bonuses of the base building. Its ability to grant one Culture, one Science, and Great General points on worked Forts and Citadels will allow you to use your fortifications for more than just war time, progressing your civ down the tech and policy trees and creating generals to lead your forces in the wars to come.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDING_LUNG_VOMIEU_TEXT">
+			<Text>
+				Vo Mieu translates into "Martial Temple" from Vietnamese, though they were not and aren't truly religious sites. The Vo Mieu are centres of learning and worship, with dedication to the heroes and generals of the Viet people. Trang Hung Dao, Prince and brother of Tran Thanh Tong is the most revered figure of these temples, though many others are worshipped and taught from too. Military sciences are the primary education topic, but all forms of literature is studied in the Vo Mieu, from poetry to sciences to the workibgs of state. Tran Thanh Tong financed the construction of many many Vo Mieu and used them both to spread his new written language for the Viet but also as administration centres to control and lead the countryside in confucian style.
+			</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

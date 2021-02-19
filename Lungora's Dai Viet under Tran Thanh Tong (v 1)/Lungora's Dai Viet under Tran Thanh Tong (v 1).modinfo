@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="987c73fe-318b-4a74-b7a3-c7b3237b8c06" version="1">
+  <Properties>
+    <Name>Lungora's Dai Viet under Tran Thanh Tong</Name>
+    <Teaser>Tran Dynasty Vietnam, a mod by Lungora/FionaDanger, Jarcast, and the Modding Community.</Teaser>
+    <Description>GOOOOOD MOOORING VIETNAAAAM!</Description>
+    <Authors>Fiona Danger/Lungora and Jarcast</Authors>
+    <SpecialThanks>TPangolin, Coiot, DarthKyofu, Emerald Range</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="(1) Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="(2) Community Balance Overhaul" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Hazel's Map Labels" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="JFD's Gedemo's Yet (not) Another Earth Map Pack v.25" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="BrutalSamurai's Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="Gedemon's R.E.D. Modpack" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Tomatekh's Historical Religions Complete" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD's Rise to Power" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="7736130B97AF7F66DD12E32E8AEDBA7B" import="1">art/DaiViet_Peace.mp3</File>
+    <File md5="346F3FA03E132A4B3CF20878F2F5FF28" import="1">art/DaiViet_War.mp3</File>
+    <File md5="8E7D94D36CD54527C90B280F005627E6" import="1">art/LUNG_CAMQUANALPHA_128.dds</File>
+    <File md5="2AA7D6E6E9CB4B8BF4DC6DA2A99F4794" import="1">art/LUNG_CAMQUANALPHA_16.dds</File>
+    <File md5="1B23E695FF923ACD3D8E0B5A092E1330" import="1">art/LUNG_CAMQUANALPHA_24.dds</File>
+    <File md5="AB3A21389FBE955876D8C6FEE453B625" import="1">art/LUNG_CAMQUANALPHA_32.dds</File>
+    <File md5="C8111A7E328813FB56F79D5EE48E5934" import="1">art/LUNG_CAMQUANALPHA_45.dds</File>
+    <File md5="75EAFEF6EE0DE0FE1D129790555B43C3" import="1">art/LUNG_CAMQUANALPHA_48.dds</File>
+    <File md5="B88497BDBD21C2D2386925E02187D2CE" import="1">art/LUNG_CAMQUANALPHA_64.dds</File>
+    <File md5="D5E5FA7A982838AC41E39FCA97C54806" import="1">art/LUNG_CAMQUANALPHA_80.dds</File>
+    <File md5="23293CE50746AA0A5B101B7E06F2AB20" import="1">art/Lung_DaiVietDOM.dds</File>
+    <File md5="FB5CAB5549B6E7366A00E8E65DE4C20E" import="1">art/Lung_DaiVietMap.dds</File>
+    <File md5="D1925954540C2AF5A4AACB75C6163CD5" import="1">art/LUNG_DAI_VIETAlpha_128.dds</File>
+    <File md5="91EC7AE3A9A5716CC056C651F25B793D" import="1">art/LUNG_DAI_VIETAlpha_16.dds</File>
+    <File md5="754F9E5F883A8F9AF6CD0E94396AC9B5" import="1">art/LUNG_DAI_VIETAlpha_24.dds</File>
+    <File md5="F099D6216E8DF0B14384358FDC367353" import="1">art/LUNG_DAI_VIETAlpha_32.dds</File>
+    <File md5="383D26869CBF684DA904AC882CEE1261" import="1">art/LUNG_DAI_VIETAlpha_45.dds</File>
+    <File md5="C77EBBA72DD4D2160E7E29FDE9820D0F" import="1">art/LUNG_DAI_VIETAlpha_48.dds</File>
+    <File md5="E7DA4B42DE9A94BFC2DE474E70521826" import="1">art/LUNG_DAI_VIETAlpha_64.dds</File>
+    <File md5="FF2174D032F966CC8E2F5906E119080C" import="1">art/LUNG_DAI_VIETAlpha_80.dds</File>
+    <File md5="BD49889397CF40C8DB09AB84D2915082" import="1">art/LUNG_DAI_VIETAtlas_128.dds</File>
+    <File md5="4A78AA9E59E200AB7EA95C217266EC72" import="1">art/LUNG_DAI_VIETAtlas_256.dds</File>
+    <File md5="619C115787D38E510EC341F4FE16013B" import="1">art/LUNG_DAI_VIETAtlas_32.dds</File>
+    <File md5="505EA1D872E8F92058E80CE6BD7333F7" import="1">art/LUNG_DAI_VIETAtlas_45.dds</File>
+    <File md5="0B5185E3C096D005F27D419B419E6BCD" import="1">art/LUNG_DAI_VIETAtlas_64.dds</File>
+    <File md5="A4E082AEAE61F6F5C99CA6D3C56C380B" import="1">art/LUNG_DAI_VIETAtlas_80.dds</File>
+    <File md5="35A945FD2A127CB1F813B4385D6EF10C" import="1">art/thanhtongLS.dds</File>
+    <File md5="CB9291C95ABCDE3E3FC96CF076272AA6" import="0">core/ArtDefines.sql</File>
+    <File md5="B1CA7CD0837D6DD80523471C63108DE6" import="0">core/Dialog.xml</File>
+    <File md5="B845687713C3FE93CFFAE003437FD546" import="1">core/Lung_DaiVietScene.xml</File>
+    <File md5="CDE005E99FDDFC6E8B25B54F5867E093" import="0">core/GameText.xml</File>
+    <File md5="42F5622C221F73EC3035B1DB32C39570" import="0">core/Lungora_DaiViet_ModSupport.sql</File>
+    <File md5="F945B2F92F969A18A1F6CD5DD10F72F2" import="0">core/Lungora_Dai_Viet_Functions.lua</File>
+    <File md5="02B98267DEC0DC925D80B7CDEE3E56C2" import="0">core/Lungora_Dai_Viet_GameDefines.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>core/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>core/Lungora_Dai_Viet_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>core/Lungora_DaiViet_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>core/Dialog.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="core/Lungora_Dai_Viet_Functions.lua">
+      <Name>Lungora_Dai_Viet_Functions</Name>
+      <Description>it function</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

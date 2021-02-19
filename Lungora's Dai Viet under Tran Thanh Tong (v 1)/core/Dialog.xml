@@ -1,0 +1,206 @@
+<GameData>
+	<Language_en_US>
+		<!-- DIPLOMACY -->
+		<!--First Greeting messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_FIRSTGREETING_1">
+			<Text>Another face, another meeting. I greet you well friend. I am Tran Thanh Tong and this is my Empire, Dai Viet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_FIRSTGREETING_2">
+			<Text>The mist parts and I greet you friend. Welcome to Dai Viet, a realm born of Dragons and Fairies. I am it's ruler Tran Thanh Tong.</Text>
+		</Row>
+		<!--Defeated messages from AI leaders-->
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_DEFEATED_1">
+			<Text>You have fell my empire. You have killed my soldiers. And for what? The Viet people will remember. They will rise up again, as they have done in past. This is a shallow victory, you should enjoy it while you can.</Text>
+		</Row>
+		<!-- Human repeats an action too much, gets the following responses -->
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_REPEAT_TOO_MUCH_1">
+			<Text>You squander your words, they mean nothing to me in such number.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>
+				Yes yes, you wish to exchange goods and promises. I know.
+			</Text>
+		</Row>
+		<!-- Greetings -->
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_GREETING_HOSTILE_HELLO_1">
+			<Text>What have we here? A fool come to waste the time of their betters?.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_GREETING_POLITE_HELLO_1">
+			<Text> It is good to talk to you again. My gardens' flowers are in bloom, would you care to join me in appreciating their beauty while we discuss what you have come here for?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>
+				I am surprised you have not retreated your troops yet, as we both know you lack a spine. Dogs are not welcome in my court, please begone.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_GREETING_HUMAN_AT_WAR_1">
+			<Text>
+				While Dai Viet is a land of peace, we can respect your valor. What is it you would like to discuss?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>  </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LUNG_DAI_VIET_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text> It is of course like you foreigners to take what you can, with no respect for your peers around the table. If only you could learn respect. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>
+				Your aquisitions threaten this careful peace we maintain. I would caution you to stop where you are.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>
+				I see your troops massing along the borders of my lands. I hope they are not there to stay. That would be unfortunate, for you.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>
+				A sauce spread too thin rarely has substance. A people spread too thin rarely has culture. Your new aquistions truely spread across the landscape.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>
+				Even my brother, the great general Tran Hung Dao, would be impressed by your magnificent army for it truely is a spectacle.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>
+				I eny your empire's ability to prosper in a world such as this. Perhaps we may arrange the exchange  of mandarins to learn from eachother's good practices in economy.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text> Yes I see you petty warlord. No, I do not intend to make room in my court for your demands. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text> Dai Viet is a land of peace and culture. We seek not to fight, and only train the men we must. And yet, it would not take us but an issue to make your subjects our own. How are your forces so petty? </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text> All great conquerers fall, this is the way of the world. Your turn may be next. Watch your stride.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_TOO_SOON_FOR_DOF_1">
+			<Text> I fear friend that I have not known you for very long, and we have yet to establish enough trust going forwards. Despite, I will happily share tea with you, as we create this trust further. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_DENOUNCE_1">
+			<Text>
+				You are like the raging moonsoon. cruel, and simple.  [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_DENOUNCE_2">
+			<Text>
+				I often wonder what leads terrible men to the leadership of peoples. They do not rule wisely, nor fairly, and are a stain on the reputation of their realm. Like you, for instance. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text> I see that you feel as if we have done something wrong. You are incorrect. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_HUMAN_DOFED_FRIEND_1">
+			<Text>
+				I too enjoy the trust and company of {1_CivName}. May we all share tea and listen to the poets recite our glories.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_HUMAN_DOFED_ENEMY_1">
+			<Text> You understand that {1_CivName} is a barbarian, no? They are worse than the plagued field that will grow no rice. And in this case, you are the rice and the field is your friendship. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>
+				You are without culture. {1_CivName} is a good friend of mine, and I know myself to be a good judge of friends. Your foolishness is a disgrace upon your empire.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_HUMAN_DENOUNCED_ENEMY_1">
+			<Text> I am glad you see the reason in calling upon the danger of {1_CivName}. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_HUMAN_DOF_SO_AI_DOF_1">
+			<Text> Your actions recently have been wise beyond years. {1_CivName} is someone who I have chosen to bestow my trust and friendship upon too. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text> Rats attract rats. The filth of the world settles in place together. You and {1_CivName} fit there well, in the cesspool.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text> {1_CivName} seeks to see this world we have built tarnished. I join you in international dialogue denouncing them. </Text>
+		</Row>
+		<!-- General Diplo Text -->
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_DEC_FRIENDSHIP_1">
+			<Text>
+				You and I, we see the world through the same lense. Joining minds and hearts is something I wish.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_DEC_FRIENDSHIP_2">
+			<Text> Trust and friendship; I believe we have both. Shall we partake in tea to formalise our good terms? </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text> Move you troops. Their position implies that they would wish to be undone by the forces of the Viets, which would not be wise on your part. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_PLOT_BUYING_WARNING_1">
+			<Text> Do not think land you buy is land that can be kept. If it is intended to be Viet, it shall. And this land was intended. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text> Turn around now. Your settlers are too happy to take land that is not theirs to take. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_EXPANSION_SERIOUS_WARNING_1">
+			<Text> I consider myself a man of great patience. Your expansion has worn it down. I prey you push it no further lest you see the might of Dai Viet. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_EXPANSION_WARNING">
+			<Text> I care not the might of your forces, you stand upon the land of the Viets and we cannot let you continue to!. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_RETURNED_CIVILIAN_1">
+			<Text>
+				Karma is the divine telling of good, and you have gained much this day.
+			</Text>
+		</Row>
+		<!--Public Declarations-->
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} announces to the world that it is now protecting {1_MinorCivName:textkey}. Attacking the City-State will greatly damage relations and may lead to war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} has taken back its guarantee of protecting {1_MinorCivName:textkey}.</Text>
+		</Row>
+		<!-- Human is asking the AI for something -->
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_DONT_SETTLE_NO_1">
+			<Text>
+				These are Viet lands. They will continue to be.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_DONT_SETTLE_YES_1">
+			<Text>
+				I seek only peace and prosperity for my people, and if agreeing to your terms is the path forward, I must.
+			</Text>
+		</Row>
+		<!--Deal Offers and related-->
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_LUXURY_TRADE_1">
+			<Text> The Viet people are industrious and artful. We seek to trade some of our wares, spendid they are, for yours. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_OPEN_BORDERS_EXCHANGE_1">
+			<Text>
+				Knowledge can only be obtained through experience. I wish to experience the sights of your lands and the hearts of your people, and you should mine.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_RESPONSE_REQUEST_1">
+			<Text> Like leaves in the wind. </Text>
+		</Row>
+		<!--AI Attacked by Human - Strong and Weak also include the default response sets-->
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_ATTACKED_HOSTILE_1">
+			<Text> Do not think you frighten me. Dai Viet is prepared. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_ATTACKED_EXCITED_1">
+			<Text> Truely, I had wished for war. No good Emperor should admit it, and no good emperor should send their people to it. You have given a good excuse today. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_ATTACKED_SAD_1">
+			<Text> If only fate could lead another branch down the stream, the river would not have to be bloodied. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_ATTACKED_BETRAYED_1">
+			<Text> Ton Vu's writing prepares one for their enemies to come from within. While I hoped it would not come to this, I hope more that you expect the repercussions of what you have done. </Text>
+		</Row>
+		<!--AI Responses to a human peace offer-->
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_TOO_SOON_NO_PEACE_1">
+			<Text> This war is not done yet. You will not escape so easily into the mists of cowardice. </Text>
+		</Row>
+		<!--AI Responses to a discussion mode topics-->
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_BAD_1">
+			<Text> No, it will not be. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LUNG_DAI_VIET_GOOD_1">
+			<Text> I agree, wisdom is in your choices. </Text>
+		</Row>
+	</Language_en_US>
+</GameData>

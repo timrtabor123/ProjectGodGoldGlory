@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="073cb6d9-1951-4633-a1a9-ef83b51e2c79" version="1">
+  <Properties>
+    <Name>TopHat's Cheyenne</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Cheyenne people, led by Woqini, to the game.</Teaser>
+    <Description>Adds the Cheyenne people, led by Woqini, to the game. Requires Brave New World.</Description>
+    <Authors>TopHatPaladin</Authors>
+    <SpecialThanks>Wolfdog, JFD</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="432bc547-eb05-4189-9e46-232dbde8f09f" minversion="0" maxversion="999" title="Additional Achievements" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Traits in Civ V" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD's and Pouakai's Mercenaries" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="E1929EBFAEA328F7667CD8881D05BAC1" import="1">Art/Map_Cheyenne.dds</File>
+    <File md5="250019E3EE01FAB3D0C6DE94FED752FA" import="1">Art/sv_dogsoldier.dds</File>
+    <File md5="FC92EBE98A1E8F276BA976D9C1AA04F8" import="1">Art/THP_CheyenneAlpha128.dds</File>
+    <File md5="C10797CF979D7726D49AA7D976619481" import="1">Art/THP_CheyenneAlpha16.dds</File>
+    <File md5="EE762E6FE4AD6470CD44CFB969E6DBA5" import="1">Art/THP_CheyenneAlpha24.dds</File>
+    <File md5="B23C3265CACD2AEA4D748F45EA8857E0" import="1">Art/THP_CheyenneAlpha32.dds</File>
+    <File md5="C6F37ECB388FE975B5F0004AEEE93E4F" import="1">Art/THP_CheyenneAlpha48.dds</File>
+    <File md5="09B27C68CB0A62A838311292926272B0" import="1">Art/THP_CheyenneAlpha64.dds</File>
+    <File md5="680FE50DA336601159D506E87231E8F6" import="1">Art/THP_CheyenneAtlas128.dds</File>
+    <File md5="12D28F096C64A4E93B741C24708FA3E1" import="1">Art/THP_CheyenneAtlas256.dds</File>
+    <File md5="37F07E782BE958A72AE98DB1E6BAE6E9" import="1">Art/THP_CheyenneAtlas32.dds</File>
+    <File md5="74B5BBE6C27441B982DB5509A5B688EC" import="1">Art/THP_CheyenneAtlas45.dds</File>
+    <File md5="33E8FD965E966A0AE56642F5BCC58749" import="1">Art/THP_CheyenneAtlas64.dds</File>
+    <File md5="43B1AF4CD6208620931D7E245737C84A" import="1">Art/THP_CheyenneAtlas80.dds</File>
+    <File md5="17FE9F1C9A4AFF2C233918CB06DFE03C" import="1">Art/UnitModel/Sioux_Horse_diff.dds</File>
+    <File md5="4EC10543D28DE1048527FAFDDC47DE13" import="1">Art/UnitModel/Sioux_Horse_sref.dds</File>
+    <File md5="0794A830C9556E3F5399F732FF58D0E8" import="1">Art/UnitModel/Sioux_Knight.fxsxml</File>
+    <File md5="04D93489CF9BAF17ED1F9D808884345A" import="1">Art/UnitModel/Sioux_Knight.gr2</File>
+    <File md5="1B7595DFD9CCD2A840A8350572BA5A02" import="1">Art/UnitModel/Sioux_Knight_diff.dds</File>
+    <File md5="E5E6AE27DD8042529CA684662060A413" import="1">Art/UnitModel/Sioux_Knight_sref.dds</File>
+    <File md5="5E5E351E34E0B2901A52D24AB3EFABA5" import="1">Art/Unit_DogSoldier_Flag_32.dds</File>
+    <File md5="B31318715D64F5E4A6D09F0606576964" import="1">Art/Woqini_DOM.dds</File>
+    <File md5="6ED8424DECD02E4039881C17208A4868" import="1">Art/Woqini_scene.dds</File>
+    <File md5="04D25252BF3B930CD060E974F1AB727B" import="1">Audio/Cheyenne_Peace.mp3</File>
+    <File md5="C042D623C88925D0953C043F2534C5D3" import="1">Audio/Cheyenne_War.mp3</File>
+    <File md5="B0D4EBED33E7F394DAD161BE620218BD" import="0">Core/Cheyenne_ArtDef.sql</File>
+    <File md5="4EED46D7F63A959DF4D034125DFBF07C" import="0">Core/Cheyenne_GameDef.sql</File>
+    <File md5="469B768F89CD3309DFE0F9C49321AF5F" import="0">Core/DiploText.xml</File>
+    <File md5="EE1BACBF64E2F0936AB8ADAF93F27185" import="0">Core/GameText.xml</File>
+    <File md5="04FBA9162E1C6C72F47FF4C0F806F576" import="1">Core/Leaderhead_Woqini.xml</File>
+    <File md5="18B379FD03BDBF65F584EE78509E8BDD" import="0">Core/ModSupport_Cheyenne.sql</File>
+    <File md5="1368ACF988CC8834BB7AD60585E8B936" import="1">Lua/AdditionalAchievementsUtility.lua</File>
+    <File md5="7E1755D42EAB2D4A1F3D39E06CFFB3F0" import="0">Lua/Cheyenne_Functions.lua</File>
+    <File md5="71FFE22C98A15EC9FF23EA198A5AD6AB" import="0">Lua/Cheyenne_Functions.xml</File>
+    <File md5="D2D0CDBE39EDF8FA99082308E5D39421" import="1">Lua/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Cheyenne_ArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Cheyenne_GameDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiploText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport_Cheyenne.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Cheyenne_Functions.lua">
+      <Name>TophatCheyenneFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

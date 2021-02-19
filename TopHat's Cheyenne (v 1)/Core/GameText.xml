@@ -1,0 +1,292 @@
+<GameData>
+    <Language_en_US>
+        <!--Cities-->
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_1">
+            <Text>Bear Butte</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_2">
+            <Text>Toh'nihvoos</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_3">
+            <Text>Omisis</Text> <!--the next 17 are just gonna be Cheyenne subgroups-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_4">
+            <Text>Suhtai</Text> <!--sry lads they were 2nomadic for me-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_5">
+            <Text>Hévhaitanio</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_6">
+            <Text>Tsétsehéstahese</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_7">
+            <Text>Oévemana</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_8">
+            <Text>Hisiometaneo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_9">
+            <Text>Oktoguna</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_10">
+            <Text>Masikota</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_11">
+            <Text>Hónowa</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_12">
+            <Text>Wotápio</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_13">
+            <Text>Anskówinis</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_14">
+            <Text>Voxpometaneo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_15">
+            <Text>Totoemana</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_16">
+            <Text>Mo'ohtávehetane</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_17">
+            <Text>Ononeo'o</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_18">
+            <Text>Moiseo</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_19">
+            <Text>Ná'kuimana</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_20">
+            <Text>Mo'ohtávo'honáéva</Text> <!--now we're getting into geographical locations-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_21">
+            <Text>Meneo'hé'e</Text> <!--this includes some long-ass names, be warned-->
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_22">
+            <Text>Páeo'hé'e</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_23">
+            <Text>Meave'ho'eno</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_24">
+            <Text>Vóhkoohámahoéve'ho'éno</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_25">
+            <Text>Vóhpoométanéno</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_26">
+            <Text>Mótsesóoneo'hé'e</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_27">
+            <Text>Red Fork</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_28">
+            <Text>Mud Springs</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_29">
+            <Text>Rush Creek</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_30">
+            <Text>Washita River</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_31">
+            <Text>Sand Creek</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_CHEYENNE_32">
+            <Text>Summit Springs</Text>
+        </Row>
+        
+        <!--Spies-->
+        <Row Tag="TXT_KEY_SPY_NAME_THP_CHEYENNE_0">
+            <Text>Moketavato</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_CHEYENNE_1">
+            <Text>Homyike</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_CHEYENNE_2">
+            <Text>Vóóhéhéve</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_CHEYENNE_3">
+            <Text>Ohkomhakit</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_CHEYENNE_4">
+            <Text>Ho'néhevotoomáhe</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_CHEYENNE_5">
+            <Text>Tomoséveséhe</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_CHEYENNE_6">
+            <Text>Ehyophsta</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_CHEYENNE_7">
+            <Text>Mochi</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_CHEYENNE_8">
+            <Text>Monahsetah</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_CHEYENNE_9">
+            <Text>Misstanstur</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        
+        <!--Basic Info-->
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI">
+            <Text>Woqini</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_CHEYENNE_ADJECTIVE">
+            <Text>Cheyenne</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_CHEYENNE_DESC">
+            <Text>The Cheyenne</Text>
+            <Plurality>2</Plurality>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_CHEYENNE_SHORT_DESC">
+            <Text>The Cheyenne</Text>
+            <Plurality>2</Plurality>
+        </Row>
+        
+        <!--Civilopedia-->
+        <Row Tag="TXT_KEY_PEDIA_THP_CHEYENNE_HEADING_1">
+            <Text>Introduction</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_CHEYENNE_TEXT_1">
+            <Text>The Cheyenne are a people of North America's Great Plains who speak an Algonquian language. They are best known for their distinct governing structures: the military societies and the Council of the Forty-Four. The Council of the Forty-Four was responsible for day-to-day leadership of the Cheyenne, as well as maintaining diplomacy both among Cheyenne subgroups and with foreign groups. The military societies were a set of six bands within Cheyenne society; the headmen of these groups were responsible for military leadership and discipline, as well as leading hunts and some types of ceremonies.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_CHEYENNE_HEADING_2">
+            <Text>Early History</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_CHEYENNE_TEXT_2">
+            <Text>The Cheyenne first entered the written record in the seventeenth century, when they were recorded as living near the Great Lakes, but they migrated several times throughout the seventeenth and eighteenth century. Rival tribes pushed the Cheyenne gradually westward, and they ultimately moved to the Black Hills region.
+            [NEWLINE][NEWLINE]Two prophets are central to Cheyenne early history. One is Sweet Medicine, who at Bear Butte received the bundle of sacred arrows that the Cheyenne always brought with them during warfare. Sweet Medicine established the Cheyenne military societies, as well as the Council of Forty-Four. The other major prophet is Erect Horns (Tomoséveséhe), who received the sacred buffalo hat bundle. Erect Horns is responsible for establishing the Sun Dance ceremony among the Cheyenne, as well as for convincing the Cheyenne to adopt a nomadic horse culture in place of their prior sedentary agrarianism.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_CHEYENNE_HEADING_3">
+            <Text>Nineteenth Century</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_CHEYENNE_TEXT_3">
+            <Text>After several displacements, the Cheyenne banded together with the Arapaho around the year 1811. This unification allowed the Cheyenne to build more manpower and a stronger military force, which they used to expand their territory over a broad swath of the Great Plains. In the north, the Cheyenne found a fruitful alliance with the Lakota Sioux; the southern branch of the Cheyenne warred with the Kiowa, Comanche, and Apache.
+            [NEWLINE][NEWLINE]Cheyenne relations with the American people were fraught from an early date; in 1849, migrants during the Gold Rush brought cholera to the Cheyenne, beginning a serious epidemic. However, relations truly began to sour after an 1856 incident where a Cheyenne warrior was attacked near the Platte River Bridge. After this incident, the Cheyenne began raiding American settlers traveling to the west. Violence between the two factions ramped up throughout the 1860s, and the Cheyenne were involved in the great victory at Little Bighorn in 1876. However, the result of Little Bighorn inspired the United States to increase the military presence in the Great Plains; these reinforcements were able to overpower the Cheyenne, and many key leaders surrendered to the United States and were pushed onto reservations.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_CHEYENNE_HEADING_4">
+            <Text>Modern Cheyenne</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_CHEYENNE_TEXT_4">
+            <Text>Today, there are roughly 23,000 Cheyenne, the majority of whom live in one of two groups. One is the Cheyenne and Arapaho Tribes, a federally recognized tribe in Oklahoma, who arranged a unified government in 1937. The other is the Northern Cheyenne Indian Reservation, occupying 690 square miles in southeastern Montana. This reservation includes several municipalities, of which the largest - and the reservation's capital - is Lame Deer, Montana (Meave'ho'eno in the Cheyenne language).</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_PEDIA_NAME">
+            <Text>Woqini</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_PEDIA_SUBTITLE">
+            <Text>Leader of the Cheyenne</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_PEDIA_TITLES_1">
+            <Text>Key Cheyenne military leader</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_PEDIA_TITLES_2">
+            <Text>a.k.a. Roman Nose</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_PEDIA_TITLES_3">
+            <Text>a.k.a. Hook Nose</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_PEDIA_LIVED">
+            <Text>ca. 1823 - 1868</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_PEDIA_HEADING_1">
+            <Text>Biography</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_PEDIA_TEXT_1">
+            <Text>Woqini was a Cheyenne military leader and one of the foremost opponents to American expansionism in the Great Plains. Although he never held the title of chief, he was often a de facto leader of the Cheyenne in battle, and was offered (but refused) official titles on several occasions. Woqini was born to the Northern Suhtai band, and was initially named Moséskanetsénoonáhe, but he took the warrior name Woqini after reaching adulthood.
+                [NEWLINE][NEWLINE]Woqini was highly spiritual; he spent significant amounts of time praying before battle, and regularly undertook quests to cleanse his spirit, in order to protect himself from danger. Because of his confidence in his protection efforts, Woqini often undertook bold and risky battle tactics. In one famous example, he would often ride through enemy rifle range in erratic patterns, seeking to goad them into wasting ammunition.
+            [NEWLINE][NEWLINE]One of Woqini's most prized possessions was an elaborate war bonnet he was given by White Bull, a medicine man and the nephew of Sitting Bull. It was believed that, while Woqini wore this war bonnet, he could not be killed in battle; however, this protection was contingent on Woqini fulfilling several conditions. One of these conditions was that he could not eat any food that had been touched by iron tools. Shortly before the Battle of Beecher Island, in 1868, Woqini unwittingly violated this condition by eating bread that had been removed from the pan with a fork; however, he did not have time to cleanse himself before the battle. Nevertheless, Woqini entered the battle; in this battle, he was shot at close range, and died soon after.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV5_DAWN_THP_CHEYENNE_TEXT">
+            <Text>Salutations, Woqini, Roman Nose, steadfast protector of the Cheyenne! In your day, you were one of the Cheyenne's most distinguished warriors, several times refusing chieftaincies in order to make the most of your skill on the battlefield. Between your capable tactical mind and your meticulous maintenance of divine protection, you were nigh untouchable for much of your career - and although you would ultimately be slain in battle, this was a rare exception to a long string of victories. Your diligence and your strident resistance to American encroachment have made you one of the Cheyenne people's most enduring heroes, and one of the Americans' most capable rivals.[NEWLINE][NEWLINE]Woqini, the time has come for the Cheyenne to come together and reclaim all of the power that they once held. Can you mount your horse once more and prove victorious over all opposition? Can you build a civilization that will stand the test of time?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_CHEYENNE_SHORT">
+            <Text>Bundle of Sacred Arrows</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_CHEYENNE">
+            <Text>Foreign Trade Routes grant starting XP to units trained in their home cities. Promoting Units outside friendly territory expands the borders of the nearest friendly city.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_DOG_SOLDIER">
+            <Text>Dog Soldier</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_DOG_SOLDIER_HELP">
+            <Text>Renaissance Era mounted unit. Only the Cheyenne may build it. +25% Combat Strength against Gun Units. Gains Experience from pillaging tile improvements. May not pillage roads, but may use enemy roads.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_DOG_SOLDIER_STRATEGY">
+            <Text>The Dog Soldier is an aggressive and mobile unit designed to excel at harassing enemies in their own territory. By being stronger against mounted and gun units, the Dog Soldier will be able to win engagements against most contemporary front-line units; they also gain experience from pillaging, allowing them to become stronger in enemy territory even in the absence of enemy units. The Dog Soldier's base speed, plus its ability to use enemy roads, also allows it to quickly travel between sites of combat.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_DOG_SOLDIER_TEXT">
+            <Text>The Dog Soldiers were one of the military societies of Cheyenne society. Even in the early days of the society, they were regarded as particularly effective warriors. However, they rose to particular prominence after the career of Porcupine Bear. Porcupine Bear killed another Cheyenne warrior in a fight in 1837, after which he was expelled from the Dog Soldiers and forbidden to lead them in battle; however, he defied the prohibition and continued to lead his followers, causing the Dog Soldiers to separate from the other military societies and effectively become a new, separate band of the Cheyenne. This evolution was further cemented in 1849; after the Masikota band was devastated by a cholera epidemic, the survivors joined the Dog Soldiers. The Dog Soldiers would go on to be some of the most aggressive Cheyenne subgroups at resisting American encroachment, until their numbers were severely depleted in 1869's Battle of Summit Springs.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_SUN_DANCE">
+            <Text>Sun Dance</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_SUN_DANCE_HELP">
+            <Text>Bonus building. Can only be constructed in cities with at least one improved Horses, Sheep, or Cattle resource nearby. Only the Cheyenne may build it. In addition to the normal Stable benefits, the Sun Dance extends the range of Land Trade Routes in its city; also, units trained in a city with a Sun Dance heal every turn while in enemy territory.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_SUN_DANCE_STRATEGY">
+            <Text>The Sun Dance is a support building that helps you produce stronger units; the Sun Dance promotion allows units to heal every turn in enemy territory, allowing them to remain on the battlefield for long stretches of time. The increased trade route range also incentivizes using Sun Dance cities as the origin of trade routes, feeding into the starting XP granted in the Unique Ability. Finally, the Stable's base production boosts allow Sun Dance cities to produce units more efficiently.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_SUN_DANCE_TEXT">
+            <Text>The Sun Dance is a ceremony practiced by several Great Plains cultures of North America, including the Cheyenne. Common features of Sun Dances include traditional songs and dances, sacred fires, fasting, and the use of ceremonial drums and pipes. The intent of Sun Dance ceremonies is for the dancers to offer personal sacrifice for the sake of their community, and hence, the practice is made to be a deliberately arduous experience; this includes the fasting and intense physical activity of the dance, as well as - for some cultures - the administering of ceremonial piercings.[NEWLINE][NEWLINE]In the nineteenth century, the governments of the United States and Canada sought to outlaw Sun Dances, but they have largely been reinstated in the present day.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_DOG_SOLDIER_1">
+            <Text>Steadfast Resistance</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_DOG_SOLDIER_1_HELP">
+            <Text>+25% Combat Strength vs. Gun Units</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_DOG_SOLDIER_2">
+            <Text>Smoky Hill Raider</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_DOG_SOLDIER_2_HELP">
+            <Text>Gains Experience from pillaging. May not pillage roads, but may use enemy roads.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_SUN_DANCE">
+            <Text>Sun Dancer</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_SUN_DANCE_HELP">
+            <Text>Heals every turn while in enemy territory.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_THP_DOG_SOLDIER_PILLAGE_TOOLTIP">
+            <Text>[COLOR_POSITIVE_TEXT]Pillage[ENDCOLOR][NEWLINE][NEWLINE]An improvement in this tile may not be used until repaired. Pillaging an improvement will earn [ICON_GOLD] Gold and heal your unit by 25 points; Dog Soldiers also gain 3 XP from pillaging.</Text>
+        </Row>
+        
+        <!--Mod Support-->
+        <Row Tag="TXT_KEY_GENERIC_THP_CHEYENNE_INFLUENTIAL_ON_AI_1">
+            <Text>Our people are now joining military societies and using dog ropes in battle. I worry that the rest of the world will also succumb to the influence of your culture.</Text>
+        </Row>
+        
+        <!--Additional Achievements-->
+        <Row Tag="TXT_KEY_MOD_THP_CHEYENNE_NAME">
+            <Text>TopHat's Cheyenne</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_CHEYENNE_ID_CFC">
+            <Text>006151a7-2020-0213-bf3e-c8e9e55e96e7</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_CHEYENNE_ID_STEAM">
+            <Text>073cb6d9-1951-4633-a1a9-ef83b51e2c79</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_CHEYENNE_AUTHORS">
+            <Text>TopHatPaladin</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_CHEYENNE_VICTORY_HEADER">
+            <Text>All Must Be Like-Hearted</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_CHEYENNE_VICTORY_TEXT">
+            <Text>Win the game on any difficulty setting as the Cheyenne.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_CHEYENNE_SPECIAL_HEADER">
+            <Text>Sun Dance Film Festival</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_CHEYENNE_SPECIAL_TEXT">
+            <Text>As the Cheyenne, build Broadway in a city with a Sun Dance.</Text>
+        </Row>
+    </Language_en_US>
+</GameData>

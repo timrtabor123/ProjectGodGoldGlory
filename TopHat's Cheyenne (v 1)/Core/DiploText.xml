@@ -1,0 +1,79 @@
+<GameData>
+    <Language_en_US>
+        <!-- First Greeting -->
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_FIRSTGREETING_1">
+            <Text>Greetings, stranger! Some call me Roman Nose, but know that I am the untouchable warrior, Woqini of the Cheyenne.</Text>
+        </Row>
+
+        <!-- Defeated -->
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_DEFEATED_1">
+            <Text>This is impossible! My preparations were immaculate! How could this have happened?</Text>
+        </Row>
+
+        <!-- Diplomacy: Wars, Denunciatios, and DoF -->
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_ATTACKED_GENERIC_1">
+            <Text>Today, you have sown the seeds of your own destruction.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_DEC_FRIENDSHIP_1">
+            <Text>The Cheyenne are a proud people, but our strength is as much in our allies as it is in ourselves. Would you like to make a public Declaration of Friendship?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_DENOUNCE_1">
+            <Text>Your misdeeds are so obvious that it is perhaps redundant for me to warn the world about them, but it is crucial that I do so anyway. [NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_DOW_GENERIC_1">
+            <Text>Brace yourself! You have incurred the wrath of the Cheyenne, and we will win numerous coups over your men.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_EXPANSION_SERIOUS_WARNING_1">
+            <Text>This land is not yours. Remove yourself before I do it for you.</Text>
+        </Row>
+
+        <!-- Greetings -->
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_GREETING_AT_WAR_HOSTILE_1">
+            <Text>Oh, you dare to meet me in person? State your business, then.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_GREETING_POLITE_HELLO_1">
+            <Text>It is a pleasure to welcome you. Come join us around the fire!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_GREETING_NEUTRAL_HELLO_1">
+            <Text>Welcome back. What brings you here?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_GREETING_HOSTILE_HELLO_1">
+            <Text>For what reason have you disturbed me today?</Text>
+        </Row>
+
+        <!-- Misc -->
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+            <Text>Your army has been doing a lot of posturing lately. Perhaps I should put their resolve to the test.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_LETS_HEAR_IT_1">
+            <Text>I am always interested in commerce. Make your offer.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_LOSEWAR_1">
+            <Text>I cannot deny your ability, but I urge you to keep in mind that I will be stronger next time.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_LUXURY_TRADE_1">
+            <Text>Your goods have piqued my interest. Let us engage in trade.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_NO_PEACE_1">
+            <Text>There can be no reconciliation between us.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_OPEN_BORDERS_EXCHANGE">
+            <Text>My people will be traveling through your land. I hope you are amenable to this.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_REPEAT_NO_1">
+            <Text>You insult us. Try again.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_RESPONSE_REQUEST_1">
+            <Text>I have been praying to the gods for assistance, but I am not too proud to ask for earthly help as well.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_RESPONSE_TO_BEING_DENOUNCED_1">
+            <Text>I do not take umbrage to the complaints of lesser men.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_TOO_SOON_NO_PEACE_1">
+            <Text>Why do you flinch from battle? There are still many great deeds to be done.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_WOQINI_WINWAR_1">
+            <Text>What a triumph! I thank you for your contribution to my soldiers' glory.</Text>
+        </Row>
+    </Language_en_US>
+</GameData>

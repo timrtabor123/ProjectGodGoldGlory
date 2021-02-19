@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 09/18/20 5:02:54 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_UC_SONNI_ALI_FIRSTGREETING_1">
+			<Text>Welcome to Gao, seat of the immaculate Songhai Empire; I am King Sonni Ali Ber, ruler of this land and leader of its army.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_SONNI_ALI_DEFEATED_1">
+			<Text>And in the end it was all for nothing...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_SONNI_ALI_ATTACKED_GENERIC_1">
+			<Text>The Songhai will never be conquered!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_SONNI_ALI_DEC_FRIENDSHIP_1">
+			<Text>You have presented yourself as a strong and reliable partner. I would like to extend to you a Declaration of Friendship between our nations. Do you accept?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_SONNI_ALI_DENOUNCE_1">
+			<Text>You are a weak barbarian![NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_SONNI_ALI_DOW_GENERIC_1">
+			<Text>It is the destiny of the Songhai to achieve greatness. You are the next trial on the path, and soon to be the latest fallen foe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_SONNI_ALI_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your people are coming too close to our nations border. I sense malignant intent behind these actions and will not accept further settlement!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_SONNI_ALI_GREETING_AT_WAR_HOSTILE_1">
+			<Text>I hope you drown on the way out.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_SONNI_ALI_GREETING_POLITE_HELLO_1">
+			<Text>It is great to see you again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_SONNI_ALI_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I know an army when I see one. Turn your troops around quickly!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_SONNI_ALI_LUXURY_TRADE_1">
+			<Text>The only thing I love more than crushing my enemies is filling the gold coffers. I have a lucrative trade for our peoples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_UC_SONNI_ALI_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>I forsee death in your future.</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 08/10/20 1:07:20 PM -->
+<GameData>
+	<Language_en_US>
+	<!--Unique Names-->
+	<Row Tag="TXT_KEY_GREAT_PERSON_UC_HI_KOI_01">
+		<Text>Ali Dadu</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GREAT_PERSON_UC_HI_KOI_02">
+		<Text>Bukar Shili-ije</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GREAT_PERSON_UC_HI_KOI_03">
+		<Text>Laha Surkiya</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GREAT_PERSON_UC_HI_KOI_04">
+		<Text>Musa</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GREAT_PERSON_UC_HI_KOI_05">
+		<Text>Denkelko</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GREAT_PERSON_UC_HI_KOI_06">
+		<Text>Ya'ti</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GREAT_PERSON_UC_HI_KOI_08">
+		<Text>Mohammed-Qai</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GREAT_PERSON_UC_HI_KOI_09">
+		<Text>Seyyid Karai-Idji</Text>
+	</Row>
+	<Row Tag="TXT_KEY_GREAT_PERSON_UC_HI_KOI_10">
+		<Text>Mohammed-Anasa</Text>
+	</Row>
+	<Row Tag="TXT_KEY_TRAIT_UC_AMPHIB_WARLORD">
+		<Text>Receive triple the usual [ICON_GOLD] Gold when capturing Cities or Barbarian Encampments, and killing Barbarians produces [ICON_GREAT_PEOPLE] Great General/Admiral points. All land units start with the Amphibious and War Canoes promotion.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_TRAIT_UC_TIMBUKTU_SHORT">
+			<Text>Chronicles of Timbuktu</Text>
+	</Row>
+	<Row Tag="TXT_KEY_TRAIT_UC_TIMBUKTU">
+			<Text>Great Scientists create a [ICON_GREAT_WORK] Manuscript (unique Great Work of Writing that also yields [ICON_RESEARCH] Science) upon birth if there is a slot available. [ICON_GREAT_WORK] Great Works increase [ICON_GOLD] Gold received from [ICON_TURNS_REMAINING] International Trade Route for both parties.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_UC_SUGUBA">
+		<Text>Wangara Entrepot</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_HELP_UC_SUGUBA">
+		<Text>Replaces Caravansary. +100% Range for land trade routes instead of +50%. The standard +2 [ICON_GOLD] Gold for [ICON_TURNS_REMAINING] International Land Trade Routes is doubled to +4 if built in a city on a River or a city with a Mint. Provides a Merchant specialist slot.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_UC_SUGUBA_STRATEGY">
+		<Text>The Wangara Entrepot is a more powerful version of the Caravansary accesible to Sonni Ali's Songhai Empire. It improves the utility of land trade routes and provides a Merchant specialist to enhance the Songhai economy in the early game.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_UC_MPM">
+		<Text>Funerary Mosque</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_HELP_UC_MPM">
+		<Text>The Funerary Mosque is a maintenance-free Temple replacement for Askia's Songhai. It increases [ICON_CULTURE] Culture and Great Scientist points in the city.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_BUILDING_STRATEGY_UC_MPM">
+			<Text>Askia's Funerary Mosque boosts [ICON_CULTURE] Culture directly and also by having a Great Work of Writing slot. Additionally, it will provide Great Scientist points if you secure foreign trade partners.</Text>
+	</Row>		
+	<Row Tag="TXT_KEY_UC_SUGUBA_TEXT">
+		<Text>The Wangara are Soninke subgroups and later ethno-Linguistically assimilated merchant class that specialized in both Trans-Saharan and Secret Trade of Gold Dust. Their diaspora operated all throughout West Africa Sahel-Sudan. Fostering regionally organized trade networks and architecture projects, but based in the many Sahelian and Niger-Volta-Sene-Gambia river city-states.[NEWLINE][NEWLINE]During the Songhai Empire, the Wangara operated as traveling merchants who primarily engaged in the trade of minerals such as gold and salt. They established diaspora communities throughout West Africa and constructed merchant guilds as well as mosques in the cities where they settled.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_UNIT_UC_HI_KOI">
+		<Text>Hi-Koi</Text>
+	</Row>
+	<Row Tag="TXT_KEY_UNIT_UC_HI_KOI_HELP">
+		<Text>Replaces Great Admiral. Receive a free Naval Melee unit for every non-occupied landlocked city you own when a Hi-Koi is born. Embarked units within 2 tiles receive the Siege promotion.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_UNIT_UC_HI_KOI_STRATEGY">
+		<Text>The Hi-Koi is Sonni Ali's replacement for the Great Admiral and it enables his already enhanced embarked armies to capture cities more effectively. Additionally, free naval units are received upon the birth of a Hi-Koi based on the number of landlocked cities, allowing the Songhai to boast a more robust navy even if they are lacking in coastal cities.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIV5_UC_HI_KOI_TEXT">
+		<Text>The Hi-Koi (Commander of Canoes) was one of the most important officials in the Songhai military. Their role was to lead the flotilla of war canoes that enabled the Songhai to achieve hegemony in West Africa. These well organized raiding parties would swiftly travel along rivers, giving the Songhai a strategic advantage over enemy empires and city-states. The Hi-Koi were typically recruited from the Sorko, a clan of fishermen who had generations of experience navigating the rivers of the Sahel.</Text>
+	</Row>
+	<Row Tag="TXT_KEY_LEADER_UC_SONNI_ALI">
+		<Text>Sonni Ali</Text>
+	</Row>
+	<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_UC_SONNI_ALI_NAME">
+			<Text>Sonni Ali</Text>
+		</Row>
+	<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_UC_SONNI_ALI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+	<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_UC_SONNI_ALI_TEXT_1">
+			<Text>Sonni Ali, also known as Sonni Ali Ber, was born in Ali Kolon. He reigned from about 1464 to 1492. Sonni Ali was the first king of the Songhai Empire, located in Africa and the 15th ruler of the Sonni dynasty. Under Sonni Ali's infantry and cavalry many cities were captured and then fortified, such as Timbuktu (captured in 1468) and Djenné (captured in 1475). Sonni conducted a repressive policy against the scholars of Timbuktu, especially those of the Sankore region who were associated with the Tuareg whom Ali expelled to gain control of the town.[NEWLINE][NEWLINE]Sonni Ali organized a fleet to the Niger river. During his reign, Songhai surpassed the height of the Mali Empire, engulfing areas under the Mali Empire (and the Ghana Empire before it). His death, in late 1492, is a matter of conjecture. According to the Tarikh al-Sudan, Ali drowned while crossing the Niger River. Oral tradition believes he was killed by his sister's son, Askia Muhammad Ture. He was succeeded by his son, Sonni Baru, who was challenged by Askia because Baru was not seen as a faithful Muslim. Askia succeeded to the throne. According to the Tarikh al-Sudan it is believed that this action caused Sonni Ali's daughters to shout out "A si kiya!" a more modern phrasing would be “A si tiya” or (he shall not be it), at the news of this take over.[NEWLINE][NEWLINE]Sonni Ali ruled over both urban Muslims and rural non-Muslims at a time when the traditional co-existence of different beliefs was being challenged. His adherence to African animism while also professing Islam leads some writers to describe him as outwardly or nominally Muslim.</Text>
+		</Row>
+	<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_UC_SONNI_ALI_LIVED">
+			<Text>? - 1492</Text>
+		</Row>
+	<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_UC_SONNI_ALI_SUBTITLE">
+			<Text>Ruler of Songhai</Text>
+		</Row>
+	<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_UC_SONNI_ALI_TITLES_1">
+			<Text>King of Songhai (1464 - 1492)</Text>
+		</Row>
+	<Row Tag="TXT_KEY_CIV5_DAWN_UC_SONGHAI_TEXT">
+			<Text>Praise to you great warrior king Sonni Ali Ber! The Songhai Empire owes its prosperity and military dominance to your foundational leadership in the 15th century. By establishing an elite land army and a might fleet of war canoes, you were able to conquer the great cities of the Sahel such as Djenne and Sankore. This gave the Songhai dominance in regional trade, turning them into a commercial power as well as a military power.[NEWLINE][NEWLINE]Exalted king, guide your troops once more into battle and lead your people to greatness again. Can you become a dominant power on land and sea? Can you establish a prosperous trading network? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

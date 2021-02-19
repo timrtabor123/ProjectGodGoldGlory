@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="a5cfbfb3-be51-4541-ad7c-61a09d2afc28" version="1">
+  <Properties>
+    <Name>Uighur_Caesar's Songhai (Sonni Ali)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Songhai Empire under Sonni Ali to the game.</Teaser>
+    <Description>Adds the Songhai Empire under Sonni Ali to the game and revises the Songhai under Askia.</Description>
+    <Authors>Uighur_Caesar</Authors>
+    <SpecialThanks>DMS, JakeSpaceWalrus, Grant, Agla</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="RED" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YNAEMP" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="3DF6C32D7590D266D2E42C60D93B1487" import="1">Art/er_songhai_hi_koi.fxsxml</File>
+    <File md5="EC487127D0F7DBC0C9ABBD391C8421B1" import="1">Art/er_songhai_hi_koi.gr2</File>
+    <File md5="EB2E843DA45AF735CF5B1BC628B4BE5F" import="1">Art/er_songhai_hi_koi_diff.dds</File>
+    <File md5="45539788A1A777C1FBDE679F89824B62" import="1">Art/er_songhai_hi_koi_sref.dds</File>
+    <File md5="B31846AD38ABFDD816BAA75723409B1A" import="1">Art/Sonni_Peace.mp3</File>
+    <File md5="8FB8AA7B49CD5A36972389154EFF7634" import="1">Art/SonniAli.dds</File>
+    <File md5="C8E2FACA72F135A61E5E08B30C8DFD19" import="1">Art/SonniAlpha24.dds</File>
+    <File md5="E051C209EE4D947B91BD1816FCF436AA" import="1">Art/SonniAlpha32.dds</File>
+    <File md5="AD9BC8B1E3D2BF83C452D3D41E698303" import="1">Art/SonniAlpha48.dds</File>
+    <File md5="111B3564F3EDF9F14E46A95D3C6F452F" import="1">Art/SonniAlpha64.dds</File>
+    <File md5="F2B0AF210E3B8D744E83F0083B92DB22" import="1">Art/SonniAtlas128.dds</File>
+    <File md5="89C5174746F5F6A73269483B69DC777B" import="1">Art/SonniAtlas256.dds</File>
+    <File md5="B3A5538A278A347B6D87A63C1C39E028" import="1">Art/SonniAtlas32.dds</File>
+    <File md5="A91907BB6258D3DC0C26CCFD3F8F118C" import="1">Art/SonniAtlas45.dds</File>
+    <File md5="C2BEC6B35F55B5CAC624DD26AC483820" import="1">Art/SonniAtlas64.dds</File>
+    <File md5="806C4815023563AC5929A66D6FBE6F05" import="1">Art/SonniAtlas80.dds</File>
+    <File md5="3A4FEC3A4D407678AE7294DD5A7C88E5" import="1">Art/SonniDoM.dds</File>
+    <File md5="522D9F4695EED677A37D226CA6058638" import="1">Art/SonniMap.dds</File>
+    <File md5="D9D2A4DD4D34DBF458CF8FF34DC0BADC" import="1">Art/SV_er_songhai_hi_koi.dds</File>
+    <File md5="9CD73F1594DF0EA04BE8B4E02AC9BE71" import="1">Art/unitflag_er_songhai_hi_koi.dds</File>
+    <File md5="7C70315689AB64B84E989E9EE0BC5BEB" import="0">Core/ArtDefines.sql</File>
+    <File md5="B16E3915320D7826E878C32CDB028023" import="0">Core/AskiaFunctions.lua</File>
+    <File md5="2D343AFC1172FCC647D0051FDAF36DEC" import="0">Core/Diplo.xml</File>
+    <File md5="2055D52F35D5652E5C6671E3B84289B5" import="0">Core/Diplomacy.sql</File>
+    <File md5="16F33615CCCDD5CC77FDA17459C1A66D" import="1">Core/SonniAli.xml</File>
+    <File md5="2FF9E4F03FBAC5EDB1386FAB7372A94A" import="0">Core/ModSupport.sql</File>
+    <File md5="7BD2FBE46D0E789BDFF45CAC065DB4E4" import="1">Core/PlotIterators.lua</File>
+    <File md5="A8BBB1E5DBE6B541B9CE2EF39B7A7CF0" import="0">Core/SonghaiText.xml</File>
+    <File md5="879CA911ED231C0DD913DEE552C670F5" import="0">Core/SonghaiDefines.sql</File>
+    <File md5="ADDDF19033ECAFF405EEA18089000CC1" import="0">Core/SonniAliFunctions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/SonghaiDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/SonghaiText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Diplo.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Diplomacy.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/SonniAliFunctions.lua">
+      <Name>htthrshsrhrhsr</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Core/AskiaFunctions.lua">
+      <Name>htehrthsht</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

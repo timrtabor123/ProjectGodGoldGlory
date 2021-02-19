@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/13/2019 9:21:15 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- When you first meet this AI player -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_FIRSTGREETING_1">
+			<Text>My name is James Misson. A Frenchman by birth, yes, but now I live a free life as the leader of Libertatia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_FIRSTGREETING_2">
+			<Text>Ah, I do not think we have been introduced? I am Capitaine James Misson, of Libertatia.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_FIRSTGREETING_3">
+			<Text>We saw your sails, so I have come to greet the capitaine. James Misson of Libertatia, at your service.</Text>
+		</Row>
+		<!-- When you've defeated this AI player through conquest -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_DEFEATED_1">
+			<Text>We were not pirates, monsieur, but free men. Now our fate is in your hands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_DEFEATED_2">
+			<Text>Terrible. Libertatia was to be a land free of such brutality.</Text>
+		</Row>
+		<!-- Trying to contact or trade with the AI too many times; "REPEAT" appears first, and then "TOO_MUCH" if you continue (regardless of AI feelings) -->
+		<!-- Repeatedly contacting the AI -->
+		<!-- AI has no strong feelings -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_REPEAT_1">
+			<Text>Bonjour.</Text>
+		</Row>
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_HOSTILE_REPEAT_1">
+			<Text>Oh?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_HOSTILE_REPEAT_2">
+			<Text>Oui.</Text>
+		</Row>
+		<!-- You have contacted them for a fifth time -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_REPEAT_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+		<!-- Repeatedly trying to trade with the AI -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_REPEAT_TRADE_1">
+			<Text>Non.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_REPEAT_TRADE_2">
+			<Text>It is impossible, mon capitaine.</Text>
+		</Row>
+		<!-- You have tried for a fifth time (?) -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+
+		<!-- ==================================== Greetings ==================================== -->
+		<!-- Generic greetings depending on how the AI feels about you -->
+		<!-- AI likes you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_POLITE_HELLO_1">
+			<Text>Regards, mon capitaine. How may we help you?</Text>
+		</Row>
+		<!-- AI has no strong feelings -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_NEUTRAL_HELLO_1">
+			<Text>There is no port handling charge, you may moor up as you wish. How are you?</Text>
+		</Row>
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_HOSTILE_HELLO_1">
+			<Text>Your sails in our ports are a terrible sign, as always.</Text>
+		</Row>
+
+		<!-- Greetings while at war -->
+		<!-- All other times -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_AT_WAR_HOSTILE_1">
+			<Text>Amid sinking your ships and taking your plunder... we must find time to enjoy the sea breeze, non?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_AT_WAR_HOSTILE_2">
+			<Text>We fight not under a black flag, but a pure blanc ensign. Ours is the cause of liberty!</Text>
+		</Row>
+
+		<!-- Situational greetings -->
+		<!-- You have a Declaration of Friendship with them -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_WORKING_WITH_1">
+			<Text>Mon capitaine, I am pleased to see you. Welcome back to Libertatia.</Text>
+		</Row>
+		<!-- The human is at war -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Oui, it is a struggle against you, but in the end liberty will prevail. Why are you here?</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_HUMAN_AT_WAR_1">
+			<Text>I see you have set sail for war. Bon voyage, and good luck.</Text>
+		</Row>
+		<!-- The human has an aggressive military posture -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>Are you attacking? I can not tell if these are soldiers, or scallywags!</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>You have brought your men to Libertatia. Why?</Text>
+		</Row>
+		<!-- The human is aggressively setting cities -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>There will be no comfort for you, monsieur, when we are forced to confiscate your claims!</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>We do not treat territory like this in Libertatia. We expand only as we need.</Text>
+		</Row>
+		<!-- The human is aggressively claiming plots -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Ah, monsieur, you are expanding once again. I will stop you.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Land is not to be bought and sold. No hedge may bound any man's particular property.</Text>
+		</Row>
+		<!-- AI is praising your strong military -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Your fleet is mighty and you lead good men, mon capitaine!</Text>
+		</Row>
+		<!-- AI is praising your strong economy -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>You have a treasury worthy of your greatness, mon capitaine! Travel safely on the high seas.</Text>
+		</Row>
+		<!-- AI is mocking you for having fewer cities than them -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>With so few cities, I do hope that at least they prosper. Your people are always welcome to become Liberi.</Text>
+		</Row>
+		<!-- AI is mocking you for having a small military -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>Where are your ships? Your army? You can not expect to live in peace with no defenders.</Text>
+		</Row>
+		<!-- AI considers you to be a warmonger -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>I have watched your hostile campaigns, and my concern only grows.</Text>
+		</Row>
+
+		<!-- ==================================== Declarations of Friendship and Denouncing ==================================== -->
+		<!-- AI offers you a Declaration of Friendship -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_DEC_FRIENDSHIP_1">
+			<Text>It is just a formality, mon capitaine, but shall we make a public Declaration of Friendship?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_DEC_FRIENDSHIP_2">
+			<Text>Our people are well adjusted to face this world together. If you agree, we can sign a Declaration of Friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_DEC_FRIENDSHIP_3">
+			<Text>Our interests are aligned, non? A Declaration of Friendship will announce to the world that we stand as one.</Text>
+		</Row>
+		<!-- AI isn't ready for a Declaration of Friendship yet -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_TOO_SOON_FOR_DOF_1">
+			<Text>Non, it is a little too soon. Patience will secure our friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_TOO_SOON_FOR_DOF_2">
+			<Text>My apologies, capitaine, but on behalf of the Liberi I must say "non".</Text>
+		</Row>
+		<!-- AI, as your friend, wants you to denounce another civilization -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>Mon capitaine, the scoundrels in {1_CivName} have insulted us once again. If you please, could you show your support in denouncing their behavior?</Text>
+		</Row>
+		<!-- AI is denouncing you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_DENOUNCE_1">
+			<Text>I find you to be quite disagreeable.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_DENOUNCE_2">
+			<Text>Apologies, I must make my discontent with you known.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<!-- AI is responding to you denouncing them -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>Moi? I see. Carry on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>I do not know how we have offended you, but so be it.</Text>
+		</Row>
+		<!-- AI contacting you after you befriend their friend -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_HUMAN_DOFED_FRIEND_1">
+			<Text>You are friends with {1_CivName} as well? C'est magnifique.</Text>
+		</Row>
+		<!-- AI contacting you after you befriend their enemy -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_HUMAN_DOFED_ENEMY_1">
+			<Text>Monsieur, I suggest you do not embrace {1_CivName} with such vigor. They differ from the barbarians in name only.</Text>
+		</Row>
+		<!-- AI contacting you after you denounce their friend -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>You have insulted our comrades in {1_CivName}. I do not wish to see our own relations soured.</Text>
+		</Row>
+		<!-- AI contacting you after you denounce their enemy -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>Oui, {1_CivName} should worry us all with their behavior.</Text>
+		</Row>
+		<!-- AI contacting you after they befriend your friend -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>Your friends are our friends, mon capitaine. I have improved our relations with {1_CivName}.</Text>
+		</Row>
+		<!-- AI contacting you after they denounce your enemy -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>Oui, we share your disgust with {1_CivName}. Let us share in your denunciation of them.</Text>
+		</Row>
+		<!-- AI contacting you after they denounce your friend -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>You and {1_CivName}, you are both scoundrels. We'll be keeping an eye out for your ships, monsieur.</Text>
+		</Row>
+		<!-- AI contacting you after they befriend your enemy -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>The eyes of divine justice could never side with you. We will support {1_CivName} in the name of liberty.</Text>
+		</Row>
+
+		<!-- ==================================== AI warnings ==================================== -->
+		<!-- AI has noticed your military posture is aggressive -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I will not allow it, monsieur. I insist that you declare, if you are to attack us.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Ah, the horizon is littered with your sails. Attack if you will, but be warned.</Text>
+		</Row>
+
+		<!-- AI has noticed your aggressive settling -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Monsieur, I know your strategy. I will not allow this expansion.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_EXPANSION_WARNING_1">
+			<Text>Will you show some courtesy? We do not wish for a land dispute to become a conflict.</Text>
+		</Row>
+
+		<!-- AI has noticed your aggressive plot claiming -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>There are no hedges in Libertatia, no boundaries between property. We do not wish to stare at your borders.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_PLOT_BUYING_WARNING_1">
+			<Text>Land is communal in Libertatia; is it not the same in your country? You claim a great deal.</Text>
+		</Row>
+
+		<!-- ==================================== War requests ==================================== -->
+		<!-- AI wants you to go to war against a third party -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} retains unarmed ships and undefended coasts. Mon capitaine, we must press our advantage now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_COOP_WAR_REQUEST_2">
+			<Text>Mon capitaine, {1_PlayerName:textkey} look upon our nations with envious eyes. If we do not reduce their capacity for war, I believe they will come for us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_COOP_WAR_REQUEST_3">
+			<Text>I bring news of a planned attack, mon capitaine. We must set sail against {1_PlayerName:textkey} at once!</Text>
+		</Row>
+
+		<!-- ==================================== Miscellaneous comments ==================================== -->
+		<!-- You and the AI are competing for the same city states -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_MINOR_CIV_COMPETITION_1">
+			<Text>{1_MinorCivName:textkey} do not wish to live under a flag of oppression. Life there is free, as it is in Libertatia.</Text>
+		</Row>
+
+		<!-- ==================================== Player requests ==================================== -->
+		<!-- You continue to ask for something that the AI is not interested in -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_REPEAT_NO_1">
+			<Text>Non, monsieur.</Text>
+		</Row>
+		<!-- You ask the AI to not settle near you -->
+		<!-- AI agrees -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_DONT_SETTLE_YES_1">
+			<Text>My apologies. We shall set sail for freedom elsewhere.</Text>
+		</Row>
+		<!-- AI doesn't agree -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_DONT_SETTLE_NO_1">
+			<Text>You may not simply declare ownership as you please, monsieur.</Text>
+		</Row>
+
+		<!-- ==================================== Insults ==================================== -->
+		<!-- Generic insult if no others are picked -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_INSULT_GENERIC_1">
+			<Text>I couldn't help but notice how pathetic you are. And when I realized it I couldn't help but share.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_INSULT_GENERIC_2">
+			<Text>Ah, it's always nice to see my favorite city-state again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_INSULT_GENERIC_3">
+			<Text>I'm really getting tired of seeing your face. My hope is that one day you'll just go away or something.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_INSULT_GENERIC_4">
+			<Text>Ah, it's you. My apologies. Sometimes I get you mixed up with the barbarians I have to swat from time to time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_INSULT_MILITARY_1">
+			<Text>I thought you might like to know that your army is a little on the weak side. Better watch your back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_INSULT_MILITARY_2">
+			<Text>With an army so weak it's a surprise your empire hasn't succumb to a barbarian invasion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_INSULT_NUKE_1">
+			<Text>Our words are backed with nuclear weapons!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_INSULT_BULLY_1">
+			<Text>It's a shame there are some leaders in this world who have their fun by picking on the weak. Don't you agree?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_INSULT_UNHAPPINESS_1">
+			<Text>I can hear your people wailing in sorrow all the way over in my empire. If you don't do something soon they might just pack up and find a real civilization to live in.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_INSULT_UNHAPPINESS_2">
+			<Text>With people so unhappy it's a shock to me that they'd keep you around as their leader.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_INSULT_CITIES_1">
+			<Text>It's come to my attention that your empire appears to be quite puny. Did you forget to expand your borders or are you just having a little trouble with that?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_INSULT_POPULATION_1">
+			<Text>Travelers have told us that your empire's economy is in pretty sad shape. If you beg a little I might give you a hand. Okay, actually I won't.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_INSULT_CULTURE_1">
+			<Text>What a sad sight... your empire is so uncultured. What do your citizens do all day, beat rocks together?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_INSULT_CULTURE_2">
+			<Text>Rumor has it that your culture is so laughable that even the barbarians are shying away from your lands.</Text>
+		</Row>
+
+		<!-- ==================================== Trade ==================================== -->
+		<!-- AI is offering a trade because they want a luxury from you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_LUXURY_TRADE_1">
+			<Text>Even for us, there are some commodities we can not obtain on the high seas. May we make a trade?</Text>
+		</Row>
+		<!-- AI is asking for a mutual open borders agreement -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_OPEN_BORDERS_EXCHANGE_1">
+			<Text>No hedge should bound any man's particular property. I believe in these words, and offer them to you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_TRADE_NEEDMORE_ANGRY">
+			<Text>Monsieur, I hope you do not mean to insult me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_TRADE_NEEDMORE_HAPPY">
+			<Text>Mon capitaine, I think you would not give away your plunder for so little.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_TRADE_NEEDMORE_NEUTRAL">
+			<Text>I do not know if this can be made agreeable.</Text>
+		</Row>
+
+		<!-- ==================================== Player declares war on the AI ==================================== -->
+		<!-- AI Attacked by another player -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_ATTACKED_HOSTILE_1">
+			<Text>Ah, then it is war? There is no other way?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_ATTACKED_HOSTILE_2">
+			<Text>Oui, I was expecting such an attack. Very well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_ATTACKED_BETRAYED">
+			<Text>Ah, mon capitaine. How far you have fallen in my eyes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_ATTACKED_EXCITED">
+			<Text>En garde, then. I look forward to seeing your ships at the bottom of the ocean.</Text>
+		</Row>
+
+		<!-- ==================================== AI declares war on the player ==================================== -->
+		<!-- Generic response -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_DOW_GENERIC_1">
+			<Text>You are brave, mon capitaine, but you have pushed us too far. En garde!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_DOW_GENERIC_2">
+			<Text>Apologies, monsieur. We must set sail for your ships and coastlines!</Text>
+		</Row>
+		<!-- AI is in a land dispute with the player -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_DOW_LAND_1">
+			<Text>I do not wish it, but we have no choice! Libertatia will not be cowed by your advance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_DOW_LAND_2">
+			<Text>Monsieur, the land dispute has become intolerable. En garde!</Text>
+		</Row>
+		<!-- AI declares war after the player refuses a demand -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_WAR_DEMAND_REFUSED_1">
+			<Text>Very well. Then shall we decide it on the high seas?</Text>
+		</Row>
+
+		<!-- ==================================== Peace offers ==================================== -->
+
+		<!-- AI doesn't want to have peace -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_NO_PEACE_1">
+			<Text>It is too early for peace, mon capitaine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_NO_PEACE_2">
+			<Text>We will decide the time for peace, monsieur.</Text>
+		</Row>
+		<!-- Player asks for peace on the same turn war was declared - no peace! -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_TOO_SOON_NO_PEACE_1">
+			<Text>Ah, already you have second thoughts.</Text>
+		</Row>
+
+		<!-- ==================================== Cultural Influence ==================================== -->
+		<!-- Player is influential on the AI (Our people are wearing your blue jeans...) -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now plundering trade routes and burning their hedges. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- AI is influential on the player -->
+		<Row Tag="TXT_KEY_LEADER_PB_MISSON_INFLUENTIAL_ON_HUMAN_1">
+			<Text>We are glad to see that your people are plundering trade routes and burning their hedges. The amazing works of our civilization are truly inspiring!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

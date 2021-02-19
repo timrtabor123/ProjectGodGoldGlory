@@ -1,0 +1,337 @@
+<GameData>
+	<Language_en_US>
+	<!-- Civilization -->
+		<Row Tag="TXT_KEY_CIV5_JWW_ABEMAMA_TITLE">
+			<Text>Abemama</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_ABEMAMA_DESC">
+			<Text>Chiefdom of Abemama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_ABEMAMA_SHORT_DESC">
+			<Text>Abemama</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_ABEMAMA_ADJECTIVE">
+			<Text>Abemama</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JWW_ABEMAMA_TEXT">
+			<Text>Ko na mauri, Tembinok', the last great chief of the Gilbert Islands! Despite the looming threat of the British and other powers who came to conquer Polynesia, you held your head high and refused to be overpowered by them. You refused access to the atolls you controlled to most foreigners, ensuring secuity for the atolls as long as possible. You regulated all the trade on the atolls, capitalizing on the successful Copra trade and granting wealth to Abemama. You become immortalized and praised within a book, so your name and feats could be heard in the Gilberts for many years to come![NEWLINE][NEWLINE]Great chief, your people are scared of the dangers of the world that lie outside the atolls. Can you protect them and thier culture and ensure they are always safe? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+	<!-- Trait -->
+		<Row Tag="TXT_KEY_TRAIT_JWW_THE_LAST_TYRANT">
+			<Text>Foreign units give [ICON_GOLD] gold while occupying your territory, and provide [ICON_CULTURE] culture when defeated. Outgoing trade routes provide [ICON_CULTURE] culture proportional to the [ICON_GOLD] gold gained from the trade route.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JWW_THE_LAST_TYRANT_SHORT">
+			<Text>The Last Tyrant</Text>
+		</Row>
+	<!-- Leader -->
+		<Row Tag="TXT_KEY_LEADER_JWW_TEMBINOK">
+			<Text>Tembinok'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_TEMBINOK_LIVED">
+			<Text>Unknown - 1891 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_TEMBINOK_NAME">
+			<Text>Tembinok'</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_TEMBINOK_SUBTITLE">
+			<Text>Uea of Abemama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_TEMBINOK_TITLES_1">
+			<Text>The Merchant King</Text>
+		</Row>
+	<!-- Building -->
+		<Row Tag="TXT_KEY_BUILDING_JWW_COPRA_SMALLHOLDING">
+			<Text>Copra Smallholding</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JWW_COPRA_SMALLHOLDING_STRATEGY">
+			<Text>The Copra Smallholding is a building unique to Abemama. It replaces the Garden, but does not require Fresh Water. Provides the unique [ICON_RES_JWW_COPRAS] Copra luxury resource, which provide +2 [ICON_FOOD] Food and +1 [ICON_GOLD] Gold each. Trade Routes originating from this city increase the number of [ICON_RES_JWW_COPRAS] Copras produced.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JWW_COPRA_SMALLHOLDING_HELP">
+			<Text>Unlike the Garden it replaces, it does not require fresh water. Produces the unique [ICON_RES_JWW_COPRAS] Copra luxury resource, the amount increasing with the number of outgoing foreign trade routes in the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_ABEMAMA_COPRA_DUMMY">
+			<Text>Abemama UB Dummy</Text>
+		</Row>
+		<!-- Resource -->
+		<Row Tag="TXT_KEY_RESOURCE_JWW_COPRAS">
+			<Text>Copras</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_JWW_COPRAS_HELP">
+			<Text>Appears as a unique luxury good in cities with a Copra Smallholding, which the Abemama unique building.</Text>
+		</Row>
+	<!-- Unit -->
+		<Row Tag="TXT_KEY_UNIT_JWW_SHARK_TOOTH_SWORDSMAN">
+			<Text>Shark-Tooth Swordsman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JWW_SHARK_TOOTH_SWORDSMAN_STRATEGY">
+			<Text>The Shark-Tooth Swordsman is the Abemama unique unit. It replaces the Swordsman, but doesn't obsolete until the Modern Era. Is trained with additional combat strength depending on the culture output of the city and the era. Passively gains experience every turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JWW_SHARK_TOOTH_SWORDSMAN">
+			<Text>The Shark-Tooth Swordsman is the Abemama unique unit. It replaces the Swordsman, but doesn't obsolete until the Modern Era. Is trained with additional combat strength depending on the culture output of the city and the era. Passively gains experience every turn.</Text>
+		</Row>
+	<!-- Civilopedia -->
+		<Row Tag="TXT_KEY_CIV5_JWW_ABEMAMA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_ABEMAMA_TEXT_1">
+			<Text>In the mid to late 19th Century, Abemama, also known as Apemama, was ruled by a single paramount chief. This contrasts with the Northern Gilbert Islands where groups of families or kainga would have their own separate leaders, and the Southern Gilberts (from Nonouti southwards) where the old men or unimwane collectively would meet in the maneaba to govern. Some European sources describe the chiefly family of Abemama as "the Gilbert Islands ruling family" but local sources recognise that the unimwane wield much of the power even on Abemama, and governing the whole of the Gilbert Islands as a single unit is a logistical challenge even in modern times. Nonetheless the chiefly family of Abemama has a long history of providing overall leadership, and during the time of Tembinok ruled over Kuria and Aranuka also.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_ABEMAMA_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_ABEMAMA_TEXT_2">
+			<Text>Abemama has a land area of 27.39 square kilometres with a width varying from 50 metres to 2 kilometres. The island has 3 main islets; the largest and main islet has 11 villages and is home to most of the population. Abatiku, an islet located at the north-western reef, and Biike just south of it, have much smaller populations.
+				[NEWLINE][NEWLINE]The island is blessed with a massive lagoon area and an abundance of lagoon fish, shellfish, and worms. There are also some seaweed farms. Causeways were constructed to link all villages on the main islet making transportation easy. The island resembles an incomplete “G” letter, with two reef passages; one is located in between Abatiku and Tabiang village at the north-western end. The other is between Biike and Kenna, the latter being the southernmost end of the main islet. The island is surrounded with an exposed reef at the windward side and submerged reef at the leeward side where Biike and Abatiku are situated. Most of the important food crops in Kiribati such as coconut, giant taro, pandanus and breadfruit grow well in Abemama.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_ABEMAMA_HEADING_3">
+			<Text>The Dynasty of Abemama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_ABEMAMA_TEXT_3">
+			<Text>Temkarotu, was the ruler of a village on Abemama, which was then experiencing devastating feuds. Temkarotu extended his authority over the entire atoll, and established a dictatorship, ignoring the traditional authority of a "council of Old Men". Temkarotu died about 1860. Temkorotu left two sons, Tembinatake and Tembaiteke. Tembinatake conquered Aranuka and Kuria, then delegated absolute authority to his nephew Tembinok'. Tembinok'’s great-great-grandfather Temtetabo saved Abemama from invasion by an army from Tarawa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_ABEMAMA_HEADING_4">
+			<Text>European Contact</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_ABEMAMA_TEXT_4">
+			<Text>During the seventy years of intensive European contact, from the 1820s through the 1880s, it was chief Tembaiteke who faced the full impact of the European presence, and in 1851 he made his first move. By “a deliberate act of policy” he had all resident foreigners, nine on Abemama and twenty-five on Kuria and Aranuka, killed. In the following decades he controlled all trading transactions, including the import and distribution of firearms, prohibited the importa­tion of alcohol and the manufacture of sour toddy from coconut sap, forbade any permanent missionary presence on Abemama, and abso­lutely banned labor recruiters from all three islands. In 1878 Tembaiteke retired in favor of his eldest son, Tembinok'. In 1873 he persuaded his father to allow a mission teacher to visit Abemama, and from this person he learned written Gil­bertese, some arithmetic, and some geography. He strictly enforced his father’s policies in regard to alcohol, firearms, and labor recruiters, and reserved the copra trade ‘as a royal monopoly. He put down at least three major revolts, the most serious of which occurred as late as 1885. Tembinok'’s uncle, Tembinatake, was involved in the first and third of these revolts, and after the first his nephew banished him from Abemama. In the 1880s Tembinok' attempted, unsuccessfully, to conquer the entire Gilberts group. All things considered, the accomplishments of Tembinatake and Tembinok' were extraordinary. Together they achieved a feat unique in the history of the Pacific Islands: in the face of European cultural pressures that had overrun the whole of Polynesia and Micronesia they had maintained the political, economic, and social integrity of their territory from the beginnings of European contact to virtually the end of the nineteenth century, selecting and accepting from the European only such ideas and material goods as appeared to them of value, and these strictly on their own terms and not those dictated by the dominant race.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_ABEMAMA_HEADING_5">
+			<Text>Colonial and Modern History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_ABEMAMA_TEXT_5">
+			<Text>In 1886, an Anglo-German agreement partitioned the “unclaimed” central Pacific, leaving Nauru in the German sphere of influence, while Ocean Island and the future GEIC wound up in the British sphere of influence. A British protectorate was first proclaimed over the Gilberts by Captain Edward H.M. Davis of HMS Royalist on 27 May 1892, ending the islands’ independence. In 1915, starting from 1916, the Gilbert Islands colony was merged with the Ellice Islands.
+				[NEWLINE][NEWLINE]During the Second World War, the islands were occupied by the Japanese Empire from December 1941 to November 1943, when the US Army invaded the isles, and British sovereignty over them was eventually restored. In 1976, the colony was split once again from the Ellice Islands, and in 1979 it was granted independence, forming the Republic of Kiribati.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_ABEMAMA_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_ABEMAMA_FACTOID_TEXT">
+			<Text>
+				[ICON_BULLET]Tembinok' was said to have a very large harem of wives.
+				[NEWLINE][ICON_BULLET]Tembinok' was the last of the expansionist Chiefs of the Gilbert Islands.
+				[NEWLINE][ICON_BULLET]Tembinok' appeared in the book "In the South Seas" by Robert Louis Stevenson, where Stevenson praises him as a great leader of the Gilbert Islands.
+				[NEWLINE][ICON_BULLET]Stevenson calls Tembinok' a number of names, such as "The Merchant King", "The Last Tyrant [of the Gilberts]", and "The Napolean of the Gilberts".
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_TEMBINOK_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_TEMBINOK_TEXT_1">
+			<Text>Tembinok', also known as Tem Binoka or Tembinoka, was the last truly independent and influential king of parts of the Gilbert islands, at a time when the Gilberts were being increasingly influenced by white settlers and traders. Tembinok' resided on Abemama, and, unlike the rulers of neighbouring islands, did not allow outsiders to establish a permanent presence there. Tembinok' controlled access to the atolls under his control and jealously guarded his revenue and his prerogatives as monarch. He briefly accepted the presence on Abemama of Tuppoti, a Christian missionary, then deported him for attempting to set up a copra trading business.  He owned trade ships which would travel to Australia and New Zealand. His commercial ventures, however, ended in failure with the loss of his ship the Coronet. As a merchant king, he controlled his kingdom's commerce. He enforced the allocation of produce; such that the taro went to the chiefs of each village to allocate among their various subjects; certain fish and turtles and the whole of the produce of the coco-palm, the source of copra belonged to Tembinok'. He would trade the copra with visiting trading ships. While the captains and supercargos of trading ships could expect to sell such novelties at a great profit, Tembinok' controlled access to his islands and would refuse to deal with those whom he considered to take advantage of him. He was described as classing captains and supercargoes in three categories: "He cheat a little"—"He cheat plenty"—and "I think he cheat too much”.
+				[NEWLINE][NEWLINE]Tembinok' would spend evenings playing card games with his wives with the currency being tobacco sticks. He had developed his own version of poker in which he could play either of two hands dealt to him. By this strategy Tembinok' would win most of the tobacco, so that Tembinok' ended up with effective control of the tobacco, which he would allocate to his wives and other subjects, so that he was, the sole fount of all indulgences. Like his father and uncle before him, Tem Binoka was also a poet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_JWW_SHARK_TOOTH_SWORDSMAN_TEXT">
+			<Text>The islands of Kiribati were once divided by feuding local clans. Fighters used formidable weapons edged with shark teeth, drilled and bound to the edges of palmwood staves. The Kiribati armoury included a diverse range of weapons such as pikes, swords and daggers. For protection, fighters wore strong but cumbersome armour of coconut fibre, including a helmet, a cuirass with a high backplate, and sleeves and leggings, which it would be hard even for these sharp sawlike weapons to cut through. The islanders seemed to believe that in their armor they were invulnerable, and European visitors to the Gilberts during the 19th century described the inhabitants of these atolls as the most warlike people in Micronesia, if not in the world.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_JWW_COPRA_SMALLHOLDING_TEXT">
+			<Text>The Copra (or khobara) is the dried meat or kernel of the coconut. Coconut oil is extracted from copra, making it an important agricultural commodity for many coconut-producing countries. It also yields de-fatted coconut cake after oil extraction, which is mainly used as feed for livestock. It was used by Pacific island cultures and became a valuable commercial product for merchants in the South Seas and South Asia in the 1860s. While there are some large plantations with integrated operations, copra remains primarily a smallholder crop. In former years copra was collected by traders going from island to island and port to port in the Pacific Ocean but South Pacific production is now much diminished. During Tembinok’s reign, as a merchant king, the copra trade was reserved as a royal monopoly, which he would trade with visiting trading ships.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_JWW_COPRAS_TEXT">
+			<Text>The Copra (or khobara) is the dried meat or kernel of the coconut. Coconut oil is extracted from copra, making it an important agricultural commodity for many coconut-producing countries. It also yields de-fatted coconut cake after oil extraction, which is mainly used as feed for livestock.</Text>
+		</Row>
+	<!-- Diplomacy Responses -->
+		<Row Tag="TXT_KEY_LEADER_JWW_TEMBINOK_FIRSTGREETING_1">
+			<Text>Pfft, another traveler? I'm Tembinok', the Uea of this atoll, but if you got nothing to do with me, then leave! I don't need foreigners corrupting the state of my atoll.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_TEMBINOK_DEFEATED_1">
+			<Text>Well, I suppose it way only a matter of time before Abemama too became under the control of the west... it's a shame really.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_TEMBINOK_GREETING_POLITE_HELLO_1">
+			<Text>Well, I've taken a liking to you. I permit you to stay the atoll!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_TEMBINOK_GREETING_NEUTRAL_HELLO_1">
+			<Text>I don't remember saying you could come to this atoll without my permission! Well, since you're here I guess I'll listen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_TEMBINOK_GREETING_HOSTILE_HELLO_1">
+			<Text>What are you doing here? I thought I banned you from this place!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_TEMBINOK_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Well, that's quite the military out there. Please, don't use it on us, I beg of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_TEMBINOK_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Leave our atolls alone! Go settle... elsewhere.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_TEMBINOK_REQUEST_1">
+			<Text>I'm not one to make requests, so this is extremely important. Please consider this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_TEMBINOK_DECLAREWAR_1">
+			<Text>Sorry, but that land you own would be better under the control of... me! So, I'm going to be fighting you.</Text>
+		</Row>
+	<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_0">
+			<Text>Kariatebike</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_1">
+			<Text>Buariki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_2">
+			<Text>Tabiang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_3">
+			<Text>Kabangaki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_4">
+			<Text>Baretoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_5">
+			<Text>Tabontebike</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_6">
+			<Text>Takaeang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_7">
+			<Text>Tekatirirake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_8">
+			<Text>Norauea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_9">
+			<Text>Baurua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_10">
+			<Text>Manenaua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_11">
+			<Text>Tanimainiku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_12">
+			<Text>Manoku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_13">
+			<Text>Taboiaki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_14">
+			<Text>Buariki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_15">
+			<Text>Matang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_16">
+			<Text>Bubutei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_17">
+			<Text>Rotuma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_18">
+			<Text>Oneeke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_19">
+			<Text>Abatiku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_20">
+			<Text>Bouatoa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_21">
+			<Text>Kauake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_22">
+			<Text>Bangotantekabaia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_23">
+			<Text>Kauma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_24">
+			<Text>Tebanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_25">
+			<Text>Temanoku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_26">
+			<Text>Teuabu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_27">
+			<Text>Raweai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_28">
+			<Text>Tebiauea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_29">
+			<Text>Temotu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_30">
+			<Text>Tematantongo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_31">
+			<Text>Tekaranga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_32">
+			<Text>Temwangaua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_33">
+			<Text>Toora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_34">
+			<Text>Autukia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_35">
+			<Text>Aobike</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_36">
+			<Text>Abamakoro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_37">
+			<Text>Tebikerai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_38">
+			<Text>Benuaroa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_39">
+			<Text>Tebwangetua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_40">
+			<Text>Teitai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_41">
+			<Text>Biike</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_ABEMAMA_42">
+			<Text>Equator Town</Text>
+		</Row>
+		<!-- lol, Equator Town found here: http://catalog.lambertvillelibrary.org/texts/English/stevenson/sseas/text/sseas30.html -->
+	<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_ABEMAMA_0">
+			<Text>Robert Louis</Text>
+			<gender>feminine</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_ABEMAMA_1">
+			<Text>Fanny Vandegrift</Text>
+			<gender>feminine</gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_ABEMAMA_2">
+			<Text>Lloyd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_ABEMAMA_3">
+			<Text>Tuppoti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_ABEMAMA_4">
+			<Text>Tem Baiteke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_ABEMAMA_5">
+			<Text>Nei Teaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_ABEMAMA_6">
+			<Text>Tem Karotu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_ABEMAMA_7">
+			<Text>Tem Namoriki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_ABEMAMA_8">
+			<Text>Nei Teaa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_ABEMAMA_9">
+			<Text>Tem Tetabo</Text>
+		</Row>
+	<!-- Cultural Influence -->
+		<Row Tag="TXT_KEY_LEADER_JWW_TEMBINOK_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now joining your harem and are being tempted to set up a copra trading business. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_TEMBINOK_INFLUENTIAL_ON_HUMAN_1">
+			<Text>We are glad to see that your people are now joining my harem and are being tempted to set up a copra trading business. The amazing works of our civilization are truly inspiring!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

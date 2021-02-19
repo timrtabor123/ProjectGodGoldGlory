@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="5ec623ac-9c67-41fa-bdb9-2290cf3869a3" version="1">
+  <Properties>
+    <Name>JakeWalrusWhale's Abemama</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Chiefdom of [COLOR_XP_BLUE]Abemama[ENDCOLOR] under Tembinok'.</Teaser>
+    <Description>Abemama under Tembinok'
+[NEWLINE][NEWLINE]
+UA: The Last Tyrant[NEWLINE]
+Foreign units give gold while occupying your territory, and provide culture when defeated. Outgoing trade routes provide culture proportional to the gold gained from the trade route.
+[NEWLINE][NEWLINE]
+UU: Shark-Tooth Swordsman[NEWLINE]
+Replaces the Swordsman, but doesn't obsolete until the Modern Era. Is trained with additional combat strength depending on the culture output of the city and the era. Passively gains experience every turn.
+[NEWLINE][NEWLINE]
+UB: Copra Smallholding[NEWLINE]
+Replaces the Garden. Does not require Fresh Water. Provides the unique Copra luxury resource, which provide +2 Food and +1 Gold each. Trade Routes originating from this city increase the number of Copras produced.</Description>
+    <Authors>JakeWalrusWhale</Authors>
+    <SpecialThanks>DarthKyofu, TPangolin, EmeraldRange</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="60CA14EB5E61158181A924C6CD351AF7" import="1">Art/AbemamaMap.dds</File>
+    <File md5="F5EC60D63017FDEA0D586799022A9467" import="1">Art/Atlas/AbemamaIconAtlas128.dds</File>
+    <File md5="363141BA84500BBD0161E6A6A098536E" import="1">Art/Atlas/AbemamaIconAtlas24.dds</File>
+    <File md5="C0F14CEDC26107FB3A6D5B87E710DE9A" import="1">Art/Atlas/AbemamaIconAtlas256.dds</File>
+    <File md5="603CB31EBF0EE22F12E9A698C1F6DC86" import="1">Art/Atlas/AbemamaIconAtlas32.dds</File>
+    <File md5="3D90A73E5E10E2A7E86735FC1D99189E" import="1">Art/Atlas/AbemamaIconAtlas45.dds</File>
+    <File md5="EDFC31C0A32567791BEC9E75FFD032A2" import="1">Art/Atlas/AbemamaIconAtlas48.dds</File>
+    <File md5="44CEBA061E355FBC08F90D022DB9184A" import="1">Art/Atlas/AbemamaIconAtlas64.dds</File>
+    <File md5="6B9BD6FC542727AB747F7155942D5AF2" import="1">Art/Atlas/AbemamaIconAtlas80.dds</File>
+    <File md5="631CE29D6A274A1EF708F6BD09BCBA1F" import="1">Art/Atlas/SharkToothSwordsmanAlpha32.dds</File>
+    <File md5="16AADE122C84BE460188D38219B5BE78" import="1">Art/Atlas/SharkToothSwordsman_sv.dds</File>
+    <File md5="E598C82C6D196BA02E6FEA3FD6956B58" import="1">Art/FontIcon/AbemamaCopraFontIcon.dds</File>
+    <File md5="51B83104AD4ADB80D7AC719EF9D07DA0" import="1">Art/FontIcon/AbemamaCopraFontIcon.ggxml</File>
+    <File md5="BA5416D0DEA62D2D38CF445441D2D07E" import="1">Art/FontIcon/AbemamaCopraFontIcon.xml</File>
+    <File md5="778EACE904BDFF368EA5011B58BDFB9C" import="1">Art/Model/sharktoothswordsman.fxsxml</File>
+    <File md5="64CA360F0D1CD5A7EE8A7FA2BF60EBBD" import="1">Art/Model/sharktoothswordsman.gr2</File>
+    <File md5="682E5E79FCC1DF9A231FD491DE104E90" import="1">Art/Model/sharktoothswordsman_diff.dds</File>
+    <File md5="434FDC5790457EE04FDD9D9D7D534E27" import="1">Art/Model/sharktoothswordsman_sref.dds</File>
+    <File md5="ADEF700E03AEABC3E4E62A2E1502AEA2" import="1">Art/TembinokDOM.dds</File>
+    <File md5="E0678B207D12BDB4E0189B8EF1E6B1FD" import="1">Art/TembinokScene.dds</File>
+    <File md5="EC7CDAC3DC68E87A4B19BC2642EA5C9D" import="0">Code/Database/AbemamaArtDefines.sql</File>
+    <File md5="A6234C986F51CF77A8E3BAFA5D9C0F0F" import="0">Code/Database/AbemamaGameDefines.sql</File>
+    <File md5="9136428FB079AF914F8D66627C066FB5" import="0">Code/Database/AbemamaText.xml</File>
+    <File md5="133CE2EB4B718EC9988BDB276B84281F" import="1">Code/Database/TembinokScene.xml</File>
+    <File md5="DC7DA5D70825567ADA4F52D13E21A480" import="0">Code/Database/AbemamaModSupport.sql</File>
+    <File md5="A4D64012A6DE15DE5FF2515EA72ACD48" import="0">Code/Lua/AbemamaFunctions.lua</File>
+    <File md5="DCBDE544957B5DD389083AC58BE5184B" import="0">Credits.txt</File>
+    <File md5="65458692579F0C06AB6AFD5F19C26B64" import="1">Music/AbemamaPeace.mp3</File>
+    <File md5="A6B89BCDAC63629020994E7098E388F6" import="1">Music/AbemamaWar.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/FontIcon/AbemamaCopraFontIcon.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Database/AbemamaArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Database/AbemamaGameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Database/AbemamaModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Code/Database/AbemamaText.xml</UpdateDatabase>
+      <UpdateDatabase>Code/Database/TembinokScene.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Code/Lua/AbemamaFunctions.lua">
+      <Name>Abe Fucntions</Name>
+      <Description>yes</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

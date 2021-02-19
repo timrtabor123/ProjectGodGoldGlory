@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 12/2/2019 9:06:06 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- Scotland -->
+		<Row Tag="TXT_KEY_CIV_DJ_ALBA_ADJECTIVE">
+			<Text>Scots</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DJ_ALBA_DESC">
+			<Text>Scots Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DJ_ALBA_SHORT_DESC">
+			<Text>Alba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_TEXT_1">
+			<Text>With a history dating back to the Roman occupation of Britain, Scotland has long been renowned as a cultural stronghold in the north of Europe. Early in its history, the Pictish Confederation spanned almost the entire region, with the Gaels of Ireland coming later to inhabit the west coast. After years of war, the nation was consolidated into the Kingdom of Alba, overwhelmingly the among the most powerful kingdoms in the British Isles. Facing invasion from England, the Scottish Wars of Independence were triggered, and continue to live on in the memory of many romanticists in modern-day Scotland. In later years, the crowns of the often-feuding nations of Scotland and England were made into one, forming the United Kingdom.[NEWLINE][NEWLINE]In the 19th and 20th centuries, Scotland became known for its industry and technological growth, attracting immigrants from all over the world to come and work in places such as the shipbuilding region of the Clyde. During both world wars, Scotland participated fully, and though it took many losses, it came through as a major fighting force, renowned to this day. During later political regimes of the 20th century, movements such as Thatcherism were unpopular among many Scots, sparking Scotland’s independence movement. With the coming of the SNP to power in 2007, a referendum on Scottish independence was scheduled for the 18th of September 2014.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_HEADING_2">
+			<Text>Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_TEXT_2">
+			<Text>Often known for its wet, rainy climate, much of Scotland is almost constantly battered by rain. This is particularly bad on the West Coast, where close to no protection is offered from Atlantic storms, thus making rain far more likely here than the East Coast. The Hebrides, Orkney and Shetland also have little protection from such rain storms. In terms of the makeup of the land, Scotland is situated on a line known as the Great Highland Fault, and because of this fault line, the Highlands are a dominant part of Scotland’s geographic makeup. These mountains are a major tourist attraction in Scotland, with mountaineers from all over the world coming to climb them. Scotland also boasts the tallest mountain in the UK, Ben Nevis. Another of Scotland’s more famous features are the lakes, or “lochs”. Lochs in Scotland are typically formed in valleys between the hills. Glens also feature in the Highlands, and are often used in romanticist depictions. In the lowlands of Scotland, it tends to be a lot flatter, though it still retains a lot of mountains near the borders. At no point is Scotland really free of any incline, making it a vibrant and interesting landscape.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_HEADING_3">
+			<Text>Early History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_TEXT_3">
+			<Text>Scotland’s history is dominated by legendary figures such as William Wallace and Rob Roy - though one of the first to be mentioned was mostly, if not entirely fabricated. Calgacus, meaning “Swordsman” in Latin, was recorded as the first Scot in history. Presumably a Pictish general of sorts, he allegedly made a speech to the invading Roman soldiers. Calgacus may have done so, but what he would have said is entirely unknown, given very few elements of the Pictish language he would have spoken are known. In the battle that followed, the Romans are speculated to have won, but they were never able to dominate the whole of Scotland, only a couple of border regions. Around 410 AD, crisis in Rome triggered the retreat of effectively all Roman positions around Scotland. This lead to almost complete Pictish domination in the north, and new land ready to take in the south. In the west, however, a power vacuum lead to the settlement of the Gaels. These Gaels founded the Kingdom of Dal Riata, which spanned most of Scotland that was not owned by the Picts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_HEADING_4">
+			<Text>Kingdom of Alba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_TEXT_4">
+			<Text>After many wars between the rival Picts and Gaels, the two were finally united into the Kingdom of Alba around 900 AD. This came about after a long merger between the two peoples took place, with the Pictish conversion to Christianity and the subsequent struggles in which the ruling dynasties were united. Initially, the kingdom had its seat of power at Scone, and though the monarch often changed courts, Scone was always the ritual capital of the kingdom. During this period, the Scots were frequently at war with the English, which had been recently conceived as a nation as well. In 1066, the Normans attacked England, bringing about colossal social change not only south of the border, but in Scotland as well. Many monarchs of Scotland aimed to emulate the grandeur the Normans brought about, with many members of royal households marrying into Norman families as a sign of prestige. Later kings followed suit, and eventually, many of Scotland’s nobles would have spoken French as their primary language.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_HEADING_5">
+			<Text>The Wars of Independence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_TEXT_5">
+			<Text>After the Battle of Largs, King Alexander III of Scotland was able to make the kingdom more prosperous than ever. During his reign, Scotland experienced a golden age, with a lot more people able to make a decent living. However, this came to an abrupt end in 1286, with the sudden death of King Alexander. While riding home during a storm, his horse had fallen off a cliff, killing him instantly. His successor, Margaret, was a six-year-old Norweigan princess that had never been to Scotland before. On her journey to Scotland, she died in Orkney, leaving the Scottish throne in crisis. To resolve the issue of the new monarch, Scottish nobles called on Edward I of England, noted for his wisdom and diplomatic skills. Out of several candidates for the new Scottish king, he recognized John Balliol as the strongest of them, making him the new monarch. However, in 1294, Balliol refused one of Edward’s demands. Furious, Edward deposed Balliol and invaded Scotland. Before long, the kingdom was effectively a puppet on England. With Wales seized only years before, Edward dominated Great Britain, albeit unstably. Before long, resistance to Edward’s rule became apparent, with one of the most famous characters in Scottish history appearing - William Wallace.[NEWLINE][NEWLINE]A middle-class outlaw from Perth, Wallace was the unlikely champion of the Scottish cause. He had fiercely opposed the English since a dispute with his sheriff, which resulted in his death and the creation of Wallace’s criminal record. As an excellent general and warrior, Wallace was able to recruit men for his cause easily in a guerilla warfare style, especially due to the mass anti-English sentiment. Before long, Wallace had been appointed Guardian of Scotland, having won the Battle of Stirling Bridge, which resulted in total slaughter of the English army. However, it didn’t take long before Wallace himself was defeated by Edward’s superior skill, having brought a battle-hardened army from France to crush the rebels. At the Battle of Falkirk, Wallace was forced to flee, with the independence cause almost completely abandoned. When he attempted to reignite the war seven years later, he was captured by the English and forced to stand trial in London, where he was hung, drawn and quartered. While this was meant to be a lesson to anyone who wanted independence, it only encouraged more people to take up arms against Edward.[NEWLINE][NEWLINE]Robert the Bruce, an ambitious young man born into a wealthy Anglo-Norman family, was next to take up the cause. Though Bruce was a fervent supporter of independence, all he really wanted was kingship. At times, he had backed Edward to fuel this ambition, but with Wallace gone, he knew he could pick up where he left off and recreate Scotland. Bruce met up with John Comyn in a church to discuss the terms of an independent Scotland. Previously, Bruce had allowed Comyn to keep the land while Bruce had the crown - though Comyn had told Edward that Bruce was pretending to be King of Scotland, giving him limited time to act. Bruce’s meeting with Comyn proved eventful, as after Comyn only laughed at Bruce’s demands, he stabbed him to death. A story tells that Bruce came out of the church, with his knife blood-stained, and exclaimed to his friend Fitzpatrick “I’m afraid I’ve stabbed Comyn!”. Fitzpatrick then went into the church, and finished off Comyn for him. The motto of the Fitzpatrick family to this day is allegedly his response to Bruce, “I make sure”. Bruce then went on to start another campaign of guerrilla war. With the death of Edward I, the tide changed for the better. Edward II was a completely incapable commander, and at the Battle of Bannockburn, Bruce overwhelmed the English forces, ending their domination in Scotland for good.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_HEADING_6">
+			<Text>Arbroath and Aftermath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_TEXT_6">
+			<Text>The conclusion to the Wars of Independence was in 1320, when Robert the Bruce signed the Declaration of Arbroath, legally restricting the powers of the king. While the peace treaty with England had been signed, it was not until this document had been created that Scotland could truly function as a kingdom again. Roughly equivalent to the powers of the Magna Carta, the Declaration was later used as a model for the American Declaration of Independence. [NEWLINE][NEWLINE]Following this, Scotland began a period of regrowth and rebirth. Soon after Bruce’s family line had lost claim on the throne, the notoriously corrupt Stuart line came to power. James I was noted for his immense patronage of the arts; however, he was later assassinated in his home, having not been able to escape. James II was a better administrator; however, his fiery passion for war lead to his death at the Siege of Roxburgh Castle, one of the final English strongholds in Scotland, when his cannon exploded and killed him. Often considered Scotland’s first Renaissance king, James III obtained the Orkney and Shetland Islands from Norway due to marriage; however, he was, in most other aspects, an infective king. With little luck in battle, James III was thrown off his horse and killed at the Battle of Sauchie Burn. James IV followed suit in the family tradition of bad battles; at the Battle of Flodden Field, the Scots army was crushed, and James IV was killed, making him the last British monarch to be killed in battle. However, his reign was noted as prosperous in many other aspects, given he was a capable administrator and governor. After defeat at the Battle of Solway Moss, James V returned home in shame and died just hours later. This left his one-week-old daughter, Mary, in control of Scotland.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_HEADING_7">
+			<Text>Act of Union and Catholicism</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_TEXT_7">
+			<Text>Mary, Queen of Scots, had one of the most eventful and sad reigns in Scottish history. Due to their Catholic ties, Mary was sent to mary Francis, Dauphin of France, at a very young age. She stayed with the French royalty for a long part of her reign, and thus not able to conform to the massive social changes that were happening in a Scotland deemed unsafe for her at the time. After her husband died, Mary returned to her homeland. However, she was unpopular among the Protestants in Scotland, who now formed a majority - and women in power were also frowned upon at the time. To ease this slightly, Mary married Lord Darnley, a young noble who was a likely candidate for a good monarch. However, a few years into their marriage, Darnley was murdered, presumably on Mary’s orders. John Hepburn was originally thought to have been the murderer, but was cleared of all charges. This became more suspicious still when he married Mary a month later. Not yet popular among the many Protestants in Scotland, Mary was chucked out of the throne, and the crown was given to her son, James. Mary fled to England after a failed uprising known as the “Rising of the North”, an attempt to boost Catholic influence - she had assumed her cousin, Elisabeth, would help her. However, Elisabeth instead imprisoned her, and had Mary executed 18 years later.[NEWLINE][NEWLINE]Though Mary’s rule was turbulent and wild, James had a far more peaceful and prosperous reign. At an early age, he was perceived as a wise King of Scots - though the most important event in his reign came when Elizabeth died without a heir. The best the English nobility could do to find a successor was to ask James, who accepted - this meant that for the first time in history, Scotland and England were in a peaceful union. James, unlike his mother, had been raised as a Protestant king - previously unheard of in Scotland. With England also a Protestant country, this made James popular in both nations, though not to all. Guy Fawkes, an English Catholic, wanted rid of James on both the counts that he was Protestant and Scottish. Fawkes was an explosives expert as he had been fighting for the Spanish in the Netherlands prior to the plot to kill James - he used this to his advantage. Though Fawkes was not the leader of the group of Catholics against James, he is the most famous today as he was the first caught conspirator of the plot, now popularly known as the “Gunpowder Plot” - every year in Britain, the failure of the plot is commemorated with Guy Fawkes Night on the 5th of November.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_HEADING_8">
+			<Text>The Commonwealth and the Glorious Revolution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_TEXT_8">
+			<Text>After James’ passing, his son, Charles I, took over. A big believer in the divine right of kings, Charles was a holy man - but a useless monarch. Charles dismissed his parliament initially so that he could rule with supreme authority, but he called them back as soon as he ran into trouble. This displeased the parliamentary nobles, so among them they decided to rid themselves of Charles, which soon sparked the War of Three Kingdoms. Though most of the nation was held by Charles or the now-proclaimed Commonwealth of England, there were two other major factions - the Confederates in Ireland, and the Covenanters in Scotland. A Presbyterian movement in Scotland, the Covenanters fought against both the Irish Confederates and the English Crown, triumphing over both. However, only a few years later, they were crushed by Oliver Cromwell’s New Model Army. For ten years, all three of these kingdoms were ruled by the Lord Protector Cromwell - the first time in British history that the islands had no king to be seen. However, Cromwell felt like a king to many, his reign portrayed as a harsh, hard time for the isles. With Cromwell’s death, the monarchy was brought back by Charles II, a time often seen as a reawakening of Britain’s crushed spirits. Charles was never particularly religious, but rather strangely, he converted to Catholicism upon his death; he had not dared do so beforehand for fear of another revolt.  [NEWLINE][NEWLINE]However, Charles’ brother, James VII of Scotland and II of England, made no secret of being a Catholic. With his rule in turmoil within a couple of months, James was challenged as king by the upstart ruler William of Orange, a Dutch prince and diehard Protestant. William began the so-called Glorious Revolution by gathering his men to fight against the crown and install him in James’ place; this went incredibly well. James was forced into full retreat after the Battle of the Boyne, and William became king once more. Anne, William’s successor, was not particularly notable as a monarch - though she does have ties to Scotland. In 1707, the Act of Union was created, a document that unified the crowns of Scotland and England into one. This came after the disastrous Darrian Project, which involved Scotland colonising Panama. However, they failed miserably to do so, and with investments wasted, Scotland was bankrupted. The Act of Union lead to an uneasy merger of the countries, and was widely opposed in Scotland at the time, though it probably saved the economy in its entirety.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_HEADING_9">
+			<Text>Jacob Bites Back</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_TEXT_9">
+			<Text>In the newly-formed United Kingdom, the ruling dynasty had now been changed to the German Hanoverians - mostly on account of them being the closest Protestant relatives to the late Queen Anne. King George I was unpopular in the UK, as he rarely visited, spending most his time in Hanover, and never bothered to learn English - this led to him creating the post of Prime Minister to fulfil his day-to-day needs in the UK. This led to people wanting to do something about it. James II’s son, James Francis Stuart, was brought up in France by the exiled James in the hope he would one day return a Catholic to the throne. James inspired the Jacobite movement, which means “Followers of Jacob” in Latin. Finding help from the movement in Scotland, James decided to attack - however, he turned out to be a bad leader and strategist, and subsequently this first Jacobite rising, in 1715, ended in failure. However, James’ son - Charles Edward Stuart - knew better how to start a rising. Charles went to Scotland in 1745, and after proclaiming his father King James VIII of Scotland, he began his campaign by rallying armed clansmen to fight for his cause. This rising was initially a great success, but before they could think about marching on London, they were thwarted by the betrayal of Dudley Bradstreet, and English spy who had told the Jacobites that their army would be destroyed if they stayed in England, thus forcing them to return to the north. However, the Jacobite cause was quickly defeated at the Battle of Culloden; this ended the Jacobites for once and for all. Charles was forced to escape to the isle of Skye and then France, an event immortalised in Scottish folklore. Charles was helped to disguise himself as a woman by Flora Macdonald so that he could escape, through one account describes Charles as “the ugliest woman I’ve ever seen”. Regardless, Charles was able to escape to safety like his father, though his rising had been far more successful.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_HEADING_10">
+			<Text>Empire and Industry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_TEXT_10">
+			<Text>Following the risings, Scotland became a true Enlightenment era state, with many people from there stepping forth to leave their mark on the world. One of the many contributors to this was the Glaswegian merchant Adam Smith, who is credited with describing modern capitalism in his book, The Wealth of Nations. One of Scotland’s most famous pioneers was James Watt, a  scientist and inventor who helped make steam power one of the most mainstream energy sources in the world - Watt is also credited with popularising railways as a method of transport, thus paving the way for the Industrial world. However, in the wake of the Jacobite cause, a lot of Scotland’s dying romanticism was put to good use. Robert Burns, one of Scotland’s most famous poets, wrote verses in a fluidly Scottish manner. Internationally, the song and poem “Auld Lang Syne” is likely the most famous of Burns’ works, as it it used all over the world to celebrate New Years’ Day, or “Hogmanay” in Scotland. [NEWLINE][NEWLINE]During this time, cities such as Glasgow became massive immigration and industry centres. When the Potato Famine struck Ireland in 1847, tens of thousands of immigrants made the journey to places such as Scotland, where large Irish communities were formed and still exist today. Shipbuilding was a major industry in the Clyde area in general, and as a result, it created thousands of new jobs. The burst of industry into Scotland also created substantial amounts of work for Scots and immigrants alike, creating a massive boost in productivity. Scotland became an integral part of the British Empire during this time, with Glasgow even being called the UK’s second city at times. Glasgow’s prominence declined towards the end of the 19th century, but Scotland was still an integral part of the Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_HEADING_11">
+			<Text>The War Years</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_TEXT_11">
+			<Text>When Scotland, as part of the British Empire, entered the First World War in 1914, men rushed to recruitment as part of so-called “Pals Regiments” - like so many other soldiers in the Great War, they tended to sign up with their friends. The Scots saw a lot of action in the Somme, and also in Ypres - they tended to serve alongside the rest of the British regiments for the most part. By the end of the war, Scotland had changed socially to become a poorer, though still highly industrialised nation - this set the scene for a lot of Scottish history since the war. After a period of recovery, Scotland was doing well once more, and was able to function well as part of the British Empire. However, come the Second World War, and Scotland was back in turmoil. The Clydebank area of Glasgow was blitzed due to its vast shipbuilding importance, but Glasgow was still well able to supply the British army with enough ships to continue its campaign. In 1942, the Commando regiment began training in Scotland as a concept of elite soldiers - Scotland’s rugged Highland terrain was perfect for military operations to be practiced. Dundee’s comics of The Beano and The Dandy were immensely popular during the Second World War, as they put in satires of Hitler, Goring and Mussolini in particular, and encouraged children to help the war effort. How much a children's comic could do for a war is debatable, but the writers were put on the kill list of the Nazi party. [NEWLINE][NEWLINE]Out on the other side of the Second World War, and Scotland was again poorer. This time, England seemed to be getting more benefit than Scotland - and while that is unlikely to be true, given the example of post-war London - it certainly stirred an anti-English sentiment among many Scots. The Clyde was still a shipbuilding centre, but with less demand for ships came less demand for jobs. The economy of Scotland gradually stabilized, with progressive Labour governments aiming to help the poor affected by the war across the country, but this didn’t last as long as some hoped. By 1980, the more left-wing Scots had a Tory government in power - this didn’t sit well with the vast majority of Scots.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_HEADING_12">
+			<Text>Thatcherism, Devolution, and the Referendum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_TEXT_12">
+			<Text>Margaret Thatcher, the UK’s first female Prime Minister, remains a controversial figure even after her passing. In general, she is admired by most right-wingers in the UK, but is a detested figure in most of Scotland. During her time in power, the Poll Tax was introduced - albeit only in Scotland. Though it was seen by a lot of Tories as a good move to ensure it worked on one region before checking the rest, it was incredibly unpopular in Scotland and simply made her approval hit near rock bottom. Furthermore, the Trident nuclear missile program was announced - and it was to take up residence in Scotland. Thatcher’s free-market capitalist and conservative views made her clash with Scotland’s majority left-wing and socialist population, many of which wanted rid of her. Eventually, the Scots got to say goodbye to Thatcher, and under Tony Blair’s Labour government, Scotland got its own devolved parliament in 1999. Scotland’s first First Minister, Donald Dewar, was an advocate of devolution above independence as a means of retaining a strong Labour government in Westminster. The Scottish Parliament was meant to represent Scotland within the United Kingdom - this meant that Scotland was able to take what it valued into its own hands. Matters such as education, healthcare and transport were given over to the Scottish Parliament, which proved to be a huge success. In 2007, the Scottish Nationalist Party were elected to the Scottish Parliament, and promised to hold a referendum on Scottish independence on September 18th, 2014. This treachery failed, and Scotland remained united beneath the crown of the United Kingdom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ALBA_FACTOID_TEXT">
+			<Text>Italian immigration to Scotland was not only popular, but encouraged among Irish Catholic priests. Given the Italians would often set up ice cream stalls, the priests would advise people to buy ice cream from them instead of going to pubs. [NEWLINE][NEWLINE]Burma was occasionally referred to as “the Scottish Colony” due to the large amounts of Scots who went there and colonised it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_DJ_ALEX_III_TEXT">
+			<Text>A thousand welcomes to you, Alaxandair mac Alaxandair, third of your name, King of Scots and ruler over Scotland. For centuries, the Picts and the Scots fought jealously to keep hold over their highly-coveted lands. Following years of civil unrest, it was by the actions of your father, whose campaigns you continued, that the people gained a renewed determination into standing against foreign encroachment upon the realm. But your achievements would be far greater than these: not only did you repel the Norwegian invaders in 1263 AD, but you also obtained for Scotland the Western Isles in the Treaty of Perth. Not only did you ease tensions with the rebels in Galloway, you brought them back entirely within the Scottish fold. With these great exertions of energy, the kingdom of the Scots would know a golden age.[NEWLINE][NEWLINE]O' ferocious King Alexander, hostile forces land once more upon Alba's shores. Can you lead your people to glories that only you know? Can you ensure that the Lion Rampant flies once again all across the land? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!-- City List -->
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_PERTH">
+			<Text>Perth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_EDINBURGH">
+			<Text>Edinburgh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_STIRLING">
+			<Text>Stirling</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_DUNFERMLINE">
+			<Text>Dunfermline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_ARBROATH">
+			<Text>Arbroath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_ABERDEEN">
+			<Text>Aberdeen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_BERWICK">
+			<Text>Berwick</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_DUMFRIES">
+			<Text>Dumfries</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_DUNDEE">
+			<Text>Dundee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_MONTROSE">
+			<Text>Montrose</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_LINLITHGOW">
+			<Text>Linlithgow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_ELGIN">
+			<Text>Elgin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_INVERKEITHING">
+			<Text>Inverkeithing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_ST_ANDREWS">
+			<Text>St Andrews</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_CANONGATE">
+			<Text>Canongate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_TAIN">
+			<Text>Tain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_INVERNESS">
+			<Text>Inverness</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_KINGHORN">
+			<Text>Kinghorn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_AYR">
+			<Text>Ayr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_DINGWALL">
+			<Text>Dingwall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_DUMBARTON">
+			<Text>Dumbarton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_FORFAR">
+			<Text>Forfar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_RUTHERGLEN">
+			<Text>Rutherglen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_NAIRN">
+			<Text>Nairn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_CULLEN">
+			<Text>Cullen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_BRECHIN">
+			<Text>Brechin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_KELSO">
+			<Text>Kelso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_STORNOWAY">
+			<Text>Stornoway</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_CRAIL">
+			<Text>Crail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_GLASGOW">
+			<Text>Glasgow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_ALBA_LARGOWARD">
+			<Text>Largoward</Text>
+		</Row>
+		<!-- Spy List -->
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_ALBA_0">
+			<Text>Ruaridh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_ALBA_1">
+			<Text>Mhairi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_ALBA_2">
+			<Text>Struan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_ALBA_3">
+			<Text>Eilidh</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_ALBA_4">
+			<Text>Mungo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_ALBA_5">
+			<Text>Niamh</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_ALBA_6">
+			<Text>Aenghus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_ALBA_7">
+			<Text>Evie</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_ALBA_8">
+			<Text>Graighor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_ALBA_9">
+			<Text>Ulrich</Text>
+		</Row>
+		<!-- Alexander III -->
+		<Row Tag="TXT_KEY_LEADER_DJ_ALEX_III">
+			<Text>Alexander III</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ALEX_III_NAME">
+			<Text>Alaxandair mac Alaxandair</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ALEX_III_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ALEX_III_TEXT_1">
+			<Text>Alexander III was the last major ruler from the house of Dunkeld, and who consolidated royal power in Scotland. He left his kingdom independent, united, and prosperous, and his reign was viewed as a golden age by Scots caught up in the long, bloody conflict with England after his death.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ALEX_III_HEADING_2">
+			<Text>Biography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ALEX_III_TEXT_2">
+			<Text>The only son of King Alexander II, Alexander III was seven years old when he came to the throne. In 1251, he was married to Margaret , the 11-year-old daughter of England’s King Henry III. Henry immediately began plotting to obtain suzerainty over Scotland. In 1255, a pro-English party in Scotland seized Alexander, but two years later the anti-English party gained the upper hand and controlled the government until Alexander came of age the year 1262.[NEWLINE][NEWLINE]In 1263, Alexander repulsed an invasion by the Norwegian king Haakon IV, who ruled the islands along Scotland’s west coast. Haakon’s son, King Magnus V, ceded to Alexander the Hebrides and the Isle of Man in 1266. Alexander was killed in 1286 when his horse fell over a cliff. Because his children were all dead, his infant grandchild Margaret “the Maid of Norway” succeeded to the throne.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ALEX_III_SUBTITLE">
+			<Text>Leader of the Scots</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ALEX_III_TITLES_1">
+			<Text>King</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_ALEX_III_LIVED">
+			<Text>1241 - 1286 AD</Text>
+		</Row>
+		<!-- Diplomacy Responses -->
+		<Row Tag="TXT_KEY_LEADER_DJ_ALEX_III_FIRSTGREETING_1">
+			<Text>Good morrow, stranger, and welcome to the land of the Scots! I am her king; Alexander, third of my name. What business do you have here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_ALEX_III_DEFEATED_1">
+			<Text>You can take our land, you can take our lives, but you cannot take our honor. Your day will come!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_ALEX_III_ATTACKED_HOSTILE_1">
+			<Text>Oh aye? Well then, I'd like to see how far you and yours get without getting your teeth knocked in!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_ALEX_III_DEC_FRIENDSHIP_1">
+			<Text>The Scots are a proud and noble people, and we recognize these qualities in your own clan. Will you join me in a public Declaration of Friendship?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_ALEX_III_DENOUNCE_1">
+			<Text>Your head looks like it could use a good kicking in.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_ALEX_III_DENOUNCE_FRIEND_1">
+			<Text>Putting up with a junkie like you has to be one of the biggest challenges I've had to face.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_ALEX_III_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>That's rich, coming from a junkie like you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_ALEX_III_DOW_GENERIC_1">
+			<Text>You'd best prepare yourself, for there must be war between us, instead of a false peace!</Text>
+		</Row>
+		<!-- Treaty of Perth -->
+		<Row Tag="TXT_KEY_TRAIT_DJ_TREATY_OF_PERTH_SHORT_DESC">
+			<Text>Treaty Of Perth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DJ_TREATY_OF_PERTH_DESC">
+			<Text>Making peace with a major civilization triggers a [ICON_GOLDEN_AGE] Golden Age, which is extended for each city gained in the preceding war. Defensive buildings spawn a combat unit when completed during a [ICON_GOLDEN_AGE] Golden Age.</Text>
+		</Row>
+		<!-- Lymphad -->
+		<Row Tag="TXT_KEY_UNIT_DJ_LYMPHAD_DESC">
+			<Text>Lymphad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_LYMPHAD_TEXT">
+			<Text>A lymphad or galley is a charge used primarily in Scottish heraldry. It is a single-masted ship propelled by oars. In addition to the mast and oars, the lymphad has three flags and a basket. The word comes from the Scottish Gaelic long fhada, meaning a long ship or birlinn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DJ_LYMPHAD_STRATEGY">
+			<Text>The Lymphad is a Galleass replacement, and only Alba may build it. It is trained faster during [ICON_GOLDEN_AGE] Golden Ages, and is faster when beginning its turn in friendly territory. Use them to secure your coasts from surprise invasions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DJ_LYMPHAD_HELP">
+			<Text>Medieval Era Naval Unit used to wrest control of the seas with its ranged attack. Trained 25% faster during Golden Ages, and begins with +1 Movement and may move after attacking when in friendly territory. May only be trained by Alba.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DJ_LYMPHAD_DESC">
+			<Text>Lymphad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DJ_LYMPHAD_HELP">
+			<Text>Moves faster and may move after attacking when starting in friendly territory.</Text>
+		</Row>
+		<!-- Ghaisgeach -->
+		<Row Tag="TXT_KEY_UNIT_DJ_GAISGEACH_DESC">
+			<Text>Gaisgeach</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_GAISGEACH_TEXT">
+			<Text>Whilst the word gaisgeach itself is merely a translation of "swordsman" into Scots Gaelic, the tradition of swordsmanship amongst the Scots goes back several centuries before the Kingdom, to the Pictish holdings such as Fortriu. Whilst not as famous as the highlanders and their claymores, the Scots' competence with the broadsword and overall was a large element of their military successes in the first quarter of the second millenium AD.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DJ_GAISGEACH_STRATEGY">
+			<Text>The Gaisgeach is the unique unit for Alba, replacing the Swordsman. The Gaisgeach begins with the Amphibious promotion, making it very strong against coastal empires. The Ghaisgeach also generates +1 [ICON_PRODUCTION] Production for each level earned when garrisoned in a city constructing buildings, ensuring that fresh conquests remain productive.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DJ_GAISGEACH_HELP">
+			<Text>Classical Era Melee unit specialized in amphibious assaults. Yields +1 [ICON_PRODUCTION] Production for each level earned when garrisoned in a city constructing buildings. May only be trained by Alba.</Text>
+		</Row>
+		<!-- MOD SUPPORT -->
+		<!-- Additional Achievements -->
+		<Row Tag="TXT_KEY_MOD_DJ_ALBA_NAME">
+			<Text>DuskJockey's Alba (Alexander III)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_DJ_ALBA_ID_STEAM">
+			<Text>fe1eeef3-e247-43be-8bbc-8256fa9b6934</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MOD_DJ_ALBA_AUTHORS">
+			<Text>DuskJockey, grant, Lordie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_DJ_ALBA_VICTORY_HEADER">
+			<Text>Idris Alba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_DJ_ALBA_VICTORY_TEXT">
+			<Text>Win the game on any difficulty setting as Alba.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_DJ_ALBA_SPECIAL_HEADER">
+			<Text>Greatest Love of All</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_DJ_ALBA_SPECIAL_TEXT">
+			<Text>As Alba, be declared friends with Alexander I of Russia and Alexander of Greece.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_AA_DJ_ALBA_SPECIAL_MC_TEXT">
+			<Text>As Alba, be declared friends with Alexander I of Russia and Alexander of Macedon.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

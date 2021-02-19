@@ -1,0 +1,19 @@
+-- AlbaCredits
+-- Author: DuskJockey
+-- DateCreated: 12/2/2019 8:50:50 PM
+--------------------------------------------------------------
+Lordie: Design, code
+DuskJockey: Design, art, code
+grant: Art
+danrell: Unit model
+JFD: Useful bits of code
+--------------------------------------------------------------
+CIVILOPEDIA ENTRIES
+Scotland: Viregel
+Alexander III: https://www.britannica.com/biography/Alexander-III-king-of-Scotland
+Ghaisgeach: Lordie
+Lymphad: https://en.wikipedia.org/wiki/Lymphad
+--------------------------------------------------------------
+MUSIC
+Peace: https://www.youtube.com/watch?v=X9d04VA51vI
+War: https://www.youtube.com/watch?v=1SFzP9GvQi8

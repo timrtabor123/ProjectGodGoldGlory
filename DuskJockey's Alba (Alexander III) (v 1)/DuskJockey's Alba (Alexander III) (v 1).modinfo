@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="fe1eeef3-e247-43be-8bbc-8256fa9b6934" version="1">
+  <Properties>
+    <Name>DuskJockey's Alba (Alexander III)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]Alexander III's Alba[ENDCOLOR] to the game. Click [COLOR_CYAN]here[ENDCOLOR] for details.</Teaser>
+    <Description>Unique Ability: [COLOR_POSITIVE_TEXT]Treaty of Perth[ENDCOLOR][NEWLINE]Making peace with a major civilization triggers a [ICON_GOLDEN_AGE] Golden Age, which is extended for each city gained in the preceding war. Defensive buildings spawn a combat unit when completed during a [ICON_GOLDEN_AGE] Golden Age.[NEWLINE][NEWLINE]Unique Unit: [COLOR_POSITIVE_TEXT]Gaisgeach[ENDCOLOR][NEWLINE]Classical Era Melee unit specialized in amphibious assaults. Yields +1 [ICON_PRODUCTION] Production for each level earned when garrisoned in a city constructing buildings. May only be trained by Alba.[NEWLINE][NEWLINE]Unique Unit: [COLOR_POSITIVE_TEXT]Lymphad[ENDCOLOR][NEWLINE]Medieval Era Naval Unit used to wrest control of the seas with its ranged attack. Trained 25% faster during Golden Ages, and begins with +1 Movement and may move after attacking when in friendly territory. May only be trained by Alba.</Description>
+    <Authors>DuskJockey, grant, Lordie</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="25" maxversion="999" title="Yet (not) Another Maps Pack" />
+    <Mod id="432bc547-eb05-4189-9e46-232dbde8f09f" minversion="4" maxversion="999" title="Additional Achievements" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="8343D667B9184F6243324F355F39F7FC" import="0">AlbaCredits.txt</File>
+    <File md5="A0754962260C4417FE70509EC60A68D8" import="0">Art/AlbaArtDefines.sql</File>
+    <File md5="CCEC7AE553186C806E55AAA4F15A17CB" import="1">Art/Atlases/AlbaAlphaAtlas24.dds</File>
+    <File md5="BF4261603E5484DF1B38E136BE999E07" import="1">Art/Atlases/AlbaAlphaAtlas32.dds</File>
+    <File md5="7670D40EEB20234F9865031E9FD5C709" import="1">Art/Atlases/AlbaAlphaAtlas48.dds</File>
+    <File md5="0A3274D0DB63216CA562B5355DA809AB" import="1">Art/Atlases/AlbaAlphaAtlas64.dds</File>
+    <File md5="FD5F700FAC388794B3C056F86374E2C0" import="1">Art/Atlases/AlbaColorAtlas128.dds</File>
+    <File md5="9D5C9E97D435FF75877716BF8F981D52" import="1">Art/Atlases/AlbaColorAtlas256.dds</File>
+    <File md5="A61BE7AAAE8461178780E1359236C9A8" import="1">Art/Atlases/AlbaColorAtlas32.dds</File>
+    <File md5="B750E5B122A89065D16FCB2D5E2C4CF6" import="1">Art/Atlases/AlbaColorAtlas45.dds</File>
+    <File md5="F26DB90CA49B3CCD8F55783EF24884F6" import="1">Art/Atlases/AlbaColorAtlas64.dds</File>
+    <File md5="E0A5CA2CFAB37B9A24CF14B8D3B00DC1" import="1">Art/Atlases/AlbaColorAtlas80.dds</File>
+    <File md5="29E4A562C40BA8E63FC62EA4F03FF143" import="1">Art/Atlases/GaisgeachAlpha.dds</File>
+    <File md5="5E4B93452D32D7388C7043D662504854" import="1">Art/Atlases/LymphadAlpha.dds</File>
+    <File md5="124098FB80F60811873A8EDF896FB61A" import="1">Art/Models/Swordsman_Viking.dds</File>
+    <File md5="C07B56F3D21A2CFE7ED2D395D7110782" import="1">Art/Models/Swordsman_Viking.fxsxml</File>
+    <File md5="A7FEDB2147B7A42309308A21ECF723AF" import="1">Art/Models/Swordsman_Viking.gr2</File>
+    <File md5="7B82A5CCCCA37BF589A18C4CC153F62B" import="1">Art/Models/Swordsman_Viking_gloss.dds</File>
+    <File md5="9635F17C1192E1857B86B09883F0C6BC" import="1">Art/Scenes/AlbaDoM.dds</File>
+    <File md5="FC3B41847F8018F531C92294966982A7" import="1">Art/Scenes/AlbaMap.dds</File>
+    <File md5="F78C33AD11AD207284A524AC95E6AE50" import="1">Art/Scenes/AlexIII_Scene.dds</File>
+    <File md5="94282001368BDD4665859CEE674B684E" import="1">Art/Scenes/AlexIII_Scene.xml</File>
+    <File md5="218718854D030BEBA0E240C96EC8C730" import="0">Audio/AlbaAudioDefines.sql</File>
+    <File md5="E6F215FAD8AD96AF00DDFA93D70EA6EE" import="1">Audio/DJAlbaPeace.mp3</File>
+    <File md5="94D6467CE99295AA23CB2839BBC00ED2" import="1">Audio/DJAlbaWar.mp3</File>
+    <File md5="6883CB49BFD1C1B6BB07A053F55A4BA3" import="0">Functions/AlbaFunctions.lua</File>
+    <File md5="5B204276619D2B35C98002E79B442FBB" import="1">Functions/Utilities/AdditionalAchievementsUtility.lua</File>
+    <File md5="DFE8AD93471AF12BAD5FE1153C0658CF" import="0">GameDefines/AlbaGameDefines.sql</File>
+    <File md5="BDBBDDABC59FAF31C9841F6C1C20145B" import="0">GameDefines/AlbaModSupport.sql</File>
+    <File md5="76A92ADAD73603F1024E9124E68057B2" import="0">GameDefines/AlbaText.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>GameDefines/AlbaGameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>GameDefines/AlbaText.xml</UpdateDatabase>
+      <UpdateDatabase>GameDefines/AlbaModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Art/AlbaArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/AlbaAudioDefines.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Functions/AlbaFunctions.lua">
+      <Name>AlexIIIFunctions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

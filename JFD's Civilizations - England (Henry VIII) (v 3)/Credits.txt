@@ -1,0 +1,44 @@
+-- Credits
+-- Author: JFD
+-- DateCreated: 1/6/2018 1:43:31 PM
+----------------
+JFD: 
+----------------
+	Author
+	Art (Civ Icon)
+	Coding 
+	Design 
+	Research 
+	Writing
+----------------
+Janboruta: 
+----------------
+	Art (Unique Icons)
+----------------
+Sukritact: 
+----------------
+	Art (Leaderscene; Leader Icon)
+----------------
+Viregel: 
+----------------
+	Art (Map)
+----------------
+Typhlomence:
+----------------
+	Utilities (UniqueDiplomacyUtils.lua)
+	https://forums.civfanatics.com/threads/uniquediplomacyutils-a-set-of-lua-functions-to-enable-unique-diplomacy-responses.550294/
+----------------
+David Christiansen: 
+----------------
+	Music (Peace; War)
+	https://www.youtube.com/watch?v=l2WIl5NirUI
+	https://www.youtube.com/watch?v=c8ajuAlcr_4
+----------------
+Encyclopedia Britannica: 
+----------------
+	Pedias (Leader; Uniques)
+	https://www.britannica.com/biography/Henry-VIII-king-of-England
+	https://www.britannica.com/sports/joust
+	https://www.britannica.com/art/theater-building/Developments-of-the-Renaissance#ref39396
+--------------------------------------------------------------
+--------------------------------------------------------------

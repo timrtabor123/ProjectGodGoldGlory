@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/16/2014 11:54:41 PM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_JFD_ENGLAND_HENRY_VIII_ADJECTIVE">
+			<Text>English</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ENGLAND_HENRY_VIII_DESC">
+			<Text>English Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JFD_ENGLAND_HENRY_VIII_SHORT_DESC">
+			<Text>England</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_1">
+			<Text>London</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_2">
+			<Text>York</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_3">
+			<Text>Hastings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_4">
+			<Text>Hampton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_5">
+			<Text>Greenwich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_6">
+			<Text>Dover</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_7">
+			<Text>Windsor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_8">
+			<Text>Hythe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_9">
+			<Text>Dublin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_10">
+			<Text>Sandwich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_11">
+			<Text>Norwich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_12">
+			<Text>New Romney</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_13">
+			<Text>Canterbury</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_14">
+			<Text>Rye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_15">
+			<Text>Cardiff</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_16">
+			<Text>Berwick</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_17">
+			<Text>Carlisle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_18">
+			<Text>Calais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_19">
+			<Text>Bristol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_20">
+			<Text>Newcastle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_21">
+			<Text>Dunkirk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_22">
+			<Text>Dundalk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_23">
+			<Text>Llanddewi Brefi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_24">
+			<Text>Gravelines</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_25">
+			<Text>Hull</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_26">
+			<Text>Boston</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_27">
+			<Text>Southampton</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_28">
+			<Text>Colchester</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_29">
+			<Text>Coventry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_30">
+			<Text>Exeter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_31">
+			<Text>Dalky</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_32">
+			<Text>Exeter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_33">
+			<Text>Great Yarmouth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_34">
+			<Text>Swansea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_35">
+			<Text>Maidstone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_36">
+			<Text>Ipswich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_37">
+			<Text>King's Lynn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_38">
+			<Text>Reading</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_39">
+			<Text>Wissant</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JFD_ENGLAND_HENRY_VIII_40">
+			<Text>Preston</Text>
+		</Row>
+		<!--Colonies-->
+		<Row Tag="TXT_KEY_COLONY_NAME_JFD_ENGLAND_HENRY_VIII_01">
+			<Text>Henrytown</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ENGLAND_HENRY_VIII_0">
+			<Text>Bertrandon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ENGLAND_HENRY_VIII_1">
+			<Text>John</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ENGLAND_HENRY_VIII_2">
+			<Text>Thomas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ENGLAND_HENRY_VIII_3">
+			<Text>Francis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ENGLAND_HENRY_VIII_4">
+			<Text>George</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ENGLAND_HENRY_VIII_5">
+			<Text>William</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ENGLAND_HENRY_VIII_6">
+			<Text>Petrus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ENGLAND_HENRY_VIII_7">
+			<Text>Antony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ENGLAND_HENRY_VIII_8">
+			<Text>Isabella</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JFD_ENGLAND_HENRY_VIII_9">
+			<Text>Madame de Sauv</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII">
+			<Text>Henry VIII</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ENGLAND_HENRY_VIII_NAME">
+			<Text>Henry VIII</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ENGLAND_HENRY_VIII_HEADING_1">
+			<Text>Accession to the throne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ENGLAND_HENRY_VIII_TEXT_1">
+			<Text>Henry was the second son of Henry VII, first of the Tudor line, and Elizabeth, daughter of Edward IV, first king of the short-lived line of York. When his elder brother, Arthur, died in 1502, Henry became the heir to the throne; of all the Tudor monarchs, he alone spent his childhood in calm expectation of the crown, which helped give an assurance of majesty and righteousness to his willful, ebullient character. He excelled in book learning as well as in the physical exercises of an aristocratic society, and, when in 1509 he ascended the throne, great things were expected of him. Six feet tall, powerfully built, and a tireless athlete, huntsman, and dancer, he promised England the joys of spring after the long winter of Henry VII’s reign.[NEWLINE][NEWLINE]Henry and his ministers exploited the dislike inspired by his father’s energetic pursuit of royal rights by sacrificing, without a thought, some of the unpopular institutions and some of the men that had served his predecessor. Yet the unpopular means for governing the realm soon reappeared because they were necessary. Soon after his accession, Henry married Catherine of Aragon, Arthur’s widow, and the attendant lavish entertainments ate into the modest royal reserves.[NEWLINE][NEWLINE]More serious was Henry’s determination to engage in military adventure. Europe was being kept on the boil by rivalries between the French and Spanish kingdoms, mostly over Italian claims; and, against the advice of his older councillors, Henry in 1512 joined his father-in-law, Ferdinand II of Aragon, against France and ostensibly in support of a threatened pope, to whom the devout king for a long time paid almost slavish respect.[NEWLINE][NEWLINE]Henry himself displayed no military talent, but a real victory was won by the earl of Surrey at Flodden (1513) against a Scottish invasion. Despite the obvious pointlessness of the fighting, the appearance of success was popular. Moreover, in Thomas Wolsey, who organized his first campaign in France, Henry discovered his first outstanding minister. By 1515 Wolsey was archbishop of York, lord chancellor of England, and a cardinal of the church; more important, he was the king’s good friend, to whom was gladly left the active conduct of affairs. Henry never altogether abandoned the positive tasks of kingship and often interfered in business; though the world might think that England was ruled by the cardinal, the king himself knew that he possessed perfect control any time he cared to assert it, and Wolsey only rarely mistook the world’s opinion for the right one.[NEWLINE][NEWLINE]Nevertheless, the years from 1515 to 1527 were marked by Wolsey’s ascendancy, and his initiatives set the scene. The cardinal had some occasional ambition for the papal tiara, and this Henry supported; Wolsey at Rome would have been a powerful card in English hands. In fact, there was never any chance of this happening, any more than there was of Henry’s election to the imperial crown, briefly mooted in 1519 when the emperor Maximilian I died, to be succeeded by his grandson Charles V. That event altered the European situation. In Charles, the crowns of Spain, Burgundy (with the Netherlands), and Austria were united in an overwhelming complex of power that reduced all the dynasties of Europe, with the exception of France, to an inferior position. From 1521, Henry became an outpost of Charles V’s imperial power, which at Pavia (1525), for the moment, destroyed the rival power of France. Wolsey’s attempt to reverse alliances at this unpropitious moment brought reprisals against the vital English cloth trade with the Netherlands and lost the advantages that alliance with the victor of Pavia might have had. It provoked a serious reaction in England, and Henry concluded that Wolsey’s usefulness might be coming to an end.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ENGLAND_HENRY_VIII_HEADING_2">
+			<Text>Loss of popularity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ENGLAND_HENRY_VIII_TEXT_2">
+			<Text>While the greatness of England in Europe was being shown up as a sham, the regime was also losing popularity at home. The fanciful expectations of the early days could not, of course, endure; some measure of reality was bound to intrude. As it was, journalists and writers continued to be full of hope for a king who, from 1517, commanded the services of a new councillor, Sir Thomas More, one of the outstanding minds of the day. But More soon discovered that Henry found it easy to keep his enjoyment of learned conversation apart from the conduct of policy. Nothing for the moment could dent Wolsey’s strength, and this had serious drawbacks for the king, who supported him. The country was showing increasing signs of its discontent, and Wolsey’s efforts to remedy grievances only exasperated men of influence without bringing satisfaction to the poor. Feelings came to the boil in the years 1523–24. Although he disliked parliaments, Wolsey had to agree to the calling of one in 1523, but the taxes voted were well below what was required. Next year, the attempt to levy a special tax led to such fierce resistance that Henry rescinded it, he and the cardinal both trying to take the credit for the remission of what they had been jointly responsible for imposing. While he had Wolsey to take the blame, Henry could afford such fiascoes; the cardinal could not. By 1527 a government policy that, though seemingly Wolsey’s, was really the king’s was facing bankruptcy; ineffective abroad, unpopular at home, it made the regime look as empty of positive purpose as in fact it was.[NEWLINE][NEWLINE]At this point, the king entered affairs unmistakably and spectacularly. Among his failures so far had been his or Catherine’s inability to provide a male heir to the throne; several stillbirths and early deaths had left only a girl, the princess Mary (born in 1516), to carry on the line, and no one relished the thought of a female succession with all the dynastic and political uncertainties it would bring. Being the man he was, Henry could not suppose the fault to be his. His rapidly growing aversion to Catherine was augmented by his infatuation with one of the ladies of the court, Anne Boleyn, the sister of one of his earlier mistresses. Henry was no profligate; indeed, he had a strong streak of prudery, but he sought the occasional relief from marriage to a worthy but ailing wife to which princes have generally been held entitled. In Anne he met his match; this 20-year-old girl, brought up in a tough school of courtly intrigue, would be more than a king’s mistress. It took Henry, who in any case needed to marry her if the expected issue was to solve the succession problem, some six years to achieve their joint purpose. Inadvertently, he provoked a revolution.[NEWLINE][NEWLINE]From 1527 Henry pursued what became known as “the King’s great matter”: his divorce from Catherine. He convinced himself that his first marriage had been against the divine law; that is, against the biblical injunction (Lev.) forbidding marriage with a brother’s widow. The deaths of the children proved God’s judgment on the union. With his characteristic readiness to convert his own desires into the law of God, Henry rapidly assured himself that he was living in mortal sin with Catherine and had to find relief if he was again to become acceptable to God. He appealed to Rome for a declaration of annulment. Popes had usually obliged kings in such matters, but Henry had picked both his time and his case badly. He was asking Pope Clement VII to help him discard the emperor’s aunt, but Clement, the emperor’s prisoner in 1527–28, never thereafter dared resist Charles, whose powerful feelings of familial honour and public prestige barred any concession to Henry’s wishes. Moreover, the pope’s reluctance was increased by the fact that he was being asked to declare illegal an earlier exercise of papal power—which had licensed Henry’s marriage to his brother’s widow—of a kind that brought a good deal of money to the papal coffers.[NEWLINE][NEWLINE]Thus, Henry’s attempts to solve his dilemma in the accepted legal way were doomed from the start. Wolsey, in a worse dilemma, since only success in the impossible could keep him in power, obtained a trial of the case in England, but this was frustrated by his fellow judge, Cardinal Campeggio, on orders from Rome (1529). Within weeks, Wolsey was ousted, but his disappearance solved nothing, and the councillors who succeeded him could offer little help to their king, who knew only what he wanted, not how to get it.[NEWLINE][NEWLINE]The chancellorship went to Thomas More, who had told Henry that he did not approve of the divorce and who wished to devote himself to a fight against Lutheran heresy. Confusion was the keynote of policy for some three years while the king dithered between hope that Rome might yet be forced to let the formal trial of his first marriage take place in England and stirrings of a more radical nature—to reject Rome outright. But, though he occasionally talked of doing just that, neither he nor anyone else knew how to convert talk into action.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ENGLAND_HENRY_VIII_HEADING_3">
+			<Text>The breach with Rome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ENGLAND_HENRY_VIII_TEXT_3">
+			<Text>Action called for a revolution, and the revolution required a man who could conceive and execute it. That man was Thomas Cromwell, who, in April 1532, won control of the council and thereafter remained in command for some eight years. The revolution consisted of the decision that the English church should separate from Rome, becoming effectively a spiritual department of state under the rule of the king as God’s deputy on earth. The revolution that he had not intended gave the king his wish: in January 1533 he married Anne Boleyn; in May a new archbishop, Thomas Cranmer, presided over the formality of a trial that declared the first marriage annulled; in September the princess Elizabeth was born. The pope retaliated with a sentence of excommunication; it troubled no one.[NEWLINE][NEWLINE]The supreme headship on earth over the Church of England, though he had not sought it, represented Henry’s major achievement. It had very wide-ranging consequences, but those that immediately concerned the king were two. In the first place, the new title consolidated his own concept of kingship, his conviction that (as he once said) he had no superior on earth. It rounded off the majestic image of divinely instituted royal rule that it was Henry’s constant ambition to present to an awed and obedient world. But, in the second place, it created a real personal problem for the king: earlier, in his book Assertio septem sacramentorum adversus Martinum Lutherum (1521), he had attacked Luther and had expressed a profound devotion to the papacy and had been rewarded with the title of Defender of the Faith. Now he had turned against the pope; his act was equal to encouraging the Protestant Reformation, a thing attractive to Cranmer and Cromwell (and perhaps Anne Boleyn) but not to Henry, who despised Luther. The religion of the newly independent church was for its head to settle: for the rest of his life, Henry, who prided himself on his theological learnings, was to give much time and thought to the nature of the true religion. With the exception of the papal primacy, he never gave up the main tenets of the faith in which he had grown up, but he changed his mind on details and arrived at an amalgam of his own in which transubstantiation and clerical celibacy mingled with radical views about the worldly authority of the church and man’s ability to seek salvation without the aid of priests.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ENGLAND_HENRY_VIII_HEADING_4">
+			<Text>Domestic reforms</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ENGLAND_HENRY_VIII_TEXT_4">
+			<Text>Cromwell’s decade, the 1530s, was the only period of the reign during which a coherent body of policies was purposefully carried through. Cromwell’s work greatly enlarged Henry’s power, especially by transferring to the crown the wealth of the monasteries, dissolved in 1536–40, and new clerical taxes; but it also, more explicitly than ever, subjected the king to the law and to the legislative supremacy of Parliament. Since Henry knew how to work with parliaments, the immediate effect was to make him appear more dominant than ever and to give to his reign a spurious air of autocracy—spurious because in fact the rule of law remained to control the sovereign’s mere will. The appearance of autocracy was misleadingly emphasized by the fact that all revolutions have their victims. As heads rolled, the king’s earlier reputation as a champion of light and learning was permanently buried under his enduring fame as a man of blood. Old friends such as More, refusing to accept the new order, fell before the onslaught, as did some 50 other men caught by the treason laws. Between 1538 and 1541 the families of Pole and Courtenay were destroyed by the axe for treasons linked with efforts abroad to reverse the course of events in England but mainly because they could claim royal blood and represented a dynastic danger to the unprolific Tudor line.[NEWLINE][NEWLINE]The king now embarked on the series of matrimonial adventures that made him appear both a monster and a laughingstock. He soon tired of Anne, who failed to produce a male heir; in 1536 she was executed, with other members of the court, for alleged treasonable adultery. Catherine of Aragon, rejected but unbowed, had died a little earlier. Henry immediately married Jane Seymour, who bore him his son Edward but died in childbirth (1537). The next three years were filled with attempts to replace her, and the bride chosen was Anne, sister of the duke of Cleves, a pawn in Cromwell’s policy for a northern European alliance against dangers from France and the Emperor. But Henry hated the first sight of her and at once demanded his freedom, an end achieved by a quick divorce.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ENGLAND_HENRY_VIII_HEADING_5">
+			<Text>Physical and mental decline</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ENGLAND_HENRY_VIII_TEXT_5">
+			<Text>The Cleves fiasco destroyed Cromwell; it enabled his many enemies to turn the king against him, and in July 1540 his head fell on the scaffold. Henry had by now become truly dangerous: always secretive and suspicious, now he was beginning to show paranoiac tendencies. Convinced that he controlled everyone, he was in fact readily manipulated by those who knew how to feed his suspicions and pander to his self-righteousness. Full of experience—the oldest king in Europe—and increasingly competent in the routine of rule, he lacked the comprehensive vision and large spirit that would have made him a great man. His temperamental deficiencies were aggravated by what he regarded as his undeserved misfortunes and by ill health; he grew enormously fat. His mind did not weaken, but he grew restless, peevish, and totally unpredictable; often melancholy and depressed, he was usually out of sorts and always out of patience. In 1540–42 he briefly renewed his youth in marriage to the 20-year-old Catherine Howard, whose folly in continuing her promiscuity, even as queen, brought her to the block. The blow finished Henry. Thereafter, he was really a sad and bitter old man, and, though he married once more, to find a measure of peace with the calm and obedient Catherine Parr, his physical ruin was complete.[NEWLINE][NEWLINE]But he was still the king and, from Cromwell’s fall (which he regretted too late), the only maker of policy. Policy in the hands of a sick, unhappy, violent man was not likely to be either sensible or prosperous, and so it proved. Left to himself, Henry concentrated on keeping the realm united, despite the growing strife between the religious factions, and on keeping before the world his own image as the glorious monarch of the age. The first resulted in frequent explosions against the ingratitude of his subjects and against his councillors. The second brought him back to his first love—war and conquest, the sport of kings.[NEWLINE][NEWLINE]In 1542 the emperor and the king of France resumed hostilities. After a pretense of independence, Henry again joined the former; the Scots promptly joined the French. The Scots were routed at Solway Moss (1542), and their king died soon after: this opened the possibility of subjugating that country permanently by means of a marriage alliance between the infant heirs to the two thrones. But the Scottish dream quickly collapsed as Henry’s crude handling of that nation gave control to a pro-French party, determined to resist even an alliance with England; physical conquest was beyond the king’s means. Henry personally managed both the war and the subsequent negotiations, and he displayed amazing energy for so sick a man. But energy is not the same thing as competence. The war proved ruinous. Money had to be raised by selling off the monastic lands, which had brought a good income; the desperate expedient of debasing the coinage, though it brought temporary succour, led to a violent inflation that made things worse. Yet, even after the emperor made peace with France (1544), Henry would not let go until two years later.[NEWLINE][NEWLINE]As the year 1546 drew to a close, it was apparent to all observers that the king had not long to live. Not that it was clear to the man most concerned; he continued as before, lamenting religious dissension, attending to the business of government, continuing the pretense of deathless majesty, destroying the powerful Howard family, whom he suspected of plotting to control his successor. Conscious almost to the very end, he died on January 28, 1547. He left the realm feeling bereft and the government the more bewildered because, to the last, he had refused to make full arrangements for the rule of a boy king.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ENGLAND_HENRY_VIII_HEADING_6">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ENGLAND_HENRY_VIII_TEXT_6">
+			<Text>As king of England from 1509 to 1547, Henry VIII presided over the beginnings of the English Reformation, which was unleashed by his own matrimonial involvements, even though he never abandoned the fundamentals of the Roman Catholic faith. Though exceptionally well served by a succession of brilliant ministers, Henry turned upon them all; those he elevated, he invariably cast down again. He was attracted to humanist learning and was something of an intellectual himself, but he was responsible for the deaths of the outstanding English humanists of the day. Though six times married, he left a minor heir and a dangerously complicated succession problem. Of his six wives, two joined a large tally of eminent persons executed for alleged treason; yet otherwise his regime observed the law of the land with painful particularity. Formidable in appearance, in memory, and in mind, and fearsome of temper, he yet attracted genuine devotion and knew how to charm people. Monstrously egotistical and surrounded by adulation, he nevertheless kept a reasonable grasp on the possible; forever taking false steps in politics, he emerged essentially unbeaten and superficially successful in nearly everything he attempted to do.[NEWLINE][NEWLINE]Henry VIII has always seemed the very embodiment of true monarchy. Even his evil deeds, never forgotten, have been somehow amalgamated into a memory of greatness. He gave his nation what it wanted: a visible symbol of its nationhood. He also had done something toward giving it a better government, a useful navy, a start on religious reform and social improvement. But he was not a great man in any sense. Although a leader in every fibre of his being, he little understood where he was leading his nation. But, if he was neither statesman nor prophet, he also was neither the blood-stained monster of one tradition nor the rowdy bon vivant of another. Though cold, self-centred, ungiving, forever suspicious of the ways of the world, he could not descend to the second stereotype; despite a ruthlessness fed by self-righteousness, he never took the pleasure in killing required of the first. Simply, he never understood why the life of so well-meaning a man should have been beset by so many unmerited troubles.</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ENGLAND_HENRY_VIII_LIVED">
+			<Text>1491 - 1547 AD</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ENGLAND_HENRY_VIII_SUBTITLE">
+			<Text>Leader of England</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JFD_ENGLAND_HENRY_VIII_TITLES_1">
+			<Text>King of England[NEWLINE]King of France[NEWLINE]King of Ireland</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_JFD_ENGLAND_HENRY_VIII_TEXT">
+			<Text>Hail to His Majesty, Henry VIII, King of England, and Ireland, and France, and on this earth Supreme Head of the Church of England. Your legacy as the father of the Queens Elizabeth and Mary is preceded only by your virile quest for a son to whom to leave the prestigious Tudor Dynasty. Your infamous affairs would be the catalyst for England's separation from Rome, and your lifelong rivalry with the Holy Roman Emperor and the King of France would spur your unyielding lust for power and prestige. Yet, your reign would be a model for a modern and independent England, and your judicial and spiritual reformation would lay the groundwork for the great Elizabethan age to come.[NEWLINE][NEWLINE]Proud and glorious King, the people of England call for a monarch in whom to give their love and pride. A King of great power and great nobility, who would cast his shadow upon the would-be foes of his realm. Can you continue the reign of the Tudor Dynasty over England? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_FIRSTGREETING_1">
+			<Text>You did not ask for my audience - I, Henry the Eighth, shall not be made to suffer such indignation and impertinence, and should have you thrown from my sight. Yet, I am willing to hear you. Speak.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_CHARLES_V_FIRSTGREETING_1">
+			<Text>Hail Charles. It would appear that we are off to an equal footing. May the truly better man win this time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_ELIZABETH_FIRSTGREETING_1">
+			<Text>Greetings daughter. What brings you to my court?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_HENRY_V_FIRSTGREETING_1">
+			<Text>Hail, honoured knight. May the better of us do England the justice of carving up France and dining upon its honour.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_DEFEATED_1">
+			<Text>Alas, time has conquered I; Henry - King of England and France and Ireland. What a glorious honour for you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_CHARLES_V_DEFEATED_1">
+			<Text>It seems the better man has won. My congratulations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_ELIZABETH_DEFEATED_1">
+			<Text>You wretched and treacherous girl. I should've had you smothered at birth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_HENRY_V_DEFEATED_1">
+			<Text>I bow my head to my better.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_ATTACKED_HOSTILE_1">
+			<Text>Hah-hah! A fine opportunity for me to crush you!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_DEC_FRIENDSHIP_1">
+			<Text>I would be honoured if you would agree to a public Declaration of Friendship. The world should know the friends of I, Henry the Eighth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_DENOUNCE_1">
+			<Text>You are an uncouth brute. You are unfit to look upon me.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_DENOUNCE_FRIEND_1">
+			<Text>I have executed better friends than you have been.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_DOW_GENERIC_1">
+			<Text>Our disagreements have gone on for too long, and can now only be settled by way of battle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Do you dare to challenge my birthright with such brazen expansion into my lands?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_GREETING_HOSTILE_HELLO_1">
+			<Text>I have little patience.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_GREETING_NEUTRAL_HELLO_1">
+			<Text>You have something to say to me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_GREETING_POLITE_HELLO_1">
+			<Text>Well? Speak your mind, friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Do not betray your duty to honour and meet me on the field of battle if it is a war that you seek.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_LUXURY_TRADE_1">
+			<Text>You have some very peculiar goods. A sensible ruler might be willing to part with them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_OPEN_BORDERS_EXCHANGE_1">
+			<Text>I have spoken to my advisors, and they are in agreement that an open borders arrangement would be beneficial to the both of us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_REQUEST_1">
+			<Text>I ask of you to let England share in your great wealth, for the times I ours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_TOO_SOON_NO_PEACE_1">
+			<Text>Where is your thirst for glory? Bah, there is almost no pleasure in fighting you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JFD_ENGLAND_HENRY_VIII_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You are a fool.</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_JFD_ENGLAND_HENRY_VIII_SHORT">
+			<Text>Dieu et Mon Droit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JFD_ENGLAND_HENRY_VIII">
+			<Text>A WLTKD begins in all cities when you capture an enemy Capital or complete a Social Policy Branch. Cities celebrating a WLTKD always follow your main Religion and have increased [ICON_GREAT_PEOPLE] Great People generation (+20%).</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_ENGLAND_HENRY_VIII">
+			<Text>Dummy: England (Henry VIII)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_JFD_ENGLAND_HENRY_VIII_HELP">
+			<Text>+20% [ICON_GREAT_PEOPLE] Great People generation.</Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_BUILDING_JFD_JOUSTING_GROUNDS">
+			<Text>Jousting Grounds</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_JOUSTING_GROUNDS_HELP">
+			<Text>+15 XP for all Units and +5XP more for Mounted Units. Gain [ICON_CULTURE] Culture whenever a Mounted Unit is trained in this city, equal to the amount of XP the unit begins with.[NEWLINE][NEWLINE]City must have a Barracks.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_JOUSTING_GROUNDS_STRATEGY">
+			<Text>The unique Jousting Grounds provides more Experience for Mounted Units than the Armoury, which it replaces for Henry VIII's England. It is also available at Chivalry instead of Steel, making it more accessible. Finally, the Jousting Grounds provides [ICON_CULTURE] Culture whenever a new Mounted Unit is trained in the city, equal to the amount of XP that this unit begins with. Focus on training plenty of Mounted Units to get the most out of the Jousting Grounds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_JFD_JOUSTING_GROUNDS_TEXT">
+			<Text>Jousting is a western European mock battle between two horsemen charging each other with levelled lances, each attempting to unhorse the other. Early medieval tournaments consisted of melees, mock battles between two bodies of armed horsemen; later both the melee and the joust took place at tournaments, and in the 15th century the joust tended to supersede the mêlée. Jousting fell from favour by the beginning of the 16th century. Tilting, or riding, at the rings is a form of jousting in which the horseman rides at full gallop and inserts his lance through small metal rings. The term joust was also used for contests between two men who fought on foot.</Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_UNIT_JFD_GRAND_CARRACK">
+			<Text>Grand Carrack</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_GRAND_CARRACK_HELP">
+			<Text>Costly and slow but awe-inspiring Melee Naval Unit of the Medieval Era that fights best against enemy Galleasses and other technologically inferior Naval Units. Intimidates nearby enemy units. Also hastens the end of [ICON_RESISTANCE] Resistance in all cities when built. Only Henry VIII's England can build it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_GRAND_CARRACK_STRATEGY">
+			<Text>This English unique unit is far costlier to build and maintain than the standard Galleass that it replaces. It also does not have a Ranged Attack and has 1 less [ICON_MOVES] Movement. Unlike the Galleass, however, the Grand Carrack possesses a devastating attack against enemy Galleasses and other technologically inferior Naval Units. It also intimidates nearby enemy units, diminishing their strength in combat. In addition, whenever a Grand Carrack is built, it hastens the end of any [ICON_RESISTANCE] Resistance turns across any of your cities by 2. Building Grand Carracks will be costly but well-worth their potential for intimidating your enemies and inspiring the awe of your people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JFD_GRAND_CARRACK_TEXT">
+			<Text>The rating system of the Royal Navy and its predecessors was used by the British Royal Navy between the beginning of the 17th century and the middle of the 19th century to categorise sailing warships, initially classing them according to their assigned complement of men, and later according to the number of their carriage-mounted guns. The first movement towards a rating system may be seen in the 15th century and the first half of the 16th century, when the largest carracks in the Navy (such as the Mary Rose, the Peter Pomegranate and the Henri Grâce à Dieu) were denoted "great ships". This was only on the basis of their roughly-estimated size and not on their weight, crew or number of guns. When these carracks were superseded by the new-style galleons later in the 16th century, the term "great ship" was used to formally delineate the Navy's largest ships from all the rest.</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GRAND_CARRACK">
+			<Text>Great Ship</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JFD_GRAND_CARRACK_HELP">
+			<Text>+33% Attack vs Galleasses and Triremes. Enemy units receive -10% [ICON_STRENGTH] Combat Strength when adjacent to any unit with this promotion.</Text>
+		</Row>
+		<!--MOD-->
+		<Row Tag="TXT_KEY_MOD_JFD_ENGLAND_HENRY_VIII_DESCRIPTION">
+			<Text>ENGLAND (HENRY VIII)[NEWLINE][NEWLINE]UNIQUE TRAIT: DIEU ET MON DROIT[NEWLINE]A WLTKD begins in all cities when you capture an enemy Capital or complete a Social Policy Branch. Cities celebrating a WLTKD always follow your main Religion and have increased [ICON_GREAT_PEOPLE] Great People generation (+20%).[NEWLINE][NEWLINE]UNIQUE UNIT: JOUSTING GROUNDS (ARMORY)[NEWLINE]The unique Jousting Grounds provides more Experience for Mounted Units than the Armoury, which it replaces for Henry VIII's England. It is also available at Chivalry instead of Steel, making it more accessible. Finally, the Jousting Grounds provides [ICON_CULTURE] Culture whenever a new Mounted Unit is trained in the city, equal to the amount of XP that this unit begins with. Focus on training plenty of Mounted Units to get the most out of the Jousting Grounds.[NEWLINE][NEWLINE]UNIQUE UNIT: GRAND CARRACK (GALLEASS)[NEWLINE]This English unique unit is far costlier to build and maintain than the standard Galleass that it replaces. It also does not have a Ranged Attack and has 1 less [ICON_MOVES] Movement. Unlike the Galleass, however, the Grand Carrack possesses a devastating attack against enemy Galleasses and other technologically inferior Naval Units. It also intimidates nearby enemy units, diminishing their strength in combat. In addition, whenever a Grand Carrack is built, it hastens the end of any [ICON_RESISTANCE] Resistance turns across any of your cities by 2. Building Grand Carracks will be costly but well-worth their potential for intimidating your enemies and inspiring the awe of your people.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

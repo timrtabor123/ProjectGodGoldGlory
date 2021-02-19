@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="050699d3-0d9d-4c03-8563-e97e46ee52f3" version="3">
+  <Properties>
+    <Name>JFD's Civilizations - England (Henry VIII)</Name>
+    <Teaser>Adds [COLOR_CYAN]England under Henry VIII[ENDCOLOR]. Click for details.</Teaser>
+    <Description>ENGLAND (HENRY VIII)[NEWLINE][NEWLINE]UNIQUE TRAIT: DIEU ET MON DROIT[NEWLINE]A WLTKD begins in all cities when you capture an enemy Capital or complete a Social Policy Branch. Cities celebrating a WLTKD always follow your main Religion and have increased [ICON_GREAT_PEOPLE] Great People generation (+20%).[NEWLINE][NEWLINE]UNIQUE UNIT: JOUSTING GROUNDS (ARMORY)[NEWLINE]The unique Jousting Grounds provides more Experience for Mounted Units than the Armoury, which it replaces for Henry VIII's England. It is also available at Chivalry instead of Steel, making it more accessible. Finally, the Jousting Grounds provides [ICON_CULTURE] Culture whenever a new Mounted Unit is trained in the city, equal to the amount of XP that this unit begins with. Focus on training plenty of Mounted Units to get the most out of the Jousting Grounds.[NEWLINE][NEWLINE]UNIQUE UNIT: GRAND CARRACK (GALLEASS)[NEWLINE]This English unique unit is far costlier to build and maintain than the standard Galleass that it replaces. It also does not have a Ranged Attack and has 1 less [ICON_MOVES] Movement. Unlike the Galleass, however, the Grand Carrack possesses a devastating attack against enemy Galleasses and other technologically inferior Naval Units. It also intimidates nearby enemy units, diminishing their strength in combat. In addition, whenever a Grand Carrack is built, it hastens the end of any [ICON_RESISTANCE] Resistance turns across any of your cities by 2. Building Grand Carracks will be costly but well-worth their potential for intimidating your enemies and inspiring the awe of your people.</Description>
+    <Authors>JFD, Sukritact, Janboruta, Viregel</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef " minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="6bc3cb6e-a697-491e-9347-5e3e02640f00" minversion="0" maxversion="999" title="Historical Religions Edit" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="d60c32bd-6826-4ca3-8161-2e37ebab5883" minversion="0" maxversion="999" title="Protestant Denominations" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment Era" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="33846F978413C3670626B56AB7DC4F6A" import="1">Art/Graphics/Grand Carrack/sv_GrandCarrack.dds</File>
+    <File md5="235805143A760DDD9F22EDBA552F9774" import="1">Art/Graphics/Grand Carrack/u_british_carrack.fxsxml</File>
+    <File md5="44FF879C9C7ABAD55C7503F2CA84BEE9" import="1">Art/Graphics/Grand Carrack/u_british_carrack.gr2</File>
+    <File md5="53050466E292627D9D1EB25FF313B2D2" import="1">Art/Graphics/Grand Carrack/u_grand_carrack_damg_diff.dds</File>
+    <File md5="7F5EAA15149BD31A9D73334D9B6432F1" import="1">Art/Graphics/Grand Carrack/u_grand_carrack_diff.dds</File>
+    <File md5="7AFC633E0B37941897D553FDA038A426" import="1">Art/Graphics/Grand Carrack/u_grand_carrack_sref.dds</File>
+    <File md5="C8ADCE109E8F3EDE5BE33C9754B71C7C" import="1">Art/Icons/JFD_EnglandHenryVIII_AlphaAtlas_128.dds</File>
+    <File md5="854A0939C226E0A013F84BC18919A117" import="1">Art/Icons/JFD_EnglandHenryVIII_AlphaAtlas_16.dds</File>
+    <File md5="DC292E8F344F8B3AF0EF4451F2E7D3CB" import="1">Art/Icons/JFD_EnglandHenryVIII_AlphaAtlas_24.dds</File>
+    <File md5="DA10145A086952A4337F3A5BE4F54E23" import="1">Art/Icons/JFD_EnglandHenryVIII_AlphaAtlas_32.dds</File>
+    <File md5="E7B03284312B0432B55F66D74114B505" import="1">Art/Icons/JFD_EnglandHenryVIII_AlphaAtlas_45.dds</File>
+    <File md5="6DFE8DF8D728618F1B7D013AB9361960" import="1">Art/Icons/JFD_EnglandHenryVIII_AlphaAtlas_48.dds</File>
+    <File md5="02F8C67A87541ABBC0BC2960110B9FA8" import="1">Art/Icons/JFD_EnglandHenryVIII_AlphaAtlas_64.dds</File>
+    <File md5="364634328FDB8DCD035FB1C0D1555C52" import="1">Art/Icons/JFD_EnglandHenryVIII_AlphaAtlas_80.dds</File>
+    <File md5="A4CF96412693CF4FEDECD5762DD5C8CC" import="1">Art/Icons/JFD_EnglandHenryVIII_IconAtlas_128.dds</File>
+    <File md5="ED70A114CB670D118471695E07514472" import="1">Art/Icons/JFD_EnglandHenryVIII_IconAtlas_256.dds</File>
+    <File md5="6DA6DA5EFDB5823D3589B40ADDC77D38" import="1">Art/Icons/JFD_EnglandHenryVIII_IconAtlas_32.dds</File>
+    <File md5="599D363161F2EA35E7C5A9E2804CDDAF" import="1">Art/Icons/JFD_EnglandHenryVIII_IconAtlas_45.dds</File>
+    <File md5="4F757B95323ABD9FDB6DF9A439E52F1F" import="1">Art/Icons/JFD_EnglandHenryVIII_IconAtlas_64.dds</File>
+    <File md5="4C3347B4377AD6FDA61C1237C2BB379F" import="1">Art/Icons/JFD_EnglandHenryVIII_IconAtlas_80.dds</File>
+    <File md5="1D44D58B3B91CABFEA35CC2D0546480F" import="1">Art/Icons/JFD_EnglandHenryVIII_UnitFlagAtlas_32.dds</File>
+    <File md5="CA1FDCE37B5C9B93723EA4D7A0F8E51D" import="1">Art/Leaderscene/JFD_EnglandHenryVIII_Diplo.dds</File>
+    <File md5="C1ADD6FC7B651561FED9D61F673877B6" import="1">Art/Leaderscene/JFD_EnglandHenryVIII_Scene.xml</File>
+    <File md5="980F57C54A757BEFEDC497360F134B74" import="1">Art/Maps/JFD_MapEnglandHenryVIII512.dds</File>
+    <File md5="B028A25D83CE29BAAC8624076BBF6E6A" import="1">Art/Maps/JFD_DOM_EnglandHenryVIII.dds</File>
+    <File md5="73ACE10D8EBAE6D4227431C4B5EB8BC1" import="0">Audio/JFD_EnglandHenryVIII_Peace.mp3</File>
+    <File md5="6B859AD8457C42425C15D9A1B9CC5E4C" import="0">Audio/JFD_EnglandHenryVIII_War.mp3</File>
+    <File md5="AAB09BE9681E8251D46F2C037B935361" import="0">Core/EnglandHenryVIII_ArtDefines.sql</File>
+    <File md5="DDE11CF0CEDAF0255BF8A3F1F6A86996" import="0">Core/EnglandHenryVIII_GameDefines.sql</File>
+    <File md5="E4CAE497C03565CEDF42AADBAC7549DE" import="0">Core/EnglandHenryVIII_GameText.xml</File>
+    <File md5="D6982ECE2CBEED471FA6EED28E3A0647" import="0">Core/EnglandHenryVIII_ModSupport.sql</File>
+    <File md5="6EDB1D9747FB90E22C71AD11F807D400" import="0">Credits.txt</File>
+    <File md5="C290CC9C313CBD998A51FD28AA3A9F97" import="0">Lua/JFD_Civs_EnglandHenryVIII_Functions.lua</File>
+    <File md5="A4759D7B62448C31C908D01635EC0FB7" import="1">Lua/Utilities/UniqueDiplomacyUtilsV2.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/EnglandHenryVIII_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EnglandHenryVIII_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/EnglandHenryVIII_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/EnglandHenryVIII_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_Civs_EnglandHenryVIII_Functions.lua">
+      <Name>JFD_Civs_EnglandHenryVII_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

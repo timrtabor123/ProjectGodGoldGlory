@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="97554dad-786f-476e-b30f-82ca190dcdb6" version="3">
+  <Properties>
+    <Name>DuskJockey's Eswatini (Labotsibeni Mdluli)</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]Labotsibeni Mdluli's Eswatini[ENDCOLOR] to the game. Click [COLOR_CYAN]here[ENDCOLOR] for details.</Teaser>
+    <Description>Unique Ability: [COLOR_POSITIVE_TEXT]Fortress of Africa[ENDCOLOR][NEWLINE]During 'We Love the King' Day, tile purchases are up to 60% cheaper for each unit trained in the city. Earn [ICON_GREAT_GENERAL] Great General points whenever a city expands.[NEWLINE][NEWLINE]Unique Unit: [COLOR_POSITIVE_TEXT]Ngwenyama[ENDCOLOR][NEWLINE]Swazi unique Great General that triggers a 'We Love the King' Day in the [ICON_CAPITAL] Capital when born, and grants adjacent melee units the ability to perform a ranged attack before engaging.[NEWLINE][NEWLINE]Unique Building: [COLOR_POSITIVE_TEXT]Royal Kraal[ENDCOLOR][NEWLINE]Stable replacement unique to Eswatini. Has no bonus toward mounted units, but yields +1 [ICON_CULTURE] Culture for each [ICON_RES_HORSE] Horse, [ICON_RES_SHEEP] Sheep, and [ICON_RES_COW] Cattle resource in its city, increasing to +2 if the city is training a unit.</Description>
+    <Authors>DuskJockey, DMS, Chrisy15, Darthstarkiller</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="25" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="2CA8A4F5A7D0A7D974462A17CE192E32" import="1">Art/Atlases/DJ_NGWENYAMA_FLAG_32.dds</File>
+    <File md5="EA28974BB061BB2E5A638CEA2944C981" import="1">Art/Atlases/EswatiniAlpha24.dds</File>
+    <File md5="C1D47BC6AB0C456C88D6B432C622BE16" import="1">Art/Atlases/EswatiniAlpha32.dds</File>
+    <File md5="99FE731BA14C1B90A624D69CE3AD645E" import="1">Art/Atlases/EswatiniAlpha48.dds</File>
+    <File md5="E7BC5852A825385077EF2EB6B70DB7A8" import="1">Art/Atlases/EswatiniAlpha64.dds</File>
+    <File md5="7F7759C868023203A378E7D0FF08E966" import="1">Art/Atlases/EswatiniColorAtlas128.dds</File>
+    <File md5="AC38CF0778172659D62EBCC20DCD63FE" import="1">Art/Atlases/EswatiniColorAtlas256.dds</File>
+    <File md5="D01655CF31A09ADA8B10D5C37F1932A2" import="1">Art/Atlases/EswatiniColorAtlas32.dds</File>
+    <File md5="D501C8C711A69B5321C03FFFBA1B32D1" import="1">Art/Atlases/EswatiniColorAtlas45.dds</File>
+    <File md5="53891B570935671E2504298A0A10104A" import="1">Art/Atlases/EswatiniColorAtlas64.dds</File>
+    <File md5="FCBB92127FCF8E5C2B3490B87751A67F" import="1">Art/Atlases/EswatiniColorAtlas80.dds</File>
+    <File md5="65FC73EC22624E83F960FD8DCBA0DB42" import="0">Art/GwamileArtDefines.sql</File>
+    <File md5="6F2A3993B79ADF3F60FCB8E6C7A6F499" import="1">Art/Model/ngwenyama.fxsxml</File>
+    <File md5="DE71128DFE674B6618C3F913CE74674F" import="1">Art/Model/ngwenyama.gr2</File>
+    <File md5="06466FE251088F38DD7313C5F964DD62" import="1">Art/Model/ngwenyama_diff.dds</File>
+    <File md5="AF754980ED28D49811A7709CB6CDF850" import="1">Art/Model/ngwenyama_flag_diff.dds</File>
+    <File md5="020416E643721FFCC760A10A1BC39E28" import="1">Art/Model/ngwenyama_flag_sref.dds</File>
+    <File md5="582487505A23495CDC0581AF3C82330C" import="1">Art/Model/ngwenyama_sref.dds</File>
+    <File md5="DE95E6DEDC226D6326059F8CAB8026EC" import="1">Art/Scenes/GwamileDoM.dds</File>
+    <File md5="85C1100A4FCF1C9EF1E2B8E32FF7A731" import="1">Art/Scenes/GwamileMap.dds</File>
+    <File md5="164B8D47BBC1EF8D13860B8A7207A40A" import="1">Art/Scenes/Gwamile_Scene.dds</File>
+    <File md5="47DD6146120A5981BFFA953901863025" import="1">Art/Scenes/Gwamile_Scene.xml</File>
+    <File md5="7666825DB97765D435F49852E04C0694" import="1">Audio/DJEswatiniPeace.mp3</File>
+    <File md5="6F7D28867ACD2731BF2CA23C1E1E684C" import="1">Audio/DJEswatiniWar.mp3</File>
+    <File md5="E047498C63E8974BDBDCAE2476BCF97A" import="0">Audio/GwamileAudioDefines.sql</File>
+    <File md5="825FE03268A905561B46C0EA03E102F3" import="0">Credits.txt</File>
+    <File md5="8E8CB67C577F88FB760ED5299977DB75" import="0">Functions/GwamileFunctions.lua</File>
+    <File md5="627F4AA6FDF1977546D868757E30427A" import="1">Functions/Utilities/C15_IteratorPack_v1.lua</File>
+    <File md5="64DF635BD57CDEB13DC1038934568A7E" import="0">Functions/Utilities/CityInfoStack.lua</File>
+    <File md5="4E7C5E4894BC0A0E0CBA1743787E1015" import="0">Functions/Utilities/CityInfoStack.xml</File>
+    <File md5="8F4C53DAD81DCF1D95C1489F0FB80F14" import="0">Functions/Utilities/GwamileCityInfo.lua</File>
+    <File md5="65A1C79A636E707036DE1CBC4E593D95" import="0">Functions/Utilities/GwamileCityInfo.xml</File>
+    <File md5="72B3DFD63DA0E8F0ADFDD024CD863AA0" import="0">GameDefines/GwamileGameDefines.sql</File>
+    <File md5="7E3D402464622AC1ED105FB78B078F59" import="0">GameDefines/GwamileModSupport.sql</File>
+    <File md5="268761AA7267AC78B69F99434511DCEE" import="0">GameDefines/GwamileText.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>GameDefines/GwamileGameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Art/GwamileArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>GameDefines/GwamileText.xml</UpdateDatabase>
+      <UpdateDatabase>GameDefines/GwamileModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Audio/GwamileAudioDefines.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Functions/GwamileFunctions.lua">
+      <Name>GwamileFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Functions/Utilities/CityInfoStack.lua">
+      <Name>CityInfoStack</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Functions/Utilities/GwamileCityInfo.lua">
+      <Name>GwamileCityInfo</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

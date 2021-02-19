@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/12/2019 10:55:07 AM -->
+<GameData>
+	<Language_en_US>
+		<!-- Eswatini -->
+		<Row Tag="TXT_KEY_CIV_DJ_ESWATINI_DESC">
+			<Text>Swazi Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ESWATINI_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ESWATINI_TEXT_1">
+			<Text>The Kingdom of Eswatini is a landlocked country in the eastern flank of South Africa, where it adjoins Mozambique. It is also notable for being one of the last absolute monarchies in the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ESWATINI_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ESWATINI_TEXT_2">
+			<Text>Eswatini's long and complex geologic history has created a landscape with a surprising variety of relief, climate, and soils for such a small country. There are four well-defined physiographic regions, extending longitudinally from north to south in roughly parallel belts. From west to east they are the Highveld, the Middleveld, the Lowveld, and the Lubombo (Lebombo) escarpment. Geologically, the oldest formations are in the west, and the youngest are in the east.[NEWLINE][NEWLINE]The climate is in general subtropical, but it is strongly influenced by the country’s position on the eastern side of southern Africa, which exposes it to moist maritime tropical air coming off the Indian Ocean for much of the year. The cessation of maritime airflow in winter months because of intensified continental winds produces a high degree of climatic variability. The climate is also subject to steep temperature and precipitation gradients from west to east because of the fall in altitude of about 4,000 feet over a distance of about 50 miles.[NEWLINE][NEWLINE]Average maximum and minimum monthly temperatures are 22 degrees Celsius and 11 degrees Celsius in the Highveld and 29 degrees Celsius and 15 degrees Celsius in the Lowveld. The Middleveld occupies an intermediate position in these gradations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ESWATINI_HEADING_3">
+			<Text>Prehistory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ESWATINI_TEXT_3">
+			<Text>Artifacts indicating human activity dating back to the early Stone Age, around 200,000 years ago, have been found in Eswatini. Prehistoric rock art paintings dating from as far back as c. 27,000 years ago, to as recent as the 19th century, can be found in various places around the country.[NEWLINE][NEWLINE]The earliest known inhabitants of the region were Khoisan hunter-gatherers. They were largely replaced by the Nguni during the great Bantu migrations. These peoples originated from the Great Lakes regions of eastern and central Africa. Evidence of agriculture and iron use dates from about the 4th century. People speaking languages ancestral to the current Sotho and Nguni languages began settling no later than the 11th century.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ESWATINI_HEADING_4">
+			<Text>Bantu Migrations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ESWATINI_TEXT_4">
+			<Text>About 2,000 years ago groups of Bantu-speaking peoples (Nguni, Sotho, and Tswana) moved southward across the Limpopo River. They cultivated crops, kept livestock (sheep and goats), used pottery, and smelted iron—hence their designation as Early Iron Age peoples. At a later date cattle were introduced. These people are recorded at Ngwenya, where the mining of iron ore has been dated to about 400 ce. During the following centuries the more attractive areas of Eswatini were settled by these ancestors of the Nguni and Sotho clans, whom the Swazi encountered in the late 18th and early 19th centuries.[NEWLINE][NEWLINE]The ancestors of the Dlamini clan were part of this southward movement, which reached the Delagoa Bay area (now Maputo) of Mozambique some considerable time before the arrival of the Portuguese in the early 16th century. There they settled as part of the Thembe-Tonga group of peoples until the mid-18th century, when, probably because of dynastic conflict, they moved southward along the coastal plain between the mountains and the Indian Ocean—"scourging the Lubombo," as a royal praise song puts it. Up to this time they called themselves Emalangeni, after an ancestral Langa. Later they moved westward through the Lubombo range and up the Pongola valley, where about 1770 under their king Ngwane III they established the first nucleus of the Swazi nation (bakaNgwane) near what is now Nhlangano.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ESWATINI_HEADING_5">
+			<Text>The Swazi Nation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ESWATINI_TEXT_5">
+			<Text>This was a turbulent period in the history of southeastern Africa, when a number of major clan groupings were struggling for supremacy. Two of these, the Ndwandwe and the Zulu, located to the south of the new Ngwane homeland, constituted a serious threat to the Dlamini, who strove to establish their control over the clans among whom they had settled. Nevertheless, by the end of the century, they had achieved considerable success in assimilating some of these clans and in forging bonds with others to create a new political grouping. However, this new power base was not strong enough to ward off aggression by their southern neighbours, so about 1820 under their new king—Sobhuza I, or Somhlohlo ("The Wonder")—they moved northward to establish a safer heartland in central Eswatini (the Middleveld). There the Dlamini consolidated their power under Sobhuza I and his son Mswati II. Part of this success must be attributed to Sobhuza’s adoption of the Zulu age-group system of military organization, which created regiments across clan loyalties and which was at all times strictly disciplined. By 1860 they had extended their power through conquest and assimilation far beyond the boundaries of present-day Eswatini under Mswati II, whom later generations described as "their greatest fighting king" and who gave his name to the nation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ESWATINI_HEADING_6">
+			<Text>Foreign Encounters</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ESWATINI_TEXT_6">
+			<Text>At the peak of their power, however, a new factor had emerged in the regional geopolitics, which over the next 40 years caused the gradual contraction of Swazi territorial and political authority. This was the competing pressure from the expanding Boer republic of the Transvaal and from the growing British imperial presence, especially after the discovery in South Africa of diamonds in 1867 and gold in 1871.[NEWLINE][NEWLINE]The main destabilizing force was the stream into the country of European prospectors and concession hunters, which the Swazi were able to contain for a while but which became a flood after the kingship passed to Mbandzeni in 1875. By 1890 so many concessions had been granted for so many purposes (in addition to land and mineral rights) that practically the whole country was covered two, three, or even four deep in concessions of all kinds and for different periods. Although the Swazi maintained that these were all leasehold rights that would terminate at some future date, they had, as it later transpired, signed away their independence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ESWATINI_HEADING_7">
+			<Text>Swazi Resistance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ESWATINI_TEXT_7">
+			<Text>In 1888 the Swazi tried to regulate the new influences that the influx of Europeans had created by granting them a charter of conditional self-government subject to the royal veto. Behind the concessions scramble by individuals, however, lay the intrigue and conflict of the two white powers, the Boers and the British. The former needed a route to the sea, while the latter wanted to contain them. The area inhabited by the Swazi stood in the way, as an obstacle to be manipulated by both.[NEWLINE][NEWLINE]In 1890, under a convention between the British government and the South African Republic, a provisional government consisting of representatives of the two powers and a representative of the Swazi people was set up. In 1893 the British government signed a new convention permitting the South African Republic to negotiate with the Swazi regent and her council for a proclamation allowing the republic to assume powers of jurisdiction, legislation, and administration without the incorporation of Swaziland, as it was then known, into the republic. The Swazi refused to sign the proclamation, but in 1894 another convention was signed by the two powers, virtually giving unilateral effect to its terms. After the South African War of 1899–1902 all the rights and powers of the republic passed to Great Britain, and in June 1903, by an order in council under the Foreign Jurisdiction Act, the governor of the Transvaal was empowered to administer Swaziland and to legislate by proclamation. In 1906 these powers were transferred to a high commissioner for Basutoland, Bechuanaland, and Swaziland.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ESWATINI_HEADING_8">
+			<Text>Colonial Administration</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ESWATINI_TEXT_8">
+			<Text>The colonial years from 1906 to the late 1940s saw Swaziland drift into a backwater of the British Empire. A fundamental reason was that provision had been made in the South Africa Act of 1909 (which established the Union of South Africa as a British dominion) for the possible eventual transfer of Swaziland (and Basutoland and Bechuanaland) to the union. While this possibility existed, no socioeconomic improvement took place, and it was difficult to distinguish Swaziland from the neighbouring rural areas of South Africa (there were no border posts). Politically, the situation was epitomized in the downgrading of the title of king to that of paramount chief and of his function to that of “native administration.” Despite a number of requests from South Africa over the years, however, the imperial power declined to transfer Swaziland. This resolution was stiffened by events in South Africa after the 1948 election, which heralded the onset of apartheid. Also, from 1945 onward, Britain had begun to tackle socioeconomic problems. By the mid-1950s the issue of transfer was dead, though the grand apartheid design of separate homelands for Africans still included Swaziland.[NEWLINE][NEWLINE]From 1960 the economy forged ahead steadily, but sociopolitical progress followed more slowly. A constitution providing for limited self-government was promulgated in 1963, and in 1967 the country became a protected state under which the kingship was restored. This was followed by full independence on September 6, 1968.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ESWATINI_HEADING_9">
+			<Text>Modern Eswatini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ESWATINI_TEXT_9">
+			<Text>King Sobhuza II of Swaziland was installed as the ngwenyama of the Swazi nation in 1921. The king jealously cherished and preserved Swazi traditions. Five years after independence, the king repealed the constitution designed by the British and restored the traditional system of government, in which all effective power remains in the royal capital. A system of local government, known as the tinkhundla, operates at the grass roots. Sobhuza’s concession to modern government was to retain the cabinet system with a prime minister and other ministers, but all are chosen by the king. Under his firm but benevolent rule, Swaziland enjoyed a remarkable degree of political stability and economic progress. Emphasis was placed on education—which had been neglected in colonial times—on health, and on other human resource developments.[NEWLINE][NEWLINE]King Sobhuza’s death on August 21, 1982, was followed by a power struggle within the royal family, which was not finally resolved until 1986, when the teenage heir, Prince Makhosetive, was installed as King Mswati III. His rule, characterized as autocratic and rife with corruption and excess, was beset with demands for democratic reform. Demonstrations and strikes were held during the 1990s and 2000s to protest the slow pace of progress toward democratic change. To appease his many critics, King Mswati III appointed a committee to draft a new constitution in 2001. Released for public comment in May 2003, it was criticized for falling short of democratic reform, as it banned opposition political parties and allowed the king to retain absolute governing powers. King Mswati III signed a revised version in 2005, effective in 2006, that neither banned political parties nor acknowledged their existence.[NEWLINE][NEWLINE]On April 19, 2018, King Mswati III announced that he was changing the official name of the country from the Kingdom of Swaziland to the Kingdom of Eswatini.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ESWATINI_FACTOID_HEADING">
+			<Text>Swazi Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ESWATINI_FACTOID_TEXT">
+			<Text>Eswatini is ruled by a diarchy composed of the Ngwenyama ("lion"), the king and legislative head of state, and the Ndlovukati ("she-elephant"), the queen mother and national head of state, serving as keeper of the ritual fetishes of the nation and presiding during the annual Umhlanga rite.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ESWATINI_TITLE">
+			<Text>Eswatini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DJ_ESWATINI_SHORT_DESC">
+			<Text>Eswatini</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DJ_ESWATINI_ADJECTIVE">
+			<Text>Swazi</Text>
+		</Row>
+		<!-- City List -->
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_MBABANE">
+			<Text>Mbabane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_LOBAMBA">
+			<Text>Lobamba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_BIG_BEND">
+			<Text>Big Bend</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_MALKERNS">
+			<Text>Malkerns</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_NHLAGANO">
+			<Text>Nhlagano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_MHLUME">
+			<Text>Mhlume</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_HLUTI">
+			<Text>Hluti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_SIMUNYE">
+			<Text>Simunye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_SITEKI">
+			<Text>Siteki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_PIGGS_PEAK">
+			<Text>Piggs Peak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_MANZINI">
+			<Text>Manzini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_NGOMANE">
+			<Text>Ngomane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_VUVULANE">
+			<Text>Vuvulane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_MPAKA">
+			<Text>Mpaka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_KWALUSENI">
+			<Text>Kwaluseni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_BHUNYA">
+			<Text>Bhunya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_MHLAMBANYATSI">
+			<Text>Mhlambanyatsi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_MONDI">
+			<Text>Mondi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_TABANKULU">
+			<Text>Tabankulu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_HLATIKULU">
+			<Text>Hlatikulu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_BULEMBU">
+			<Text>Bulembu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_KUBUTA">
+			<Text>Kubuta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_TJANENI">
+			<Text>Tjaneni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_SIDVOKODVO">
+			<Text>Sidvokodvo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_LAVUMISA">
+			<Text>Lavumisa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_NGWENYA">
+			<Text>Ngwenya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_NSOKO">
+			<Text>Nsoko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_MANKAYANE">
+			<Text>Mankayane</Text>
+		</Row>
+			<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_ESWATINI_0">
+			<Text>Dumsane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_ESWATINI_1">
+			<Text>Bhutana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_ESWATINI_2">
+			<Text>Benkovski</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_ESWATINI_3">
+			<Text>Simanga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_ESWATINI_4">
+			<Text>Musa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_ESWATINI_5">
+			<Text>Jonathan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_ESWATINI_6">
+			<Text>Qinisile</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_ESWATINI_7">
+			<Text>Gladys</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_ESWATINI_8">
+			<Text>Ntfombi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DJ_ESWATINI_9">
+			<Text>Temalangeni</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- Labotsibeni Mdluli -->
+		<Row Tag="TXT_KEY_LEADER_DJ_GWAMILE">
+			<Text>Labotsibeni Mdluli</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_GWAMILE_LIVED">
+			<Text>1859 - 1925 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_GWAMILE_NAME">
+			<Text>Labotsibeni Mdluli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_GWAMILE_SUBTITLE">
+			<Text>Leader of Eswatini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_GWAMILE_TITLES_1">
+			<Text>Queen Mother</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_GWAMILE_TITLES_2">
+			<Text>Gwamile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_GWAMILE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_GWAMILE_TEXT_1">
+			<Text>As queen mother and regent of the Kingdom of Swaziland (now known as Eswatini), Labotsibeni laMdluli transcended the usual powers allowed to women in her society, grasped the benefits of Western influence, and helped lay the foundations for her country as a nation state.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_GWAMILE_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_GWAMILE_TEXT_2">
+			<Text>Labotsibeni Mdluli was born in Swaziland to the northern Mdluli clan, which was distinguished for its skill in military intelligence. She was born while her father, Matsanjana Mdluli, was at war in a dispute with chief Tsibeni of the baPedi. Despite the circumstances of her birth, she lived a life dedicated to preventing war, but would be linked to her father's former adversary through her name, Labotsibeni.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_GWAMILE_HEADING_3">
+			<Text>Accession</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_GWAMILE_TEXT_3">
+			<Text>Following the death of her father she moved with her uncle Mvelase Mdluli to the royal homestead at Ludzidzini in the Ezulwini Valley, central Swaziland. It was there that she received some training in statecraft from the old queen mother, Thandzile, widow of King Sobhuza I and mother of Mswati II. She and Mswati were eventually married, and she assumed the role of Queen Regent in 1890 upon the her husband's death, because her subjects felt that the natural heirs were neither ready nor suitable to govern.[NEWLINE][NEWLINE]Labotsibeni's ascension to the throne was rather atypical, as Swazi traditional laws did not allow a woman in her situation to rule, and her clan, Mdluli, was not next in line to rule. In spite of this, she was chosen because of her outstanding intelligence, ability, character, and experience.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_GWAMILE_HEADING_4">
+			<Text>Reign</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_GWAMILE_TEXT_4">
+			<Text>Labotsibeni spent her entire tenure as monarch contesting British claims to the land of her people and tried to buy back land that her husband had given as concessions to the Boers and the British in a complicated system of assigning land, grazing pasture and mining rights. The Land Partition Proclamation of 1909 left the Swazis in control of only about one third of their country. Labotsibeni acknowledged that she could not retake the land militarily, and that the land had become a commodity to buy and sell on an open market.[NEWLINE][NEWLINE]Her anti-land alienation campaign coincided with the African struggle against the 1913 Natives Land Act in South Africa, and Labotsibeni helped raise money to send the delegation of the South African Native National Congress (SANNC) to Britain in 1914. Labotsibeni and Crown Prince Sobhuza (later King Sobhuza II) provided the initial funds to set up the SANNC newspaper, Abantu-Batho. In recognition of her contribution, Labotsibeni would subsequently be elected as an SANNC Deputy President.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_GWAMILE_HEADING_5">
+			<Text>Preparations for the Future</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_GWAMILE_TEXT_5">
+			<Text>Labotsibeni believed strongly in the power of education and the importance of literacy for a twentieth-century head of state. As a result, despite the opposition of elders and the Swazi aristocracy, she arranged that a school be established in Zombodze and had the best tutors from Natal teach the crown prince. As a result, in 1921 Swaziland had a monarch who had received more formal education than several African heads of state at the end of the colonial era in the 1960s.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_GWAMILE_HEADING_6">
+			<Text>Death and Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_GWAMILE_TEXT_6">
+			<Text>Queen Labotsibeni died in Embekelweni, then the Swazi national capital. She was given the name Gwamile, 'The Indomitable One', by her Swazi subjects in recognition of her ability to contain colonial encroachment and to defend Swazi independence and culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DJ_GWAMILE_FACT_1">
+			<Text>A rainmaker and one of the richest women in South Africa, Labotsibeni was not known to wear European clothes although the Queen of England is said to have sent her many. This was perhaps a sign of her Africanism and being grounded in tradition.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DOM_DJ_GWAMILE_TEXT">
+			<Text>Hail, Labotsibeni Mdluli, queen mother of Eswatini! Truly do the clouds and the rain arrive at your command! You lead a proud and storied people. The Swazi arrived in the lands near South Africa in the 17th century, carving out a magnificent kingdom in the midst of the African wilds. Though the Swazis succumbed to foreign rule after the Boer wars, their warrior spirit remained undiminished. You championed the cause of freedom for your nation, laying the foundation for the reclamation of lands lost by your forebears and bringing modernity to a much oppressed people.[NEWLINE][NEWLINE]Indomitable Labotsibeni, your children struggle without their great mother. Can you seize the reins of leadership and defend the Swazi patrimony against foreign encroachment? Can you bring the blessed rains to your lands and steer the Swazis to the future? Can you create a civilization to stand the test of time?</Text>
+		</Row>	
+		<!-- Diplomacy Responses -->
+		<Row Tag="TXT_KEY_LEADER_DJ_GWAMILE_FIRSTGREETING_1">
+			<Text>Hail, foreigner, and welcome to Eswatini. I, Labotsibeni, her queen, extend my greeting.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_GWAMILE_DEFEATED_1">
+			<Text>Long may your lands swelter and your peoples starve for this abominable act.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_GWAMILE_ATTACKED_HOSTILE_1">
+			<Text>By the time this is over, we shall be tilling your lands and feasting on your riches.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_GWAMILE_DEC_FRIENDSHIP_1">
+			<Text>Our peoples could learn so much from one another. Will you join me in a public Declaration of Friendship?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_GWAMILE_DENOUNCE_1">
+			<Text>The great powers of this world look to you as an example of bad leadership.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_GWAMILE_DENOUNCE_FRIEND_1">
+			<Text>Our relations have brought me nothing but shame. Consider yourself denounced.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_GWAMILE_DOW_GENERIC_1">
+			<Text>Our King marches with us to battle. You stand alone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_GWAMILE_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You will regret this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_ESWATINI_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now living in kraals and attending your ritual dances! I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_DJ_ESWATINI_INFLUENTIAL_ON_HUMAN_1">
+			<Text>We are glad to see that your people are living in kraals and attending our ritual dances. The amazing works of our civilization are truly inspiring!</Text>
+		</Row>
+		<!-- Fortress of Africa -->
+		<Row Tag="TXT_KEY_TRAIT_DJ_SIYINQABA">
+			<Text>During 'We Love the King' Day, tile purchases are up to 60% cheaper for each unit trained in the city. Earn [ICON_GREAT_GENERAL] Great General points whenever a city expands.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DJ_SIYINQABA_SHORT">
+			<Text>Fortress of Africa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ALERT_DJ_ESWATINI_WLTKD_BEGUN">
+			<Text>A celebration in honor of our new Ngwenyama has begun in {1_Str}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DJ_ESWATINI_UA_CITY_VIEW_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR]% discount on tile purchases through [ICON_CULTURE] Culture and [ICON_GOLD] Gold during 'We Love the King' Day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DJ_ESWATINI_MARKER">
+			<Text>Unit Training Marker</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DJ_ESWATINI_BORDERS">
+			<Text>Border Expansion Bonus</Text>
+		</Row>
+		<!-- Ngwenyama -->
+		<Row Tag="TXT_KEY_UNIT_DJ_NGWENYAMA">
+			<Text>Ngwenyama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_NGWENYAMA_TEXT">
+			<Text>Ngwenyama (also Ingwenyama) is the title of the king of Eswatini. The Ngwenyama is the counterpart of the Ndlovukati, or queen mother. Ngwenyama means "lion" in siSwati, but in an honorific sense, as opposed to libhubesi, the usual way of referring to actual lions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DJ_NGWENYAMA_STRATEGY">
+			<Text>The Ngwenyama is the Swazi unique Great Person, replacing the Great General. It triggers a 'We Love the King' Day in the [ICON_CAPITAL] Capital when born, and provides adjacent melee units the ability to perform a ranged attack before engaging the enemy up close. They are best used in supporting your units during early-game wars.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DJ_NGWENYAMA_HELP">
+			<Text>Swazi unique Great General that triggers a 'We Love the King' Day in the [ICON_CAPITAL] Capital when born, and grants adjacent melee units the ability to perform a ranged attack before engaging.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DJ_NGWENYAMA">
+			<Text>Paramount Chief</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DJ_NGWENYAMA_HELP">
+			<Text>Adjacent melee units receive the perform a ranged attack before engaging.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DJ_INCWALA">
+			<Text>Great Incwala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DJ_INCWALA_HELP">
+			<Text>Triggers a 'We Love the King' Day when born.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DJ_LION_SPIRIT">
+			<Text>Spirit of the Lion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DJ_LION_SPIRIT_HELP">
+			<Text>Performs a ranged attack before engaging in melee.</Text>
+		</Row>
+		<!-- Unique Names -->
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_1">
+			<Text>Mkhulunkosi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_2">
+			<Text>Qomizitha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_3">
+			<Text>Sukuta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_4">
+			<Text>Madlasomo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_5">
+			<Text>Ndlovu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_6">
+			<Text>Ngwekati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_7">
+			<Text>Mawawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_8">
+			<Text>Sidvwabasilutfuli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_9">
+			<Text>Sukumbili</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_10">
+			<Text>Mbokane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_11">
+			<Text>Gebase</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_12">
+			<Text>Matalatala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_13">
+			<Text>Nkosi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_14">
+			<Text>Ngwane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_15">
+			<Text>Dlamini</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_16">
+			<Text>Mswati</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_17">
+			<Text>Mavuso</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_18">
+			<Text>Magudulela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_19">
+			<Text>Ludvonga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_20">
+			<Text>Sikhulumaloyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_21">
+			<Text>Langa Samuketi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_22">
+			<Text>Mbandzeni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_23">
+			<Text>Zikodze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_24">
+			<Text>Somhlolo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_DJ_NGWENYAMA_25">
+			<Text>Mahlokohla</Text>
+		</Row>
+		<!-- Royal Kraal -->
+		<Row Tag="TXT_KEY_BUILDING_DJ_ROYAL_KRAAL">
+			<Text>Royal Kraal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DJ_KRAAL_CULTURE">
+			<Text>Kraal Culture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DJ_ROYAL_KRAAL_TEXT">
+			<Text>A kraal may refer to a group of houses surrounding an enclosure for livestock, or the social unit that inhabits these structures. The term has been more broadly used to describe the way of life associated with the kraal that is found among some African, especially South African, peoples. Among certain peoples of KwaZulu/Natal, for example, the kraal consists of a number of huts arranged in a circle around a cattle corral. Polygyny is common, and each wife has her own hut within the kraal. The head of the kraal may have custody of the property attached to the houses of his several wives.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DJ_ROYAL_KRAAL_STRATEGY">
+			<Text>The Royal Kraal is the Swazi unique replacement for the Stable. It does not increase production of mounted units; instead, it yields +1 [ICON_CULTURE] Culture for each [ICON_RES_HORSE] Horse, [ICON_RES_SHEEP] Sheep, and [ICON_RES_COW] Cattle resource in its city, which is doubled to +2 if the city is training a unit. Build them in your military centers to speed up the acquisition of Social Policies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DJ_ROYAL_KRAAL_HELP">
+			<Text>Stable replacement unique to Eswatini. Has no bonus toward mounted units, but yields +1 [ICON_CULTURE] Culture for each [ICON_RES_HORSE] Horse, [ICON_RES_SHEEP] Sheep, and [ICON_RES_COW] Cattle resource in its city, increasing to +2 if the city is training a unit.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

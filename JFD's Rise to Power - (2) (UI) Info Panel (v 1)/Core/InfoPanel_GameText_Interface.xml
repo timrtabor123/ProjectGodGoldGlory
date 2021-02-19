@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/2/2019 5:53:11 AM -->
+<GameData>
+	<Language_en_US>
+		<!--===================================================-->
+		<!--TOP PANEL-->
+		<!--===================================================-->
+		<Row Tag="TXT_KEY_IC_CIVILIZATION_INFO">
+			<Text>Civilization Info</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_CIVILIZATION_INFO_TITLE">
+			<Text>World Civilizations</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_SHOW_WORLD_CIVILIZATION_LIST">
+			<Text>Show World Civilizations</Text>
+		</Row>
+		<!--===================================================-->
+		<!--INFO PANEL-->
+		<!--===================================================-->
+		<Row Tag="TXT_KEY_JFD_CIVILIZATION_INFO_CURRENT_RESEARCH">
+			<Text>[ICON_RESEARCH] Current: {1_Desc}</Text>
+		</Row>
+		<!--===================================================-->
+		<!--WORLD CIVILIZATIONS-->
+		<!--===================================================-->
+		<Row Tag="TXT_KEY_JFD_WORLD_CIVILIZATIONS_ECO_STATS">
+			<Text>Proportion of world Land: {1_Num}%[NEWLINE]Proportion of world Population: {2_Num}%[NEWLINE]Proportion of world Military Strength: {3_Num}%</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

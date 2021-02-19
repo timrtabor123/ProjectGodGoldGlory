@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 5/2/2019 5:53:11 AM -->
+<GameData>
+	<Language_en_US>
+		<!--===================================================-->
+		<!--TOP PANEL-->
+		<!--===================================================-->
+		<Replace Tag="TXT_KEY_JFD_ALWAYS_OPEN">
+			<Text>Always open</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_JFD_ALWAYS_OPEN_TT">
+			<Text>Left-click to keep this panel open.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_JFD_CLICK_TO_EXPAND_TT">
+			<Text>Left-click to expand.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_JFD_CLICK_TO_MINIMIZE_TT">
+			<Text>Left-click to minimize.</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_JFD_GOVERNMENT_TOP_TT">
+			<Text>Show/Hide Government Yields</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_JFD_ECONOMY_TOP_TT">
+			<Text>Show/Hide Economy Yields</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_JFD_SOCIETY_TOP_TT">
+			<Text>Show/Hide Society Yields</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_JFD_RELIGION_TOP_TT">
+			<Text>Show/Hide Religion Yields</Text>
+		</Replace>
+		<Replace Tag="TXT_KEY_JFD_MILITARY_TOP_TT">
+			<Text>Show/Hide Military Yields</Text>
+		</Replace>
+	</Language_en_US>
+</GameData>

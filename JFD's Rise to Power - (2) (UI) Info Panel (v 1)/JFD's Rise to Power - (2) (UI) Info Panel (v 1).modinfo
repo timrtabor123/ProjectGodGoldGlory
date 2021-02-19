@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="aeea1d87-bb9b-4542-af59-5e3541fc1b06" version="1">
+  <Properties>
+    <Name>JFD's Rise to Power - (2) (UI) Info Panel</Name>
+    <Teaser>[COLOR_CYAN]Info Panel replacement[ENDCOLOR] for Rise to Power.</Teaser>
+    <Description>[COLOR_CYAN]Info Panel replacement[ENDCOLOR] for Rise to Power.</Description>
+    <Authors>JFD</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Mod id="a2cfe2eb-d94b-496d-a1ce-266c14d6afcb" minversion="0" maxversion="999" title="JFD's Rise to Power - (1) (Core) Utilities" />
+  </Dependencies>
+  <References>
+    <Mod id="24923240-e4fb-4bf6-8f0e-6e5b6cf4d3c2" minversion="0" maxversion="999" title="(6a) Community Balance Overhaul - Compatibility Files (EUI)" />
+    <Mod id="828b5b4b-7c62-4afb-a43f-034b596ef5e4" minversion="0" maxversion="999" title="(6b) Community Balance Overhaul - Compatibility Files (No-EUI)" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="06D3031182290D6A141718ACDB17F42C" import="1">Art/Images/BannerBody.dds</File>
+    <File md5="3FA95BF9FE779D55EFB065889A9A5462" import="1">Art/Images/BannerBodyWorld.dds</File>
+    <File md5="21561ACE763D15645C30051A1B8E75D4" import="1">Art/Images/BannerHeader.dds</File>
+    <File md5="745AFEF96BFBBC809954934FC537EA1B" import="1">Art/Images/BannerHeaderDesature.dds</File>
+    <File md5="6725A4A0D1512F67946212DBB1204066" import="1">Art/Images/civsymbolsframe32.dds</File>
+    <File md5="EF5A2FD5E65570A72D7C79C1E2F98BF9" import="1">Art/Images/MainGovt.dds</File>
+    <File md5="BC48843E5731E5B5E7AE3190CE1533C8" import="1">Art/Images/MainGovtHL.dds</File>
+    <File md5="D6E219B34831478AE4165749A01F0C5D" import="1">Art/Images/WorldBannerHeaderDesature.dds</File>
+    <File md5="0BD053BDC9352D6C0039129890B295E9" import="0">Core/InfoPanel_GameText_Interface.xml</File>
+    <File md5="A8F09663BCCF609BE9D34DAA046C597C" import="1">Lua/UI/InGame/CivilizationOverview.lua</File>
+    <File md5="DE7E8A22B72C58B1A1F071B579C2EF81" import="1">Lua/UI/InGame/CivilizationOverview.xml</File>
+    <File md5="9968F4F840AAE18348BF8FA3D6BF6A23" import="1">Lua/UI/InGame/InfoCorner.lua</File>
+    <File md5="9994EE8773A83E6E9F96539325AA31B2" import="1">Lua/UI/InGame/InfoCorner.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/InfoPanel_GameText_Interface.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

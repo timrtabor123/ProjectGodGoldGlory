@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="a8ac71dc-dcd9-4f87-af61-8ae7951ade57" version="1">
+  <Properties>
+    <Name>JFD's Rise to Power - (2) (UI) Top Panel</Name>
+    <Teaser>[COLOR_CYAN]Top Panel replacement[ENDCOLOR] for Rise to Power.</Teaser>
+    <Description>[COLOR_CYAN]Top Panel replacement[ENDCOLOR] for Rise to Power.</Description>
+    <Authors>JFD</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Mod id="a2cfe2eb-d94b-496d-a1ce-266c14d6afcb" minversion="0" maxversion="999" title="JFD's Rise to Power - (Core) Utilities" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="FA0E26256DA4BFF81F3BB022849F0991" import="1">Art/Fonts/FontIcons_JFD_TopEconomy_22.dds</File>
+    <File md5="82E1C406FDFCBBB948FC736C16566CB1" import="1">Art/Fonts/FontIcons_JFD_TopEconomy_22.ggxml</File>
+    <File md5="A8119F6034FEABD70E2E1E163922643C" import="1">Art/Fonts/FontIcons_JFD_TopEducation_22.dds</File>
+    <File md5="F7818CD08AA244DBF84347641B8ADE93" import="1">Art/Fonts/FontIcons_JFD_TopEducation_22.ggxml</File>
+    <File md5="25F0ED84A23687205E33DFD138B2143A" import="1">Art/Fonts/FontIcons_JFD_TopGovernment_22.dds</File>
+    <File md5="8461CDCEB21B375CC0A505784BB3E689" import="1">Art/Fonts/FontIcons_JFD_TopGovernment_22.ggxml</File>
+    <File md5="0F005131D8CC2A8B4AF8D524DE4E5F60" import="1">Art/Fonts/FontIcons_JFD_TopIndustry_22.dds</File>
+    <File md5="0A5CEE9CC324C35DA73249A26676F309" import="1">Art/Fonts/FontIcons_JFD_TopIndustry_22.ggxml</File>
+    <File md5="8354CBD7550DB1D9A0EB24AFB8BF7A89" import="1">Art/Fonts/FontIcons_JFD_TopMilitary_22.dds</File>
+    <File md5="FAC1F27ED0265A62E43A055A118EBE11" import="1">Art/Fonts/FontIcons_JFD_TopMilitary_22.ggxml</File>
+    <File md5="D449532BE66CBA50AB70D2B51DC374D4" import="1">Art/Fonts/FontIcons_JFD_TopReligion_22.dds</File>
+    <File md5="2D773811F4485DD46B2F4B0D4984A1A6" import="1">Art/Fonts/FontIcons_JFD_TopReligion_22.ggxml</File>
+    <File md5="53E7BAFBBD793672D4F0EFFE34A5D587" import="1">Art/Fonts/FontIcons_JFD_TopSociety_22.dds</File>
+    <File md5="3B54D4449C437F9ED90302BA35E47CEA" import="1">Art/Fonts/FontIcons_JFD_TopSociety_22.ggxml</File>
+    <File md5="E840AB233E72F1AA8E5BBE4825AF4E0E" import="1">Art/Fonts/FontIcons_JFD_TopWelfare_22.dds</File>
+    <File md5="FDB9AD0C272251F1073CE595C725DE9D" import="1">Art/Fonts/FontIcons_JFD_TopWelfare_22.ggxml</File>
+    <File md5="823BE0E6805946ABDFF24A3234CE7412" import="0">Core/TopPanel_ArtDefines.sql</File>
+    <File md5="D45E9FF4A8725FB3CD36F87BD0709A82" import="0">Core/TopPanel_GameText_Interface.xml</File>
+    <File md5="C2DBFD8318BBE4575C6C4030C3A46184" import="1">Lua/UI/Overrides/TopPanel/TopPanel.lua</File>
+    <File md5="4A057337F089B9D80D35BCA4C2D0BCED" import="1">Lua/UI/Overrides/TopPanel/TopPanel.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/TopPanel_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/TopPanel_GameText_Interface.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

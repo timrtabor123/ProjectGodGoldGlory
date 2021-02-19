@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b9ee3d1b-f5f9-461c-aea8-f3c417f839d0" version="5">
+  <Properties>
+    <Name>DMS' Civilizations - Kalinago (Kairouane)</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]The Kalinago[ENDCOLOR] led by Kairouane to the game.</Teaser>
+    <Description>see more on civfanatics.com</Description>
+    <Authors>DMS</Authors>
+    <SpecialThanks>Leugi, Reedstilt</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events and Decisions" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="The Enlightenment Era" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD’s Rise to Power" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's Cities in Development" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="D75CE2CA85EBEC029E796220B4BF9223" import="1">Art/Diplomacy/Kairouane_Scene.dds</File>
+    <File md5="DD27B1EA2AD43CE39339E447F893F3A4" import="1">Art/Diplomacy/Kairouane_Scene.xml</File>
+    <File md5="3EA823AB24C1DD9F5A965EC3129353D1" import="1">Art/Graphics/chimu_general.ftsxml</File>
+    <File md5="7542302EFC994937C1376A3F6D0EB1A1" import="1">Art/Graphics/chimu_general.fxsxml</File>
+    <File md5="25DF1C27291C20C106A17E6AB9472E3C" import="1">Art/Graphics/chimu_general.gr2</File>
+    <File md5="92C801960B5F1E7F5F87D66DEE86C132" import="1">Art/Graphics/chimu_general_diff.dds</File>
+    <File md5="5F16C94A62EEBD36DDC6F89CB0658108" import="1">Art/Graphics/chimu_general_sref.dds</File>
+    <File md5="EAE01B79291C6979BD92056CA36CFBA7" import="1">Art/Graphics/sv_u_buyeis.dds</File>
+    <File md5="7947BA046917DB8A23FDB0E93A2137DB" import="1">Art/Icon Atlas/DMS_KalinagoAtlas_128.dds</File>
+    <File md5="FCFD46385B964C1AD51414B8D032DA27" import="1">Art/Icon Atlas/DMS_KalinagoAtlas_256.dds</File>
+    <File md5="8ADCFB4F2F1EF3A3F8DFC805BC3842DB" import="1">Art/Icon Atlas/DMS_KalinagoAtlas_32.dds</File>
+    <File md5="7CDC6722351DFDB32CF39B9A7599FCDF" import="1">Art/Icon Atlas/DMS_KalinagoAtlas_45.dds</File>
+    <File md5="9153F390BAEDB9F02FC4E0EBFB2F2254" import="1">Art/Icon Atlas/DMS_KalinagoAtlas_64.dds</File>
+    <File md5="61CFE21DE7AAAB7ECCDF07A15EAF9138" import="1">Art/Icon Atlas/DMS_KalinagoAtlas_80.dds</File>
+    <File md5="E21F668E5B9CCF8AB4F9CF1309430119" import="1">Art/Icon Atlas/DMS_KalinagoAlphaAtlas_128.dds</File>
+    <File md5="1B463680856297E78037F5A62FEFDC2D" import="1">Art/Icon Atlas/DMS_KalinagoAlphaAtlas_16.dds</File>
+    <File md5="2038507B9490BBF9382B147CD6C9FE49" import="1">Art/Icon Atlas/DMS_KalinagoAlphaAtlas_24.dds</File>
+    <File md5="66A769CCD36B94532004C805FCB189DB" import="1">Art/Icon Atlas/DMS_KalinagoAlphaAtlas_32.dds</File>
+    <File md5="375B43F712DA8FFD76860AB534FE9261" import="1">Art/Icon Atlas/DMS_KalinagoAlphaAtlas_45.dds</File>
+    <File md5="5B5147DD467C3E2B3485E7DF6ADBFB9A" import="1">Art/Icon Atlas/DMS_KalinagoAlphaAtlas_48.dds</File>
+    <File md5="56D819BD8F6B818A75541AE2E47DA901" import="1">Art/Icon Atlas/DMS_KalinagoAlphaAtlas_64.dds</File>
+    <File md5="6DC2FEE8262DD22D3ABD9CFFD43BE92F" import="1">Art/Icon Atlas/DMS_KalinagoAlphaAtlas_80.dds</File>
+    <File md5="FBD7F70D9434E3B708946F5D2FD199AC" import="1">Art/Icon Atlas/UnitFlag_Buyeis_32.dds</File>
+    <File md5="C8568E2763C7CE005DC876EA32F329F7" import="1">Art/Map/KalinagoMap512.dds</File>
+    <File md5="E5F580C351DB5DF5D1603ABE7BDBCAD9" import="1">Art/Map/Kairouane_DOM.dds</File>
+    <File md5="D5883C4B007D37BA2B6ECC52FAB4ED89" import="1">Audio/Kairouane_Peace.mp3</File>
+    <File md5="A3B3068F4C0D0104DF76544D014E3C5C" import="1">Audio/Kairouane_War.mp3</File>
+    <File md5="8A1FCB09DAA85A0E366CC84084793A59" import="0">Core/DMS_Kalinago_ArtDefines.sql</File>
+    <File md5="DD1EF4FFD44C645C2180332109FEE7D5" import="0">Core/DMS_Kalinago_GameDefines.sql</File>
+    <File md5="0493A8A3CD595C7604225BFF5C139162" import="0">Core/DMS_Kalinago_GameDefines_Diplomacy.sql</File>
+    <File md5="4C73B4FC5AC0B28D738848138B3B64D2" import="0">Core/DMS_Kalinago_GameDefines_ModSupport.sql</File>
+    <File md5="58C3EB4C5BF275B5149FAB79B3D1B925" import="0">Core/DMS_Kalinago_GameText.xml</File>
+    <File md5="9F7406940C7046902131B4C4B50042E5" import="0">Core/DMS_Kalinago_GameText_Diplomacy.xml</File>
+    <File md5="2DA98A06FFF7AF83F8D30913F6AC49B5" import="0">Core/DMS_Kalinago_GameText_ModSupport.xml</File>
+    <File md5="FC6E117C75835973F759656BB4F6EF97" import="0">DeleteMissingReferences.xml</File>
+    <File md5="9E069163714A89E3D649B11A4C38F1E9" import="0">DMS_Kalinago_UserSettings.sql</File>
+    <File md5="71CDE826E93E50BF0F11C6F10892DCAE" import="0">Lua/DMS_KalinagoFunctions.lua</File>
+    <File md5="766524693B5B6281D8A1FC112CC2BCA4" import="0">Lua/DMS_KalinagoFunctions.xml</File>
+    <File md5="00DA6703E5AA02719099AA70F0A9D9AB" import="1">Lua/DMS_Kalinago_Decisions.lua</File>
+    <File md5="3791A8AC5C1E3B867D0315545543F3EC" import="1">Lua/GreatPersonRewardPopup.lua</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Utilities/Sukritact's MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Utilities/Sukritact's MCIS/CityInfoStack.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/DMS_Kalinago_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Kalinago_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Kalinago_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Kalinago_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Kalinago_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Kalinago_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_Kalinago_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DMS_Kalinago_UserSettings.sql</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/DMS_KalinagoFunctions.lua">
+      <Name>DMS_KalinagoFunctions.lua</Name>
+      <Description>DMS_KalinagoFunctions.lua</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,325 @@
+<GameData>
+	<Language_en_US>
+		<!-- KALINAGO -->
+		<!-- CITIES -->
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_1">
+			<Text>Camerhogne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_2">
+			<Text>Wai'tukubuli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_3">
+			<Text>Karukera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_4">
+			<Text>Madinina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_5">
+			<Text>Hewanorra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_6">
+			<Text>Hairoun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_7">
+			<Text>Wadadli</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_8">
+			<Text>Lele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_9">
+			<Text>Tobago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_10">
+			<Text>Liamuiga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_11">
+			<Text>Aichi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_12">
+			<Text>Oualie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_13">
+			<Text>Kayryouacou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_14">
+			<Text>Alliouagana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_15">
+			<Text>Becouya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_16">
+			<Text>Cannouan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_17">
+			<Text>Wa'omoni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_18">
+			<Text>Ocananmanrou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_19">
+			<Text>Itassi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_20">
+			<Text>Uyuhao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_21">
+			<Text>Sairi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_22">
+			<Text>Kuliru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_23">
+			<Text>Sineku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_24">
+			<Text>Mahaut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_25">
+			<Text>Salybia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_26">
+			<Text>Bataka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_DMS_KALINAGO_27">
+			<Text>Pagua</Text>
+		</Row>
+		<!-- SPY NAMES -->
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_KALINAGO_0">
+			<Text>Wakanik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_KALINAGO_1">
+			<Text>Maruka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_KALINAGO_2">
+			<Text>Cimanari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_KALINAGO_3">
+			<Text>Tete Chien</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_KALINAGO_4">
+			<Text>Bakwa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_KALINAGO_5">
+			<Text>Satuye</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_KALINAGO_6">
+			<Text>Duvalle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_KALINAGO_7">
+			<Text>Joseph</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_KALINAGO_8">
+			<Text>Brunie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DMS_KALINAGO_9">
+			<Text>Popot</Text>
+		</Row>
+		<!-- KALINAGO -->
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_KALINAGO">
+			<Text>Kalinago Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_KALINAGO_SHORT">
+			<Text>Kalinago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILIZATION_DMS_KALINAGO_ADJECTIVE">
+			<Text>Kalinago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_KALINAGO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_KALINAGO_TEXT_1">
+			<Text>The Kalinago, also known as the Island Caribs or simply Caribs, are an indigenous people of the Lesser Antilles in the Caribbean. At the time of Spanish contact, the Caribs were one of the dominant groups in the Caribbean, which owes its name to them. They lived throughout the Windward Islands, Dominica, and possibly the southern Leeward Islands. Historically it was thought their ancestors were mainland Caribs who conquered the islands from their previous inhabitants, known as the Igneri.[NEWLINE][NEWLINE]In the early colonial period, the Caribs had a reputation as warriors who raided neighboring islands. Early Europeans claimed that they practiced cannibalism – the word "cannibal" derives from a corruption of their name. Today, the Caribs and their descendants continue to live in the Antilles.[NEWLINE][NEWLINE]Like most of the indigenous peoples of the New World, the Kalinago suffered greatly from European Colonization of the Americas European conquest, and their descendants are now scattered throughout the Caribbean and South America, with the largest group living on the island of Dominica where the British established a reservation for them.[NEWLINE][NEWLINE]Today, Carib make effort to preserve their culture and educate their children and others about their traditions, maintaining their identity while at the same time being part of the contemporary society.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_KALINAGO_HEADING_10">
+			<Text>Kalinago factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVILIZATIONS_DMS_KALINAGO_TEXT_10">
+			<Text>...</Text>
+		</Row>
+		<!-- KAIROUANE -->
+		<Row Tag="TXT_KEY_LEADER_DMS_KAIROUANE">
+			<Text>Kairouane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KAIROUANE_HEADING_1">
+			<Text>Background</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KAIROUANE_TEXT_1">
+			<Text>Chief Kairouane (or Kaierouane) was a Kalinago (Carib) leader of Grenada. For years, he led the resistance against European invaders attempting to set a hold on the island. In a sudden turn of affairs, however, he led a small band of survivors who had rejected slavery on a deadly escape over a cliff, which the French named Morne de Sauteurs or “Leapers Hill.” Today his daring act is mythologized as a reminder of the Indigenous resistance in the region.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KAIROUANE_HEADING_4">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KAIROUANE_TEXT_4">
+			<Text>...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KAIROUANE_NAME">
+			<Text>Kairouane</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KAIROUANE_SUBTITLE">
+			<Text>Chief of the Kalinago</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KAIROUANE_TITLES_1">
+			<Text>Ouboutou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_DMS_KAIROUANE_LIVED">
+			<Text>~1650s</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_DMS_KALINAGO_TEXT">
+			<Text>Mabrika Ouboutou Kairouane, chief of the Kalinago people of Grenada! For a century the Kalinago succesfully resisted Spanish settlement and it wasn't until the 1650s that the French and English permanently settled there. While you agreed to peacefully partition the island between you, you remained ever suspicious. However, too late it was when you realized the mistake of allowing them to settle, and the armed conflict that followed and lasted five years should prove to be your final hour. When, at the last kalinago stand on Grenada, your army was all but defeated, instead of surrending, you and your remaining 40 warriors took the deadly escape over a cliff. Now called "Leapers Hill", that cliff is to this day a symbol of the Kalinagos' struggle against European colonization.[NEWLINE][NEWLINE]Kairouane, your people call upon you to once again lead them through battle, on raids and against colonists. Will the foreigners once again be met with unyielding resistance, war canoe parties attacking from every seaside? Will you build an empire that stands the test of time?</Text>
+		</Row>
+		<!-- SPIRIT OF THE ROCK -->
+		<Row Tag="TXT_KEY_TRAIT_DMS_SPIRIT_OF_THE_ROCK_SHORT">
+			<Text>Spirit of the Rock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DMS_SPIRIT_OF_THE_ROCK">
+			<Text>Every 25th turn, the most experienced Melee Unit, is granted the powerful Ouboutou Promotion, which it keeps for the next 25 turns. Cities receive a [ICON_FOOD] Growth bonus equal to their Happiness (max 25%).</Text>
+		</Row>
+		<!-- KARBAY -->
+		<Row Tag="TXT_KEY_BUILDING_DMS_KARBAY">
+			<Text>Karbay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_KARBAY_TEXT">
+			<Text>Also written in French as "Carbet". A term used by the French to describe the main meetinghouse and settlements of the Caribs. The Caribs themselves called this house "Taboui", but the French settlers had picked up the name "Karbay" when they had lived among the Tupi-guarani tribe of Amerindians in Brazil. The French had also brought many Tupi-guarani people from Brazil to work for them in Martinique, Dominica and Guadeloupe. These people used their own language to describe familiar things that they saw in Dominica. Several words that today are passed off as Carib have their origins in the Tupi-guarani language. This word "Karbay" is one of them. It was used so often in the new French/Carib/Tupi-guarani/Creole language that was emerging, that succeeding generations of Caribs abandoned their own word "Taboui" and adopted "Karbay". It has been used for so long by the Caribs, that today it is considered by them to be a Carib word.[NEWLINE][NEWLINE]The Karbay was a large building, in most cases about 60 feet long and thirty feet wide. It was made of tall round wood posts and was of an oval shape with a tall steep roof. The posts which supported the roof were also used to tie hammocks for sleeping. The roof was thatched with palm leaves or the leaves of "roseaux" reeds.[NEWLINE][NEWLINE]A Kalinago village is made of a small amount of houses, and among these houses, there would be a Karbay. A Karbay is a large meetinghouse, where important people such as the chief and the headmen would meet. This Karbay was usually 90-60 feet long, and it could hold about 120 hammocks. Despite it being so massive and important, the only way in to the Karbay was a small door. There were a lot large posts that were used to support the roof, and the hammocks would hang off of these posts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_KARBAY_HELP">
+			<Text>+15 XP for all Units. Additional XP to new Units based on the amount of damage the City has ever taken while under Kalinago control. +2 [ICON_HAPPINESS_1] Happiness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_KARBAY_STRATEGY">
+			<Text>The Karbay is the Kalinago unique Building, replacing the Barracks. The Karbay provides 15 Experience points for all military Units constructed in its City. In addition, the Karbay provides even more Experience to military Units based on the amount of damage the City has ever taken while under Kalinago control. It also provides +2 [ICON_HAPPINESS_1] Happiness.</Text>
+		</Row>
+		<!-- BUYEIS -->
+		<Row Tag="TXT_KEY_UNIT_DMS_BUYEIS">
+			<Text>Buyeis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DMS_BUYEIS_TEXT">
+			<Text>The Kalinago shamans were called buyeis, and their main function was to heal the sick with herbs and to cast spells (piai) which would keep Maybouya - the evil spirit - at bay. The buyeis were very important and underwent special training instead of becoming warriors. As they were held to be the only people who could avert evil, they were treated with great respect.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_BUYEIS_STRATEGY">
+			<Text>The Buyeis is a Kalinago Unique Great Person, replacing the standard Great Prophet. Like the Great Prophet, the Buyeis can found, enhance and spread a Religion and build Holy Sites, and is generated the same way, but in addition it can be obtained immediately by expending an era-scaled amount of [ICON_CITIZEN] Citizens. The Buyeis provides +2 Happiness when stationed in a City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_BUYEIS_HELP">
+			<Text>This Kalinago Unique Great Person replaces the Great Prophet. While having the same abilities as the standard Great Prophet, the Buyeis can be obtained immediately by expending an era-scaled amount of [ICON_CITIZEN] Citizens and it provides +2 Happiness when stationed in a City.</Text>
+		</Row>
+		<!-- OUBOUTOU -->
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU">
+			<Text>Ouboutou</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_25_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 25</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_24_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 24</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_23_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 23</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_22_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 22</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_21_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 21</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_20_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 20</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_19_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 19</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_18_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 18</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_17_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 17</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_16_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 16</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_15_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 15</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_14_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 14</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_13_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 13</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_12_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 12</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_11_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 11</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_10_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 10</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_9_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 9</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_8_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 8</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_7_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 7</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_6_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 6</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_5_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 5</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_4_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 4</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_3_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_2_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_1_HELP">
+			<Text>This Unit has a 25% chance to generate a Citizen in your nearest City upon defeating an enemy Unit.[NEWLINE][NEWLINE]Nearby friendly Units recieve +1 [ICON_MOVES] Movement and defend at double strength when embarked.[NEWLINE][NEWLINE]Turns until the Promotion will be removed: 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_NEARBY">
+			<Text>Caracolis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_NEARBY_HELP">
+			<Text>+1 [ICON_MOVES] Movement and +100% Defense when embarked.[NEWLINE][NEWLINE]The Caracolis Promotion is provided by a nearby Unit with the Ouboutou Promotion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_OUBOUTOU_NOTIFICATION">
+			<Text>A {1_sUnitType} has been chosen as Ouboutou; it will keep the rank for the next 25 turns!</Text>
+		</Row>
+		<!-- JFD'S DTP -->
+		<!-- DUMMY STUFF -->
+		<Row Tag="TXT_KEY_BUILDING_DMS_KALINAGO_GROWTH">
+			<Text>DMS: Kalinago growth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_KALINAGO_GROWTH_HELP">
+			<Text>used to increase growth in cities as part of the kalinago UA.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_KALINAGO_CITY_DAMAGE">
+			<Text>DMS: Kalinago UB dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_KALINAGO_CITY_DAMAGE_HELP">
+			<Text>used to increase the amount of extra experience granted to units as part of the kalinago UB.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_KALINAGO_BUYEIS_HAPPINESS">
+			<Text>DMS: Kalinago UU dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_KALINAGO_BUYEIS_HAPPINESS_HELP">
+			<Text>used to provide Happiness when the Kalinago UU is garrisoned.</Text>
+		</Row>
+		<!-- UI -->
+		<Row Tag="TXT_KEY_TRAIT_DMS_CITIZEN_BUYEIS">
+			<Text>EXPEND CITIZENS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DMS_CITIZEN_BUYEIS_DISABLED_HELP_1">
+			<Text>Expend {1_iNumCitizen} [ICON_CITIZEN] Citizens to generate a Buyeis.[NEWLINE][NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]You cannot spawn more Buyeis Units before advancing to the next Era.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DMS_CITIZEN_BUYEIS_DISABLED_HELP_2">
+			<Text>Expend {1_iNumCitizen} [ICON_CITIZEN] Citizens to generate a Buyeis.[NEWLINE][NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]You do not have enough [ICON_CITIZEN] Citizens in the City.[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DMS_CITIZEN_BUYEIS_ENABLED">
+			<Text>Expend {1_iNumCitizen} [ICON_CITIZEN] Citizens to generate a Buyeis.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

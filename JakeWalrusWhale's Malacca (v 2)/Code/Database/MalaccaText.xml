@@ -1,0 +1,320 @@
+<GameData>
+	<Language_en_US>
+	<!-- Civilization -->
+		<Row Tag="TXT_KEY_CIV5_JWW_MALACCA_TITLE">
+			<Text>Malacca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_MALACCA_DESC">
+			<Text>Malay Sultanate of Malacca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_MALACCA_SHORT_DESC">
+			<Text>Malacca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_JWW_MALACCA_ADJECTIVE">
+			<Text>Malaccan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_JWW_MALACCA_TEXT">
+			<Text>Incessant glory to you, Parameswara, Raja of Signapura and Sultan of Malacca! You established yourself as as a true Raja of Signapura and ruled as a feared king. However, despite fate implying your dempise in Singapura at the hands of the Majapahit empire, you were able to successfully escape and establish a kingdom of your own. Upon seeing a mouse deer outsmart a dog, you decided a proper location for your new state and named it Malacca. You ruled over Malacca, allowing it to foster as a port and become a notable Sultanate. You established connections with Ming China, allowing you to ensure Malacca stayed prosperous for years to come. Overall, under you, Malacca was able to grow to become one of the greatest sultanates in Southeast Asia. [NEWLINE][NEWLINE] Oh great sultan, your people look to you to rule over Malacca once again. Can you yet again establish a kingdom that will be able to exist for hundreds of years to come? Can you gain the trust of other civilizations and make Malacca once of the greatest ports to have ever existed? Will you build a civilization that will stand the test of time?</Text>
+		</Row>
+	<!-- Trait -->
+		<Row Tag="TXT_KEY_TRAIT_JWW_SULALATUS_SALATIN">
+			<Text>Units receive double [ICON_MOVES] movement within friendly or allied City-State territory. Friends have this bonus in your territory. [ICON_TRADE] Trade routes provide additional [ICON_GOLD] gold between you and an Allied City-State or Friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_JWW_SULALATUS_SALATIN_SHORT">
+			<Text>Sulalatus Salatin</Text>
+		</Row>
+		<!-- Leader -->
+		<Row Tag="TXT_KEY_LEADER_JWW_PARAMESWARA">
+			<Text>Parameswara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_PARAMESWARA_LIVED">
+			<Text>1344-1414 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_PARAMESWARA_NAME">
+			<Text>Parameswara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_PARAMESWARA_SUBTITLE">
+			<Text>Founder of Malacca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_PARAMESWARA_TITLES_1">
+			<Text>5th Raja of Singapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_PARAMESWARA_TITLES_2">
+			<Text>1st Sultan of Malacca</Text>
+		</Row>
+	<!-- UGP -->
+		<Row Tag="TXT_KEY_UNIT_JWW_HULUBALANG">
+			<Text>Hulubalang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JWW_HULUBALANG_STRATEGY">
+			<Text>The Hulubalang is a Great General unique to Malacca. Enemies that die near the Hulubalang have a chance to join your ranks, and when they die on a road or trade route they have a chance swap the territory they own to you. They can be bought with gold, and they can move after purchase immediately after purchase.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JWW_HULUBALANG">
+			<Text>The Hulubalang is a Great General unique to Malacca. Enemies that die near the Hulubalang have a chance to join your ranks, and when they die on a road or trade route they have a chance swap the territory they own to you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_HULUBALANG_TUN_TEMPURUNG">
+			<Text>Tun Tempurung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_HULUBALANG_BADANG">
+			<Text>Badang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_HULUBALANG_TUN_HAMZAH">
+			<Text>Tun Hamzah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_HULUBALANG_HANG_JEBAT">
+			<Text>Hang Jebat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_HULUBALANG_TUN_PERAK">
+			<Text>Tun Perak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_HULUBALANG_ABU_BAKAR">
+			<Text>Abu Bakar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_HULUBALANG_WIKRAMA_WIRA">
+			<Text>Wikrama Wira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_HULUBALANG_HANG_TUAH">
+			<Text>Hang Tuah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_HULUBALANG_HANG_KASTURI">
+			<Text>Hang Kasturi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_HULUBALANG_HANG_LEKIR">
+			<Text>Hang Lekir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_HULUBALANG_HANG_LEKIU">
+			<Text>Hang Lekiu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_HULUBALANG_HANG_ALI">
+			<Text>Hang Ali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_HULUBALANG_HANG_ISKANDAR">
+			<Text>Hang Iskandar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_HULUBALANG_HANG_HASAN">
+			<Text>Hang Hasan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JWW_HULUBALANG_HANG_HUSAIN">
+			<Text>Hang Husain</Text>
+		</Row>
+	<!-- Unit -->
+		<Row Tag="TXT_KEY_UNIT_JWW_ORANG_LAUT">
+			<Text>Orang Laut</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_JWW_ORANG_LAUT_STRATEGY">
+			<Text>The Orang Laut is the Malaccan unique unit. It replaces the Galleass, but is noticeably weaker. It has +33% combat strength when starting on tiles that have a trade route going through it. Starts with Boarding Party I and II.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_JWW_ORANG_LAUT">
+			<Text>The Orang Laut is the Malaccan unique unit. It replaces the Galleass, but is noticeably weaker. It has +33% combat strength when starting on tiles that have a trade route going through it. Starts with Boarding Party I and II.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_ORANG_TRADE">
+			<Text>Orang Laut Trade Route Bonus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_JWW_ORANG_TRADE_HELP">
+			<Text>Because this Orang Laut is on a tile with trade route, it has +33% combat strength.</Text>
+		</Row>
+	<!-- Civilopedia -->
+		<Row Tag="TXT_KEY_CIV5_JWW_MALACCA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_MALACCA_TEXT_1">
+			<!-- taken mostly from https://en.wikipedia.org/wiki/Malacca_Sultanate -->
+			<Text>The Malay Sultanate of Malacca was established in 1400 AD by Parameswara. Prior to establishing Malacca, Parameswara was the Raja of Singapura, who had to flee Singapura as a result of a Majapahit invasion. Malacca became a safe haven in the 1370s as it began to receive a growing number of refugees running away from Mahapahit's attacks on other villages. Following establishment of his new city in Malacca, Parameswara initiated the development of the place and laid the foundation of a trade port. The indigenous inhabitants of the straits, the Orang Laut, were employed to patrol the adjacent sea areas, to repel other petty pirates, and to direct traders to Malacca. Within years, news about Malacca becoming a centre of trade and commerce began to spread all over the eastern part of the world. In 1405, Yongle Emperor of Ming Dynasty (r. 1402–1424) sent his envoy headed by Yin Qing to Malacca. The legendary Admiral Zheng He made six visits to Malacca as a result. Chinese merchants began calling at the port and pioneering foreign trading bases in Malacca. Other foreign traders notably the Arabs, Indians, and Persians came to establish their trading bases and settle in Malacca, soaring its population to 2000. During the reign of Parameswara's son, Megat Iskandar Shah (r. 1414–1424), the kingdom continued to prosper. The period saw the diversification of economic sources of the kingdom with the discovery of two tin mining areas in the northern part of the city, sago palms in the orchards and nipah palms lining in the estuaries and beaches. To improve the defence mechanism of the city from potential aggressors, Megat Iskandar Shah ordered the construction of a wall surrounding the city with four guarded entrances. A fenced fortress was also built in the town centre where the state's treasury and supply were stored.[24] The growth of Malacca coincided with the rising power of Ayuthaya in the north. The growing ambitions of the kingdom against its neighbours and Malay Peninsula had alarmed the ruler of Malacca. In a preemptive measure, the king headed a royal visit to China in 1418 to raise his concerns about the threat. Yongle responded in October 1419 by sending his envoy to warn the Siamese ruler. Between 1424 and 1433, two more royal visits to China were made during the reign of the third ruler, Raja Tengah (r. 1424–1444). During Raja Tengah's rule, it was said that an ulama called Saiyid Abdul Aziz came to Malacca to spread the teaching of Islam. The king together with his royal family, senior officials and the subjects of Malacca listened to his teachings. Shortly after, Raja Tengah adopted the Muslim name, Muhammad Shah and the title Sultan on the advice of the ulama. The Undang-Undang Laut Melaka ('Maritime Laws of Malacca'), was also promulgated during the reign of Sultan Muhammad Shah, was an important facet of this. So too was the appointment of four Shahbandars for the different communities of the port.  He was succeeded by his younger son, Raja Ibrahim, who reigned as Sultan Abu Syahid Shah (r. 1444–1446). Abu Syahid was a weak ruler and his administration was largely controlled by Raja Rokan, a cousin of his mother who stayed in the court of Malacca during his reign. The situation prompted the court officials to plan the assassination of Raja Rokan and to install Abu Syahid's older brother Raja Kasim to the throne. Both the Sultan and Raja Rokan were eventually killed in the attack in 1446. Raja Kasim was then appointed as the fifth ruler of Malacca and reign as Sultan Muzaffar Shah (r. 1446–1459). Ayutthaya attack Malacca in 1446, but Malacca was able to defeat them. The defeat of Siam brought political stability to Malacca and enhanced its reputation in South East Asia. Malacca reached its height of glory at the beginning the middle of the 15th century. Its territory extended from modern-day Southern Thailand in the north to most of eastern coast of Sumatra in the south after wrestling it from Majapahit and Ayutthaya sphere of influence. The reign of Muzaffar Shah's son, Sultan Mansur Shah (r.1459–1477) witnessed the major expansion of the sultanate to reach its greatest extent of influence. Among the earliest territory ceded to the sultanate was Pahang, with its capital, Inderapura. The friendly relations between China and Malacca escalated during the reign of Sultan Mansur Shah. The Sultan sent an envoy headed by Tun Perpatih Putih to China, carrying a diplomatic letter from the Sultan to the Emperor. According to the Malay Annals, Tun Perpatih succeeded in impressing the Emperor of China with the fame and grandeur of Sultan Mansur Shah that the Emperor decreed that his daughter, Hang Li Po, should marry the Sultan. The expansionist policy of Mansur Shah was maintained throughout his reign when he later added Kampar and Siak to his realm.[49] He also turned a number of states in the archipelago into his imperial dependencies. The ruler of such states would come to Malacca after their coronation to obtain the blessing of the Sultan of Malacca. Rulers who have been overthrown also came to Malacca requesting the Sultan's aid in reclaiming their throne. The prosperous era of Malacca continued under the rule of his son, Sultan Alauddin Riayat Shah (r. 1477–1488) and more foreign rulers within the region began paying homage to the Sultan of Malacca. Among them were a ruler from the Moluccas Islands who were defeated by his enemies, a ruler of Rokan and a ruler named Tuan Telanai from Terengganu. By the 15th century, Europe had developed an insatiable appetite for spices. At that time, spice trade was virtually monopolised by the Venetian merchants via a convoluted trade route through Arabia and India, which in turn linked to its source in Spice Islands via Malacca. Upon becoming king in 1481, John II of Portugal determined to break this chain and control the lucrative spice trade directly from its source. This led to the expansion of Portuguese sea exploration, pioneered by Vasco da Gama, into the east coasts of India that had resulted in the establishment of Portuguese stronghold in Calicut. Years later, during the reign of Manuel I, a fidalgo named Diogo Lopes de Sequeira was assigned to analyse the trade potentials in Madagascar and Malacca. He arrived in Malacca on 1 August 1509 carrying with him a letter from the King. His mission was to establish trade with Malacca. The Tamil Muslims who were now powerful in the Malaccan court and friendly with Tun Mutahir, the Bendahara, were hostile towards the Christian Portuguese.The Gujarati merchants who were also Muslims and had known the Portuguese in India, preached a holy war against "the infidels". Unfortunately, because of the dissension between Mahmud Shah and Tun Mutahir, a plot was hatched to kill de Sequeira, imprison his men and capture the Portuguese fleet anchored off the Malacca River. The plot leaked out and de Sequeira managed to escape from Malacca in his ship, leaving behind several of his men as captives.  Having established Goa as the Portuguese eastern headquarters and naval base, de Albuquerque decided to capture Malacca and in April 1511, left Goa with 18 ships and 1400 men, comprising both Portuguese troops and Indian auxiliaries. Upon their arrival in Malacca, the Portuguese did not attack immediately, but instead began negotiations for the return of their prisoners while the at same time tried to find any insider information regarding the Malacca Fortress. Malacca procrastinated, thinking it could withstand a Portuguese assault, which started three months later on 25 July 1511. After many failed attempts, the breakthrough was made when the Portuguese bribed an insider of the fortress. The Sultanate of Malacca ceased to exist in 1511 AD.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_MALACCA_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_JWW_MALACCA_FACTOID_TEXT">
+			<Text>
+				[ICON_BULLET]The name "Malacca" itself was derived from the fruit-bearing Melaka tree scientifically termed as Phyllanthus emblica.
+				[NEWLINE][ICON_BULLET]Legend has it that Parameswara saw a mouse deer outwit his hunting dog into the water when he was resting under the Malacca tree. He thought this bode well, remarking, 'this place is excellent, even the mouse deer is formidable; it is best that we establish a kingdom here'.
+				[NEWLINE][ICON_BULLET]Malacca became so rich that the Portuguese writer and trader Tome Pires said "Whoever is lord of Malacca shall have his hands on the throat of Venice."
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_PARAMESWARA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_JWW_PARAMESWARA_TEXT_1">
+			<!-- taken mostly from https://en.wikipedia.org/wiki/Parameswara_(king) -->
+			<Text>Parameswara, also believed to be the same person as Iskandar Shah, was born in 1344. However, where he was born is debated by scholars. The Malay Annals says that Parameswara was born in Singapura itself, as a descendant of Sang Nila Utama (The 1st Raja of Singapura). There was a peaceful succession of power between Sri Maharaja (The 4th Raja of Signapura) and Parameswara in this account, making Parameswara the 5th Raja of Signapura. However, the Suma Oriental says that Parameswara was born in Palembang, where he challenged Javan rule. As a result, he fled from Palembang to Singapura, where he ursurped the throne to become the 5th Raja of Signapura. It is believed that Parameswara comverted to Islam during his reign in Signapura. In 1398, Majapahit dispatched a fleet of three hundred main man of war and hundreds of smaller vessels to conquer Signapura, carrying no less than 200,000 men. Initially, the Javanese soldiers engaged with the defenders in a battle outside the fortress, before forcing them to retreat behind the walls. The invasion force laid a siege of the city and repeatedly tried to attack the fortress. However the fortress proved to be impregnable. After a month, food in the fortress began to run low and the defenders were on the verge of starvation. However, the minister lied to the King, saying the stores were empty. As a result, the grains were not distributed and the people eventually starved. The final assault came when the gates were finally opened under the order of the treacherous minister. The Majapahit soldiers rushed into the fortress and a terrible massacre ensued. According to the Malay Annals, "blood flowed like a river" and the red stains on the laterite soil of Singapura are said to be blood from that massacre. Knowing that defeat was imminent, Parameswara and his followers fled the island. Parameswara fled north to found a new settlement. In Muar, Parameswara contemplated establishing his new kingdom at either Biawak Busuk or at Kota Buruk. Finding that the Muar location was not suitable, he continued northwards. Along the way, he reportedly visited Sening Ujong (former name of present-day Sungai Ujong) before reaching a fishing village at the mouth of the Bertam River (former name of the Malacca River). This evolved over time to become the location of modern-day Malacca Town. According to the Malay Annals, legend has it that the king saw a mouse deer outwitting his hunting dog into the water when he was resting under the Malacca tree. He thought this boded well, remarking, 'this place is excellent, even the mouse deer is formidable; it is best that we establish a kingdom here'. After the foundation of the new settlement in Malacca, Parameswara initiated the development of the place and ordered his men to cultivate the lands with banana, sugar cane, yam and other crops for food. Taking the advantage of the harbour that is protected by a hill and sheltered ships well from the danger of strong tides, Parameswara laid the foundation of a trading port by building the storage and market facilities to serve as a meeting point to exchange goods. Within years, news about Malacca becoming a centre of trade and commerce began to spread all over the eastern part of the world and reached as far as China. The Yongle Emperor of the Ming dynasty, who reigned from 1402 till 1424, sent his envoy known as Yin Qing to Malacca in 1405. Yin Qing's visit opened the way for the establishment of friendly relations between Malacca and China. Chinese merchants began calling at the port of Malacca, joining other foreign traders notably the Javanese, Indians, Chinese, and Burmese who came to establish their trading bases and settle in Malacca, soaring its population to 2000 during Parameswara's reign. In 1411, Parameswara, his wife, his son, and a royal party of 540 people left for China with Admiral Zheng He to pay homage to the Yongle Emperor. Yongle praised Parameswara and acknowledged him as the rightful ruler of Malacca. He then presented Parameswara with a seal, silk and a yellow umbrella as symbols of royalty and also a letter appointing Parameswara as the ruler of Malacca. Malacca was then recognised as a kingdom by the Emperor of China. The envoy returned to Malacca together with a fleet led by Zheng He. The Chinese chronicles mention that in 1414, the son of the first ruler of Malacca visited Ming China to inform them that his father had died. It is generally believed that he was buried on top of a hill at Tanjung Tuan (also known as Cape Rachado), within the State of Malacca, Malaysia by which located nearby to the modern-day district of Port Dickson. Parameswara was succeeded by his son, Megat Iskandar Shah who in turn ruled Malacca until 1424. There is an allegation that Parameswara had also been buried at the Bukit Larangan Park, Singapore. Some other also believe that he could have been cremated based on the Hindu's ritual believe system, and there is therefore no actual burial place.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_JWW_ORANG_LAUT_TEXT">
+			<Text>The Orange Laut, Malay for "Sea Peoples", are the indigenous inhabitants of Malacca and the strait of Malacca. They were known as loyal servants of Malay rulers during the reign of Singapura, Malacca, Johor, and Srivijaya, were said to have been employed by Parameswara to patrol the adjacent seas, to repel other petty pirates, and to direct traders to their Malay overlords' port. Ironically, Orang Lauts themselves were known to be ferocious pirates in history. In return, the ruler gave Orang Laut leaders prestigious titles and gifts. he earliest description of the Orang Laut may have been by the 14th century Chinese traveller Wang Dayuan who described the inhabitants of Temasek (present day Singapore) in his work Daoyi Zhilüe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_JWW_HULUBALANG_TEXT">
+			<Text>The Hulubalang, Malay for "warlord" or "commander", were the military nobility of the Malay Kingdoms of Singapura and Malacca. The term is referenced into the Malay annals. The terms "Hulubalang Besar" and "Seri Bija Diraja" refer to a position in the army above the Hulubalang, but were Hulubalangs as well. Notable Hulubalangs include Badang (legendary strongman of Singapura), Tun Tempurung (first Hulubalang Besar), and Tun Hamzah (Malaccan Hulubalang who helped conquer Pahang).</Text>
+		</Row>
+	<!-- Diplomacy Responses -->
+		<Row Tag="TXT_KEY_LEADER_JWW_PARAMESWARA_FIRSTGREETING_1">
+			<Text>Greetings traveler! Welcome to the great Kingdom of Singapur-- I mean, the great Sultanate of Malacca! Anyways, I hope you enjoy your rest stop before you go on your way!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_PARAMESWARA_DEFEATED_1">
+			<Text>You've got to be kidding me. A civilization under my command has fallen... for the second time. I must have the worst luck.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_PARAMESWARA_GREETING_POLITE_HELLO_1">
+			<Text>It's always a joy to see you, fellow leader! I hope you enjoy your stay along your journey!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_PARAMESWARA_GREETING_NEUTRAL_HELLO_1">
+			<Text>Ah, hello traveler, do you need anything?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_PARAMESWARA_GREETING_HOSTILE_HELLO_1">
+			<Text>Oh, it's you. State your business and leave. You're ruining the mood.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_PARAMESWARA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Please, I beg of you, back off your navies and armies. We only wish to live on in prosperity!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_PARAMESWARA_EXPANSION_SERIOUS_WARNING_1">
+			<Text>I'm terribly sorry, but there can't be two people who control the Straits. Please refrain from settling near us in the future.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_PARAMESWARA_REQUEST_1">
+			<Text>Hello, friend. In order to continue our prosperous trade with you, I need to ask one favor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_PARAMESWARA_DECLAREWAR_1">
+			<Text>Normally I'd deem it to be insane to take this course of action, but you deem me no choice. In order to ensure the prosperity for years to come, I'm afriad I need to put you in your place.</Text>
+		</Row>
+	<!-- City Names -->
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_0">
+			<Text>Malacca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_1">
+			<Text>Singapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_2">
+			<Text>Maur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_3">
+			<Text>Ujong Tanah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_4">
+			<Text>Bintan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_5">
+			<Text>Pattani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_6">
+			<Text>Pahang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_7">
+			<Text>Rokan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_8">
+			<Text>Kelantan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_9">
+			<Text>Trengganu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_10">
+			<Text>Siak Sri Indrapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_11">
+			<Text>Rengat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_12">
+			<Text>Indragiri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_13">
+			<Text>Penang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_14">
+			<Text>Sening Ujong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_15">
+			<Text>Pelis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_16">
+			<Text>Kedah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_17">
+			<Text>Singora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_18">
+			<Text>Klang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_19">
+			<Text>Inderapura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_20">
+			<Text>Selangor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_21">
+			<Text>Jeram</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_22">
+			<Text>Langkasuka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_23">
+			<Text>Bernam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_24">
+			<Text>Riau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_25">
+			<Text>Biawak Busuk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_26">
+			<Text>Kota Buruk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_27">
+			<Text>Banzu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_28">
+			<Text>Batu Berlayar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_29">
+			<Text>Kampar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_30">
+			<Text>Pagarruyung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_31">
+			<Text>Pasai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_32">
+			<Text>Pekanbaru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_33">
+			<Text>Johor Lama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_JWW_MALACCA_34">
+			<Text>Sungai Ujung</Text>
+		</Row>
+	<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_MALACCA_0">
+			<Text>Iskandar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_MALACCA_1">
+			<Text>Megat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_MALACCA_2">
+			<Text>Abdullah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_MALACCA_3">
+			<Text>Almarhum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_MALACCA_4">
+			<Text>Abu Syahid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_MALACCA_5">
+			<Text>Muzaffar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_MALACCA_6">
+			<Text>Mansur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_MALACCA_7">
+			<Text>Alauddin Riayat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_MALACCA_8">
+			<Text>Mahmud</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_JWW_MALACCA_9">
+			<Text>Ahmad</Text>
+		</Row>
+	<!-- Cultural Influence -->
+		<Row Tag="TXT_KEY_LEADER_JWW_PARAMESWARA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now enjoying prosperous trade and enduring friendship with the chinese. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JWW_PARAMESWARA_INFLUENTIAL_ON_HUMAN_1">
+			<Text>We are glad to see that your people are now enjoying prosperous trade and enduring friendship with the chinese. The amazing works of our civilization are truly inspiring!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,350 @@
+<GameData>
+    <Language_en_US>
+        <!--Cities-->
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_1">
+            <Text>Bikrampur</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_2">
+            <Text>Pataliputra</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_3">
+            <Text>Monghyr</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_4">
+            <Text>Gauda</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_5">
+            <Text>Paharpur</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_6">
+            <Text>Ramavati</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_7">
+            <Text>Mahipal</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_8">
+            <Text>Nalanda</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_9">
+            <Text>Somapura</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_10">
+            <Text>Vikramshila</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_11">
+            <Text>Kannauj</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_12">
+            <Text>Odantapura</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_13">
+            <Text>Jagaddala</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_14">
+            <Text>Bodh Gaya</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_15">
+            <Text>Gokarna</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_16">
+            <Text>Kedar</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_17">
+            <Text>Khalimpur</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_18">
+            <Text>Valgudar</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_19">
+            <Text>Karnasuvarna</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_20">
+            <Text>Uttarama</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_21">
+            <Text>Jagjivanpur</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_22">
+            <Text>Campa</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_23">
+            <Text>Vaisali</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_24">
+            <Text>Rajagrha</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_25">
+            <Text>Varanasi</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_26">
+            <Text>Kusinagara</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_27">
+            <Text>Sravasti</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_28">
+            <Text>Ayodhya</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_PALA_29">
+            <Text>Kausambi</Text>
+        </Row>
+        
+        <!--Spies-->
+        <Row Tag="TXT_KEY_SPY_NAME_THP_PALA_0">
+            <Text>Rannavati</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_PALA_1">
+            <Text>Gopala</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_PALA_2">
+            <Text>Vapyata</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_PALA_3">
+            <Text>Mahata Devi</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_PALA_4">
+            <Text>Vakpala</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_PALA_5">
+            <Text>Jayapala</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_PALA_6">
+            <Text>Mahendrapala</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_PALA_7">
+            <Text>Shurapala</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_PALA_8">
+            <Text>Vigrahapala</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_PALA_9">
+            <Text>Ramapala</Text>
+        </Row>
+        
+        <!--Basic Info-->
+        <Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA">
+            <Text>Dharmapala</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_PALA_ADJECTIVE">
+            <Text>Pala</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_PALA_DESC">
+            <Text>Pala Empire</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_PALA_SHORT_DESC">
+            <Text>Pala</Text>
+        </Row>
+        
+        <!--Civilopedia-->
+        <Row Tag="TXT_KEY_PEDIA_THP_PALA_HEADING">
+            <Text>History</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_PALA_TEXT">
+            <Text>The Pala Empire (8th - 12th centuries AD) was a kingdom in the northeast of India, centered in what is today Bengal, Bihar, and Bangladesh. The Pala Empire was founded by Gopala I, a warrior who unified the previously fragmented Bengal region. Gopala's successors, Dharmapala and Devapala, then expanded the empire greatly; the Pala become one part of the "Kannauj Triangle," the trio of nations that controlled the bulk of the Indian subcontinent. After the death of Devapala, however, the Pala Empire could not be held together as strongly; they lost several key battles to the Rashtrakuta, and suffered a nearly-complete collapse.
+            [NEWLINE]
+            [NEWLINE]The Pala Empire saw a period of recovery during the reign of Mahipala I (r. 988-1038), who recovered large portions of Bengal and Bihar; however, his military record was mixed, as his empire was periodically invaded by the Chola. The later years of the Pala were also unsuccessful; they went through another brief resurgence under Ramapala (r. 1082-1124), but otherwise were plagued by both internal and external strife. Ultimately, ongoing internal tension caused the Pala to deteriorate into a group of smaller kingdoms, which would eventually be conquered by the Sena dynasty.
+            [NEWLINE]
+            [NEWLINE]The rulers of the Pala Empire were Mahayana Buddhists, and they were great patrons of Buddhist art and learning, building great viharas where monks could study. At their height, they also boasted trade contacts with the Abbasid Caliphate and Srivijaya.
+            </Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_PEDIA_NAME">
+            <Text>Dharmapala</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_PEDIA_SUBTITLE">
+            <Text>Leader of the Pala</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_PEDIA_TITLES_1">
+            <Text>Ruler of the Pala Empire</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_PEDIA_LIVED">
+            <Text>ca. 800 AD</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_PEDIA_HEADING">
+            <Text>Biography</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_PEDIA_TEXT">
+            <Text>Dharmapala, the second Pala king, ruled for a forty-year period around the turn of the ninth century. His father, Gopala, had unified the Bengal and Bihar regions into the Pala heartland; Dharmapala built upon these achievements by expanding deep into northern India. As one leg of the "Kannauj Triangle," Dharmapala's reign was marked by persistent conflict with the western Gurjara-Pratihara and the southern Rashtrakuta; however, Dharmapala's rulership allowed the Pala to assert themselves as the dominant northern power, and Dharmapala took the title of Uttarapathasvamin - "Lord of the North."
+            [NEWLINE]
+            [NEWLINE]A great patron of Buddhism, Dharmapala embarked on an ambitious building program; chroniclers credit him with building as many as 50 monasteries. The greatest of these were Somapura, Vikramshila, Odantapura, and Jagaddala; Dharmapala also revitalized the aging Nalanda mahavihara. Upon his death (in 810 or 820), Dharmapala maintained his position as the dominant ruler in northern India, and his son Devapala would go on to further expand the Pala Empire.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV5_DAWN_THP_PALA_TEXT">
+            <Text>O great Dharmapala, emperor and uttarapathasvamin, may immeasurable light and life be upon you! You inherited the fledgling Pala Empire when it had only just unified Bengal and Bihar, and under your guiding hand, you were able to outmaneuver the Pratihara and Rashtrakuta, making your own domain the preeminent power in northern India. While overseeing this grand territorial expansion, you also found time to be a generous patron of Buddhism, building dozens of viharas in your empire. These great seats of learning stood for centuries, attracting Buddhist scholars from across Asia and truly proving that the Pala were India's greatest Buddhist empire.[NEWLINE][NEWLINE]Dharmapala, your people call for you to reawaken their zeal for learning, to return the Pala Empire to the dominant status it once enjoyed. Can you embark on a grand building program to match your earlier achievements? Can you build a civilization that will stand the test of time?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_PALA_SHORT">
+            <Text>Dharmachakra Network</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_PALA">
+            <Text>When expending [ICON_GREAT_PEOPLE] Great People in friendly territory, gain a burst of [ICON_PRODUCTION] Production in the nearest city. Cities that contain Wonders generate [ICON_PEACE] +2 Faith and [ICON_TOURISM] Tourism per turn.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_PALA_ELEPHANT">
+            <Text>Hati Ghoradaura</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_PALA_ELEPHANT_HELP">
+            <Text>Powerful Medieval Era mounted unit. Only the Pala may build it. The Hati Ghoradaura does not require Horses, unlike the Knight it replaces. When promoted or killed in enemy territory, the Hati Ghoradaura generates a burst of Faith and automatically pillages its tile.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_PALA_ELEPHANT_STRATEGY">
+            <Text>The Hati Ghoradaura is a unit that is designed to be used continuously, even recklessly. By frequently fighting in enemy territory, your Hati Ghoradaura can accumulate more promotions, allowing it to generate Faith and destroy your enemies' infrastructure; conversely, if your Hati Ghoradaura outlives its usefulness, you can send it on a suicide mission and know that it will still benefit you in death.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_PALA_ELEPHANT_TEXT">
+            <Text>Hati Ghoradaura is the Bengali term for "elephant cavalry." War elephants were a vital part of the Pala army, especially since the Pala Empire did not have a suitable breed of horses native to their area. Of the "Kannauj Triangle" empires, the Pala had the greatest elephantry, with some accounts saying they maintained as many as 50,000 war elephants.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_PALA_FAKE_PROMO">
+            <Text>Elephantine Strength</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_PALA_FAKE_PROMO_HELP">
+            <Text>When promoted or killed in enemy territory, generates Faith and pillages its tile.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_MAHAVIHARA">
+            <Text>Mahavihara</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_MAHAVIHARA_HELP">
+            <Text>Unique replacement for the University. Only the Pala may build it. In addition to the normal University benefits, the Mahavihara grants a 10% bonus to Great Person generation in its city; the bonus increases to 20% if the city contains a Wonder.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_MAHAVIHARA_STRATEGY">
+            <Text>The Mahavihara is a useful way to ramp up Great Person generation in the midgame; unlike the Garden, it can be built in any of your cities, giving the Pala a leg up above their rivals in their ability to produce Great People. These Great People can then be expended for Production, allowing you to more easily construct Wonders in the Mahavihara's city and receive the increased bonus.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_MAHAVIHARA_TEXT">
+            <Text>The mahavihara, or "great vihara," is a type of monastery complex that flourished during the Pala period. Traditionally, viharas were rock-cut Buddhist monasteries, featuring a rectangular central courtyard surrounded by cells; however, in the early medieval era, they grew in scale and began to become centers of Buddhist study. Dharmapala was a prominent builder of the large viharas that came to be known as mahaviharas; these constructions include Somapura and Vikramshila.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_PALA_TOURISM">
+            <Text>Pala Tourism Dummy</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_PALA_TOURISM_HELP">
+            <Text>Generates Faith and Tourism in cities with Wonders.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_PALA_UB_DUMMY">
+            <Text>Pala Extra GP Dummy</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BLDG_THP_PALA_UB_DUMMY_HELP">
+            <Text>Grants the additional bonus to Great Person generation in cities with Wonders.</Text>
+        </Row>
+        
+        <!--Mod Support-->
+        <Row Tag="TXT_KEY_GENERIC_THP_PALA_INFLUENTIAL_ON_AI_1">
+            <Text>Our people are now studying at your monasteries and casting bronze sculptures of your gods. I worry that the rest of the world will also succumb to the influence of your culture.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_JFD_LEGISLATURE_NAME_CIVILIZATION_THP_PALA">
+            <Text>Court of the Bhukti</Text>
+        </Row>
+        <Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_THP_PALA">
+            <Text>Prime Minister</Text>
+        </Row>
+        <Row Tag="TXT_KEY_COUNCILLOR_JFD_CHANCELLOR_DESC_THP_PALA">
+            <Text>Mahasandhi</Text>
+        </Row>
+        <Row Tag="TXT_KEY_COUNCILLOR_JFD_MARSHAL_DESC_THP_PALA">
+            <Text>Mahasenapati</Text>
+        </Row>
+        <Row Tag="TXT_KEY_COUNCILLOR_JFD_HERALD_DESC_THP_PALA">
+            <Text>Rajasthaniya</Text>
+        </Row>
+        <Row Tag="TXT_KEY_COUNCILLOR_JFD_STEWARD_DESC_THP_PALA">
+            <Text>Mahaksapatalika</Text>
+        </Row>
+        
+        <!--E&D Support-->
+        <Row Tag="TXT_KEY_DECISIONS_THP_PALA_REVIVAL">
+             <Text>Revive Defunct Universities</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_THP_PALA_REVIVAL_DESC">
+             <Text>Our empire controls a variety of ancient and revered places of learning, but in the troubles of recent years, they have fallen into disuse. In order to demonstrate the strength of our new empire, we should fund these universities and ensure they return to prominence.
+             [NEWLINE]
+             [NEWLINE]Requirement/Restrictions:
+             [NEWLINE][ICON_BULLET]Player must be Pala
+             [NEWLINE][ICON_BULLET]Must have researched Education
+             [NEWLINE][ICON_BULLET]Must have at least three Academies
+             [NEWLINE][ICON_BULLET]May only be enacted once per game
+             [NEWLINE]Costs:
+             [NEWLINE][ICON_BULLET]300 [ICON_GOLD] Gold
+             [NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+             [NEWLINE]Rewards:
+             [NEWLINE][ICON_BULLET]Academies grant +1 [ICON_PEACE] Faith and +1 [ICON_TOURISM] Tourism
+             </Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_THP_PALA_REVIVAL_ENACTED_DESC">
+             <Text>Our empire controls a variety of ancient and revered places of learning, but in the troubles of recent years, they have fallen into disuse. In order to demonstrate the strength of our new empire, we should fund these universities and ensure they return to prominence.
+             [NEWLINE]
+             [NEWLINE]Rewards:
+             [NEWLINE][ICON_BULLET]Academies grant +1 [ICON_PEACE] Faith and +1 [ICON_TOURISM] Tourism             </Text>
+        </Row>
+        <Row Tag="TXT_KEY_WORLD_EVENT_THP_PALA_REVIVAL">
+            <Text>{1_LeaderName} has provided funding to revive defunct {3_CivAdj} universities!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_THP_PALA_MEDICINE">
+             <Text>Commission Medical Treatises</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_THP_PALA_MEDICINE_DESC">
+            <Text>Our empire is full of gifted writers, who write extensively on philosophy and theology, but not much on practical matters; we also have many great doctors, who have not set their innovations in writing. If we can get our writers to detail our medical advances, our people could become some of the healthiest in the world!
+             [NEWLINE]
+             [NEWLINE]Requirement/Restrictions:
+             [NEWLINE][ICON_BULLET]Player must be Pala
+             [NEWLINE][ICON_BULLET]Must have built the Writer's Guild
+             [NEWLINE][ICON_BULLET]May only be enacted once per game
+             [NEWLINE]Costs:
+             [NEWLINE][ICON_BULLET]100 [ICON_CULTURE] Culture
+             [NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+             [NEWLINE]Rewards:
+             [NEWLINE][ICON_BULLET][ICON_GREAT_WORK] Great Works of Writing yield +1 [ICON_FOOD] Food in their cities
+             </Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_THP_PALA_MEDICINE_ENACTED_DESC">
+             <Text>Our empire is full of gifted writers, who write extensively on philosophy and theology, but not much on practical matters; we also have many great doctors, who have not set their innovations in writing. If we can get our writers to detail our medical advances, our people could become some of the healthiest in the world!
+                 [NEWLINE]
+                 [NEWLINE]Rewards:
+                 [NEWLINE][ICON_BULLET][ICON_GREAT_WORK] Great Works of Writing yield +1 [ICON_FOOD] Food in their cities
+             </Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_THP_PALA_MEDICINE_HEALTH_DESC">
+            <Text>Our empire is full of gifted writers, who write extensively on philosophy and theology, but not much on practical matters; we also have many great doctors, who have not set their innovations in writing. If we can get our writers to detail our medical advances, our people could become some of the healthiest in the world!
+                [NEWLINE]
+                [NEWLINE]Requirement/Restrictions:
+                [NEWLINE][ICON_BULLET]Player must be Pala
+                [NEWLINE][ICON_BULLET]Must have built the Writer's Guild
+                [NEWLINE][ICON_BULLET]May only be enacted once per game
+                [NEWLINE]Costs:
+                [NEWLINE][ICON_BULLET]100 [ICON_CULTURE] Culture
+                [NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+                [NEWLINE]Rewards:
+                [NEWLINE][ICON_BULLET][ICON_GREAT_WORK] Great Works of Writing reduce the frequency of [ICON_PLAGUE] Plague in their cities
+            </Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_THP_PALA_MEDICINE_HEALTH_ENACTED_DESC">
+            <Text>Our empire is full of gifted writers, who write extensively on philosophy and theology, but not much on practical matters; we also have many great doctors, who have not set their innovations in writing. If we can get our writers to detail our medical advances, our people could become some of the healthiest in the world!
+                [NEWLINE]
+                [NEWLINE]Rewards:
+                [NEWLINE][ICON_BULLET][ICON_GREAT_WORK] Great Works of Writing reduce the frequency of [ICON_PLAGUE] Plague in their cities
+            </Text>
+        </Row>
+        <Row Tag="TXT_KEY_WORLD_EVENT_THP_PALA_MEDICINE">
+             <Text>{1_LeaderName} has commissioned a series of {3_CivAdj} medical treatises!</Text>
+        </Row>
+        
+        <!--Additional Achievements Support-->
+        <Row Tag="TXT_KEY_MOD_THP_PALA_NAME">
+            <Text>TopHat's Pala Empire</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_PALA_ID_CFC">
+            <Text>6a1a8dfd-9a9b-4ad8-bffe-75507dd73079</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_PALA_ID_STEAM">
+            <Text>ba7f5cd0-746e-411d-9b86-2897fb4006d2</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_PALA_AUTHORS">
+            <Text>TopHatPaladin</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_PALA_VICTORY_HEADER">
+            <Text>The Wrathful Buddha</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_PALA_VICTORY_TEXT">
+            <Text>Win the game on any difficulty setting as the Pala.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_PALA_SPECIAL_HEADER">
+            <Text>Nalanda and Beyond</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_PALA_SPECIAL_TEXT">
+            <Text>As the Pala, control Wonders in at least six different cities.</Text>
+        </Row>
+        </Language_en_US>
+    </GameData>

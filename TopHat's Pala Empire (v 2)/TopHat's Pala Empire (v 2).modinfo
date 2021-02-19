@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="ba7f5cd0-746e-411d-9b86-2897fb4006d2" version="2">
+  <Properties>
+    <Name>TopHat's Pala Empire</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Pala Empire, led by Dharmapala, to the game.</Teaser>
+    <Description>Adds the Pala Empire, led by Dharmapala, to the game. Requires Brave New World.</Description>
+    <Authors>TopHatPaladin</Authors>
+    <SpecialThanks>All the lads</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="432bc547-eb05-4189-9e46-232dbde8f09f" minversion="0" maxversion="999" title="Additional Achievements" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact's Events and Decisions" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="DEA9661D1D90C92429DAE5502C07A858" import="1">Art/Dharmapala_DOM.dds</File>
+    <File md5="281E908D0BC36B9D78A33C6B604E4FFC" import="1">Art/Dharmapala_scene.dds</File>
+    <File md5="1D7451156BD5301785D286A9D5955E28" import="1">Art/Map_Pala.dds</File>
+    <File md5="6B4581759743A5090CAC3DDC5FECA35E" import="1">Art/sv_pala_elephant.dds</File>
+    <File md5="B8C306E5C1B3F9D1C97F1E8D709C07E5" import="1">Art/THP_PalaAlpha128.dds</File>
+    <File md5="6A6FB4FBA1393A52BFEAE80943276014" import="1">Art/THP_PalaAlpha16.dds</File>
+    <File md5="9F6612A2B0BF842F4B369465A4D417EE" import="1">Art/THP_PalaAlpha24.dds</File>
+    <File md5="C166E9107C4A58041CAC5B21F6461CCE" import="1">Art/THP_PalaAlpha32.dds</File>
+    <File md5="9C391D17ABE111E29D3E9B38EA606922" import="1">Art/THP_PalaAlpha48.dds</File>
+    <File md5="0DF5F0F1A15F2EB8796ECA84503E63C0" import="1">Art/THP_PalaAlpha64.dds</File>
+    <File md5="0911D970AFA2D58D77CCCADDDB61015B" import="1">Art/THP_PalaAtlas128.dds</File>
+    <File md5="7881C9D931DB0E8ADAC19A3826B91F5E" import="1">Art/THP_PalaAtlas256.dds</File>
+    <File md5="4C5E610B555A18885D6E5DE1776C86CF" import="1">Art/THP_PalaAtlas32.dds</File>
+    <File md5="55563755ADFAB1BE264768D8849C9087" import="1">Art/THP_PalaAtlas45.dds</File>
+    <File md5="F504F37C8A85DDE7F21A23C4F9013113" import="1">Art/THP_PalaAtlas64.dds</File>
+    <File md5="2C132A29C395E2D6D173CAABA8C4066A" import="1">Art/THP_PalaAtlas80.dds</File>
+    <File md5="1FCDA3E50E3A5BA2411CD2C78F958DE9" import="1">Art/Unit_Pala_Elephant_Flag_32.dds</File>
+    <File md5="2A2696CD879E7E68EE13402EECB0AA0E" import="1">Audio/Pala_Peace.mp3</File>
+    <File md5="FF4D9240E771DC27BC0C686F0570B41B" import="1">Audio/Pala_War.mp3</File>
+    <File md5="6B4D81A42B8CEF81CE1FFC7FA9038807" import="0">Core/DiploText.xml</File>
+    <File md5="B124A18A832255FAF5D183965220EBE5" import="0">Core/GameText.xml</File>
+    <File md5="37C1FBDECEC692F7B5F8A99B3D985023" import="1">Core/Leaderhead_Dharmapala.xml</File>
+    <File md5="BD5C4D545C9E19AE01050901FF15C5F5" import="0">Core/Pala_ArtDef.sql</File>
+    <File md5="488AB4FBB2D16EE2B11151DAC1BE4DF3" import="0">Core/Pala_GameDef.sql</File>
+    <File md5="B0B73C15952DD1D270AA98251BD611B3" import="0">Core/Pala_ModSupport.sql</File>
+    <File md5="1368ACF988CC8834BB7AD60585E8B936" import="1">Lua/AdditionalAchievementsUtility.lua</File>
+    <File md5="D237F6E4FC55870391D97EAF476DE79D" import="1">Lua/Pala_Decisions.lua</File>
+    <File md5="F04E74D389DF39B27A03FC98CF365B87" import="0">Lua/Pala_Functions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/DiploText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Pala_ArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Pala_GameDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Pala_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Pala_Functions.lua">
+      <Name>TophatPalaFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,82 @@
+<GameData>
+<Language_en_US>
+<!-- First Greeting -->
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_FIRSTGREETING_1">
+    <Text>Welcome to the illustrious realm of the Pala! Are you here to study, or just to marvel at what I've built?</Text>
+</Row>
+
+<!-- Defeated -->
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_DEFEATED_1">
+    <Text>So this is how it ends. Promise me you'll take better care of the monasteries than I did.</Text>
+</Row>
+
+<!-- Diplomacy: Wars, Denunciatios, and DoF -->
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_ATTACKED_GENERIC_1">
+    <Text>Fool! I may busy myself with studies, but I still know how to fight.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_DEC_FRIENDSHIP_1">
+    <Text>You are, now and forever, a welcome sight at my monasteries. If you are interested, I would be honored to make a Declaration of Friendship with you.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_DENOUNCE_1">
+    <Text>You are an incorrigible boor! I would demolish Nalanda if it would keep you away.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_DOW_GENERIC_1">
+    <Text>I will reduce you to a footnote in my history books.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_DOW_GENERIC_2">
+    <Text>Our disagreements will not be resolved until you are crushed beneath my elephants.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_EXPANSION_SERIOUS_WARNING_1">
+    <Text>It's odd that you claim these lands when we both know I could make better use of them.</Text>
+</Row>
+
+<!-- Greetings -->
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_GREETING_AT_WAR_HOSTILE_1">
+    <Text>I hope you've come to throw yourself upon my mercy.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_GREETING_POLITE_HELLO_1">
+    <Text>Welcome, welcome! Your usual texts are available for perusal.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_GREETING_NEUTRAL_HELLO_1">
+    <Text>Greetings! I'll give you a moment to take in your surroundings.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_GREETING_HOSTILE_HELLO_1">
+    <Text>Well, I see you're profaning these grounds again.</Text>
+</Row>
+
+<!-- Misc -->
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+    <Text>I know you're trying to provoke me, but I'll give you time to reconsider before I retaliate.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_LETS_HEAR_IT_1">
+    <Text>Do you come with tribute? Let's see it!</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_LOSEWAR_1">
+    <Text>This is impossible! I'm going to fetch my strategy texts and make sure there will be no repeat of this embarrassment.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_LUXURY_TRADE_1">
+    <Text>The monks abstain from luxuries, but I cannot boast their self-restraint. May I share in your wealth?</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_NO_PEACE_1">
+    <Text>Your diplomacy is as clumsy as your warfare.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_OPEN_BORDERS_EXCHANGE">
+    <Text>I'm sure you want to visit my glorious empire, and the feeling is mutual. Let us negotiate passage.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_REPEAT_NO_1">
+    <Text>You are speaking to an emperor, not some common street merchant.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_RESPONSE_REQUEST_1">
+    <Text>In lean times, even I must call upon my friends for help.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_RESPONSE_TO_BEING_DENOUNCED_1">
+    <Text>I do not listen to the empty bluster of envious men.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_TOO_SOON_NO_PEACE_1">
+    <Text>Is that what passes for a war in your homeland? The Pala are made of sterner stuff.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_DHARMAPALA_WINWAR_1">
+    <Text>Once again, my triumph is proven. You are, of course, welcome to pay homage.</Text>
+</Row>
+</Language_en_US>
+</GameData>

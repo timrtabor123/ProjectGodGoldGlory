@@ -1,3 +1,3 @@
 # ProjectGodGoldGlory
 It's a Secret To Everyone
-Damn it Senshi (Nenets and Evenks hosted elsewhere)
+Siberia pack and LS Set 1 need alternate download links

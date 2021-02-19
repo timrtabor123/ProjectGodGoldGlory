@@ -1,0 +1,315 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Pouakai -->
+<GameData>
+	<Language_en_US>
+		<!--=============================================================-->
+		<!-- Unique Unit - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_UNIT_MC_MAYAN_HADZAB">
+			<Text>Hadzab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_MAYAN_HADZAB_HELP">
+			<Text>Swordsman replacement unique to Lady Xoc's Mayans. Removes heresy when promoted adjacent to a city. +25% combat strength when fighting in forest or jungle tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_MAYAN_HADZAB_STRATEGY">
+			<Text>The Hadzab is a unique Mayan swordsman which excels at fighting in woodlands. The Hadzab also automatically removes heresy from a city when it is promoted adjacent to it, allowing you to ensure that your religion remains prominent.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MC_MAYAN_HADZAB_PEDIA">
+			<Text>Mayan warfare and tactics remains much of a mystery. Warfare was likely a driving force of cultural change. Although warring leaders undoubtedly benefited materially, one of the main goals may have been to acquire sacrificial victims. Sacrifice not only legitimized the ruler by intimidating rivals and awing the citizens, but was also associated with concepts of sacred fluids and the passage of time. Warfare is alluded to in to the mythology of the Popol Vuh, which describes sacrifice through decapitation. Certain events such as the death of a leader or birth of an heir may have required sacrifice. One of the most common means of warfare is believed to have been close range fighting, using spears and Macuahuitl - large wooden clubs with embedded obsidian blades. These were common across Mesoamerica, and were referred to as Hadzab in the mayan language. </Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Unique Building - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_BUILDING_MC_MAYAN_DZIB_ACTUN">
+			<Text>Dzib Actun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_MAYAN_DZIB_ACTUN_HELP">
+			<Text>Replaces the Observatory. Requires an adjacent jungle tile instead of a mountain. Provides +25% [ICON_RESEARCH] Science instead of +50%, but this increases to +35% [ICON_RESEARCH] Science during a We Love the King Day. Jungle tiles provide +1 [ICON_RESEARCH] Science.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_MAYAN_DZIB_ACTUN_STRATEGY">
+			<Text>The Dzib Actun is a unique replacement for the Observatory which significantly boosts the science of jungle cities. Only Lady Xoc's Mayans may build it. Although the base rate at which the Ek'Nah boosts the science output of the city is lower than that of the Observatory, it increases from +25% to +35% [ICON_RESEARCH] Science when in a We Love the King Day. Furthermore, the Ek'Nah provides jungle tiles with +1 [ICON_RESEARCH] Science, allowing jungle cities to quickly increase their science output.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MC_MAYAN_DZIB_ACTUN_PEDIA">
+			<Text>D'zib Actun is a Maya term meaning "Scribe Stone House". These structures were presumably used as residences or work places for the city's scribes. The d'zib actun at Yaxchilan is especially famous for its magnificent carved lintels, which depict Lady Xoc and her husband Smoke Jaguar III performing various ceremonies.</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Unique Ability  - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_TRAIT_MC_SACRED_CENOTES_SHORT">
+			<Text>Cenote of the Vision Serpent</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MC_SACRED_CENOTES">
+			<Text>Cities founded on jungle tiles are automatically connected to fresh water. May sacrifice units in cities following your religion to start a We Love the King Day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MC_MAYA_SACRIFICE_BUTTON_TOOLTIP">
+			<Text>[COLOR_POSITIVE_TEXT]Conduct a Sacrifice[ENDCOLOR][NEWLINE][NEWLINE]Sacrifice this unit to the Gods, removing the unit and causing a We Love the King Day to start in this city.</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Mod Support - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<!--Unique Cultural influence-->
+		<Row Tag="TXT_KEY_GENERIC_MC_MAYA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people have now adopted your calendar and predict catastrophes for the near future. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Misc Civ Text - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<!--Denonyms-->
+		<Row Tag="TXT_KEY_MC_MAYA">
+			<Text>The Maya</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_MC_MAYA_DESC">
+			<Text>Mayan Empire</Text>
+		</Row>
+		<!--<Row Tag="TXT_KEY_MC_MAYA_SHORT_DESC">
+			<Text>Maya</Text>
+		</Row>-->
+		<Row Tag="TXT_KEY_MC_MAYA_ADJECTIVE">
+			<Text>Mayan</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Dawn of Man - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_MC_MAYA_DOM">
+			<Text>Glory to you, Lady K'ab'al Xook, powerful Queen consort of Yaxchilan. As a popular ruler of the Mayan people, you were not just another queen, but a figure of great importance in your own right. Performing religious ceremonies which were typically reserved for men, you provided blood as nourishment for the gods and allowed the divine to unify with your being. Your central roles in ritual life earned you reverence from your husband, your ritual partner, with your religious activities connecting him with his ancestors. It is your role in religious and political life that has allowed your memory to be preserved for thousands of years.[NEWLINE][NEWLINE]Oh great Queen consort, the Mayan people call out once again for a leader that can keep the darkness at bay. They call out for someone who can provide guidance from the Gods, someone who will keep their people from ruin. Will you be the one? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Diplomacy Lines - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_LEADER_MC_LADY_XOC_FIRSTGREETING_1">
+			<Text>Greetings, wayward one. I am Lady Xoc, Queen of Yaxchilan. The stars foretold your arrival.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LADY_XOC_FIRSTGREETING_2">
+			<Text>Who approaches the Queen of Yaxchilan? Make yourself known. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LADY_XOC_DEFEATED_1">
+			<Text>The black cloud has arrived. What lies ahead is hidden even to me. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LADY_XOC_DEFEATED_2">
+			<Text>Evil has finally triumphed. I woe for the world. </Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Spy Names - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAYA_0">
+			<Text>Camazotz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAYA_1">
+			<Text>Coyopa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAYA_2">
+			<Text>Gukumatz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAYA_3">
+			<Text>Gukumatz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAYA_4">
+			<Text>Huracan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAYA_5">
+			<Text>Hunahpu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAYA_6">
+			<Text>Ixchel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAYA_7">
+			<Text>Ixtab</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAYA_8">
+			<Text>Kukulkán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MC_MAYA_9">
+			<Text>Xbalanque</Text>
+		</Row>
+		<!--=============================================================-->
+		<!-- Civilopedias  - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<!--Civilisation Pedia-->
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAYA_TITLE">
+			<Text>Mayan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAYA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAYA_TEXT_1">
+			<Text>Primarily inhabiting regions of present-day Mexico, Guatemala, and Belize from the 3rd to 10th centuries AD, the Maya people lived in a network of independent kingdoms sharing a common culture and religion. While their true origin is shrouded in mystery, numerous theories exist as to the early development of Maya civilization. According to archaeological records, the first distinctly Maya settlements were established around 2000 BC. Growing from pre-agricultural communities into vast urban centers, the Maya city-states came to rely on sophisticated farming techniques for both sustenance and trade. Although many of their settlements suffered from an unexplained collapse late in the 1st millennium AD, numerous cities still thrived until the arrival of the Spanish Conquistadors in the 16th century. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAYA_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAYA_TEXT_2">
+			<Text>Maya settlements were primarily found within Belize and Guatemala, along with the modern Mexican states of Quintana Roo, Campeche, and Yucatan, which comprise the region known as the Yucatan Peninsula. Consisting of mountainous highlands, lush wetlands and arid lowland regions, the Maya territory varied widely, from dense jungle to open plains.[NEWLINE][NEWLINE]Tropical rainforests in portions of their territory provided the Maya with a diverse range of flora and fauna to supplement their agricultural production, while also providing access to fresh water that was otherwise scarce. Within the forest, annual rainfall amounts over 100 inches were not uncommon, and the waterlogged soil allowed for rain to gather into limestone sinkholes known as "Cenotes," pooling for easy collection.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAYA_HEADING_3">
+			<Text>Periods in Mayan History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAYA_TEXT_3">
+			<Text>Various theories exist as to the origin of the Maya people, and it's only within the last 50 years that archaeologists studying Mesoamerica have managed to piece together a timeline of their early civilization. Breakthroughs in deciphering the Mayan script during the 1960s and 70s led to a revival in the study of Maya history, which had previously been mired in conjecture due to the lack of written records.[NEWLINE][NEWLINE]Maya civilization is categorized into several distinct cycles, the Pre-Classic, Classic, and Post-Classic periods. Beginning in the Pre-Classic period, the first settlements are thought to have formed between 2000-1500 BC, when the earliest Maya began to transition from a strictly hunter-gatherer lifestyle to a more community-focused agricultural subsistence. Over time these early communities would evolve into an increasingly complex society, not only implementing advanced agricultural practices and trade networks, but also creating grand works of art and architecture.[NEWLINE][NEWLINE]The height of Maya civilization occurred from roughly 250 AD to 900 AD, during a time known as the Classic period. During the Classic period, the Maya developed some of their best known hallmarks, moving towards large independent city-states, each with vast urban centers teeming with monuments to their gods and kings.[NEWLINE][NEWLINE]The Post-Classic period began with the decline of major urban centers throughout the southern Maya territory, an unexplained collapse that led to the complete abandonment of some of their greatest cities. However, many of the northern settlements continued to grow and prosper well into the new millennium.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAYA_HEADING_4">
+			<Text>Great Cities of the Mayans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAYA_TEXT_4">
+			<Text>Although the immense cities of the Maya were united by a shared culture, they were also fiercely independent, invariably going to war with one another over territory, trade, and political disputes. Despite this independence, all of the great Maya cities shared a role in influencing their culture as a whole, as each contributed the unique characteristics that defined them as individuals.[NEWLINE][NEWLINE]Believed to be the longest inhabited settlement found anywhere in the Americas, Kaminaljuyu was home to a large Maya population from roughly 1500 BC until about 1200 AD. Dozens of archaeological excavations at the site over the past century have revealed that the city may have been the primary producer of obsidian and jade in the region, and the remnants of more than 100 mounds and ancient structures have been discovered. Unfortunately, commercial construction and development of the surrounding area during the 19th and 20th centuries has all but destroyed the remains of this once great city, leaving only fragments behind.[NEWLINE][NEWLINE]El Mirador, flourishing from roughly 600 BC until 100 AD, was another great city of the Maya. A settlement of significant size, El Mirador is noted for its numerous elevated roadways, known to the Maya as the "Sacbe." Used to connect structures within the settlement complex as well as distant trade centers, the sacbe were a crucial mechanism in establishing the Maya trade networks. Similar to modern causeways that are raised over stretches of unstable land, the sacbe covered vast expanses, the longest connecting the ancient city of Coba with the smaller settlement of Yaxuna some 60 miles (96 km) away.[NEWLINE][NEWLINE]Perhaps the best known of the Classic Maya cities, Tikal, served as capital of the powerful Tikal state, an ambitious and aggressive state that often initiated fierce battles against its neighboring rivals. Tikal is thought to have been occupied for nearly 2,000 years, and was home to some 100,000 people at its peak. One of the lesser known innovations found at Tikal, the "Aguada," was an ingenious system of water reservoirs, designed to harvest and collect rain water funneled from the plaster walls of the city.[NEWLINE][NEWLINE]Chitzen Itza was one of the last surviving Mayan settlements, and as such it's also one of the best preserved of their cities. With extensive constructions covering an area over 2.5 sq. miles (6.5 sq. km), Chitzen Itza features prominent examples of nearly every form of Maya architecture including massive step pyramids, multiple ball courts, and ornately-decorated temples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAYA_HEADING_5">
+			<Text>The Collapse</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAYA_TEXT_5">
+			<Text>Approaching the 9th century, many of the southernmost Maya settlements entered a period of swift decline for reasons still unknown today. Labeled the Classic Maya collapse, the dissolution and abandonment of these great kingdoms is the subject of controversy. Overpopulation, environmental damage, warfare and disease all stand as plausible theories on their own, but it seems most likely that within the larger city-states a combination of these factors led to their abandonment.[NEWLINE][NEWLINE]While the mysterious collapse mainly effected the settlements in the southern Maya territory, many of the northern city-states continued to prosper well into the second millennium AD. Marking the beginning of the Post-Classic period, it wasn't until after the collapse that the famous city of Chitzen Itza first rose to prominence. Chitzen Itza survived for several hundred years before falling into a ruinous civil war with the neighboring Mayapan in the 1300s. Mayapan, along with Uxmal and Coba, were among the few remaining Maya cities in the north, post-collapse.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAYA_FACTOID_HEADING">
+			<Text>Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_MC_MAYA_FACTOID_TEXT ">
+			<Text>Priests within the Maya society were often tasked with providing a variety of medicinal treatments to the people, prescribing anything from herbal remedies to "sweat baths," akin to a modern sauna.[NEWLINE][NEWLINE]Modern Maya women traditionally wear a type of blouse or dress known as a "Huipil," featuring bright colors and distinctive patterns that are unique to the village of their origin.[NEWLINE][NEWLINE]The Maya are thought to be the originators of the ancient predecessor to hot chocolate. Found predominantly within the Maya territory, cocoa beans were dried and ground, mixed with other local ingredients into a paste, and added to water to create a chocolate drink.</Text>
+		</Row>
+		<!--Leader Civilopedia-->
+		<Row Tag="TXT_KEY_LEADER_MC_LADY_XOC_DESC">
+			<Text>Lady Xoc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LADY_XOC_LIVED">
+			<Text>c. 700 AD?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LADY_XOC_NAME">
+			<Text>Lady Xoc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LADY_XOC_SUBTITLE">
+			<Text>Queen of Yaxchilan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LADY_XOC_TITLES_1">
+			<Text>Lady Kʼabʼal Xook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LADY_XOC_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LADY_XOC_TEXT_1">
+			<Text>Lady Xoc was a Maya Queen consort of Yaxchilan and is considered to have been one of the most powerful and prominent women in Maya civilization. She was the principal wife and aunt of King Itzamnaaj Bʼalam II, who ruled the prominent kingdom of Yaxchilan from 681 to 742. She is believed by many to have been the sister of Lady Pacal.Lady Xoc is best known for adorning Structure 23 in Yaxchilan with 3 lintels (Lintel 24, Lintel 25, and Lintel 26) that depict her performing rituals. Royal Maya women are often depicted via texts and iconography like lintels. However, other women of Maya culture are not depicted in this manner. Also, Lady Xoc appears in the images performing ritual sacrifices, which women were not typically seen doing in ancient Maya art. It is through Lady Xoc and her lintels that we understand just how involved royal women were with Maya rituals and politics.[NEWLINE][NEWLINE]Lady Xoc's lineage is what led Itzamnaaj Bʼalam to his throne; for this reason, she was his principal wife even though she bore him no sons. He was considered to be a great ruler of Yaxchilan. He was seen as a war leader of his time as he led many ritual battles with the surrounding city-states. He also erected many temples in Yaxchilan. Given that he was such a prominent and popular king, it is interesting to see that his principal wife, Lady Xoc, was one of the few women depicted in ancient Maya carvings. This fact alone speaks to Lady Xoc's popularity in Yaxchilan.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LADY_XOC_HEADING_2">
+			<Text>Structure 23</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LADY_XOC_TEXT_2">
+			<Text>Most houses in Maya civilization were owned by the supernatural. Only 5 structures have been identified as being owned by humans, of which just two were owned by women – Structure 11 and Structure 23. Structure 11 is owned by Ix Sak Biya꞉n who is also seen as a "woman of Itzamnaaj Bʼalam II".	Structure 23 is seen as Lady Xoc's place in Yaxchilan and, in general, a place where royal women could gather. To pay homage to Lady Xoc, Shield Jaguar dedicated Structure 23 to her. Unlike the other structures created during Shield Jaguar's time, Structure 23 does not depict warfare. Furthermore, Tate reports that "through the selection of astronomically significant dates, its location implies that the movement of the planets and sun are synchronized with the activities of the Yaxchilan kings and Lady Xoc". Many see Structure 23 as Lady Xoc's house because of the amount of privacy it provided – the four benches in the house are not located near doors. To claim Structure 23 as her own, Lady Xoc had 3 lintels (24, 25, and 26) placed above the doorway, thus asserting her prominence. Some historians discuss Structure 23 as Lady Xoc's queen's quarters, and it is often described as a place of great activity. Inscriptions on Lintel 25 have a term carved on it that mean "bee's house". Inomata and Houston believe that this sets up Structure 23 as a place for a woman - the Queen's space. Also, Inomata and Houston report that many of the inscriptions on the lintels refer to it as Lady Xoc's "oto꞉t" which translates from Maya to "her space". By giving Lady Xoc a space of her own, Shield Jaguar put his principal wife in a place of great prominence and power in Yaxchilan.[NEWLINE][NEWLINE]Another reason Structure 23 is identified as Lady Xoc's is the fact that her tomb is held there. It is believed that the front right room of Structure 23 holds Lady Xoc's bones, as they are carved with her name. Furthermore, this burial is considered to be the most rich and elaborate in the royal household of Yaxchilan. Also, Structure 24, created by King Bird Jaguar, holds the death dates of his most important ancestors: Shield Jaguar, his mother, and Lady Xoc. This structure is located near Structure 23; by recording Lady Xoc's death date, Bird Jaguar pays homage to his father's principal wife.Structure 23 has been identified as Lady Xoc's quarters because of the lintels found adorning the doorway. It has been suggested that the rituals depicted on these lintels may have occurred in Structure 23 – given that Lady Xoc is pictured in the lintels performing ritual sacrifices with her husband, this would mean Shield Jaguar entered the space of women with power.</Text>
+		</Row>
+		<!--<Row Tag="TXT_KEY_LEADER_MC_LADY_XOC_FACTOID_HEADING">
+			<Text>Lady Xoc Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MC_LADY_XOC_FACTOID_TEXT">
+			<Text></Text>
+		</Row>-->
+		<!--=============================================================-->
+		<!-- City List - - - - - - - - - - - - - - - - - - - - - - - - - -->
+		<!--=============================================================-->
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_YAXCHILAN">
+			<Text>Yaxchilan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_PALENQUE">
+			<Text>Palenque</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_TONINA">
+			<Text>Tonina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_XUNANTUNICH">
+			<Text>Xunantunich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_COPAN">
+			<Text>Copan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_TIKAL">
+			<Text>Tikal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_CHICHEN_ITZA">
+			<Text>Chichen Itza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_UXMAL">
+			<Text>Uxmal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_COBA">
+			<Text>Coba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_EL_MIRADOR">
+			<Text>El Mirador</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_CALAKMUL">
+			<Text>Calakmul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_YOKIB">
+			<Text>Yokib</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_QUIRIGUA">
+			<Text>Quirigua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_UAXACTUN">
+			<Text>Uaxactun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_KAMINALJUYU">
+			<Text>Kaminaljuyu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_UCANAL">
+			<Text>Ucanal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_IZAPA">
+			<Text>Izapa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_COMALCALCO">
+			<Text>Comalcalco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_LAMANAI">
+			<Text>Lamanai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_DZIBILCHALTUN">
+			<Text>Dzibilchaltun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_EDZNA">
+			<Text>Edzna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_SACUL">
+			<Text>Sacul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_BECAN">
+			<Text>Becan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_SAYIL">
+			<Text>Sayil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_MAYAPAN">
+			<Text>Mayapan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_DOS_PILAS">
+			<Text>Dos Pilas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_BONAMPAK">
+			<Text>Bonampak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_KABAH">
+			<Text>Kabah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_SEIBAL">
+			<Text>Seibal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_IZAMAL">
+			<Text>Izamal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_ALTAR_DE_SACRIFICIOS">
+			<Text>Altar de Sacrificios</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_RIO_BEC">
+			<Text>Rio Bec</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_MACHAQUILA">
+			<Text>Machaquila</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_XTAMPAK">
+			<Text>Xtampak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_CHINKULTIC">
+			<Text>Chinkultic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MC_MAYA_XPUHIL">
+			<Text>Xpuhil</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

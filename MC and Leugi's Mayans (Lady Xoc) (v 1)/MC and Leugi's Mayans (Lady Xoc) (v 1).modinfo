@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="ec3b116b-7534-44af-8789-b62190bf7deb" version="1">
+  <Properties>
+    <Name>MC and Leugi's Mayans (Lady Xoc)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]the Mayans[ENDCOLOR] under [COLOR_POSITIVE_TEXT]Lady Xoc[ENDCOLOR] to the game as a playable civilisa</Teaser>
+    <Description>Adds [COLOR_POSITIVE_TEXT]the Mayans[ENDCOLOR] under [COLOR_POSITIVE_TEXT]Lady Xoc[ENDCOLOR] to the game as a playable civilisation</Description>
+    <Authors>More Civs,. Leugi</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="RED Modpack" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Traits" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="The Enlightenment Era" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="8D216F08B0A231B0B1CB3594AFF530D7" import="1">Art/Atlases/MC_Maya_128.dds</File>
+    <File md5="5B2A7956D49A7CEA4813960A859BE344" import="1">Art/Atlases/MC_Maya_24.dds</File>
+    <File md5="D0F69692B8274B2E80747D2B01C71A0C" import="1">Art/Atlases/MC_Maya_256.dds</File>
+    <File md5="77C8D85B085F80C74BB1936410CA9FB5" import="1">Art/Atlases/MC_Maya_32.dds</File>
+    <File md5="262552D56519304DDEDAF6A6FAA85CCF" import="1">Art/Atlases/MC_Maya_45.dds</File>
+    <File md5="96A45759D3ED593F00369DA1BE6E9C30" import="1">Art/Atlases/MC_Maya_48.dds</File>
+    <File md5="636DE7A83CC174928F2DF89C09EA26E6" import="1">Art/Atlases/MC_Maya_64.dds</File>
+    <File md5="E9C3F99BD0D0C6E6E1D302F4D2E690EF" import="1">Art/Atlases/MC_Maya_80.dds</File>
+    <File md5="D8ADA64660601D1CE6425CC5D5938E9C" import="1">Art/Atlases/MC_Maya_Alpha_128.dds</File>
+    <File md5="3C3CB0D659F670E8664E830B0EDF7BBF" import="1">Art/Atlases/MC_Maya_Alpha_16.dds</File>
+    <File md5="A6CB0DB9C64922DCCF586A2BF35C5FC0" import="1">Art/Atlases/MC_Maya_Alpha_24.dds</File>
+    <File md5="6BC579F90C2BFA39D7B1B9DB5CBCD589" import="1">Art/Atlases/MC_Maya_Alpha_256.dds</File>
+    <File md5="426F14819B7B4E4B2C644D331C079F48" import="1">Art/Atlases/MC_Maya_Alpha_32.dds</File>
+    <File md5="B77E4A4A4CBEE2FF392D10319ACC36F0" import="1">Art/Atlases/MC_Maya_Alpha_48.dds</File>
+    <File md5="A683E0E137A1186B9EFA80835F00F00E" import="1">Art/Atlases/MC_Maya_Alpha_64.dds</File>
+    <File md5="D8E3920E4E43BC5AAEAE90A39B794F84" import="1">Art/Models/Longswordsman_Maya.dds</File>
+    <File md5="7226AB5A45EB4EA862D5D54D3423E1D7" import="1">Art/Models/Longswordsman_Maya.fxsxml</File>
+    <File md5="D5E4038AF2A7993208348F42EC8665BC" import="1">Art/Models/Longswordsman_Maya.gr2</File>
+    <File md5="A9D88650CB1B6152C18E0F565BB36609" import="1">Art/Models/Longswordsman_Maya_gloss.dds</File>
+    <File md5="009A60558167A5C70E956E5359857797" import="1">Art/Models/MC_HadzabUnitFlag_32.dds</File>
+    <File md5="FA18DB6C88A0B107C9DAA81BDF783FCD" import="1">Art/Models/sv_hadzab.dds</File>
+    <File md5="1DBC9B93520066F57FAE7420F5E7BAB3" import="1">Art/Scenes/MC_Maya_DoM.dds</File>
+    <File md5="CA5BCD390D92F7DC19260DDD76572867" import="1">Art/Scenes/MC_Maya_Leaderscene.dds</File>
+    <File md5="43565225DECB4EE5B64FE15F425EA1BC" import="1">Art/Scenes/MC_Maya_Map.dds</File>
+    <File md5="B5ED2F6FE5D09A9430295FBAE4BB983B" import="0">Core/Art/MC_HadzabArtDef.sql</File>
+    <File md5="E3E97576F6496A09A3C6E0A08481FC38" import="1">Core/Art/MC_Maya_Leaderscene.xml</File>
+    <File md5="CCBD12DBDB96FF7C00CF0A85760A92BE" import="0">Core/Buildings/MC_Maya_Buildings.sql</File>
+    <File md5="2C6CE2309B637D9EE2F18FD847DDA89D" import="0">Core/Civilizations/MC_Maya_Civilizations.sql</File>
+    <File md5="7216FD4ACB35D4AAF6E09A34FE27C83A" import="0">Core/GameInfo/MC_Maya_IconTextureAtlases.sql</File>
+    <File md5="711C0D4310DC638EC459569714750165" import="0">Core/GameInfo/MC_Maya_Sounds.xml</File>
+    <File md5="E5BF8912B2D5A4A1E40FFE46F2A5DA03" import="0">Core/Leaders/MC_Maya_Leader.sql</File>
+    <File md5="28F4F4A3D17B664A14E705B7D98FC5B0" import="0">Core/Text/MC_Maya_Text.xml</File>
+    <File md5="F200814C48712AFF3BDF0A4922C0683F" import="0">Core/Units/MC_Maya_Units.sql</File>
+    <File md5="921E437133D91B6595A94FFBE2EF6E03" import="1">Lua/PlotIterators.lua</File>
+    <File md5="15289444F1EEFCC05A63ECF7BC00915E" import="0">Lua/XocMaya_Functions.lua</File>
+    <File md5="87C798D0DF7FB372A8F60F03DC6105A5" import="0">Lua/XocMaya_Functions.xml</File>
+    <File md5="7A6FD2422482C1265FEE9993C733A4FE" import="0">Lua/Xoc_Jungle.sql</File>
+    <File md5="1BD424401B07861388BAAF7917F144D1" import="0">Mod Support/MC_Maya_ModSupport.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Art/MC_HadzabArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Art/MC_Maya_Leaderscene.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings/MC_Maya_Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations/MC_Maya_Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/MC_Maya_IconTextureAtlases.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameInfo/MC_Maya_Sounds.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaders/MC_Maya_Leader.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Text/MC_Maya_Text.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Units/MC_Maya_Units.sql</UpdateDatabase>
+      <UpdateDatabase>Lua/Xoc_Jungle.sql</UpdateDatabase>
+      <UpdateDatabase>Lua/XocMaya_Functions.xml</UpdateDatabase>
+      <UpdateDatabase>Mod Support/MC_Maya_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/XocMaya_Functions.lua">
+      <Name>XocMaya_Functions</Name>
+      <Description>Functions for Xoc's Maya</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

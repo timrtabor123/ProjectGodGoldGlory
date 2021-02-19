@@ -1,0 +1,79 @@
+<GameData>
+<Language_en_US>
+<!-- First Greeting -->
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_FIRSTGREETING_1">
+    <Text>A pilgrim arrives! Well met, stranger. I am known as Amoghavarsha Nrupathanga, the emperor of the Rashtrakuta.</Text>
+</Row>
+
+<!-- Defeated -->
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_DEFEATED_1">
+    <Text>And so we are condemned to the annals of history. I urge you to at least remember us fondly.</Text>
+</Row>
+
+<!-- Diplomacy: Wars, Denunciatios, and DoF -->
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_ATTACKED_GENERIC_1">
+    <Text>I had hoped it wouldn't come to this. I suppose I'll have to destroy you quickly to restore peace.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_DEC_FRIENDSHIP_1">
+    <Text>It is rare to find my equal in wisdom, but I feel ready to grant you such a title. Would you be interested in a public Declaration of Friendship?</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_DENOUNCE_1">
+    <Text>Mixing Kannada and Sanskrit may sound unpleasant, but I will still advise it to you, because it distracts from the worthlessness of your words.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_DOW_GENERIC_1">
+    <Text>I do not relish warfare, but sometimes it is the only way forward.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_EXPANSION_SERIOUS_WARNING_1">
+    <Text>My own lands may stretch from the Godavari to the Kaveri, but not everyone can be so blessed. Do not attempt to exceed your station.</Text>
+</Row>
+
+<!-- Greetings -->
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_GREETING_AT_WAR_HOSTILE_1">
+    <Text>I hope you've come to try to wash the blood from your hands.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_GREETING_POLITE_HELLO_1">
+    <Text>Ah, the return of a friend! I've prepared some poetry for the occasion.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_GREETING_NEUTRAL_HELLO_1">
+    <Text>I hope your stay has been pleasant. Have you seen the statuary?</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_GREETING_HOSTILE_HELLO_1">
+    <Text>This is a sacred place. I'd rather you didn't come inside.</Text>
+</Row>
+
+<!-- Misc -->
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+    <Text>You seem to have confused my domain for a military exercise field. I would encourage you to change your behavior, and not to delay in doing so.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_LETS_HEAR_IT_1">
+    <Text>An exchange of goods? I would be honored to see what your country has to offer.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_LOSEWAR_1">
+    <Text>The cost may have been steep, but it was worthwhile for peace.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_LUXURY_TRADE_1">
+    <Text>I may be a man of faith, but I still appreciate worldly goods. Perhaps you'd be willing to share yours?</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_NO_PEACE_1">
+    <Text>Don't bother. I may not start wars, but I finish them.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_OPEN_BORDERS_EXCHANGE">
+    <Text>Pilgrimage is an important part of the noble life. If you'd allow it, I would be honored to visit your sites.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_REPEAT_NO_1">
+    <Text>My patience can only stretch so far.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_RESPONSE_REQUEST_1">
+    <Text>These times are not kind. If you could provide some aid, it would save me from needing to call the emergency tax on my people.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_RESPONSE_TO_BEING_DENOUNCED_1">
+    <Text>I am sorry to hear that you have such anger.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_TOO_SOON_NO_PEACE_1">
+    <Text>It is better to have one decisive war than many small ones.</Text>
+</Row>
+<Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_WINWAR_1">
+    <Text>You seem to have assumed that I avoid fighting because of inability. I hope I've disabused you of that notion.</Text>
+</Row>
+</Language_en_US>
+</GameData>

@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="5a1ba5db-6f84-475b-bb25-76332aad17d3" version="3">
+  <Properties>
+    <Name>TopHat's Rashtrakuta</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Rashtrakuta Empire, led by Amoghavarsha I, to the game.</Teaser>
+    <Description>Adds the Rashtrakuta Empire, led by Amoghavarsha I, to the game.</Description>
+    <Authors>TopHatPaladin</Authors>
+    <SpecialThanks>grant, Chrisy15, danrell</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="432bc547-eb05-4189-9e46-232dbde8f09f" minversion="0" maxversion="999" title="Additional Achievements" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD and Pouakai's Mercenaries" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact's Events &amp; Decisions" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="014B331A8DEE47BF08449D5295C0F4F6" import="1">Art/Amoghavarsha_DOM.dds</File>
+    <File md5="1FF492D15C55E85FFF194065C4FB6F29" import="1">Art/Amoghavarsha_scene.dds</File>
+    <File md5="ECA577FB87CA5377BF11AC70228C787A" import="1">Art/BasadiIcon256.dds</File>
+    <File md5="8C41D8F326A4E32E4F1C5993E700B022" import="1">Art/BasadiIcon45.dds</File>
+    <File md5="B74F9ECD0901A18F38CB5A1A6D2239F6" import="1">Art/BasadiIcon64.dds</File>
+    <File md5="1135507E1397E31C329EBF2C270C8DD4" import="1">Art/Basadi/Basadi_hb.fxsxml</File>
+    <File md5="01D11EB3C702FE8C531DAF2A20C979A9" import="1">Art/Basadi/Basadi_hb.gr2</File>
+    <File md5="43D179DCF5A64589B8C303D613B39EE5" import="1">Art/Basadi/Basadi_main.fxsxml</File>
+    <File md5="F07CADEEE6863F7573B4738A71F43556" import="1">Art/Basadi/Basadi_main.gr2</File>
+    <File md5="86F17E7156D28378EB77530CAE550B0E" import="1">Art/Basadi/Basadi_pl.fxsxml</File>
+    <File md5="EEA24598D6E248E0D8CE25F7C9ABDB16" import="1">Art/Basadi/Basadi_pl.gr2</File>
+    <File md5="95E4B93E8D6EDB5EF8F055A9C7CE1C8B" import="1">Art/Basadi/Pagod6.dds</File>
+    <File md5="D2E510A6F19C283718E2F8C5DED90849" import="1">Art/Map_Rashtrakuta.dds</File>
+    <File md5="66B9D75F5C4BD6E0809EB377F4EA6832" import="1">Art/sv_basadi.dds</File>
+    <File md5="CF44FDA914C3E233EA39DEF13A3A4FBE" import="1">Art/sv_sthirabhuta.dds</File>
+    <File md5="8A8500D7E02943D52F606E6A7E2AA309" import="1">Art/THP_RashtrakutaAlpha128.dds</File>
+    <File md5="42DDEC03A5771858F4D2109CE5B88BDE" import="1">Art/THP_RashtrakutaAlpha16.dds</File>
+    <File md5="494B48E26C4AEF9BD12017D4AFB6CA93" import="1">Art/THP_RashtrakutaAlpha24.dds</File>
+    <File md5="E19E4817B67B29A292FC30D0E21ADDE0" import="1">Art/THP_RashtrakutaAlpha32.dds</File>
+    <File md5="2AE018A3EC4446E4A7F99EAD57333821" import="1">Art/THP_RashtrakutaAlpha48.dds</File>
+    <File md5="48D66AE33D092A68486EB35CAF261528" import="1">Art/THP_RashtrakutaAlpha64.dds</File>
+    <File md5="AA64AEDCCF0D44A8BB5060B2956F0534" import="1">Art/THP_RashtrakutaAtlas128.dds</File>
+    <File md5="7AC7B6DA3B44890D8DCABD9C30962CC9" import="1">Art/THP_RashtrakutaAtlas256.dds</File>
+    <File md5="1A3737B0F4254C5080F620EF1C02948F" import="1">Art/THP_RashtrakutaAtlas32.dds</File>
+    <File md5="AC1CC64B3B8B92C9FE4D1FB2B96B468E" import="1">Art/THP_RashtrakutaAtlas45.dds</File>
+    <File md5="4EEC3EB4224648A590B8B057AED5F0F4" import="1">Art/THP_RashtrakutaAtlas64.dds</File>
+    <File md5="1DFF17695E1240403CEC86266407BE59" import="1">Art/THP_RashtrakutaAtlas80.dds</File>
+    <File md5="0AB0CEE5D6DECDB44C9EE0A30ACD3278" import="1">Art/UnitModel/Spearman_India.blend</File>
+    <File md5="B91B975749524883C650A5745AA5D842" import="1">Art/UnitModel/Spearman_India.dds</File>
+    <File md5="C03221254A49C548551AF0BFCEBB4C79" import="1">Art/UnitModel/Spearman_India.fxsxml</File>
+    <File md5="10B2F75181F2ABBE920FB79662506392" import="1">Art/UnitModel/Spearman_India.gr2</File>
+    <File md5="0E11AB6AB572D64EC40543F323CDFADF" import="1">Art/UnitModel/Spearman_India_gloss.dds</File>
+    <File md5="A0A2BA52741A84BA1B4C9E09B7C634D8" import="1">Art/Unit_Sthirabhuta_Flag_32.dds</File>
+    <File md5="EAE4CA7055208C9B6AB5E9BD882C4B54" import="1">Audio/Rashtrakuta_Peace.mp3</File>
+    <File md5="EF392BB6E08FB89360912A6650FDC3ED" import="1">Audio/Rashtrakuta_War.mp3</File>
+    <File md5="E04DE99E3733E848159C7C367F37516D" import="0">Core/DiploText.xml</File>
+    <File md5="FCAF221AF8333805B798ED2E29D3E625" import="0">Core/GameText.xml</File>
+    <File md5="273A15785A29569669B0DBD24D27C890" import="1">Core/Leaderhead_Amoghavarsha.xml</File>
+    <File md5="1A308D9EA372C785179405708ADE7161" import="0">Core/ModSupport_Rashtrakuta.sql</File>
+    <File md5="A2AF541BF64B6A615904FB7A4D95C956" import="0">Core/Rashtrakuta_ArtDef.sql</File>
+    <File md5="5554197351022A320F94347A6D0C63A2" import="0">Core/Rashtrakuta_GameDef.sql</File>
+    <File md5="1368ACF988CC8834BB7AD60585E8B936" import="1">Lua/AdditionalAchievementsUtility.lua</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/CultureOverview/CultureOverview.lua</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">Lua/CultureOverview/CultureOverview.xml</File>
+    <File md5="D2D0CDBE39EDF8FA99082308E5D39421" import="1">Lua/PlotIterators.lua</File>
+    <File md5="525341B79B9CB2A57BFDDD7764077DFE" import="1">Lua/Rashtrakuta_Decisions.lua</File>
+    <File md5="91B2377D8D9CCEC91D584EF23A06C531" import="0">Lua/Rashtrakuta_Functions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/DiploText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport_Rashtrakuta.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Rashtrakuta_ArtDef.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Rashtrakuta_GameDef.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Rashtrakuta_Functions.lua">
+      <Name>TophatRashtrakutaFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

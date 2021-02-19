@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- JFD's Cities in Development -->
+		<Row Tag="TXT_KEY_UNIT_DMS_MC_ASKAWR_CID_STRATEGY">
+			<Text>The Askawr is the Kanembu unique unit, replacing the Knight. This Unit has the same statistics as the Knight, but is faster and receives +5% extra [ICON_STRENGTH] Combat Strength per Pillaged Improvement within a 2 tile radius. Further, it yields +1 [ICON_PEACE] Faith when stacked with a Worker.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_DMS_MC_ASKAWR_CID_HELP">
+			<Text>Fast Medieval Era mounted unit. Only Kanem-Bornu may build it. This Unit gains [ICON_STRENGTH] Combat Strength from being near Pillaged Improvements and yields +1 [ICON_PEACE] Faith when stacked with a Worker.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_MC_PERFECT_PRINCE_CID_HELP">
+			<Text>Yields +1 [ICON_PEACE] Faith when stacked with a Worker.</Text>
+		</Row>
+		<!-- JFD's Rise to Power -->
+		<Row Tag="TXT_KEY_GOVERNMENT_JFD_MONARCHY_TITLE_LEADER_DMS_MC_IDIRS_ALAUMA">
+			<Text>Mai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_LEGISLATURE_NAME_CIVILIZATION_DMS_MC_KANEM_BORNU">
+			<Text>Nokena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_OFFICE_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU">
+			<Text>Kokenawa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_1">
+			<Text>Idris IV ibn `Ali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_2">
+			<Text>Dunama VI ibn `Ali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_3">
+			<Text>Hamdun Dunamani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_4">
+			<Text>Muhammad VII ibn Hamdun Erghamma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_5">
+			<Text>Dunama VII ibn Muhammad "Gana"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_6">
+			<Text>`Ali IV Dunamani `Umarni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_7">
+			<Text>Ahmad `Alimi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_8">
+			<Text>Dunama VIII ibn Ahmad Lefiami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_9">
+			<Text>Muhammad VIII Nghileruma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_10">
+			<Text>Ibrahim V ibn Ahmad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_11">
+			<Text>`Ali V ibn Ibrahim Dalatumi "Minargoma"</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_12">
+			<Text>`Umar I ibn Muhammad al-Amin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_13">
+			<Text>`Abd ar-Rahman ibn Muhammad al-Amin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_14">
+			<Text>Abu Bakr ibn `Umar Kura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_15">
+			<Text>Mustafa Kura ibn Muhammad al-Amin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_16">
+			<Text>Ibrahim ibn `Umar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_17">
+			<Text>Hashim ibn `Umar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_18">
+			<Text>Muhammad ibn Abi Bakr al-Amin Kiyari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_19">
+			<Text>Sanda ibn Abi Bakr Limanambe Wuduroma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_20">
+			<Text>Rabih Zubayr ibn Fadl Allah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_21">
+			<Text>Fadl Allah ibn Rabih</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_22">
+			<Text>`Ali ibn Ibrahim Bukarmi Jarbay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_23">
+			<Text>`Umar II ibn Ibrahim Bukarmi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_24">
+			<Text>Aba Sanusi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_DMS_MC_KANEM_BORNU_25">
+			<Text>Abba Kyari Umar Garbai</Text>
+		</Row>
+		<!-- RYOGA's UNIQUE CULTURAL INFLUENCE -->
+		<Row Tag="TXT_KEY_GENERIC_DMS_MC_KANEM_BORNU_INFLUENTIAL_ON_AI_1">
+			<Text>...</Text>
+		</Row>
+		<!-- SUKRITACT's DECISIONS -->
+		<!-- Appoint Zanna Arjinama -->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_APPOINT_ZANNA_ARJINAMA">
+			<Text>Appoint Zanna Arjinama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_APPOINT_ZANNA_ARJINAMA_DESC">
+			<Text>Foreign merchants are guests within in our Empire. While we have built accommodations for them within our cities, we should also appoint an officials to tend to their other needs!
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Must be Kanem-Bornu.
+				[NEWLINE][ICON_BULLET]Must have Wasilirams in at least 3 Cities.
+				[NEWLINE][ICON_BULLET]May be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Culture} [ICON_CULTURE] Culture.
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] Happiness in all Cities with a Wasiliam.
+				[NEWLINE][ICON_BULLET]Wasilirams yield +10% [ICON_GOLD] Gold.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_APPOINT_ZANNA_ARJINAMA_ENACTED_DESC">
+			<Text>
+				Foreign merchants are guests within in our Empire. While we have built accommodations for them within our cities, we should also appoint an officials to tend to their other needs!
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]+1 [ICON_HAPPINESS_1] Happiness in all Cities with a Wasiliam.
+				[NEWLINE][ICON_BULLET]Wasilirams yield +10% [ICON_GOLD] Gold.
+			</Text>
+		</Row>
+		<!-- Support the Malamti -->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_SUPPORT_THE_MALAMTI">
+			<Text>Support the Malamti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_SUPPORT_THE_MALAMTI_DESC">
+			<Text>In the rural areas away from the Court and the City the most austere scholars of faith live together to teach and spread our religion. We should support these Malamati - Scholar families - let them be patronized by the Mai, given the Mahrams, such that they - with documents of privileges and exemptions from taxation and military services - can devout all time to the teachings of faith.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]Must be Kanem-Bornu.
+				[NEWLINE][ICON_BULLET]Must be enacted before the Industrial Era.
+				[NEWLINE][ICON_BULLET]Must have a Majority Religion in the Capital.
+				[NEWLINE][ICON_BULLET]May be enacted once per game.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]{1_Gold} [ICON_GOLD] Gold.
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]+2 [ICON_PEACE] Faith per Great Tile Improvement per tile it’s away from the closest Kanembu City.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_SUPPORT_THE_MALAMTI_ENACTED_DESC">
+			<Text>
+				In the rural areas away from the Court and the City the most austere scholars of faith live together to teach and spread our religion. We should support these Malamati - Scholar families - let them be patronized by the Mai, given the Mahrams, such that they - with documents of privileges and exemptions from taxation and military services - can devout all time to the teachings of faith.
+				[NEWLINE]-------------------------
+				[NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+				[NEWLINE]-------------------------
+				[NEWLINE][ICON_BULLET]+2 [ICON_PEACE] Faith per Great Tile Improvement per tile it’s away from the closest Kanembu City.
+			</Text>
+		</Row>
+		<!-- SUKRITACT's EVENTS -->
+		<!-- Kotoko Boatmen -->
+		<Row Tag="TXT_KEY_EVENT_DMS_SOKOTO_BOATMEN">
+			<Text>Kotoko Boatmen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_SOKOTO_BOATMEN_DESC">
+			<Text>Warriors from the Kotoko region are famed for their skills at navigating rivers and lakes and making swift attacks from their boats. Since the region is now under Kanembu influence, we could demand they share their skills with our armies, though at the risk they might refuse and rebel against us instead. What shall we do?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_SOKOTO_BOATMEN_OUTCOME_1">
+			<Text>Force them to share their tactics with our most skilled warriors!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_SOKOTO_BOATMEN_OUTCOME_2">
+			<Text>Let 'em keep their secrets if they agree to be part of the Kanem-Bornu army!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_SOKOTO_BOATMEN_OUTCOME_3">
+			<Text>They are not worth the trouble - put them down such that they can't rebel later on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_SOKOTO_BOATMEN_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Your 5 most experienced Melee Units, receive the “Kotoko Boatman” Promotion, granting +5% [ICON_STRENGTH] Combat Strength, +1 [ICON_MOVES] Move and no penalty for attacking over Rivers.[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Up to 3 Barbarian Kotoko Boatmen Units spawn near a random Conquered City[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_SOKOTO_BOATMEN_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]1 Kotoko Boatman Unit (equal to the strongest available Melee Unit) with +15% [ICON_STRENGTH] Combat Strength, +2 [ICON_MOVES] Moves and no penalty for attacking over Rivers appears near the Capital[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_iGolden_Age_Points} Golden Age Points[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_SOKOTO_BOATMEN_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]Gain {1_iGolden_Age_Points} [ICON_GOLDEN_AGE] Golen Age Points[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {2_Faith} [ICON_PEACE] Faith[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_SOKOTO_BOATMEN_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>The Kotoko Boatmen have taught out most praised warriors their skills, but have afterwards rebelled against us near the City of {1_sCity}!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_SOKOTO_BOATMEN_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>The Kotoko Boatmen have been integrated into the grand Kanem-Bornu army and is ready to do our bidding!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_SOKOTO_BOATMEN_OUTCOME_RESULT_3_NOTIFICATION">
+			<Text>We have let the Kotoko Boatmen be and they are joyous of of our choice, though our Holy Men point out we have also wasted an opportunity to enlight the Kotoko with our Faith!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENTS_DMS_SOKOTO_BOATMEN_1">
+			<Text>The Kanem-Bornu Empire considers to integrate the famed Kotoko Boatmen Warriors into their army!</Text>
+		</Row>
+		<!-- Support the Yerima or Kayghamma at Court -->
+		<Row Tag="TXT_KEY_EVENT_DMS_YERIMA_OR_KAYGHAMMA">
+			<Text>Support the Yerima or Kayghamma at Court</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_YERIMA_OR_KAYGHAMMA_DESC">
+			<Text>The two factions of the court, the peaceful Yerima and the war-loving Kayghamma, are both trying to dominate over the other. It may be wise of us to place our support behind one of them.[NEWLINE][NEWLINE]NOTE: You will at most, but very likely, get the chance to change who you support once every Era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_YERIMA_OR_KAYGHAMMA_OUTCOME_1">
+			<Text>Support the Yerima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_YERIMA_OR_KAYGHAMMA_OUTCOME_2">
+			<Text>Support the Kayghamma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_YERIMA_OR_KAYGHAMMA_OUTCOME_RESULT_1">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+10% [ICON_GREAT_PERSON] Great People Generation in the Capital while the Empire is at Peace[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_iGold} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET]Lose {2_iCulture} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_YERIMA_OR_KAYGHAMMA_OUTCOME_RESULT_2">
+			<Text>[ICON_BULLET][COLOR_POSITIVE_TEXT]+10% Military Unit Production in the Capital while the Empire is at War[NEWLINE][ICON_BULLET][COLOR_NEGATIVE_TEXT]Lose {1_iGold} [ICON_GOLD] Gold[NEWLINE][ICON_BULLET]Lose {2_iCulture} [ICON_CULTURE] Culture[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_YERIMA_OR_KAYGHAMMA_OUTCOME_RESULT_1_NOTIFICATION">
+			<Text>Supporting the Yerima at court will benefit us greatly during times of peace!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_DMS_YERIMA_OR_KAYGHAMMA_OUTCOME_RESULT_2_NOTIFICATION">
+			<Text>Supporting the Kayghamma at court will benefit us greatly during times of war!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENTS_DMS_YERIMA_OR_KAYGHAMMA_1">
+			<Text>The Mai of the Kanem-Bornu Empire is openly supporting of the Yerima at his Court. They hope for a great time of peace upon their Empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_WORLD_EVENTS_DMS_YERIMA_OR_KAYGHAMMA_2">
+			<Text>The Mai of the Kanem-Bornu Empire is openly supporting of the Kayghamma at his Court. They hope for a great time of expansion of the Empire.</Text>
+		</Row>
+		<!-- The Royal Chronicle of Girgam -->
+		<!-- DUMMY STUFF -->
+		<Row Tag="TXT_KEY_DECISIONS_DMS_SOKOTO_BOATMEN_DUMMY_1">
+			<Text>DMS: Kanem-Bornu: Sokoto Boatman dummy policy 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_DMS_SOKOTO_BOATMEN_DUMMY_2">
+			<Text>DMS: Kanem-Bornu: Sokoto Boatman dummy policy 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SOKOTO_BOATMEN_KANEM_BORNU">
+			<Text>Kotoko Boatman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SOKOTO_BOATMEN_KANEM_BORNU_HELP">
+			<Text>+5% [ICON_STRENGTH] Combat Strength, +1 [ICON_MOVES] Move and no penalty for attacking over Rivers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SOKOTO_BOATMEN">
+			<Text>Kotoko Boatman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_DMS_SOKOTO_BOATMEN_HELP">
+			<Text>+15% [ICON_STRENGTH] Combat Strength, +2 [ICON_MOVES] Move and no penalty for attacking over Rivers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_YERIMA_OR_KAYGHAMMA">
+			<Text>DMS: Kanem-Bornu: Yerima or Kayghamma dummy buildingclass</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_YERIMA_OR_KAYGHAMMA_1_HELP">
+			<Text>DMS: Kanem-Bornu: Yerima or Kayghamma dummy building 1</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_YERIMA_OR_KAYGHAMMA_2_HELP">
+			<Text>DMS: Kanem-Bornu: Yerima or Kayghamma dummy building 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_YERIMA_DUMMY_HELP">
+			<Text>DMS: Kanem-Bornu: Yerima dummy building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_KAYGHAMMA_DUMMY_HELP">
+			<Text>DMS: Kanem-Bornu: Kayghamma dummy building</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_SUPPORT_THE_MALAMTI">
+			<Text>DMS: Kanem-Bornu: Dummy building for Support the Malamti Decision</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_SUPPORT_THE_MALAMTI_1_HELP">
+			<Text>DMS: Kanem-Bornu: Dummy building for Support the Malamti Decision</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_SUPPORT_THE_MALAMTI_2_HELP">
+			<Text>DMS: Kanem-Bornu: Dummy building for Support the Malamti Decision</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DMS_SUPPORT_THE_MALAMTI_3_HELP">
+			<Text>DMS: Kanem-Bornu: Dummy building for Support the Malamti Decision</Text>
+		</Row>
+		<!-- VICEVIRTUOSO's WISH FOR THE WORLD -->
+		<!-- SUKRITACT'S MCIS -->
+		<Row Tag="TXT_KEY_DMS_EVENT_DMS_YERIMA_OR_KAYGHAMMA_CITY_VIEW">
+			<Text>[COLOR_POSITIVE_TEXT]{1_sYerimaOrKayghamma}[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DMS_EVENT_DMS_YERIMA_OR_KAYGHAMMA_CITY_VIEW_HELP">
+			<Text>[NEWLINE]You are currently supporting the {1_sYerimaOrKayghamma} fraction of the royal court. As a result you receive [COLOR_POSITIVE_TEXT]+10% {2_sIconAndBonus} in the Capital while the Empire is at {3_sPeaceOrWar}[ENDCOLOR].[NEWLINE][NEWLINE]Right now you are at {4_sInPeaceOrWar} and thus the effect is {5_sActiveOrInactive}.[NEWLINE][NEWLINE]NOTE: You will at most, but very likely, get the chance to change who you support once every Era.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DMS_EVENT_DMS_SUPPORT_THE_MALAMTI_CITY_VIEW">
+			<Text>[COLOR_POSITIVE_TEXT]SUPPORT THE MALAMTI[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DMS_EVENT_DMS_SUPPORT_THE_MALAMTI_CITY_VIEW_HELP">
+			<Text>[NEWLINE]You are supporting the teachings of the Malamti. As a result you receive [COLOR_POSITIVE_TEXT]+2 [ICON_PEACE] Faith per Great Tile Improvement per tile it’s away from the City[ENDCOLOR].[NEWLINE][NEWLINE]{1_iSupportTheMalamti_1} Improvement(s) 1 tile from the City :  +{2_iFaith1} [ICON_PEACE] Faith.[NEWLINE]{3_iSupportTheMalamti_2} Improvement(s) 2 tile(s) from the City : +{4_iFaith2} [ICON_PEACE] Faith.[NEWLINE]{5_iSupportTheMalamti_3} Improvement(s) 3 tile(s) from the City : +{6_iFaith3} [ICON_PEACE] Faith.[NEWLINE]Total :                                                     +{7_iTotal} [ICON_PEACE] Faith.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

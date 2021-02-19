@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b85ede3f-8e15-45ec-9cd4-ae0a534113dc" version="9">
+  <Properties>
+    <Name>DMS and MC's Civilizations - Kanem-Bornu</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]The Kanem-Bornu Empire[ENDCOLOR] led by Idris Alauma to the game.</Teaser>
+    <Description>See more on civfanatics.com</Description>
+    <Authors>DMS, Pouakai, Scapegrace, reedstilt, Janboruta</Authors>
+    <SpecialThanks>TPangolin, TranquilSilence, Sukritact</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=531133</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp; Decisions" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="The Enlightenment Era" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="JFD's Rise To Power: Piety, Prosperity &amp; Sovereignty" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="JFD's and Pouakai's Mercenaries" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="JFD's Cities in Development" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFDLC" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="5C5B98AD2C777399A3146A3222440ABD" import="1">Art/Diplomacy/IdrisAlauma_Scene.xml</File>
+    <File md5="D69A7CBA24F4A3E4F19DC019948D0199" import="1">Art/Diplomacy/IdrisAlauma_Scene.dds</File>
+    <File md5="D75195D068EB5293C9F6965D6B4F3582" import="1">Art/Event Images/Event_KotokoBoatmen.dds</File>
+    <File md5="01013268E76A0C8179771828E1E3A1F4" import="1">Art/Event Images/Event_RoyalChronicleOfGirgam.dds</File>
+    <File md5="F9FE91DE2B2C49734989D9124A5ADD5D" import="1">Art/Event Images/Event_YerimaOrKayghamma.dds</File>
+    <File md5="8CBE163C64564D47BA8517598074B971" import="1">Art/Graphics/BrownHorse.dds</File>
+    <File md5="52EB6ED26165F131D245CAFECA629A9B" import="1">Art/Graphics/BrownHorse_sref.dds</File>
+    <File md5="394BFBF3DC5DF3A598959BA3C5B112E1" import="1">Art/Graphics/SonghaiHorseman.dds</File>
+    <File md5="D3523CA053D192B2DD16DC89DF74F33C" import="1">Art/Graphics/SonghaiHorseman.fxsxml</File>
+    <File md5="E756F84EBCCCB03E9A29BE484D200125" import="1">Art/Graphics/SonghaiHorseman.gr2</File>
+    <File md5="5A701EC9F2BFBDB54F59445C059B8435" import="1">Art/Graphics/SonghaiHorseman_sref.dds</File>
+    <File md5="724C93539FC61CAFA23B41972DDBA643" import="1">Art/Graphics/sv_u_askawr.dds</File>
+    <File md5="7EE841B422EEAFD79AA72D9F21A5EA31" import="1">Art/Icon Atlas/DMS_MC_KanemBornuAlphaAtlas_128.dds</File>
+    <File md5="F0FB29ED7C1750CA72329B01E6257726" import="1">Art/Icon Atlas/DMS_MC_KanemBornuAlphaAtlas_16.dds</File>
+    <File md5="E2CF5C392E16DE76DF457E9A4C026B4B" import="1">Art/Icon Atlas/DMS_MC_KanemBornuAlphaAtlas_24.dds</File>
+    <File md5="F7A701DE64E16C9CF2C9FA198732D28C" import="1">Art/Icon Atlas/DMS_MC_KanemBornuAlphaAtlas_32.dds</File>
+    <File md5="057DD6F45BB91DC29943D6852EF7B299" import="1">Art/Icon Atlas/DMS_MC_KanemBornuAlphaAtlas_45.dds</File>
+    <File md5="0113B4F3827A9F8EF48321A2FF033BBD" import="1">Art/Icon Atlas/DMS_MC_KanemBornuAlphaAtlas_48.dds</File>
+    <File md5="5F5D7173E9A4FFC0DAC8DA9D2F1C761C" import="1">Art/Icon Atlas/DMS_MC_KanemBornuAlphaAtlas_64.dds</File>
+    <File md5="B720AC63FCB4B34F99B37487B01AED1F" import="1">Art/Icon Atlas/DMS_MC_KanemBornuAlphaAtlas_80.dds</File>
+    <File md5="D7C9C59858143EBE6132D197D391A3AE" import="1">Art/Icon Atlas/DMS_MC_KanemBornuAtlas_128.dds</File>
+    <File md5="738168182A495F5A9F1DA869C9A6B45C" import="1">Art/Icon Atlas/DMS_MC_KanemBornuAtlas_256.dds</File>
+    <File md5="1930352C0D6FDEEF4908287519F7A5D1" import="1">Art/Icon Atlas/DMS_MC_KanemBornuAtlas_32.dds</File>
+    <File md5="959577EE94BA98C75F67A21AF4EE519E" import="1">Art/Icon Atlas/DMS_MC_KanemBornuAtlas_45.dds</File>
+    <File md5="7F0A781F94CCAC4E5AD6C150438DB407" import="1">Art/Icon Atlas/DMS_MC_KanemBornuAtlas_64.dds</File>
+    <File md5="5DD92C62977D7AE571CD3681325EA658" import="1">Art/Icon Atlas/DMS_MC_KanemBornuAtlas_80.dds</File>
+    <File md5="48E836381F12DB1F4CE45458DA711F3F" import="1">Art/Icon Atlas/UnitFlag_Askawr_32.dds</File>
+    <File md5="C08A5FF314140D399350519B9BE851FE" import="1">Art/Map/IdrisAlauma_DOM.dds</File>
+    <File md5="AAE06F7C269E9128CCD095FAC3E12146" import="1">Art/Map/KanemBornuMap512.dds</File>
+    <File md5="1219CB7510EF7EF3D46401809E3AF49E" import="1">Audio/IdrisAlauma_Peace.mp3</File>
+    <File md5="99BA2498D009A7FA1335EBB9B35398FC" import="1">Audio/IdrisAlauma_War.mp3</File>
+    <File md5="309E5A8F3BF7164AE9BEAFDBB130B5CD" import="0">Core/DMS_MC_KanemBornu_ArtDefines.sql</File>
+    <File md5="DEF5827AFA85FC06F74F5FBC623EC42D" import="0">Core/DMS_MC_KanemBornu_GameDefines.sql</File>
+    <File md5="77776A537235F4030DC209B86F4CF3E7" import="0">Core/DMS_MC_KanemBornu_GameDefines_Diplomacy.sql</File>
+    <File md5="46C6BA040384C645A1330834E435853D" import="0">Core/DMS_MC_KanemBornu_GameText.xml</File>
+    <File md5="0ED470C38F4BA29AA7501F4C1D687C99" import="0">Core/DMS_MC_KanemBornu_GameText_Diplomacy.xml</File>
+    <File md5="A8D29B6C64F82428378CBF2F6FD2038A" import="0">Core/DMS_MC_KanemBornu_GameText_ModSupport.xml</File>
+    <File md5="5BB609F858C98B247A041E4060880EE5" import="0">Core/DMS_MC_KanemBornu_GameDefines_ModSupport.sql</File>
+    <File md5="FC6E117C75835973F759656BB4F6EF97" import="0">DeleteMissingReferences.xml</File>
+    <File md5="1A5FDA22914D0BB6E5D4D0501BEDE929" import="0">DMS_Kanem_Bornu_UserSettings.sql</File>
+    <File md5="618EDA460EA61BC55B6AACC439D9C72E" import="1">Lua/DMS_MC_KanemBornu_Decisions.lua</File>
+    <File md5="5B8E0D5731D2CF31A9A2564CCDF6E11A" import="1">Lua/DMS_MC_KanemBornu_Events.lua</File>
+    <File md5="AA31929722FDB97DB8D05E71B8B3EABD" import="0">Lua/DMS_MC_KanemBornu_Functions.lua</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="0">Lua/Utilities/PlotIterators.lua</File>
+    <File md5="86C1C3EDCE4699DE320A932C4E70E22C" import="0">Lua/Utilities/Sukritact's MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="0">Lua/Utilities/Sukritact's MCIS/CityInfoStack.xml</File>
+    <File md5="3492C8FDB6C8569A0D3F5895B6557EC7" import="0">Lua/Utilities/Sukritact's MCIS/DMS_SupportTheMalamtiCityInfo.lua</File>
+    <File md5="0677FB64E840DA983501F77EFE50A649" import="0">Lua/Utilities/Sukritact's MCIS/DMS_SupportTheMalamtiCityInfo.xml</File>
+    <File md5="E7B7A02B6E61E4337FE8F5F736FCEE76" import="0">Lua/Utilities/Sukritact's MCIS/DMS_YerimaOrKayghammaCityInfo.lua</File>
+    <File md5="6649FA92BB31AC4635FCA2E783032235" import="0">Lua/Utilities/Sukritact's MCIS/DMS_YerimaOrKayghammaCityInfo.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/DMS_MC_KanemBornu_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_MC_KanemBornu_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_MC_KanemBornu_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_MC_KanemBornu_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_MC_KanemBornu_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_MC_KanemBornu_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DMS_MC_KanemBornu_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>DeleteMissingReferences.xml</UpdateDatabase>
+      <UpdateDatabase>DMS_Kanem_Bornu_UserSettings.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/DMS_MC_KanemBornu_Functions.lua">
+      <Name>DMS_MC_KanemBornu_Functions.lua</Name>
+      <Description>DMS_MC_KanemBornu_Functions.lua</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact's MCIS/CityInfoStack.lua">
+      <Name>CityInfoStack.lua</Name>
+      <Description>CityInfoStack.lua</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact's MCIS/DMS_YerimaOrKayghammaCityInfo.lua">
+      <Name>YerimaOrKayghammaCityInfo.lua</Name>
+      <Description>YerimaOrKayghammaCityInfo.lua</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/Sukritact's MCIS/DMS_SupportTheMalamtiCityInfo.lua">
+      <Name>SupportTheMalamtiCityInfo</Name>
+      <Description>SupportTheMalamtiCityInfo</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

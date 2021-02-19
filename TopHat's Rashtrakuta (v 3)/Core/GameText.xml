@@ -1,0 +1,379 @@
+<GameData>
+    <Language_en_US>
+        <!--Cities-->
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_1">
+            <Text>Manyakheta</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_2">
+            <Text>Mayurkhandi</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_3">
+            <Text>Lattaluru</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_4">
+            <Text>Pattakadal</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_5">
+            <Text>Sthambadri</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_6">
+            <Text>Aihole</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_7">
+            <Text>Kolhapur</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_8">
+            <Text>Ellora</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_9">
+            <Text>Konnur</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_10">
+            <Text>Achalapura</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_11">
+            <Text>Nashik</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_12">
+            <Text>Badami</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_13">
+            <Text>Bharuch</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_14">
+            <Text>Tripuri</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_15">
+            <Text>Amravati</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_16">
+            <Text>Samangad</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_17">
+            <Text>Banaras</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_18">
+            <Text>Banavasi</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_19">
+            <Text>Someshvara</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_20">
+            <Text>Sanjan</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_21">
+            <Text>Vemulawada</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_22">
+            <Text>Surat</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_23">
+            <Text>Baroda</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_24">
+            <Text>Sirur</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_25">
+            <Text>Jabalpur</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_26">
+            <Text>Niravadyapura</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_27">
+            <Text>Peruvanguru</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_28">
+            <Text>Shravanabelagola</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CITY_NAME_THP_RASHTRAKUTA_29">
+            <Text>Sribhavan</Text>
+        </Row>
+        
+        <!--Spies-->
+        <Row Tag="TXT_KEY_SPY_NAME_THP_RASHTRAKUTA_0">
+            <Text>Bankesha</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_RASHTRAKUTA_1">
+            <Text>Govinda</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_RASHTRAKUTA_2">
+            <Text>Jinasena</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_RASHTRAKUTA_3">
+            <Text>Virasena</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_RASHTRAKUTA_4">
+            <Text>Gunabhadra</Text>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_RASHTRAKUTA_5">
+            <Text>Chandrabbalabbe</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_RASHTRAKUTA_6">
+            <Text>Revakanimmadi</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_RASHTRAKUTA_7">
+            <Text>Shilamahadeva</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_RASHTRAKUTA_8">
+            <Text>Sankha</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        <Row Tag="TXT_KEY_SPY_NAME_THP_RASHTRAKUTA_9">
+            <Text>Gamundabbe</Text>
+            <Gender>feminine</Gender>
+        </Row>
+        
+        <!--Basic Info-->
+        <Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA">
+            <Text>Amoghavarsha I</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_RASHTRAKUTA_ADJECTIVE">
+            <Text>Rashtrakuta</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_RASHTRAKUTA_DESC">
+            <Text>Rashtrakuta Empire</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV_THP_RASHTRAKUTA_SHORT_DESC">
+            <Text>Rashtrakuta</Text>
+        </Row>
+        
+        <!--Civilopedia-->
+        <Row Tag="TXT_KEY_PEDIA_THP_RASHTRAKUTA_HEADING_1">
+            <Text>Origin of the Rashtrakuta</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_RASHTRAKUTA_TEXT_1">
+            <Text>The origins of the Rashtrakuta dynasty are contested; however, by the time they ascended to become the dominant power in southern India, the Rashtrakuta elite were a Kannada-speaking populace. The founder of the Rashtrakuta imperial dynasty was Dantidurga, who initially came to power as a vassal of the Chalukya in 735. For most of his reign, Dantidurga remained a vassal of the Chalukya, but he wrested his independence in a successful battle in 753. In the remaining few years of his life, Dantidurga then led a series of military ventures against neighboring states. This established Karnataka as the heartland of the fledgling Rashtrakuta empire.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_RASHTRAKUTA_HEADING_2">
+            <Text>Ascendancy</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_RASHTRAKUTA_TEXT_2">
+            <Text>Throughout the rest of the eighth century, the Rashtrakuta continued to expand, coming to form the "Kannauj Triangle" alongside the Pala and Pratihara empires. The reign of Govinda III (r. 793 - 814) brought the Rashtrakuta to its highest level of military and territorial strength; if his epigraphy is to be believed, he ruled as far north as the Himalayas and as far east as the Ganges. Govinda III was succeeded by Amoghavarsha I (r. 815 - 877), who focused less on conquering and more on consolidating; Amoghavarsha also oversaw an artistic and religious flourishing for the empire. After Amoghavarsha's death, the empire contracted somewhat, settling at its heartland in the western Deccan and Gujarat.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_RASHTRAKUTA_HEADING_3">
+            <Text>Later Rashtrakuta History</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PEDIA_THP_RASHTRAKUTA_TEXT_3">
+            <Text>Krishna III (r. 939 - 967) was the last great military mind of the Rashtrakuta empire. He reclaimed many of the territories that had been lost in the post-Amoghavarsha years, and granted large fiefdoms to many of his commanders. After his death, however, only a few years elapsed before the Paramara invaded the Rashtrakuta empire and sacked Manyakheta. This led to a collapse in the prestige of the dynasty, and many of Rashtrakuta's tributaries - included the recently landed generals of Krishna III - broke away from the empire. The final Rashtrakuta king, Indra IV, ultimately brought an end to the empire in 982, when he committed sallekhana - the Jain practice of fasting until death.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_PEDIA_NAME">
+            <Text>Amoghavarsha I</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_PEDIA_SUBTITLE">
+            <Text>Leader of Rashtrakuta</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_PEDIA_TITLES_1">
+            <Text>Rashtrakuta Emperor</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_PEDIA_LIVED">
+            <Text>800 - 878 AD</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_PEDIA_HEADING_1">
+            <Text>Early Life</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_PEDIA_TEXT_1">
+            <Text>Amoghavarsha Nrupathanga I (r. 815 - 877) was born in 800, during the reign of his father Govinda III. Born as Sharva, he took the name Amoghavarsha when he ascended the throne at the age of 14. During his minority, the empire was ruled by his cousin, Karka Suvarnavarsha; however, beginning in 816, a series of revolts wracked the Rashtrakuta empire. Amoghavarsha managed to subdue the last of these in 821, by which point he assumed sole rulership of the empire.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_PEDIA_HEADING_2">
+            <Text>Reign</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_PEDIA_TEXT_2">
+            <Text>Amoghavarsha participated in some wars, principally against the Eastern Chalukyas or the various southern states, but he generally preferred to maintain peaceable relations with his neighbors. Instead, he largely focused on literature and religion. Amoghavarsha was a Digambara Jain, following the monk Jinasena, but he also patronized works by Hindu and Buddhist artists. Amoghavarsha was also a writer himself - his most prominent piece was the Kavirajamarga ("Royal Path for Poets"), a treatise on poetry and grammar. The earliest known work to be written in Kannada, the Kavirajamarga was composed around 850, and it sought to establish a standardized literary style for Rashtrakuta poets.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_PEDIA_HEADING_3">
+            <Text>Abdication</Text>
+        </Row>
+        <Row Tag="TXT_KEY_LEADER_THP_AMOGHAVARSHA_PEDIA_TEXT_3">
+            <Text>In 877, an aging Amoghavarsha voluntarily abdicated the throne in favor of his son, Krishna II. He died the following year, and because he favored religion and the arts over warfare, he was posthumously nicknamed the "Ashoka of the South."</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV5_DAWN_THP_RASHTRAKUTA_TEXT">
+            <Text>Salutations, Amoghavarsha Nrupathanga, the Ashoka of the south! In your reign of over sixty years, you definitively established yourself as the most illustrious ruler of the Rashtrakuta empire. Reigning over a vast swath of southern India, your empire wrested tribute from all of its surrounding states, and although you did not prefer to fight you were fearsome if tested. Your real glory, though, was in your religious patronage: you commissioned great arts, not just in your own Jain tradition but also in those of the Hindus and Buddhists. You even contributed to this tradition yourself! Your Kavirajamarga standardized the poetic stylings of your court, and it inaugurated the ancient tradition of Kannada literature.[NEWLINE][NEWLINE]Amoghavarsha, your people clamor for the resplendence and cultural output of your empire. Can you establish an empire that rules with generosity and faith for all of its subjects? Can you build a civilization that will stand the test of time?</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_RASHTRAKUTA_SHORT">
+            <Text>Royal Path for Poets</Text>
+        </Row>
+        <Row Tag="TXT_KEY_TRAIT_THP_RASHTRAKUTA">
+            <Text>Cities producing at least 4 [ICON_PEACE] Faith generate points per turn toward a random cultural [ICON_GREAT_PEOPLE] Great Person. Happiness buildings gain a [ICON_GREAT_WORK] Great Work of Art slot.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_STHIRABHUTA">
+            <Text>Sthirabhuta Kataka</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_STHIRABHUTA_HELP">
+            <Text>Medieval Era front-line unit. Only Rashtrakuta may build it. The Sthirabhuta Kataka receives Golden Age points when killing enemy units, and it gains more Combat Strength for every Great Work present in its city.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_STHIRABHUTA_STRATEGY">
+            <Text>If you need to convert your artistic output into a military force, the Sthirabhuta Kataka provides you the best means to do so. Build it in cities where you concentrate your Great Works, and you will have a unit that can dominate enemy armies; this added strength will also let you kill more units, generating plenty of Golden Age points.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_UNIT_THP_STHIRABHUTA_TEXT">
+            <Text>In the Rashtrakuta empire, the sthirabhuta kataka was the garrison of a standing army within a city. The best-known sthirabhuta kataka was within the capital city of Manyakheta.[NEWLINE][NEWLINE](I think the sthirabhuta kataka was actually a place, not a military unit... shhhhh don't tell anyone)</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BUILD_THP_BASADI_REC">
+            <Text>It yields +2 [ICON_GOLDEN_AGE] Golden Age points, and will also yield +2 [ICON_CULTURE] Culture after you research Archaeology. It also produces [ICON_PEACE] Faith during Golden Ages, scaling with each Great Work in the nearest city.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_THP_BASADI">
+            <Text>Construct a [LINK=IMPROVEMENT_THP_BASADI]Basadi[\LINK]</Text>
+        </Row>
+        <Row Tag="TXT_KEY_BUILD_THP_BASADI_HELP">
+            <Text>Yields +2 [ICON_GOLDEN_AGE] Golden Age Points; also yields +2 [ICON_CULTURE] Culture after researching Archaeology. During [ICON_GOLDEN_AGE] Golden Ages, generates [ICON_PEACE] Faith for each Great Work in your nearest city. Must be built on Hills, and not adjacent to an existing Basadi.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_IMPROVEMENT_THP_BASADI">
+            <Text>Basadi</Text>
+        </Row>
+        <Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_THP_BASADI_TEXT">
+            <Text>A basadi is one term for a Jain temple, used most popularly in Karnataka and southern India. Rashtrakuta architecture was characterized by large rock-cut temple complexes; the Ellora Caves, the most famous example thereof, include the world's largest monolithic rock structure. The architectural achievements of the Rashtrakuta period had a long-lasting influence on Dravidian architectural styles.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_STHIRABHUTA">
+            <Text>Glory of Karnataka</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_STHIRABHUTA_HELP">
+            <Text>Generates Golden Age Points from kills.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_RASH_GW">
+            <Text>Basadi Education</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_RASH_ONE_GW_HELP">
+            <Text>Trained in a city with one Great Work, granting +5% Combat Strength.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_RASH_TWO_GW_HELP">
+            <Text>Trained in a city with two Great Works, granting +10% Combat Strength.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_RASH_THREE_GW_HELP">
+            <Text>Trained in a city with three Great Works, granting +15% Combat Strength.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROMOTION_THP_RASH_MANY_GW_HELP">
+            <Text>Trained in a city with four or more Great Works, granting +20% Combat Strength.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_THP_RASHTRAKUTA_DUMMY_BUILDING">
+            <Text>Rock-Cut Gallery</Text>
+        </Row>
+        
+        <!--Mod Support-->
+        <Row Tag="TXT_KEY_GENERIC_THP_RASHTRAKUTA_INFLUENTIAL_ON_AI_1">
+            <Text>Our people are now wearing your lungis and listening to your harikatha. I worry that the rest of the world will also succumb to the influence of your culture.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROVINCE_JFD_DUCHY_RASHTRAKUTA">
+            <Text>Rashtra</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROVINCE_JFD_COUNTY_RASHTRAKUTA">
+            <Text>Vishaya</Text>
+        </Row>
+        <Row Tag="TXT_KEY_PROVINCE_JFD_BARONY_RASHTRAKUTA">
+            <Text>Nadu</Text>
+        </Row>
+        <Row Tag="TXT_KEY_COUNCILLOR_JFD_CHANCELLOR_DESC_THP_RASHTRAKUTA">
+            <Text>Mahasandhivigrahi</Text>
+        </Row>
+        <Row Tag="TXT_KEY_COUNCILLOR_JFD_CHAPLAIN_DESC_THP_RASHTRAKUTA">
+            <Text>Acharya</Text>
+        </Row>
+        <Row Tag="TXT_KEY_COUNCILLOR_JFD_HERALD_DESC_THP_RASHTRAKUTA">
+            <Text>Purnamathya</Text>
+        </Row>
+        <Row Tag="TXT_KEY_COUNCILLOR_JFD_MARSHAL_DESC_THP_RASHTRAKUTA">
+            <Text>Dandanayaka</Text>
+        </Row>
+        <Row Tag="TXT_KEY_COUNCILLOR_JFD_STEWARD_DESC_THP_RASHTRAKUTA">
+            <Text>Mahasamantha</Text>
+        </Row>
+        
+        <!--Additional Achievements-->
+        <Row Tag="TXT_KEY_MOD_THP_RASHTRAKUTA_NAME">
+            <Text>TopHat's Rashtrakuta</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_RASHTRAKUTA_ID_CFC">
+            <Text>6a1a8d11-2018-1110-bf3e-754f7db79a54</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_RASHTRAKUTA_ID_STEAM">
+            <Text>5a1ba5db-6f84-475b-bb25-76332aad17d3</Text>
+        </Row>
+        <Row Tag="TXT_KEY_MOD_THP_RASHTRAKUTA_AUTHORS">
+            <Text>TopHatPaladin</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_RASHTRAKUTA_VICTORY_HEADER">
+            <Text>Ahinsa Is More Of A Suggestion</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_RASHTRAKUTA_VICTORY_TEXT">
+            <Text>Win the game on any difficulty setting as Rashtrakuta.</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_RASHTRAKUTA_SPECIAL_HEADER">
+            <Text>Walking the Kavirajamarga</Text>
+        </Row>
+        <Row Tag="TXT_KEY_AA_THP_RASHTRAKUTA_SPECIAL_TEXT">
+            <Text>As Rashtrakuta, hold at least five Great Works of Writing in your Capital.</Text>
+        </Row>
+        
+        <!--E&D Support-->
+        <Row Tag="TXT_KEY_DECISIONS_THP_RASHTRAKUTA_MAPPILA">
+             <Text>Begin Commerce with the Mappila</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_THP_RASHTRAKUTA_MAPPILA_DESC">
+             <Text>Foreign merchants have begun intermarrying with local women, creating an ethnically mixed generation that calls themselves the Mappila. With their links to foreign lands, the Mappila may be our means to get ahold of valuable imported goods. Let us encourage this trade!
+             [NEWLINE]-------------------------
+             [NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+             [NEWLINE]-------------------------
+             [NEWLINE][ICON_BULLET]Player must be Rashtrakuta
+             [NEWLINE][ICON_BULLET]Must have researched Optics
+             [NEWLINE][ICON_BULLET]May only be enacted once per game
+             [NEWLINE]-------------------------
+             [NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+             [NEWLINE]-------------------------
+             [NEWLINE][ICON_BULLET]200 [ICON_GOLD] Gold
+             [NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+             [NEWLINE]-------------------------
+             [NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+             [NEWLINE]-------------------------
+             [NEWLINE][ICON_BULLET]Worked [ICON_RES_HORSE] Horses generate [ICON_GOLD] Gold
+             [NEWLINE][ICON_BULLET]Receive a source of [ICON_RES_HORSE] Horses in each coastal city you control
+             </Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_THP_RASHTRAKUTA_MAPPILA_ENACTED_DESC">
+             <Text>Foreign merchants have begun intermarrying with local women, creating an ethnically mixed generation that calls themselves the Mappila. With their links to foreign lands, the Mappila may be our means to get ahold of valuable imported goods. Let us encourage this trade!
+             [NEWLINE]-------------------------
+             [NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+             [NEWLINE]-------------------------
+             [NEWLINE][ICON_BULLET]Worked [ICON_RES_HORSE] Horses generate [ICON_GOLD] Gold
+             [NEWLINE][ICON_BULLET]Receive a source of [ICON_RES_HORSE] Horses in each coastal city you control
+             </Text>
+        </Row>
+        <Row Tag="TXT_KEY_WORLD_EVENT_THP_RASHTRAKUTA_MAPPILA">
+            <Text>{1_LeaderName} has initiated trade with the Mappila in {2_CivName}!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_THP_RASHTRAKUTA_TAXATION">
+             <Text>Collect Emergency Taxes</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_THP_RASHTRAKUTA_TAXATION_DESC">
+            <Text>The ravages of war have not been kind to us; our dwindling treasury is proof of that. Perhaps it is time to enact Sahadhyantara Siddhi, the emergency tax. This will allow us to squeeze some amount of wealth out of our uncultivated lands, and hopefully right the ship.
+             [NEWLINE]-------------------------
+             [NEWLINE][COLOR_POSITIVE_TEXT]Requirements:[ENDCOLOR]
+             [NEWLINE]-------------------------
+             [NEWLINE][ICON_BULLET]Player must be Rashtrakuta
+             [NEWLINE][ICON_BULLET]Must be at war
+             [NEWLINE][ICON_BULLET]Must be losing [ICON_GOLD] Gold per turn
+             [NEWLINE][ICON_BULLET]May only be enacted once per game
+             [NEWLINE]-------------------------
+             [NEWLINE][COLOR_POSITIVE_TEXT]Costs:[ENDCOLOR]
+             [NEWLINE]-------------------------
+             [NEWLINE][ICON_BULLET]200 [ICON_CULTURE] Culture
+             [NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+             [NEWLINE]-------------------------
+             [NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+             [NEWLINE]-------------------------
+             [NEWLINE][ICON_BULLET]Receive a sum of [ICON_GOLD] Gold for Forest and Jungle tiles in your control
+             </Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_THP_RASHTRAKUTA_TAXATION_ENACTED_DESC">
+             <Text>The ravages of war have not been kind to us; our dwindling treasury is proof of that. Perhaps it is time to enact Sahadhyantara Siddhi, the emergency tax. This will allow us to squeeze some amount of wealth out of our uncultivated lands, and hopefully right the ship.
+                 [NEWLINE]-------------------------
+                 [NEWLINE][COLOR_POSITIVE_TEXT]Rewards:[ENDCOLOR]
+                 [NEWLINE]-------------------------
+                 [NEWLINE][ICON_BULLET]Receive a sum of [ICON_GOLD] Gold for Forest and Jungle tiles in your control
+             </Text>
+        </Row>
+        <Row Tag="TXT_KEY_WORLD_EVENT_THP_RASHTRAKUTA_TAXATION">
+             <Text>{1_LeaderName} has collected an emergency tax in {2_CivName}!</Text>
+        </Row>
+        </Language_en_US>
+    </GameData>

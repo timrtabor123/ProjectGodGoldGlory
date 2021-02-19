@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/10/2021 12:21:18 AM -->
+<GameData>
+	<!--IDK-->
+	<Language_en_US>
+		<Row Tag="TXT_KEY_EW_THUKAY_PILLAGE_HELP">
+			<Text>[COLOR_POSITIVE_TEXT]Pillage[ENDCOLOR][NEWLINE][NEWLINE]An improvement in this tile may not be used until repaired. Pillaging an improvement will earn [ICON_GOLD] Gold and heal your unit by 25 points; pillaging with a THUKAY will also earn [ICON_PRODUCTION] Production and [ICON_PEACE] Faith.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EW_THUKAY">
+			<Text>What doesn't kill you</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_EW_THUKAY_HELP">
+			<Text>+2 Combat Strength when attacked.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EW_KAREN_DUMMY">
+			<Text>+1% [ICON_PRODUCTION]</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

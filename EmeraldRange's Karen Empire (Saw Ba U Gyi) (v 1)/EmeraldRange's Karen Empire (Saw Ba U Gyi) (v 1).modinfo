@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="68c29c42-0fcb-4fb7-9c5c-40a2b8a03715" version="1">
+  <Properties>
+    <Name>EmeraldRange's Karen Empire (Saw Ba U Gyi)</Name>
+    <Teaser>Adds the Karen people and Kawthoolei into Civ V as a playabla Civilisation</Teaser>
+    <Description>Adds the Karen people and Kawthoolei into Civ V as a playable Civilisation</Description>
+    <Authors>EmeraldRange</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Map Pack" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions (Complete)" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="6A3364DFC97DDCFA6D2930EA9AD3795E" import="1">Art/Atlases/KarenAlphaIconAtlas24.dds</File>
+    <File md5="19D5ED545FE0E29C0B50A460CA75543B" import="1">Art/Atlases/KarenAlphaIconAtlas32.dds</File>
+    <File md5="9173A5E6FE95E6CC860DFB6627EBD3EF" import="1">Art/Atlases/KarenAlphaIconAtlas48.dds</File>
+    <File md5="68C664A3BE79BFA29E441AF0AA6BEC9B" import="1">Art/Atlases/KarenAlphaIconAtlas64.dds</File>
+    <File md5="F7FAA3E53036A33D54034E7C0BC034AA" import="1">Art/Atlases/KarenIconAtlas128.dds</File>
+    <File md5="E761D1D6B76889B02E31692795B68031" import="1">Art/Atlases/KarenIconAtlas256.dds</File>
+    <File md5="1FCBF292D9B402C01A9196A222CBFEA1" import="1">Art/Atlases/KarenIconAtlas32.dds</File>
+    <File md5="80B70B850FA2E3BDEDCFF6A0A7F1BE80" import="1">Art/Atlases/KarenIconAtlas45.dds</File>
+    <File md5="AB0295897A22EB38C4A0491130251FA4" import="1">Art/Atlases/KarenIconAtlas64.dds</File>
+    <File md5="F1324C5EF4D6255F16F6B275C605D730" import="1">Art/Atlases/KarenIconAtlas80.dds</File>
+    <File md5="079C4488852237CAAC10CDB9D69C04C0" import="1">Art/Karen_DoM.mp3</File>
+    <File md5="1104C3E9FBD45950F4F1EC7D96667B28" import="1">Art/Karen_Peace.mp3</File>
+    <File md5="A94B33416CD9FF48BB622B6D8D33C409" import="1">Art/Karen_scene.xml</File>
+    <File md5="761929B444EA66D8915FC4FA7BAB01B6" import="1">Art/KarenCartography.dds</File>
+    <File md5="3B53EECE8C19334E27A1DF7939139C0B" import="1">Art/KarenDoM.dds</File>
+    <File md5="DB0729CB55CBCDD46094E242D309A414" import="1">Art/KarenLS.dds</File>
+    <File md5="ACBC88B0FE9740F69DD7F761F94E99DC" import="1">Art/Karen_War.mp3</File>
+    <File md5="E3FF392451A09AD7449C584835D2A594" import="1">Art/SV_er_thukay.dds</File>
+    <File md5="A487EEC3478947D7567BD2FDD9E05197" import="1">Art/unitflag_er_thukay.dds</File>
+    <File md5="F10CB44446C60A6A0B9DB0ED5E276775" import="0">Art/Unused Unit Textures/er_thukaygun_crew_diff.dds</File>
+    <File md5="2776895ECB57DAB37C58A068FD02A48B" import="0">Art/Unused Unit Textures/er_thukaygun_diff.dds</File>
+    <File md5="ED93421746063A63A587B7E0A766CBF7" import="0">Core/ArtDefines.sql</File>
+    <File md5="72D3A0DF282551EE10676D5E0C342176" import="0">Core/Karen_core.sql</File>
+    <File md5="AB93B2A43AEDC2223AD9C4157670AFE8" import="0">Core/Lua/ER_Karen_Functions.lua</File>
+    <File md5="86D516646F4C0AB8538F584581A8BB97" import="0">Core/Lua/EW_Karen_Functions.lua</File>
+    <File md5="9FA38E11CC4F261EBA92032E9E148AC1" import="1">Core/Lua/EW_Karen_Functions.xml</File>
+    <File md5="7233A438453AB13AB6B4383B390FF84F" import="0">Core/Lua/EW_Lua_Core.sql</File>
+    <File md5="676D4AA8A2593240EE8C6CFCDFEC9693" import="0">Core/Lua/EW_Lua_Text.xml</File>
+    <File md5="6957298FAF8F5B86E55E066D6E568E28" import="1">Core/Lua/PlotIterators.lua</File>
+    <File md5="06D9EF70237070B1217EFDB4CE54D6F7" import="0">Core/Supports.sql</File>
+    <File md5="35926218E1D3F24D911710848DAFB461" import="0">Core/Text.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/Text.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Karen_core.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Supports.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Lua/EW_Lua_Core.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Lua/EW_Lua_Text.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/Lua/ER_Karen_Functions.lua">
+      <Name>Karen Func</Name>
+      <Description>ER Karen Func</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Core/Lua/EW_Karen_Functions.lua">
+      <Name>Karen Funcs</Name>
+      <Description>EW Karen Funcs</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

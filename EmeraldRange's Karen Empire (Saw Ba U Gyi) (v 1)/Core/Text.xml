@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created by ModBuddy on 9/30/2020 5:41:14 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_ER_KAREN_DESC">
+			<Text>Karen Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ER_KAREN_SHORT_DESC">
+			<Text>Karen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_ER_KAREN_ADJECTIVE">
+			<Text>Karen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_DAWN_ER_KAREN_TEXT">
+			<Text>Katohduh, Saw Ba U Gyi, president of the Karen National Union. You spent your life working for the independence of the Karen people from the British or the Burmese. Your words have inspired many to continue to fight for an unblemished Kawthoolei and for the dignity of the Karen people. You rose valiantly to secure independence by any means and put the thought of surrender out of the Karen peoples' minds. From legal battles to armed battles, your leadership in many fronts serves as an eternal memory for those who fight on today.[NEWLINE][NEWLINE]Alas, Saw Ba U Gyi, while your martyrdom inspired the fight far longer than any other war today, the goals have not been achieved. The Karen people look for leadership in their modern struggle for autonomy. Can you bring the issues of your people to the forefront again? Will you lead the Karen to independence? Can you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--Leader-->
+		<Row Tag="TKT_KEY_ER_SAW_BA_U_GYI_DESC">
+			<Text>Saw Ba U Gyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_SAW_BA_U_GYI_TITLE">
+			<Text>KNU President</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_SAW_BA_U_GYI_LIVED">
+			<Text>1905-1950</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ER_SAW_BA_U_GYI_NAME">
+			<Text>Saw Ba U Gyi</Text>
+		</Row>
+		<!--FIX THIS SHIT-->
+		<Row Tag="TXT_KEY_LEADER_ER_SAW_BA_U_GYI_FIRSTGREETING_1">
+			<Text>Welcome to this unblemished land. I am the President of the Karen National Union, Saw Ba U Gyi. Do not forget that we will determine our own political destiny...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SAW_BA_U_GYI_FIRSTGREETING_2">
+			<Text>This is Kawthoolei, dear friend. I, Saw Ba U Gyi, preside over her beauty. If you blemish it... well, let us not talk about such gloom yet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SAW_BA_U_GYI_DEFEATED_1">
+			<Text>Surrender is out of the question, naive trickster! Prepare for an eternal war!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SAW_BA_U_GYI_DEFEATED_2">
+			<Text>You can take me and this fort, but the Karen people shall never give up their arms!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SAW_BA_U_GYI_ATTACKED_1">
+			<Text>You have started a war you will never win. The only surrender we will consider is yours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SAW_BA_U_GYI_ATTACKED_2">
+			<Text>You think us weak but watch! We will fight for 10, 50, 100, 1000 years to come! Can your arms match so long against the Karen?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SAW_BA_U_GYI_DECLAREWAR_1">
+			<Text>You insult our sovereignty and leave us no choice but to fight until you recognize Kawthoolei!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SAW_BA_U_GYI_DECLAREWAR_2">
+			<Text>The recognition of Kawthoolei must be complete. You shall join our unblemished lands</Text>
+		</Row>
+		<!--UA-->
+		<Row Tag="TXT_KEY_TRAIT_ER_KAWTHOOLEI">
+			<Text>Cities gain a +1% [ICON_PRODUCTION] Production increase each turn while at war with a nearby city. Unit starting their turn on unimproved friendly tiles gain the Medic Promotion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_ER_KAWTHOOLEI_SHORT">
+			<Text>Land Without Blemish</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ER_KAREN_MEDIC">
+			<Text>Medic (Karen)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ER_KAREN_MEDIC_HELP">
+			<Text>All units in adjacent tiles [COLOR_POSITIVE_TEXT]Heal 5 Additional HP[ENDCOLOR] per turn.</Text>
+		</Row>
+		<!--UB-->
+		<Row Tag="TXT_KEY_BUILDING_ER_BUPHAW_DESC">
+			<Text>Buphaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ER_BUPHAW_HELP">
+			<Text>Does not require a river. +1 [ICON_CULTURE] Culture, +1 [ICON_PEACE] Faith on [ICON_FOOD] Food yielding resources in the city. Passively heals Karen units on any farm within 3 tiles of the city, regardless of who owns the tile or the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ER_BUPHAW_STRATEGY">
+			<Text>Provides Culture and Faith to Food yielding resources. It also heals your units on farms within 3 tiles, regardless of who own the tile or the city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ER_BUPHAW_TEXT">
+			<Text>Buphaw is the Karen name for a rice silo. Although rice is important to many groups, rice silos were crucial to the continued supply of Karen rebels. In the Battle of Insein, the rice silos allowed the Karen to fight for 112 days in a seige without any real preparation or troop experience. Many Karen revolutionaries cooked rice in bamboo whilst on the field and sustained themselves from villages' silos. The Karen cultural need to host your guest well with good food in sustained the campaing beyond the Battle of Insein until the KNU could refind their footing</Text>
+		</Row>
+		<!--UU-->
+		<Row Tag="TXT_KEY_UNIT_ER_THUKAY">
+			<Text>Thukay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ER_THUKAY_STRATEGY">
+			<Text>Slightly weaker than the anti-aircraft gun it replaces; it excels at running through enemy lands and pillaging without getting caught.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_ER_THUKAY_HELP">
+			<Text>Weaker than anti-aircraft gun. Gain 2 [ICON_STRENGTH] Combat Strength every time it is attacked (max 100).[NEWLINE]No movement cost to pillage and ignores enemy ZOC. Pillaging sends production and faith to your nearest city.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_ER_THUKAY">
+			<Text>Thukay is the Karen word for a Brigade and various Karen rebel groups organised themsevles into a brigae. The Karen brigades would move quickly between narrow lines of control and, in the second stage of the war, control Burma-Thailand trade to fund the KNU operations. The KNU would also acquire various weapons and recruits were trained in using the weapons of all sorts and in unorthodox ways. The Burmese army's inability to move into Karen lands prompted a switch to aerial attacks that prompted the Karen to change from anti-tank guns to anti-aircraft Surface to Air guns that they could carry around in dense jungle terrains.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ER_KAREN_BRIGADE">
+			<Text>Homeland Logistics</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_ER_KAREN_BRIGADE_HELP">
+			<Text>Ignores Enemy Zone of Control</Text>
+		</Row>
+		<!--Civlopedia-->
+		<Row Tag="TXT_KEY_ER_KAREN_PEDIA">
+			<Text>Karen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_KAREN_TITLE">
+			<Text>Karen Country</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_KAREN_HEADING_1">
+			<Text>Karen Origins</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_KAREN_TEXT_1">
+			<Text>The Karen people are a heterogenous group of ethnic groups that include many ethnicities considered distinct today, including the Kayah o Karenni. In modern times, a pan-Karen identity has emerged out of British colonial practice and Christian missionaries. The word Karen comes from the Burmese word for the people, Kayin. [NEWLINE][NEWLINE]The Karen people have legends of coming from rivers of running sands that may refer to the Gobi Desert or the Yellow River of China where Sino-Tibetan people, of which the Karenic people are a part, likely originated. The Karen people likely migrated to their current location in south-eastern Burma and western Thailand between the 4th and 9th century around the same time or earlier than the Burmese.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_KAREN_HEADING_2">
+			<Text>British Burma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_KAREN_TEXT_2">
+			<Text>In 1885, the British took over the lands of the Konbaung Empire and took over the lands of the Karen in the same process. However, western missions into Karen country had begun in 1830 as Baptist missionaries found success within the Karen. The legends of the Karen talk about the creation of three brothers by God with a book given to the Karen that the Burmese brother destroyed out of jealousy. Although the source of this legend is contested, many Karen saw the white missionaries as the return of the third brother to return the book to the Karen. However, not all Karen converted to Christianity as many retained their animist beliefs or Buddhist beliefs[NEWLINE][NEWLINE]The colonial period also saw British policy to use the Karen as government bureaucrats and to educate Christian Karens with western education. The Karen National Association was founded in 1881 to represent their interest to the British and was a force in arguing that Burma was not fit for self-government. In 1938, British Burma even recognized the Karen New Year as a public holiday.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_KAREN_HEADING_3">
+			<Text>World War II and Independent Burma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_KAREN_TEXT_3">
+			<Text>At the outbreak of the Second World War, the tension between the Burmese and the Karen turned into fighting as many Karen fought with the British against the Japanese and the Burmese Independence Army. The Japanese met with the BIA to stop the excessive violence of the BIA against Karen villages during the war. [NEWLINE][NEWLINE]In post-war Burma, the Karen people were among many who were brought into the federal agreement of Aung San to create a Karen state within Burma. Karen delegations to London failed to get a response for a separate Karen country despite British promises. However, at the Panglong conference, the Karen were only given observer status. The 1947 constitution was drawn without Karen participation with the question of independence being left to post-independence.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_KAREN_HEADING_4">
+			<Text>The Karen Conflict starts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_KAREN_TEXT_4">
+			<Text>The Karen National Union (KNU) was formed in 1947 with delegates from both the Buddhist and Baptist Karen National Associations. Karen people continued to hold positions in the government and army in post-independence Burma, but political militias established by the U Nu government went on a rampage in Karen communities that catalysed the start of the Karen conflict. In January 1949, General Smith Dun, a Karen, was removed from office and replaced by the Burmese nationalist Ne Win.[NEWLINE][NEWLINE]The removal of a prominent Karen politician spurred the creation of the Karen National Defence Organisation that rose up in an insurgency against the government. The Karen Conflict started on the 31st of January 1949 and has continued since. The Karen Rifles within the army's Burma Rifles and the Union Military Police defected and denied the government crucial anti-insurgency forces. The fighting started right next to the capital in Insein which was majority-Karen at the time. The KNDO held out against the Burmese army in a 112-day siege in the Battle of Insein using existing rice silo for supplies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_KAREN_HEADING_5">
+			<Text>The War Moves East</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_KAREN_TEXT_5">
+			<Text>Despite the eventual fall of Insein, the KNU, KNDO and the newly formed Karen Nation Liberation Army (KNLA) moved east with the hard-line principles of the KNU president, Saw Ba U Gyi. Although General Smith Dun was the inciting incident, he refused to join the rebellion. Despite this, the KNU won several engagements against the Burmese army throughout 1949 and the early 1950s. However, pushes from the army forced them further in Karen lands and the fall of their base in Hlaingbwe in 1953, moved the war into the second slower phase. [NEWLINE][NEWLINE]As the Karen regrouped using the town of Manerplaw as a base, the Burmese government closed the British Service Mission in 1954 for their sympathy towards the Karen rebels. As the 1950s went on, the Burmese army reorganised and modernized themselves. In the 1960s, they enacted the Four cuts: food, funds, intelligence, and recruits; pioneering counter-insurgency techniques. With this effective strategy, a peace talk ceasefire was called briefly in 1963 and 1964.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_KAREN_HEADING_6">
+			<Text>Religious Uprisings</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_KAREN_TEXT_6">
+			<Text>The Karen held steady as the Burmese government transformed into Ne Win's dictatorship. The guerrilla fighting became increasingly difficult for the Burmese army as the front crawled towards the Thai border. In the 1970s, a few religious internal rebellions arose out of the KNU. Telecon were a religious sect that presented themselves as true Karen. However, their leaders were executed in 1972 and were quickly suppressed.[NEWLINE][NEWLINE]In the 1980s, the Karen were at the height of their power. Despite the constant fighting, they had stabilized and kept control of a lot of Karen lands. They sustained money through the Burma-Thailand trade passing through their territory. During this time, their demands for and independent Karen country was revised to a demand for more autonomy. Peace talks were held in 1994, 1995, 1996 and 1997 to no fruit as the Karen expected the international community to support them soon.[NEWLINE][NEWLINE]In 1997, two twin brothers less than 10 years old established God's Army as a unit of the KNU was decimated in a Burmese offensive. The two hundred strong militia occupied a hospital at its peak.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_KAREN_HEADING_7">
+			<Text>The Third Phase of the War</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_KAREN_TEXT_7">
+			<Text>The War entered its third phase in 1994 as religious tensions built up within the KNU. The Burmese military began to sow discontent amongst Buddhist Karen. The tipping point was when the Buddhist Karen wanted to build a pagoda on a strategically important hill near Manerplaw. the Democratic Karen Buddhist Army (DKBA) was formed in 1994 on the back to troops complaining about religious discrimination from Christian leadership. The infighting in Manerplaw caused the fall of Manerplaw and for the original KNU to be forced into a bad military position where the Burmese Army could effectively fight them. The DKBA, hence, became a much stronger force in the coming years and Karen Christians fled into Thailand then beyond to places like the United States. The DKBA was always more friendly with the Burmese army and didn't use language appealing to Western democratic discourse. As such that they don't have become border guard forces for the modern Burmese government.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_KAREN_HEADING_8">
+			<Text>The War Today</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_ER_KAREN_TEXT_8">
+			<Text>After the massive dissolutions in the 1990, there are now many Karen grows that separately held peace and ceasefire talks with the Burmese government. Especially as the Burmese government liberalised in 2011, many ceasefires were agreed upon. The KNU, severely weakened, agreed to the Nationwide Ceasefire Agreement of 2015. However, the Burmese government violated the agreement by trying to build a road through KNU held territory in 2018. Thus, clashes erupted between the KNU and the Burmese army again.[NEWLINE][NEWLINE]The Karen form the third largest ethnic group in Myanmar today and still live outside of Kawthoolei in places like the Irrawaddy Delta. Many Karen have left Myanmar to refugee camps in Thailand, but most of the camps from the 1990s have sent refugees onwards to America. At least 60,000 Karen live outside of Burma and Thailand with sizeable communities in the American Midwest.</Text>
+		</Row>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_ER_SAW_BA_U_GYI_PEDIA">
+			<Text>Saw Ba U Gyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SAW_BA_U_GYI_NAME">
+			<Text>Saw Ba U Gyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SAW_BA_U_GYI_TITLE">
+			<Text>KNU President</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SAW_BA_U_GYI_SUBTITLE">
+			<Text>President of the Karen National Union</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SAW_BA_U_GYI_LIVED">
+			<Text>1905 - 1950</Text>
+		</Row>
+		<!--SBUG-->
+		<Row Tag="TXT_KEY_LEADER_ER_SAW_BA_U_GYI_HEADING_1">
+			<Text>Introduction</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SAW_BA_U_GYI_TEXT_1">
+			<Text>Saw Ba U Gyi born to a wealthy land-owning Karen family in Burma and was the first president of the Karen National Union and studied law in England in 1927. He was a Minister within British Burma and led the revolution of the Karen people in the Karen Conflict from 1949 to his death in 1950 from a Burmese Army ambush.[NEWLINE][NEWLINE]His four principles are still the guiding Principles of the Karen National Union. 1) Surrender is out of the question. 2) The recognition of the Karen State must be completed. 3) We shall retain our arms. 4) We shall decide our own political destiny.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SAW_BA_U_GYI_HEADING_2">
+			<Text>Pre-independence work</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SAW_BA_U_GYI_TEXT_2">
+			<Text>After Saw Ba U Gyi passed the English bar in 1927, he practiced law in England briefly before returned to Burma in 1937. He served in the government of British Burma under Ba Maw as the Minister of Revenue. He later joined the pre-independence cabinet after the Second World War. He began his work for the independence of the Karen people. He, and the Karen Central Organization that he led in 1945, asked the British for the Karen people to have an independent homeland as the British controlled the Karen lands. He led a delegation to England, but the British refused and instead gave the Karen lands to Burma. Aung San and the Anti-Fascist People's Freedom League (AFPFL) became the government over post-independence Burma. Saw Ba U Gyi himself had been part of the AFPFL in 1944 during the struggle for Burmese independence. But disagreements at independence caused him to resign and instead lead the Karen National Union (KNU), formed from Baptist and Buddhist Karen National Associations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SAW_BA_U_GYI_HEADING_3">
+			<Text>Panglong and Karen Conflict</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SAW_BA_U_GYI_TEXT_3">
+			<Text>The Aung San Attlee agreement that gave the country independence left no provisions for Karen aspirations. At the Panglong conference, the Karen were only afforded observer status despite their despites for a Karen state within the Union of Burma like the Shan, Chin or Kachin. After the denial from the Burmese government, Burmese-Karen tensions rose. Political militias established by the U Nu government went on a rampage in Karen communities that catalysed the start of the Karen conflict. In January 1949, General Smith Dun, a Karen, was removed from office and replaced by the Burmese nationalist Ne Win. This catalysed the creation of the Karen Nation Defence Organisation (KNDO) which declared war on the Burmese government on the 31st of January 1949 beginning the Battle of Insein. Saw Ba U Gyi formed the Karen National Liberation Army (KNLA) after the Burmese were successful at sieging Insein. The Karen were pushed eastwards but won several battles against the Burmese because of the sympathy of many different allies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SAW_BA_U_GYI_HEADING_4">
+			<Text>Martyrdom and Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ER_SAW_BA_U_GYI_TEXT_4">
+			<Text>In 1950, at a small village near Mawlamyine, Saw Ba U Gyi and his unit were ambushed by the Burmese Army. Several Karen leaders and an English Major were imprisoned for sedition and supplying arms to the rebellion. However, Saw Ba U Gyi was gunned down by the Burmese forces on the 12th of August ambush. The Burmese government transported his corpse four miles out to sea and threw him overboard to ensure no martyr's grave. Regardless, he remains a martyr to the Karen people. The Karen Martyr Day on the day of his death commemorates all fallen Karen soldiers fighting for the independence and autonomy of the Karen people. To this day, Saw Ba U Gyi remains a figure for all Karen groups despite the numerous breakaways and splinters in the decades to come.</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_ER_KAREN_0">
+			<Text>Naw Sheera</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ER_KAREN_1">
+			<Text>Naw Bway Paw</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ER_KAREN_2">
+			<Text>Naw La Paw</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ER_KAREN_3">
+			<Text>Naw Pawpre</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ER_KAREN_4">
+			<Text>Naw Mae Mae</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ER_KAREN_5">
+			<Text>Saw Htoo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ER_KAREN_6">
+			<Text>Saw Hla Tun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ER_KAREN_7">
+			<Text>Saw Bo Mya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ER_KAREN_8">
+			<Text>Saw Ba Tin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ER_KAREN_9">
+			<Text>Saw Tha Din</Text>
+		</Row>
+		<!--City Name-->
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_1">
+			<Text>Hpa An</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_2">
+			<Text>Manerplaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_3">
+			<Text>Hpapun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_4">
+			<Text>Kawkareik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_5">
+			<Text>Myawaddy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_6">
+			<Text>Thandaung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_7">
+			<Text>Insein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_8">
+			<Text>Kawmura</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_9">
+			<Text>Hlaingbwe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_10">
+			<Text>Kyaukkyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_11">
+			<Text>To Kaw To</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_12">
+			<Text>Saw Hta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_13">
+			<Text>Kanchanaburi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_14">
+			<Text>Three Pagoda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_15">
+			<Text>Azin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_16">
+			<Text>Mae Sot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_17">
+			<Text>Shwe Ko Ko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_18">
+			<Text>Mae Ta Waw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_19">
+			<Text>Kyaikdon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_20">
+			<Text>Mae La</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_21">
+			<Text>Nu Po</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_22">
+			<Text>Myaing Gyi Ngu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_23">
+			<Text>Pathein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_24">
+			<Text>Kamamaung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_25">
+			<Text>Htoo Wah Lu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_26">
+			<Text>Kyondo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_27">
+			<Text>Mae Hong Son</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_28">
+			<Text>Ywathikon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_29">
+			<Text>Zartabyin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_30">
+			<Text>Kawt Bein</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_31">
+			<Text>Kyaikseikgyi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_32">
+			<Text>Apalon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_33">
+			<Text>Waw Lay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_34">
+			<Text>Umphang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_ER_KAREN_35">
+			<Text>Minneapolis</Text>
+		</Row>
+		<!--Unique Cultural Influence-->
+		<Row Tag="TXT_KEY_GENERIC_ER_KAREN_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now speaking the Karen language and eating Tekapor. I worry the rest of the world will also succumb to the influence of your culture</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

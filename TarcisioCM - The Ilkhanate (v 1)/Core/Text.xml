@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/4/2015 11:28:42 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_TCM_ILKHANATE_DESC">
+			<Text>Ilkhanate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_ILKHANATE_SHORT_DESC">
+			<Text>The Ilkhanate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_TCM_ILKHANATE_ADJECTIVE">
+			<Text>Ilkhanid</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_01">
+			<Text>Maragha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_02">
+			<Text>Tabriz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_03">
+			<Text>Shiraz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_04">
+			<Text>Isfahan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_05">
+			<Text>Herat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_06">
+			<Text>Baghdad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_07">
+			<Text>Hamadan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_08">
+			<Text>Mosul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_09">
+			<Text>Tbilisi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_10">
+			<Text>Yerevan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_11">
+			<Text>Konya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_12">
+			<Text>Mashhad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_13">
+			<Text>Yazd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_14">
+			<Text>Rasht</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_15">
+			<Text>Basra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_16">
+			<Text>Kerman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_17">
+			<Text>Shahpur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_18">
+			<Text>Kashan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_19">
+			<Text>Qazvin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_20">
+			<Text>Qom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_21">
+			<Text>Bushehr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_22">
+			<Text>Ardabil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_23">
+			<Text>Ahvaz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_24">
+			<Text>Aleppo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_25">
+			<Text>Damascus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_26">
+			<Text>Rey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_27">
+			<Text>Zaranj</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_28">
+			<Text>Balkh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_29">
+			<Text>Nishapur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_TCM_ILKHANATE_30">
+			<Text>Merv</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_ILKHANATE_1">
+			<Text>Altani</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_ILKHANATE_2">
+			<Text>Baydu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_ILKHANATE_3">
+			<Text>Arghun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_ILKHANATE_4">
+			<Text>Kököchin</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_ILKHANATE_5">
+			<Text>Musa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_ILKHANATE_6">
+			<Text>Togha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_ILKHANATE_7">
+			<Text>Anushirwan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_ILKHANATE_8">
+			<Text>Samur</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TCM_ILKHANATE_9">
+			<Text>Hoelun</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_GHAZAN">
+			<Text>Ghazan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TCM_GHAZAN_ILKHANATE_SHORT">
+			<Text>The Siege of Baghdad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_TCM_GHAZAN_ILKHANATE">
+			<Text>Upon capturing an original [ICON_CAPITAL] Capital, all population is killed and all normal buildings destroyed. Gain [ICON_GOLD] Gold for every citizen and building lost this way, and for every Great Person that city has ever produced.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TCM_SIEGE_NOTIFICATION_TITLE">
+			<Text>The Siege of {1_Name}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TCM_SIEGE_NOTIFICATION">
+			<Text>We have laid waste to {1_Name}! Additional {2_Gold} [ICON_GOLD] Gold has been plundered from what once was a city.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_TCM_RUZNAMCE_NOTIFICATION_TITLE">
+			<Text>{1_Building} Rebuilt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TCM_RUZNAMCE_NOTIFICATION">
+			<Text>We have rebuilt the {3_Building} of {1_Name}, gaining {2_Culture} [ICON_CULTURE] Culture.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_TCM_RUZNAMCE">
+			<Text>Ruznamce</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TCM_RUZNAMCE_HELP">
+			<Text>Unique Ilkhanid Courthouse replacement that is slightly cheaper to build and mantain. Generates extra [ICON_PRODUCTION] Production, [ICON_FOOD] Food and [ICON_GOLD] Gold equal to the difference between the current population of this city and that of its highest size ever. Also, grants [ICON_CULTURE] Culture when buildings that were destroyed in this city are rebuilt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TCM_RUZNAMCE_TEXT">
+			<Text>The Ruznamce comes from the Merdiban, an accounting method used by the Ottoman empire, Abbasid empire, and Ilkhanate; especially for recording tax payments and liabilities. Abbasid accounting techniques were inherited by the Ilkhanate and then the Ottoman Empire; spanning several centuries until modern double-entry accounting was adopted post-Tanzimat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_TCM_RUZNAMCE_STRATEGY">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_TCM_ILDUCHI">
+			<Text>Ildüchi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_HELP_TCM_ILDUCHI">
+			<Text>A mounted unit that becomes stronger by capturing cities. Only the Ilkhanate may build it. This unit has no penalties when attacking cities, and upon capturing one gains +1 permanent [ICON_STRENGTH] Combat Strength (If the city was captured for the first time). Additionaly, the unit instantly converts the city equally between all religions present on it and also by the majoritary religion of your [ICON_CAPITAL] Capital.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_TCM_ILDUCHI_TEXT">
+			<Text>Ildüchi means Sword-Bearers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_TCM_ILDUCHI_STRATEGY">
+			<Text></Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_TCM_ILKHANATE_TITLE">
+			<Text>The Ilkhanate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TCM_ILKHANATE_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_TCM_ILKHANATE_TEXT_1">
+			<Text>The Ilkhanate was a breakaway state of the Mongol Empire, which was ruled by the Mongol House of Hulagu. It was established in the 13th century and was based primarily in Iran as well as neighboring territories, such as present-day Azerbaijan, and the central and eastern parts of present-day Turkey. In its fullest extent, the state expanded into territories which today comprise most of Iran, Iraq, Turkmenistan, Armenia, Azerbaijan, Georgia, Turkey, western Afghanistan and southwestern Pakistan. Later Ilkhanate rulers, beginning with Ghazan in 1295, would convert to Islam.</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_TCM_GHAZAN_PEDIA_TEXT">
+			<Text>Mahmud Ghazan was the seventh ruler of the Mongol Empire's Ilkhanate division in modern-day Iran from 1295 to 1304. He was the son of Arghun and Quthluq Khatun, continuing a long line of rulers who were direct descendants of Genghis Khan. Considered the most prominent of the Ilkhans, he is best known for making a political conversion to Islam in 1295 when he took the throne, marking a turning point for the dominant religion of Mongols in West Asia (Iran, Iraq, Anatolia and Trans-Caucassia).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_GHAZAN_PEDIA_LIVED">
+			<Text>1271 - 1304</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_GHAZAN_PEDIA_NAME">
+			<Text>Ghazan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_GHAZAN_PEDIA_SUBTITLE">
+			<Text>Leader of the Ilkhanate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_GHAZAN_PEDIA_TITLES_1">
+			<Text>Ilkhan</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_DOM_TCM_ILKHANATE_TEXT">
+			<Text>Hail Ilkhan Ghazan of the house of Hulagu, seventh ruler of the Subordinate Khanate. The Ilkhanate was formed through great terror, as the Mongol hordes swept through Iran, Iraq and Syria; the utter destruction of Baghdad being the greatest testament of the destructive power of the Mongols. You, however, was no mindless brute. A man of high culture and able reformer, you had a great lasting legacy not only for converting the Ilkhanate to Islam but also due to your sweeping reforms in the economy, military and civil services of the Ilkhanate.[NEWLINE][NEWLINE]Oh distinguished Ilkhan, the once mighty Mongol empire has crumbled and dissipated, its legacy long gone. However, the Great Khans of Mongolia once more yearn for greatness and have entrusted upon you to claim the lands all the way from Balkh to Egypt! Will you fulfill your duties to the Great Khan? Can you conquer a civilization to stand the test of time?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_TCM_GHAZAN_FIRSTGREETING_1">
+			<Text>What business do you have in the lands of the house of Hulagu? Have you come to surrender yourself and your petty empire to the Great Khan?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_TCM_GHAZAN_DEFEATED_1">
+			<Text>I am defeated. Regardless, your empire will never be as powerful as the Great Khanate was in its apogee; you will forever live in its shadow.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_TCM_ILKHANATE_POLITICAL_CONVERSION_1">
+			<Text>Politically convert to a Religion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_ILKHANATE_POLITICAL_CONVERSION_2">
+			<Text>Politically convert to {1_ReligionName}</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_ILKHANATE_POLITICAL_CONVERSION_DESC_1">
+			<Text>
+				A powerful nobleman has offered military aid, should you personally convert to his religion. However, such action would greatly displease the followers of your traditional religon.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Ilkhanate
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE][ICON_BULLET]The religion must be the biggest in your empire, excluding the one of your capital
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]Costs {1_Cost} [ICON_PEACE] Faith
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_CAPITAL] Capital fully converts to the new religion
+				[NEWLINE][ICON_BULLET][ICON_CAPITAL] Capital spawns three military units
+				[NEWLINE][ICON_BULLET]Loses 10 [ICON_FAITH] Faith per follower of your old religion inside your empire
+				[NEWLINE][ICON_BULLET]Gains 10 [ICON_FAITH] Faith per follower of your new religion inside your empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_ILKHANATE_POLITICAL_CONVERSION_DESC_2">
+			<Text>
+				A powerful nobleman has offered military aid, should you personally convert to his religion. However, such action would greatly displease the followers of your traditional religon.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Ilkhanate
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE][ICON_BULLET]The religion must be the biggest in your empire, excluding the one of your capital
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]Costs {2_Cost} [ICON_PEACE] Faith
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_CAPITAL] Capital fully converts to {1_ReligionName}
+				[NEWLINE][ICON_BULLET][ICON_CAPITAL] Capital spawns three military units
+				[NEWLINE][ICON_BULLET]Loses 10 [ICON_FAITH] Faith per follower of your old religion inside your empire
+				[NEWLINE][ICON_BULLET]Gains 10 [ICON_FAITH] Faith per follower of your new religion inside your empire
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_ILKHANATE_POLITICAL_CONVERSION_ENACTED">
+			<Text>
+				We have converted to the nobleman's religion, receiving his aid.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_DECISIONS_TCM_ILKHANATE_BUILD_CAPITAL">
+			<Text>Build Soltaniyeh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_ILKHANATE_BUILD_CAPITAL_DESC">
+			<Text>
+				We need to possess a capital city fit of our ambitions. A mighty Imperial City, Soltaniyeh, should be built to show the splendour of our nation.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Ilkhanate
+				[NEWLINE][ICON_BULLET]Player must be in a Golden Age
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]Costs {1_Cost} [ICON_Gold] Gold
+				[NEWLINE][ICON_BULLET]Costs 1 [ICON_MAGISTRATES] Magistrates.
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET][ICON_CAPITAL] Capital is renamed to Soltaniyeh
+				[NEWLINE][ICON_BULLET]Gain [ICON_CULTURE] Culture for finishing buildings in the [ICON_CAPITAL] Capital
+				[NEWLINE][ICON_BULLET]Gain [ICON_CULTURE] 150 Culture per [ICON_CAPITAL] Capital under your control
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TCM_ILKHANATE_BUILD_CAPITAL_ENACTED">
+			<Text>
+				We have built Soltaniyeh, the Imperial City.
+			</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_EVENT_TCM_ILKHANATE_OBSERVATORY">
+			<Text>Maragheh Observatory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_ILKHANATE_OBSERVATORY_DESC">
+			<Text>
+				Nasir al-Din al-Tusi has come forward to you, asking for patronage to build the greatest observatory in the world; that would thus also become a testament of Ilkhanid greatness.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_TCM_ILKHANATE_OBSERVATORY_OUTCOME_1">
+			<Text>The Observatory shall be built at once!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_ILKHANATE_OBSERVATORY_OUTCOME_RESULT_1">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]Loses [ICON_GOLD] 650 Gold[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]A Observatory is built in your [ICON_CAPITAL] Capital[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Great Person[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_ILKHANATE_OBSERVATORY_DESC_NOTIFICATION_1">
+			<Text>The Observatory has been built, a great legacy of the Ilkhans to the world.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_TCM_ILKHANATE_OBSERVATORY_OUTCOME_2">
+			<Text>Build the Observatory using forced labor.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_ILKHANATE_OBSERVATORY_OUTCOME_RESULT_2">
+			<Text>
+				[ICON_BULLET][COLOR_NEGATIVE_TEXT]5 turns of [ICON_RESISTANCE] Resistance in your [ICON_CAPITAL] Capital[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]A Observatory is built in your [ICON_CAPITAL] Capital[ENDCOLOR]
+				[NEWLINE][ICON_BULLET][COLOR_POSITIVE_TEXT]Gain a free Great Person[ENDCOLOR]
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_ILKHANATE_OBSERVATORY_DESC_NOTIFICATION_2">
+			<Text>The Observatory is currently being built.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_EVENT_TCM_ILKHANATE_OBSERVATORY_OUTCOME_3">
+			<Text>I will not waste resources on such silly things.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_ILKHANATE_OBSERVATORY_OUTCOME_RESULT_3">
+			<Text>[ICON_BULLET][COLOR_DARK_GREY]Nothing[ENDCOLOR]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_EVENT_TCM_ILKHANATE_OBSERVATORY_DESC_NOTIFICATION_3">
+			<Text>You have dismissed Nasir al-Din al-Tusi.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

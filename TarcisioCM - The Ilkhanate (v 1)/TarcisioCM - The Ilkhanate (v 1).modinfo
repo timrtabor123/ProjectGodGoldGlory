@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="e9e15aa4-1b31-46b9-8e0e-03edc5ee6abe" version="1">
+  <Properties>
+    <Name>TarcisioCM - The Ilkhanate</Name>
+    <Teaser>Adds [COLOR_POSITIVE_TEXT]The Ilkhanate[ENDCOLOR] under Ghazan. Requires BNW.</Teaser>
+    <Description>Adds [COLOR_POSITIVE_TEXT]The Ilkhanate[ENDCOLOR] under Ghazan. Requires BNW.</Description>
+    <Authors>TarcisioCM</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="JFD’s Piety" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact’s Events &amp;amp;amp; Decisions" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D. Modpack" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="43868e8d-de88-48a1-a8d9-ce144e07f5e0" minversion="0" maxversion="999" title="JFD's Exploration Continued Expanded" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="02D75785F5C9DC7FFE7C60CA8FBC255C" import="1">Art/dds/SV_ILKHANID_ILDUCHI.dds</File>
+    <File md5="3A533DF1FE456680737A96C15457C346" import="1">Art/dds/tcmAlphaIlkhanate128.dds</File>
+    <File md5="DBB3AF2660A2F2775C31A4004CF8BC4D" import="1">Art/dds/tcmAlphaIlkhanate16.dds</File>
+    <File md5="7F08F40D1D0C6C436372670A85052C30" import="1">Art/dds/tcmAlphaIlkhanate24.dds</File>
+    <File md5="6C7BFD6E7BB91E5D9C3C45BC4DA7B3F3" import="1">Art/dds/tcmAlphaIlkhanate256.dds</File>
+    <File md5="EB9E3503FE0702CE40C4183316DBB2D5" import="1">Art/dds/tcmAlphaIlkhanate32.dds</File>
+    <File md5="EA5DB0987B5FBF1C3EAD47A082393B23" import="1">Art/dds/tcmAlphaIlkhanate48.dds</File>
+    <File md5="578F0F607FA28B87934F8274840D0922" import="1">Art/dds/tcmAlphaIlkhanate64.dds</File>
+    <File md5="1A3D5CC28047E93410C30BC22EDBC9CC" import="1">Art/dds/tcmAlphaIlkhanate80.dds</File>
+    <File md5="09D53DA156B17DAB58D1B6A4292488E8" import="1">Art/dds/tcmIconIlkhanate128.dds</File>
+    <File md5="31C8493187798AA2798BBBED42DA93C9" import="1">Art/dds/tcmIconIlkhanate256.dds</File>
+    <File md5="6B83CEBB5216E741492C1CCF33F77DDF" import="1">Art/dds/tcmIconIlkhanate32.dds</File>
+    <File md5="B66BDC49A437E12F086E60E8D70D5D8E" import="1">Art/dds/tcmIconIlkhanate45.dds</File>
+    <File md5="2C295746DBCF960A83342048B381D764" import="1">Art/dds/tcmIconIlkhanate64.dds</File>
+    <File md5="39B4F4BA93BED9F87BAA821E6E5325A3" import="1">Art/dds/tcmIconIlkhanate80.dds</File>
+    <File md5="92D1D67EAC7C55DA28DE0007E8BCACA5" import="1">Art/dds/tcmIlduchiIcon32.dds</File>
+    <File md5="ACA10B31FEDFB477E4311E8AF2BC1787" import="1">Art/dds/tcmIlkhanateDOM.dds</File>
+    <File md5="53B63AA820A5646A8078B2A782DDA150" import="1">Art/dds/tcmIlkhanateLeader.dds</File>
+    <File md5="9923A75FC62277EF3688F1DC922B2A79" import="1">Art/dds/tcmIlkhanateMap.dds</File>
+    <File md5="1324833741C3B6F920735EE2CCC02CEA" import="1">Art/Models/Knight_Turkey.dds</File>
+    <File md5="455AB5E60BB2FF2343E9D7A680796AF5" import="1">Art/Models/Knight_Turkey.fxsxml</File>
+    <File md5="3545880A98D609F0467BCDB311E7BC81" import="1">Art/Models/Knight_Turkey.gr2</File>
+    <File md5="6FEAA0A2CD0464F20FA84BCCBF4029E8" import="1">Art/Models/Knight_Turkey_gloss.dds</File>
+    <File md5="E4BD8CC51BF1C5C64D78DEF2411C515A" import="1">Art/Models/Knight_Turkey_Horse.dds</File>
+    <File md5="4C70FE4170AE6D900D26FCAFABA4697F" import="1">Art/Models/Knight_Turkey_Horse_gloss.dds</File>
+    <File md5="85A8E9F9672C29721FB760957909F822" import="1">Art/Music/tcmIlkhanatePeace.mp3</File>
+    <File md5="58B9443E249EA6FCD8E7A0627F760237" import="1">Art/Music/tcmIlkhanateWar.mp3</File>
+    <File md5="79DE66568AE546C9B44F1DC74022140E" import="1">Art/tcmGhazanScene.xml</File>
+    <File md5="D80346939A54BFD42E1DABE5DCEDB263" import="0">Core/Core.sql</File>
+    <File md5="7B159D6906A984C75712667D6686B4D7" import="0">Core/ArtDefs.sql</File>
+    <File md5="5DA73A1D2617C2793A8DB48C246126A2" import="1">Core/Events and Decisions/tcmIlkhanateEvents.lua</File>
+    <File md5="253779A4DDD330A8A6FA7615A80176C7" import="1">Core/Events and Decisions/tcmIlkhanateDecisions.lua</File>
+    <File md5="5A819771596195AF7773554C9B834301" import="0">Core/Functions.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Core/PlotIterators.lua</File>
+    <File md5="5754B1BE6E37A2F9D04D9D4149E5CDDF" import="1">Core/SaveUtils.lua</File>
+    <File md5="FBF8134A9E2F5BD404D4E49B4B1617B6" import="0">Core/Text.xml</File>
+    <File md5="55828F7DA93498242478255A87DDFC3E" import="0">Core/ModSupport.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/ArtDefs.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Core.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Text.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/Functions.lua">
+      <Name>Ilkhanate Functions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

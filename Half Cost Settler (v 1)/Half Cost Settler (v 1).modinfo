@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="aac1edff-331c-4fb9-b123-cb287c946e2e" version="1">
+  <Properties>
+    <Name>Half Cost Settler</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Mod that modifies the speed to create a settler to half.</Teaser>
+    <Description>Mod that modifies the speed to create a settler to half.</Description>
+    <Authors>Home</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="79BD62FA1EBFFDB8FDFB0122B6181EF4" import="0">Game Rules1.xml</File>
+  </Files>
+</Mod>

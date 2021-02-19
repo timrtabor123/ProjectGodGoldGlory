@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1a45efbf-d7e2-45dc-9830-e08b784f1483" version="5">
+  <Properties>
+    <Name>PorkBean's Taiping Heavenly Kingdom</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]Taiping Heavenly Kingdom[ENDCOLOR] (1851-1864), led by Hong Xiuquan! Part of PorkBean's Rebellions and Failed States.</Teaser>
+    <Description>This mod adds the [COLOR_MENU_BLUE]Taiping Heavenly Kingdom[ENDCOLOR] by Porkbean to the game as a playable civilization.
+[NEWLINE]
+[NEWLINE]
+[NEWLINE][COLOR_MENU_BLUE]Leader: [ENDCOLOR]Hong Xiuquan
+[NEWLINE]
+[NEWLINE][COLOR_MENU_BLUE]Brother of Christ: [ENDCOLOR]Upon capturing a City, earn a boost of [ICON_PEACE] Faith and a restore a portion of the City's HP for each pillaged tile within working distance. Puppet Cities produce +25% Religious Pressure while following your Religion.
+[NEWLINE]
+[NEWLINE][COLOR_MENU_BLUE]Changmao: [ENDCOLOR]Bonus [ICON_STRENGTH] Combat Strength vs Cities when fighting on a pillaged tile. Captured Cities gain a free line of defensive buildings. Replaces the Musketman.
+[NEWLINE]
+[NEWLINE][COLOR_MENU_BLUE]Heavenly Hall: [ENDCOLOR]+2 [ICON_PEACE] Faith and +4 Defensive Strength for this city. Units constructed during a We Love the King Day may pillage tiles with no movement cost. City must have a Temple. Replaces the Opera House.</Description>
+    <Authors>PorkBean</Authors>
+    <SpecialThanks>DuskJockey, DarthKyofu, TPangolin</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>4</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Pouakai's Enlightenment Era" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+    <Mod id="d9ece224-6cd8-4519-a27a-c417b59cdf35" minversion="0" maxversion="999" title="Future Worlds" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="C1ECB2572AD679E76F30BA0EBF3677DA" import="1">Art/Alphas/Taiping_Alpha128.dds</File>
+    <File md5="1BC53AE14A58128E3B410FCF9CE63546" import="1">Art/Alphas/Taiping_Alpha16.dds</File>
+    <File md5="51E33F875B661751945AFFD9F8C808B5" import="1">Art/Alphas/Taiping_Alpha24.dds</File>
+    <File md5="8FC42D12F5AA287CFFB5A8073D57729E" import="1">Art/Alphas/Taiping_Alpha256.dds</File>
+    <File md5="D585DFF463F86355318D82EFF5EF12FD" import="1">Art/Alphas/Taiping_Alpha32.dds</File>
+    <File md5="2044FE3D9DB4546A2F441CFB1CCFDC77" import="1">Art/Alphas/Taiping_Alpha45.dds</File>
+    <File md5="8EE92F5B67D6AB1D6D83A1ED33768A59" import="1">Art/Alphas/Taiping_Alpha48.dds</File>
+    <File md5="5CEC26BCC0C0C216BDDB083A380202C3" import="1">Art/Alphas/Taiping_Alpha64.dds</File>
+    <File md5="F2A95F7157D4968F5927249D16C06504" import="1">Art/Alphas/Taiping_Alpha80.dds</File>
+    <File md5="739CD47A5341F17CB49C9C30A28DA0A0" import="1">Art/Atlases/Taiping_Atlas_128.dds</File>
+    <File md5="440E30D668C1861CCC994C3D30088168" import="1">Art/Atlases/Taiping_Atlas_256.dds</File>
+    <File md5="38ADA775083CA8DC82F25DB736736DFA" import="1">Art/Atlases/Taiping_Atlas_32.dds</File>
+    <File md5="3E2E33F3284C4465ACBD0B853616A8F8" import="1">Art/Atlases/Taiping_Atlas_45.dds</File>
+    <File md5="F634DFEF69BD0ED093428F6BCB49A431" import="1">Art/Atlases/Taiping_Atlas_64.dds</File>
+    <File md5="3BC54861B41ECBE4220EA9FD526B08FF" import="1">Art/Atlases/Taiping_Atlas_80.dds</File>
+    <File md5="D98E10688638FB6D631FB5C61F25D449" import="1">Art/Changmao/changmao.fxsxml</File>
+    <File md5="694E545BEFE6F8C2F04CD92811BC7F4A" import="1">Art/Changmao/changmao.gr2</File>
+    <File md5="ED393648B45D8165F73B3D62D6D0972D" import="1">Art/Changmao/changmao_diff.dds</File>
+    <File md5="A0F2ADCE7787C05B2CAC969FF3DFFB8D" import="1">Art/Changmao/changmao_sref.dds</File>
+    <File md5="1D36E9A7C828DC0618C39BF1A627CA2A" import="1">Art/Changmao/changmao_sv.dds</File>
+    <File md5="A62DFBA4EFAFDB11F5905E18F492066A" import="1">Art/Changmao/Flag_Changmao.dds</File>
+    <File md5="12ECE2C0F34F05A854E46E2C49C6F683" import="1">Art/Music/HongPeace.mp3</File>
+    <File md5="EEF9A19982DA8211C09C16DBDE65FC20" import="1">Art/Music/HongWar.mp3</File>
+    <File md5="FC36EFD1E8B8581B5AEF6BDBAF58F366" import="1">Art/Religion/TaipingFontIcons_22.dds</File>
+    <File md5="D0680BBEB4BCB6C2E31C778DA8824099" import="1">Art/Religion/TaipingFontIcons_22.ggxml</File>
+    <File md5="F5371DFFC962BAAB47BA360DF7AD6BDA" import="1">Art/Religion/TaipingReligion_Atlas128.dds</File>
+    <File md5="1C92846DDF21664AEE34472597CCB36B" import="1">Art/Religion/TaipingReligion_Atlas16.dds</File>
+    <File md5="E5BFE790E4CCF84DE1A5F6A80D204DD0" import="1">Art/Religion/TaipingReligion_Atlas214.dds</File>
+    <File md5="3E2560662B3FC646E4EBF713ACB55FA5" import="1">Art/Religion/TaipingReligion_Atlas24.dds</File>
+    <File md5="DC433C2D25033041E5B8773335CB3659" import="1">Art/Religion/TaipingReligion_Atlas256.dds</File>
+    <File md5="429EB2348B35E3445683B0B478DC4E1C" import="1">Art/Religion/TaipingReligion_Atlas32.dds</File>
+    <File md5="E88945CFF92FC7E6CEB1D526073A6759" import="1">Art/Religion/TaipingReligion_Atlas48.dds</File>
+    <File md5="65556A373978683543F17964BC36E076" import="1">Art/Religion/TaipingReligion_Atlas64.dds</File>
+    <File md5="609F6010387B2725C7A7485BAD9A83FD" import="1">Art/Religion/TaipingReligion_Atlas80.dds</File>
+    <File md5="75991789F45A92220ED40A7BB6C586DF" import="1">Art/Scene_Hong.dds</File>
+    <File md5="5E6AD3653FC9096F98119B6C2ACBC955" import="1">Art/Taiping_DOM.dds</File>
+    <File md5="8F93852596A6A8ED9AB36AAD52D420E6" import="1">Art/Taiping_Map.dds</File>
+    <File md5="F865F5F1C3E9570F73814739E05E33AB" import="0">Core/ArtDefines.sql</File>
+    <File md5="CA25F17075C3668F95CD1BAA7F0E1DFC" import="0">Core/DiplomacyDefines.sql</File>
+    <File md5="2ACE5C1905AD5C4C7E010BEC312E637C" import="0">Core/DiplomacyText.xml</File>
+    <File md5="1BA8898D4F369BA2F79C24E25B54BF8B" import="0">Core/GameDefines.sql</File>
+    <File md5="90E7AF6B196C9FE3C6DC2493BB60F7E5" import="0">Core/GameText.xml</File>
+    <File md5="150D72424003B1C54902D139DF2F8BE4" import="1">Core/HongXiuquan_Scene.xml</File>
+    <File md5="CC6BFD0A6408FB8A3E1CC0B21E6A69AB" import="0">Core/ModSupport.sql</File>
+    <File md5="78FDDB6868B166FB5AAB69C287943766" import="0">Lua/TaipingDiplomacy.lua</File>
+    <File md5="DD7FF679BD5E31D6F191D175140F4B1F" import="0">Lua/TaipingFunctions.lua</File>
+    <File md5="D26B68238289375A10E49818FD2CD0C8" import="1">Lua/UniqueDiplomacyUtils.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/TaipingFunctions.lua">
+      <Name>TaipingFunctions.lua</Name>
+      <Description>Functions for the Taiping Heavenly Kingdom</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/TaipingDiplomacy.lua">
+      <Name>TaipingDiplomacy.lua</Name>
+      <Description>Functions for the Taiping Unique Diplomacy</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

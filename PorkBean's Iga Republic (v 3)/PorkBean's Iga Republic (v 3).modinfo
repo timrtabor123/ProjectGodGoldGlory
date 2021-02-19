@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="b51bb3e0-31f7-4d70-9711-a7d1d6f9ff5d" version="3">
+  <Properties>
+    <Name>PorkBean's Iga Republic</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]Iga Republic[ENDCOLOR] (16th century), led by Momochi Tamba! Part of PorkBean's Rebellions and Failed States.</Teaser>
+    <Description>This mod adds the [COLOR_CULTURE_STORED]Iga Republic[ENDCOLOR] by Porkbean and Homusubi to the game as a playable civilization.
+[NEWLINE]
+[NEWLINE]
+[NEWLINE][COLOR_CULTURE_STORED]Leader: [ENDCOLOR]Momochi Tamba
+[NEWLINE]
+[NEWLINE][COLOR_CULTURE_STORED]Kishomon: [ENDCOLOR]Ranged units gain the Concealed promotion in Forest, Jungle and Hills tiles. All land units may move after attacking.
+[NEWLINE]
+[NEWLINE][COLOR_CULTURE_STORED]Ninja: [ENDCOLOR]Gains double [ICON_MOVES] Movement in Forest, Jungle and Hills tiles, and can enter rival territory without open borders. Slightly more expensive and fights as a ranged unit with a range of 1 hex. Replaces the Scout.
+[NEWLINE]
+[NEWLINE][COLOR_CULTURE_STORED]Kakurezato: [ENDCOLOR]Yields 1 [ICON_PEACE] Faith and 1 [ICON_PRODUCTION] Production. An undamaged, non-ranged Iga combat unit that moves onto this improvement gains the Prepared promotion, granting a 100% Combat Strength bonus and +1 [ICON_MOVES] Movement until the unit takes damage. Must be built in Forest or Jungle, and may not be built adjacent to another Kakurezato.</Description>
+    <Authors>PorkBean, Homusubi</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Pouakai's Enlightenment Era" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="5AEAC91EDF09E3DF9EEAF269745FEE6F" import="0">ArtDefines_Units.sql</File>
+    <File md5="EE916CB72AFC429F6F7CD80A7AC8DCF5" import="1">Art/ae876108.dds</File>
+    <File md5="2FC11F9FC75B65BAE787FE2A4A33E6A4" import="1">Art/Asian_Village.gr2</File>
+    <File md5="FDE242CFF1843802179F8C969AA4FCFB" import="1">Art/Flag_Ninja.dds</File>
+    <File md5="B71F0417FB1DA05A701C5576E1682EEF" import="1">Art/IgaAlpha128.dds</File>
+    <File md5="CF2105CE4AC9E04656EE98ECB9C9D606" import="1">Art/IgaAlpha16.dds</File>
+    <File md5="3D90E0FBA1326A1730B9A3FA988B8D37" import="1">Art/IgaAlpha24.dds</File>
+    <File md5="68A672C1AD030C34102F2325F50DAACA" import="1">Art/IgaAlpha256.dds</File>
+    <File md5="D05DBAB9BBA5C8739AD54AA830AC3D0C" import="1">Art/IgaAlpha32.dds</File>
+    <File md5="BAA698081B101EAB11415B660296AD8C" import="1">Art/IgaAlpha45.dds</File>
+    <File md5="F846D61726D8999056F8670F579B3036" import="1">Art/IgaAlpha48.dds</File>
+    <File md5="A708D04E9C0A938FD324303D987D3D22" import="1">Art/IgaAlpha64.dds</File>
+    <File md5="B29F427CCA329F13B97A51774A75D7DE" import="1">Art/IgaAlpha80.dds</File>
+    <File md5="45487152C3D8406AF7ACFBE229810262" import="1">Art/Iga_Atlas128.dds</File>
+    <File md5="E7C79E2D215B07B86022F971BDDD5AF0" import="1">Art/Iga_Atlas214.dds</File>
+    <File md5="5EFEEF6616A01E9B435DFE791DED1F66" import="1">Art/Iga_Atlas256.dds</File>
+    <File md5="E9F3C15293BCB7124807A41B08E32321" import="1">Art/Iga_Atlas32.dds</File>
+    <File md5="2A2039F62E72E84A376278B8F8080E1A" import="1">Art/Iga_Atlas45.dds</File>
+    <File md5="A2F812C356C2A3BEBB0A29E45EA8A6DE" import="1">Art/Iga_Atlas64.dds</File>
+    <File md5="0990554811E03E577B53F2FE6E87AC31" import="1">Art/Iga_Atlas80.dds</File>
+    <File md5="C94150EA71FA392DE1EF46A8847F3D94" import="0">Art/Iga_Audio.sql</File>
+    <File md5="5D187207F66E99CFB67DAC511770F933" import="1">Art/Iga_DOM.dds</File>
+    <File md5="C88FF16E637EAF54D4491CA440DF3B80" import="1">Art/Iga_Map.dds</File>
+    <File md5="4230D3F16730B84F9E0FEB151524F546" import="0">Art/KakurezatoDefine.sql</File>
+    <File md5="DD7940FB1854A631D3655C5866514905" import="1">Art/Kakurezato_01.fxsxml</File>
+    <File md5="2B045FFC8672039C75FF746D71D095D3" import="1">Art/Kakurezato_Flag45.dds</File>
+    <File md5="4C13F3BABE0D6A68A96951F42423C8E5" import="1">Art/Kakurezato_Flag64.dds</File>
+    <File md5="DD7940FB1854A631D3655C5866514905" import="1">Art/Kakurezato_hb.fxsxml</File>
+    <File md5="5ECDE65759499852FFEE76699B384026" import="1">Art/Kakurezato_pl.fxsxml</File>
+    <File md5="887B942AC24B19F4C5AD6F0B41CA0470" import="1">Art/MomochiPeace.mp3</File>
+    <File md5="932E9164AD2BEC98E4968FC4BF27774B" import="1">Art/MomochiWar.mp3</File>
+    <File md5="8348CC2A51EBA6DEBB1F3939C3592C9D" import="1">Art/Ninja/Ninja_Japan.dds</File>
+    <File md5="C2008F17726AB6EF21DE0AFEE1C9FEEB" import="1">Art/Ninja/Ninja_Japan.fxsxml</File>
+    <File md5="56E7E9A2C0C38D1C3441C1F54DDAA0F3" import="1">Art/Ninja/Ninja_Japan.gr2</File>
+    <File md5="837FA89D1E4B65A24C67A3FEE42E8E5B" import="1">Art/Ninja/Ninja_Japan_gloss.dds</File>
+    <File md5="67D9DF6BE9E01B7D721309E2174118CE" import="1">Art/Ninja/ninja_sv.dds</File>
+    <File md5="646902985A46FDDA9AA4EC885D0C8E46" import="1">Art/Scene_Momochi.dds</File>
+    <File md5="E30FD4A7031E5729AE99A35EE0372789" import="1">Art/SV_Kakurezato.dds</File>
+    <File md5="10906CCBCF564DD4B7A9222A250274F0" import="1">Art/Tok.mp3</File>
+    <File md5="1A21CF79258B2D7DF111C99B61C20F08" import="1">Art/Yooo.mp3</File>
+    <File md5="68046D506B0FB2DBD921DC9BB59F043B" import="0">Civilization.xml</File>
+    <File md5="2D81631D7426810C9E7514DA23D48065" import="0">DiplomacyResponses.sql</File>
+    <File md5="06B245DD3E6C678F0C2EA4DF4B80275E" import="0">DiplomacyResponses.xml</File>
+    <File md5="945D42B41A1A0733D5C93A681D14BD13" import="0">IconAtlases.xml</File>
+    <File md5="671B752A748E962A68CA34EFECA22A6D" import="0">Iga_Kakurezato.lua</File>
+    <File md5="C541F0A11806FD367B52853146905637" import="0">Iga_Kishomon.lua</File>
+    <File md5="481AAFBC02EB07FC3A7C38DEA0B70C38" import="0">Iga_Ninja.lua</File>
+    <File md5="D64D86E5AE4FF8E17A0E9ECD46E1EDC7" import="0">Improvements.xml</File>
+    <File md5="53CE35F90A5459C1346FFD4406BA3F24" import="0">Leader.xml</File>
+    <File md5="BAE69E9F640C65363771AD8163CF6F2D" import="0">ModSupport.sql</File>
+    <File md5="844C5ED52905BC53A4BD1D8511AE205F" import="0">Momochi_Music.xml</File>
+    <File md5="BD5478C0A8B08BE6B770FF83FA9CF846" import="1">Momochi_Scene.xml</File>
+    <File md5="836C5F9C6A8AA85058E26B67EE797748" import="0">Promotions.xml</File>
+    <File md5="A4687158D6706D2B7DDA0FC5B115BF84" import="0">Trait.xml</File>
+    <File md5="ADA27D16D0925F03131036508010D24F" import="0">Units.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>Improvements.xml</UpdateDatabase>
+      <UpdateDatabase>Trait.xml</UpdateDatabase>
+      <UpdateDatabase>Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Units.xml</UpdateDatabase>
+      <UpdateDatabase>Promotions.xml</UpdateDatabase>
+      <UpdateDatabase>IconAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>Art/KakurezatoDefine.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Iga_Audio.sql</UpdateDatabase>
+      <UpdateDatabase>Momochi_Music.xml</UpdateDatabase>
+      <UpdateDatabase>ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>DiplomacyResponses.sql</UpdateDatabase>
+      <UpdateDatabase>ArtDefines_Units.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Iga_Kishomon.lua">
+      <Name>Iga_Kishomon</Name>
+      <Description>Lua for the Iga Unique Ability.</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Iga_Kakurezato.lua">
+      <Name>Iga_Kakurezato</Name>
+      <Description>Lua for the Iga Unique Improvement.</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Iga_Ninja.lua">
+      <Name>Iga_Ninja</Name>
+      <Description>Lua for the Iga Unique Unit.</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/19/2018 9:38:14 PM -->
+<GameData>
+	<Improvements>
+		<Row>
+			<Type>IMPROVEMENT_KAKUREZATO</Type>
+			<Description>TXT_KEY_IMPROVEMENT_KAKUREZATO</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENTS_KAKUREZATO_TEXT</Civilopedia>
+			<Help>TXT_KEY_CIV5_IMPROVEMENTS_KAKUREZATO_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_KAKUREZATO</ArtDefineTag>
+			<WorldSoundscapeAudioScript></WorldSoundscapeAudioScript>
+			<ImprovementPillage></ImprovementPillage>
+			<ImprovementUpgrade></ImprovementUpgrade>
+			<SpecificCivRequired>1</SpecificCivRequired>
+			<CivilizationType>CIVILIZATION_IGA</CivilizationType>
+			<HillsMakesValid>0</HillsMakesValid>
+			<FreshWaterMakesValid>0</FreshWaterMakesValid>
+			<RiverSideMakesValid>0</RiverSideMakesValid>
+			<NoFreshWater>0</NoFreshWater>
+			<RequiresFlatlands>0</RequiresFlatlands>
+			<RequiresFlatlandsOrFreshWater>0</RequiresFlatlandsOrFreshWater>
+			<RequiresFeature>1</RequiresFeature>
+			<RequiresImprovement>0</RequiresImprovement>
+			<RemovesResource>0</RemovesResource>
+			<PromptWhenComplete>0</PromptWhenComplete>
+			<Coastal>0</Coastal>
+			<Water>0</Water>
+			<DestroyedWhenPillaged>0</DestroyedWhenPillaged>
+			<DisplacePillager>0</DisplacePillager>
+			<BuildableOnResources>1</BuildableOnResources>
+			<BarbarianCamp>0</BarbarianCamp>
+			<Goody>0</Goody>
+			<Permanent>0</Permanent>
+			<OutsideBorders>0</OutsideBorders>
+			<InAdjacentFriendly>0</InAdjacentFriendly>
+			<IgnoreOwnership>0</IgnoreOwnership>
+			<OnlyCityStateTerritory>0</OnlyCityStateTerritory>
+			<GraphicalOnly>0</GraphicalOnly>
+			<CreatedByGreatPerson>0</CreatedByGreatPerson>
+			<NoTwoAdjacent>1</NoTwoAdjacent>
+			<AdjacentLuxury>0</AdjacentLuxury>
+			<AllowsWalkWater>0</AllowsWalkWater>
+			<CultureAdjacentSameType>0</CultureAdjacentSameType>
+			<TilesPerGoody>0</TilesPerGoody>
+			<GoodyRange>0</GoodyRange>
+			<FeatureGrowth>0</FeatureGrowth>
+			<UpgradeTime>0</UpgradeTime>
+			<RiverSideUpgradeMod>0</RiverSideUpgradeMod>
+			<CoastalLandUpgradeMod>0</CoastalLandUpgradeMod>
+			<HillsUpgradeMod>0</HillsUpgradeMod>
+			<FreshWaterUpgradeMod>0</FreshWaterUpgradeMod>
+			<DefenseModifier>0</DefenseModifier>
+			<NearbyEnemyDamage>0</NearbyEnemyDamage>
+			<PillageGold>20</PillageGold>
+			<ResourceExtractionMod>0</ResourceExtractionMod>
+			<LuxuryCopiesSiphonedFromMinor>0</LuxuryCopiesSiphonedFromMinor>
+			<GoldMaintenance>0</GoldMaintenance>
+			<CultureBombRadius>0</CultureBombRadius>
+			<RequiresXAdjacentLand>-1</RequiresXAdjacentLand>
+			<PortraitIndex>3</PortraitIndex>
+			<IconAtlas>IGA_ICON_ATLAS</IconAtlas>
+		</Row>
+	</Improvements>
+
+	<!-- Improvement_Flavors -->
+	<Improvement_Yields>
+		<Row>
+			<ImprovementType>IMPROVEMENT_KAKUREZATO</ImprovementType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_KAKUREZATO</ImprovementType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_Yields>
+	<!-- Improvement_YieldPerEra -->
+	<!-- Improvement_AdjacentCityYields -->
+	<!-- Improvement_CoastalLandYields -->
+	<!-- Improvement_FreshWaterYields -->
+	<!-- Improvement_HillsYields -->
+	<!-- Improvement_AdjacentMountainYieldChanges -->
+	<!-- Improvement_PrereqNatureYields -->
+	<!-- Improvement_RiverSideYields -->
+	<Improvement_ValidTerrains>
+		<Row>
+			<ImprovementType>IMPROVEMENT_KAKUREZATO</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_KAKUREZATO</ImprovementType>
+			<TerrainType>TERRAIN_PLAINS</TerrainType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_KAKUREZATO</ImprovementType>
+			<TerrainType>TERRAIN_TUNDRA</TerrainType>
+		</Row>
+	</Improvement_ValidTerrains>
+	<Improvement_ValidFeatures>
+		<Row>
+			<ImprovementType>IMPROVEMENT_KAKUREZATO</ImprovementType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_KAKUREZATO</ImprovementType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+		</Row>
+	</Improvement_ValidFeatures>
+	<!-- Improvement_ValidImprovements -->
+	<!-- Improvement_ResourceTypes -->
+	<!-- Improvement_ResourceType_Yields -->
+	<!-- Improvement_RouteYieldChanges -->
+	<!-- Improvement_TechYieldChanges -->
+	<!-- Improvement_TechNoFreshWaterYieldChanges -->
+	<!-- Improvement_TechFreshWaterYieldChanges -->
+
+	<Builds>
+		<Row>
+			<Type>BUILD_KAKUREZATO</Type>
+			<PrereqTech>TECH_GUILDS</PrereqTech>
+			<Time>700</Time>
+			<ImprovementType>IMPROVEMENT_KAKUREZATO</ImprovementType>
+			<Description>TXT_KEY_BUILD_KAKUREZATO</Description>
+			<Help>TXT_KEY_BUILD_KAKUREZATO_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_KAKUREZATO_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+			<HotKey>KB_B</HotKey>
+			<OrderPriority>98</OrderPriority>
+			<IconIndex>0</IconIndex>
+			<IconAtlas>ACTION_KAKUREZATO</IconAtlas>
+		</Row>
+	</Builds>
+
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_KAKUREZATO</BuildType>
+		</Row>
+	</Unit_Builds>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_IMPROVEMENT_KAKUREZATO">
+			<Text>Kakurezato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_KAKUREZATO_TEXT">
+			<Text>A Hidden Village, or Kakurezato, was a remote settlement in Japan during the Senkogu Jidai. Difficult to access or attack, tradition holds that the Kakurezato were the hiding places of the Ninja. It is said that one could visit a Hidden Village by accident, enjoy the warm eather, and receive wonderful hospitality and souvenirs. After leaving, however, the visitors would find themelves unable ever to find their way back to the village.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_KAKUREZATO_HELP">
+			<Text>A Kakurezato must be built in Forest or Jungle, and may not be built adjacent to another Kakurezato. Yields 1 [ICON_PEACE] Faith and 1 [ICON_PRODUCTION] Production. An undamaged, non-ranged Iga combat unit that moves onto this improvement gains the Prepared promotion, granting a 100% Combat Strength bonus and +1 [ICON_MOVES] Movement until the unit takes damage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KAKUREZATO">
+			<Text>Construct a Kakurezato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KAKUREZATO_HELP">
+			<Text>Constructs a Kakurezato hidden village, which increases the amount of Faith and Production provided by this tile. An undamaged melee unit stationed on this tile will gain the Prepared promotion, gaining a large combat boost and increased movement until the unit takes damage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_KAKUREZATO_REC">
+			<Text>It will increase the amount of Faith and Production provided by this tile. It can also grant a temporary combat and movement bonus to our combat units.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

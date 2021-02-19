@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="946818c3-1a05-4586-bdf8-edfee7b57f1e" version="1">
+  <Properties>
+    <Name>Battle Royale 62 Civs DLL</Name>
+    <Stability>Beta</Stability>
+    <Teaser>A custom DLL that allows up to 62 AI Civs to play at once.</Teaser>
+    <Description>A custom DLL that allows up to 62 AI Civs to play at once. It is designed to be used with Battle Royale Data Mod. The DLLs have an expanded LUA interface to allow extra information to be accessed about the Civs.
+[NEWLINE]
+[NEWLINE][ICON_BULLET]Added support for Number of Land, Air &amp; Sea Units 
+[NEWLINE][ICON_BULLET]Added support for Military power of Land, Air &amp; Sea Units
+[NEWLINE][ICON_BULLET]World Congress Votes changed to 0, to allow the AI to vote &amp; propose without Human involvemt.
+[NEWLINE][ICON_BULLET]Archaeologist are no more 
+[NEWLINE]
+[NEWLINE]The Modded DLL were created for use with Battle Royale Data Mod, however it can be used independently of Battle Royale Data.</Description>
+    <Authors>Be1eriand</Authors>
+    <SpecialThanks>To everyone in the Mod Community. /r/CivBattleRoyale</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="4B9C58FC63FB6476DFC6A3FB527B4828" import="1">CvGameCoreDLLFinal Release.dll</File>
+    <File md5="353FA690BBFAE78371C5EC6E3EE76D4A" import="1">CvGameCore_Expansion1.dll</File>
+    <File md5="218D77BF934A518EFB5624E226FE9031" import="1">CvGameCore_Expansion2.dll</File>
+    <File md5="BD34445D2D3CFF08573E5EAF07985218" import="0">SQL/NyetArchaeologist.sql</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/NyetArchaeologist.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="1076dc5d-a665-4db9-a3eb-a10d235316c1" version="1">
+  <Properties>
+    <Name>Battle Royale Data</Name>
+    <Stability>Beta</Stability>
+    <Teaser>Mod that helps in providing access to the data within the game, and helps to run a 62 AI civ only games</Teaser>
+    <Description>Mod that helps in providing access to the data within the game.
+[NEWLINE]
+[NEWLINE]It requires the use the Battle Royale 62 Civs DLL as it uses an expanded Lua Interface. It has been designed to provide extra information abouthe AI Civs in the game, and saves the data to database.
+[NEWLINE]Provides details information about the Civs &amp; Cities, such as
+[NEWLINE][ICON_BULLET]Detailed breakdown of Military Units, into Land, Sea, &amp; Air
+[NEWLINE][ICON_BULLET]Resources being used
+[NEWLINE][ICON_BULLET]Social Policies
+[NEWLINE][ICON_BULLET]Current Owners of the Cities
+[NEWLINE][ICON_BULLET]Religions
+[NEWLINE][ICON_BULLET]City Flips
+[NEWLINE]
+[NEWLINE]The data is stored in the database, Civ5SavedGameDatabase.db, under the cache directory.
+There are 3 Tables in the database from where the data can be extracted:
+[NEWLINE][ICON_BULLET]BRDataCivTable - Game information abou the Civs in the Game
+[NEWLINE][ICON_BULLET]BRDataTable - Raw data about each Civ in the game by Turn
+[NEWLINE][ICON_BULLET]BRDCitiesTable - Game Information about each City in the game
+[NEWLINE]
+[NEWLINE]Also much of the extra data is saved to CSV files in the log directory. They are BRDResearchAgreements.txt, BRDCivData.csv, BRData.csv, BRDCities.csv, BRDReligion.csv, BRDCityFlips.csv &amp; BRDWonders.CSV
+[NEWLINE]
+[NEWLINE]InfoAddict should not be used with BRD due to the massive amount of data being produced by this mod, and much of the data would be duplicated by InfoAddict.</Description>
+    <Authors>Be1eriand</Authors>
+    <SpecialThanks>/r/CivBattleRoyale &amp; InfoAddict, and the rest of the Civ V Mod Community</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>1</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>0</SupportsMultiplayer>
+    <SupportsHotSeat>0</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Mod id="946818c3-1a05-4586-bdf8-edfee7b57f1e" minversion="0" maxversion="999" title="Battle Royale 62 Civs DLL" />
+  </Dependencies>
+  <References />
+  <Blocks>
+    <Mod id="aec5d10d-f00f-4fc7-b330-c3a1e86c91c3" minversion="0" maxversion="999" title="InfoAddict" />
+  </Blocks>
+  <Files>
+    <File md5="DDC9ABD05684EFE4673A82406172B71C" import="1">Lua/BRDataManager.lua</File>
+    <File md5="86A075A14ACE48411766CB295039D40E" import="1">Lua/BRDOptions.lua</File>
+    <File md5="461FEDB1309716B54E75A9E5FFC45B72" import="1">Lua/BRDInit.lua</File>
+    <File md5="D13591FFD800A2149D1EDA3C2CA55C26" import="1">Lua/BRDLib.lua</File>
+    <File md5="48E768D75EA9D7F535B0C42863D1FA7D" import="1">Lua/BRDLogger.lua</File>
+    <File md5="8B440C12B6CD8007C58E5C62459FF467" import="1">Override/GoldenAgePopup.lua</File>
+    <File md5="08568674819647B421366967355BF3B3" import="1">Override/LeagueProjectPopup.lua</File>
+    <File md5="6353C073C7BCFF0B1DF2AB8F135B4430" import="1">Override/LeagueSplash.lua</File>
+    <File md5="AEEFF076F01B821FF28E0F137F5FBE6E" import="1">Override/NaturalWonderPopup.lua</File>
+    <File md5="C8F7488CEC8C2680EC81CE16D37C830C" import="1">Override/WhosWinningPopup.lua</File>
+    <File md5="244350A708EC9C2374757C2F6CB215A9" import="1">XML/BRDOptions.xml</File>
+    <File md5="063B01D2F2185EF365D13A99310FC00A" import="1">XML/BRDText_EN.xml</File>
+    <File md5="04CAAA0646BBDC0B3DAD6B3D8779125C" import="1">XML/BRDInit.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/BRDText_EN.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/BRDInit.lua">
+      <Name>BRDInit</Name>
+      <Description>Load BRDInit</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

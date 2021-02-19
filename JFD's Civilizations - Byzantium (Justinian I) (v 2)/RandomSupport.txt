@@ -1,0 +1,32 @@
+TraitBasedLua = 'TRUE';
+
+OVERRIDE_AUTO  = { 
+	CIVILIZATIONS = {
+		CIVILIZATION = {
+			Civilization = 'CIVILIZATION_JFD_BYZANTIUM_JUSTINIAN';
+			Leader = 'LEADER_JFD_JUSTINIAN';
+		};
+	};
+
+	MOD_SUPPORT = {
+		Civ4Traits = {
+			LEADER_JFD_JUSTINIAN = {
+				Leader 	= 	'LEADER_JFD_JUSTINIAN';
+				LeaderTXT	=	'Justinian I ';
+			};
+		};
+	};
+
+	COMPONENTS = {
+		COMPONENT = {
+			Type = 'BUILDING_JFD_HIPPODROME';
+			Class = 'BUILDINGCLASS_CIRCUS';
+		};
+	};
+
+	TRAITS = {
+		TRAIT = {
+			Type = 'TRAIT_JFD_BYZANTIUM_JUSTINIAN';
+		};
+	};
+};

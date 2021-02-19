@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Context>
+	<Box ID="MainUIBG"  Style="BGBlock_ClearTopBar" Hidden="1"/>
+	<Grid  ID="MainUI" Size="500,520" Anchor="C,C" Offset="0,0" Padding="30,30" ConsumeMouse="1" Style="Grid9DetailFive140" Hidden="1">
+		<!-- Upper Treatment -->
+		<Image Anchor="C,T" AnchorSide="I.O" Size="256,64" Offset="0,-14"  Texture="assets\UI\Art\Icons\Top512IconTrim.dds" >
+			<Image ID="CivIconBG" Size="64.64" Anchor="C,C" Offset="-1,-1" TextureOffset="77,0" Texture="CivIconBGSizes.dds" />
+			<Image ID="CivIconShadow" Size="48.48" Anchor="C,C" Offset="0,0" Texture="CivSymbolAtlas48.dds" Color="Black.128"/>
+			<Image ID="CivIcon" Size="48,48" Offset="-1,-1"  Anchor="C,C" Texture="CivSymbolsColor512.dds" />
+		</Image>
+
+		<!-- Side treatments -->
+		<Box Style="MenuLeftSideTreatment"/>
+		<Box Style="MenuRightSideTreatment"/>
+
+		<Label  Anchor="C,T" Size="300,24" Offset="0,15" String="TXT_KEY_TRAIT_JFD_BYZANTIUM_JUSTINIAN_SHORT" ID="Title" ColorSet="Beige_Black"  Font="TwCenMT22" />
+		<Stack Anchor="C,T" Offset="0,20" Padding="12" StackGrowth="Bottom" ID="ButtonStack">
+			<Image Anchor="C,T" Offset="0,30" Texture="ByzantiumJustinian.dds" Size="450,150" ID="Image"/>
+			<Label Anchor="C,T" Offset="0,0" ColorSet="Beige_Black" Font="TwCenMT18" FontStyle="Shadow" String="TXT_KEY_JFD_BYZANTIUM_JUSTINIAN_MESSAGE" ID="Summary" WrapWidth="450" LeadingOffset="-8"/>
+			<PullDown ID="CityInstanceMenu" Style="GenericPullDown" ScrollThreshold="170" Size="190,27" SpaceForScroll="1" Anchor="C,T" Offset="0,24"/>
+		</Stack>
+		<Box Anchor="C,B" AnchorSide="I.I" Offset="0,54" Size="520,56" Color="255,255,255,0">
+			<GridButton ID="SelectButton" Size="140,36" Anchor="C,B" Offset="0,60" Style="BaseButton" ToolTip="TXT_KEY_JFD_BYZANTIUM_JUSTINIAN_BUTTON_TT">
+				<Label Anchor="C,C" Offset="0,-2" String="TXT_KEY_JFD_BYZANTIUM_JUSTINIAN_BUTTON" Font="TwCenMT24" FontStyle="Shadow" ColorSet="Beige_Black_Alpha" />
+			</GridButton>
+			<!-- FIND ON MAP BUTTON  -->
+			<GridButton Anchor="R,B" Style="SmallButton" Size="150,32" Offset="40,-5" StateOffsetIncrement="0,0" ID="FindOnMapButton">
+				<Label Anchor="C,C" Offset="0,0" String="TXT_KEY_POP_CSTATE_FIND_ON_MAP" Font="TwCenMT18" ColorSet="Beige_Black_Alpha" FontStyle="Shadow"/>
+			</GridButton>
+		</Box>
+	</Grid>
+</Context>

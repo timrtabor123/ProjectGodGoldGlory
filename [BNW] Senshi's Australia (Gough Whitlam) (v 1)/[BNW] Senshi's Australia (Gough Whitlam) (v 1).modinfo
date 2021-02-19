@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="9333b4fb-4291-40eb-9c95-3324dbe8149d" version="1">
+  <Properties>
+    <Name>[BNW] Senshi's Australia (Gough Whitlam)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Happy ANZAC Day! Adds an Australian civilization into the game, under our record reformer Gough Whitlam!</Teaser>
+    <Description>Happy ANZAC Day! Adds an Australian civilization into the game, under our record reformer Gough Whitlam!
+
+Credits:
+Senshi: Design, Code, Lua, Art (Civ Icon &amp; Alpha, Map)
+DuskJockey: Lua
+TopHatPaladin: Lua
+RawSasquatch: Art (Leaderscene, Nomad Icon)
+EmeraldRange: Art (Gallery Icon)
+Snafusmith: GAF Nomad Model</Description>
+    <Authors>Senshi</Authors>
+    <SpecialThanks>DuskJockey, TopHatPaladin, RawSasquatch, EmeraldRange</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="E35967D7D3B13834DB5D6F301A5C0E93" import="0">Art/Atlas/AtlasDefines.xml</File>
+    <File md5="82E77A3C909F8BC251509479C22E4C64" import="1">Art/Atlas/NomadFlag32.dds</File>
+    <File md5="42C0596D713939ED4CCB3FB9C47650BD" import="1">Art/Atlas/WhitlamAlpha128.dds</File>
+    <File md5="A9808912E2077632B9599E4B8E43F633" import="1">Art/Atlas/WhitlamAlpha16.dds</File>
+    <File md5="8998753B103FB3CD6F92DBFF70991722" import="1">Art/Atlas/WhitlamAlpha24.dds</File>
+    <File md5="6F5CAC81490F46F80CB69B32771127B4" import="1">Art/Atlas/WhitlamAlpha256.dds</File>
+    <File md5="75AFF5A567E4973C4ED8D2309BABE9E2" import="1">Art/Atlas/WhitlamAlpha32.dds</File>
+    <File md5="5DFCD46E9FE9936660AC540CDDAA1806" import="1">Art/Atlas/WhitlamAlpha48.dds</File>
+    <File md5="03645EEC45CDC3F761638159577EB802" import="1">Art/Atlas/WhitlamAlpha64.dds</File>
+    <File md5="202A04ACA944EF89B34CEFCDA2077F66" import="1">Art/Atlas/WhitlamAlpha80.dds</File>
+    <File md5="950EA696F94165616B7869A03FD69E87" import="1">Art/Atlas/WhitlamAtlas128.dds</File>
+    <File md5="887B6678AFC764422A4CBBA7A09DB404" import="1">Art/Atlas/WhitlamAtlas256.dds</File>
+    <File md5="EB503C29590FE6C240E41D6BBB7CE276" import="1">Art/Atlas/WhitlamAtlas32.dds</File>
+    <File md5="B6EBB1DEACC5627BCE0B75B931FA1D4A" import="1">Art/Atlas/WhitlamAtlas45.dds</File>
+    <File md5="8A315B74BA3438D220669D7BA0283372" import="1">Art/Atlas/WhitlamAtlas48.dds</File>
+    <File md5="B6720865E0726E6B3373123E14CE1C1F" import="1">Art/Atlas/WhitlamAtlas64.dds</File>
+    <File md5="FE1FFD51A824913B82D14AC623BB300F" import="1">Art/Atlas/WhitlamAtlas80.dds</File>
+    <File md5="940DAF05F48F986A3BD1D9883DE2567F" import="0">Art/Nomad/ModelRig.xml</File>
+    <File md5="975E9A3989B6BCBE19FAC1E9C989008B" import="1">Art/Nomad/P40NewZealand.dds</File>
+    <File md5="B1945AA6AF853DEBE174477BEBB40544" import="1">Art/Nomad/P40NewZealand.fxsxml</File>
+    <File md5="3CFD04401532B972B76A366F756197D2" import="1">Art/Nomad/P40NewZealand.gr2</File>
+    <File md5="277EF1282F0FE08CB2F5A6CAC0746E1C" import="1">Art/Nomad/P40SREF.dds</File>
+    <File md5="057A1946EBBD10B31CB875F136267496" import="1">Art/Nomad/sv_Nomad.dds</File>
+    <File md5="839047567D1AD368C80EA758488E09B4" import="0">Art/Sound/SoundRig.xml</File>
+    <File md5="8CA7976A5D01786094E98D2C88797D54" import="1">Art/Sound/WhitlamPeace.mp3</File>
+    <File md5="58840AB94FFF6C3EB6F061107A0F9E29" import="1">Art/Sound/WhitlamWar.mp3</File>
+    <File md5="C2B005D52D35CD75E996028D1DB0C817" import="1">Art/Whitlamap412.dds</File>
+    <File md5="981D9679AFDB02A94E1EF2FDD9B00794" import="1">Art/WhitlamDoM.dds</File>
+    <File md5="916130CEA1F7CCEFC207532816EE920E" import="1">Art/WhitlamLS.dds</File>
+    <File md5="618E46E1430E20B40E6F2D3DF7A68127" import="0">Core/Buildings.sql</File>
+    <File md5="0474EAC45C97BDDD0B6F032CC4DEF521" import="1">Core/C15_IteratorPack_v2.lua</File>
+    <File md5="7593AED56E7F4AAB86EA09B6BF6843C5" import="0">Core/Civilizations.sql</File>
+    <File md5="5E2C75E7DE1934C8F23AC368D7A5763A" import="0">Core/DiplomacyResponses.xml</File>
+    <File md5="C3E3CFC36F3E9B0A6587760C45A760D8" import="0">Core/GameText.xml</File>
+    <File md5="1B1C7274E20E53AA7CD4F4C235D5B981" import="0">Core/ModSupport.sql</File>
+    <File md5="BA91146E1E86BFAAC1D817B491A237B2" import="0">Core/Units.sql</File>
+    <File md5="25393A5754CCF9005A05C7A7C44C86B6" import="0">Core/Leaderhead.sql</File>
+    <File md5="6E07ADBDC1E6BEB207F47A05AD2D4EF0" import="0">Core/PlayerColours.sql</File>
+    <File md5="58B237CF113995F0A15C28CC048D278A" import="1">Core/Senshi_Whitlam_Scene.xml</File>
+    <File md5="D6B5E77FD8FD71763ADA7F1673AD48CE" import="0">Core/Traits.sql</File>
+    <File md5="F689E98AE7D29C42701915971D0C18F6" import="0">Core/WhitlamLua.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/Atlas/AtlasDefines.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Nomad/ModelRig.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Civilizations.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leaderhead.sql</UpdateDatabase>
+      <UpdateDatabase>Core/PlayerColours.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Traits.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Units.sql</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Art/Sound/SoundRig.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Core/WhitlamLua.lua">
+      <Name>WhitlamLua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,22 @@
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SENSHI_WHITLAM">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_WHITLAM_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SENSHI_WHITLAM">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_WHITLAM_DEFEATED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_SENSHI_WHITLAM_FIRSTGREETING_1">
+			<Text>It's a pleasure to meet you. My name's Gough Whitlam, and this is Australia! I'm sure there'll be no issues between us.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_WHITLAM_DEFEATED_1">
+			<Text>You've won, but this isn't over. My people will maintain their rage!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

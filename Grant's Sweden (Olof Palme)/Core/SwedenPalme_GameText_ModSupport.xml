@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/26/2020 10:02:37 AM -->
+<GameData>
+	<Language_en_US>
+	<!--Achievements-->
+	<Replace Tag="TXT_KEY_TAB_AA_GT_HEADER">
+		<Text>Grant's Achievements</Text>
+	</Replace>
+	<Replace Tag="TXT_KEY_TAB_AA_GT_DESC">
+		<Text>All Achievements related to or added by Grant mods.</Text>
+	</Replace>
+	<!--The Kingdom of Pontus [BNW][GT]-->
+	<Row Tag="TXT_KEY_MOD_GT_SWEDEN_PALME_NAME">
+		<Text>Grant's Sweden (Olof Palme)</Text>
+	</Row>
+	<Row Tag="TXT_KEY_MOD_GT_SWEDEN_PALME_MODID">
+		<Text>93a5089b-cccf-48de-b766-f753b3d62bac</Text>
+	</Row>
+	<Row Tag="TXT_KEY_MOD_GT_SWEDEN_PALME_AUTHORS">
+		<Text>Grant</Text>
+	</Row>
+	<!--Mithraic Supremacy-->
+	<Row Tag="TXT_KEY_AA_GT_SWEDEN_PALME_VICTORY_HEADER">
+		<Text>De kallar oss vinnare</Text>
+	</Row>
+	<Row Tag="TXT_KEY_AA_GT_SWEDEN_PALME_VICTORY_TEXT">
+		<Text>Beat the game on any difficulty setting as Olof Palme of Sweden</Text>
+	</Row>
+	<!--The Good Father-->
+	<Row Tag="TXT_KEY_AA_GT_SWEDEN_PALME_SPECIAL_HEADER">
+		<Text>The Cattle of Dictatorship</Text>
+	</Row>
+	<Row Tag="TXT_KEY_AA_GT_SWEDEN_PALME_SPECIAL_TEXT">
+		<Text>As Prime Minister Olof Palme of Sweden, denounce the Soviet Union or an Order-aligned Hungarian civilization.</Text>
+	</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/26/2020 10:02:07 AM -->
+<GameData>
+	<Language_en_US>
+		<!-- CITY NAMES -->
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_1">
+			<Text>Stockholm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_2">
+			<Text>Gothenburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_3">
+			<Text>Malmö</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_4">
+			<Text>Uppsala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_5">
+			<Text>Västerås</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_6">
+			<Text>Örebro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_7">
+			<Text>Linköping</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_8">
+			<Text>Norrköping</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_9">
+			<Text>Mora</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_10">
+			<Text>Helsingborg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_11">
+			<Text>Jönköping</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_12">
+			<Text>Gävle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_13">
+			<Text>Borås</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_14">
+			<Text>Lund</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_15">
+			<Text>Eskilstuna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_16">
+			<Text>Umeå</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_17">
+			<Text>Södertälje</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_18">
+			<Text>Sundsvall</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_19">
+			<Text>Karlstad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_20">
+			<Text>Halmstad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_21">
+			<Text>Östersund</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_22">
+			<Text>Växjö</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_23">
+			<Text>Luleå</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_24">
+			<Text>Trollhättan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_25">
+			<Text>Borlänge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_26">
+			<Text>Lidingö</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_27">
+			<Text>Falun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_28">
+			<Text>Kristianstad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_29">
+			<Text>Uddevalla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_30">
+			<Text>Örnsköldsvik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_31">
+			<Text>Karlskoga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_32">
+			<Text>Skellefteå</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_33">
+			<Text>Tumba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_34">
+			<Text>Kalmar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_35">
+			<Text>Skövde</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_36">
+			<Text>Karlskrona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_37">
+			<Text>Nyköping</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_38">
+			<Text>Motala</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_39">
+			<Text>Landskrona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_40">
+			<Text>Landskrona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_41">
+			<Text>Sandviken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_42">
+			<Text>Varberg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIVILIZATION_GT_SWEDEN_PALME_43">
+			<Text>Åkersberga</Text>
+		</Row>
+		<!-- Spy Names -->
+		<Row Tag="TXT_KEY_SPY_NAME_GT_SWEDEN_PALME_9">
+			<Text>Ingvar </Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_SWEDEN_PALME_8">
+			<Text>Gösta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_SWEDEN_PALME_7">
+			<Text>Svante</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_SWEDEN_PALME_6">
+			<Text>Bengt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_SWEDEN_PALME_5">
+			<Text>Roine</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_SWEDEN_PALME_4">
+			<Text>Torsten</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_SWEDEN_PALME_3">
+			<Text>Krister</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_SWEDEN_PALME_2">
+			<Text>Karin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_SWEDEN_PALME_1">
+			<Text>Ingegerd</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_GT_SWEDEN_PALME_0">
+			<Text>Lennart</Text>
+		</Row>
+		<!-- OLOF_PALME -->
+		<Row Tag="TXT_KEY_LEADER_GT_OLOF_PALME">
+			<Text>Olof Palme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_OLOF_PALME_HEADING_1">
+			<Text>Overview</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_OLOF_PALME_HEADING_2">
+			<Text>Early Life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_OLOF_PALME_HEADING_3">
+			<Text>First Term</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_OLOF_PALME_HEADING_4">
+			<Text>Second Term</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_OLOF_PALME_HEADING_5">
+			<Text>Assassination</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_OLOF_PALME_TEXT_1">
+			<Text>Olof Palme was a Swedish politician and statesman. A longtime protégé of Prime Minister Tage Erlander, Palme led the Swedish Social Democratic Party from 1969 until his assassination in 1986, and was twice Prime Minister of Sweden, heading a Privy Council Government from 1969 to 1976 and a cabinet government from 1982 until his death. Electoral defeats in 1976 and 1979 marked the end of Social Democratic hegemony in Swedish politics, which had seen 40 years of unbroken rule by the party. While leader of the opposition, he parted domestic and international interests and served as special mediator of the United Nations in the Iran–Iraq War, and was President of the Nordic Council in 1979. He returned as Prime Minister after electoral victories in 1982 and 1985. Palme was a pivotal and polarizing figure domestically as well as in international politics from the 1960s. He was steadfast in his non-alignment policy towards the superpowers, accompanied by support for numerous third world liberation movements following decolonization including, most controversially, economic and vocal support for a number of Third World governments. He was the first Western head of government to visit Cuba after its revolution </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_OLOF_PALME_TEXT_2">
+			<Text>Palme was born into an upper class, conservative Lutheran family in the Östermalm district of Stockholm. The Palme family is of Dutch ancestry and is related to several other prominent Swedish families such as the von Sydows and the Wallenbergs. His father Gunnar Palme was a businessman, son of Sven Theodore Palme and Baroness Hanna Maria von Born-Sarvilahti. Through her, Olof Palme claimed ancestry from King Frederick I of Denmark and Norway. A sickly child, Olof Palme received his education from private tutors. Even as a child he gained knowledge of two foreign languages – German and English. He studied at Sigtunaskolan Humanistiska Läroverket, one of Sweden's few residential high schools, and passed the university entrance examination with high marks at the age of 17. On a scholarship, he studied at Kenyon College, a small liberal arts school in central Ohio from 1947 to 1948, graduating with a BA. Inspired by radical debate in the student community, he wrote a critical essay on Friedrich Hayek's The Road to Serfdom. Palme wrote his senior honour thesis on the United Auto Workers union, led at the time by Walter Reuther. After graduation he traveled throughout the country and eventually ended up in Detroit, where his hero Reuther agreed to an interview which lasted several hours. In later years, Palme regularly remarked during his many subsequent American visits, that the United States had made him a socialist. After hitchhiking through the USA and Mexico, he returned to Sweden to study law at Stockholm University. In 1949 he became a member of the Swedish Social Democratic Party. During his time at university, Palme became involved in student politics, working with the Swedish National Union of Students. In 1951, he became a member of the social democratic student association in Stockholm, although it is asserted he did not attend their political meetings at the time. The following year he was elected President of the Swedish National Union of Students. As a student politician he concentrated on international affairs and travelled across Europe.[NEWLINE][NEWLINE]In 1953, Palme was recruited by the social democratic prime minister Tage Erlander to work in his secretariat. From 1955 he was a board member of the Swedish Social Democratic Youth League and lectured at the Youth League College Bommersvik. He also was a member of the Worker's Educational Association. In 1957 he was elected as a member of parliament, represented Jönköping County in the directly-elected Second Chamber of the Riksdag. In the early 1960s Palme became a member of the Agency for International Assistance (NIB) and was in charge of inquiries into assistance to the developing countries and educational aid. In 1963, he became a member of the Cabinet as Minister without Portfolio in the Cabinet Office, and retained his duties as a close political adviser to Prime Minister Tage Erlander. In 1965, he became Minister of Transport and Communications. One issue of special interest to him was the further development of radio and television, while ensuring their independence from commercial interests. In 1967 he became Minister of Education, and the following year, he was the target of strong criticism from left-wing students protesting against the government's plans for university reform. The protests culminated with the occupation of the Student Union Building in Stockholm; Palme came there and tried to comfort the students, urging them to use democratic methods for the pursuit of their cause. When party leader Tage Erlander stepped down in 1969, Palme was elected as the new leader by the Social Democratic party congress and succeeded Erlander as Prime Minister.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_OLOF_PALME_TEXT_3">
+			<Text>During the first tenure of Palme, several major reforms in the Swedish constitution were carried out, such as orchestrating a switch from bicameralism to unicameralism in 1971 and in 1975 replacing the 1809 Instrument of Government (at the time the oldest political constitution in the world after that of the United States) with a new one officially establishing parliamentary democracy rather than de jure monarchic autocracy, abolishing the Cabinet meetings chaired by the King and stripping the monarchy of all formal political powers.[NEWLINE][NEWLINE]His reforms on labour market included establishing a law which increased job security. In the Swedish 1973 general election, the Socialist-Communist and the Liberal-Conservative blocs got 175 places each in the Riksdag. The Palme cabinet continued to govern the country but several times they had to draw lots to decide on some issues, although most important issues were decided through concessional agreement.[14] Tax rates also rose from being fairly low even by European standards to the highest levels in the Western world.[NEWLINE][NEWLINE]Under Palme's premiership tenure, matters concerned with child care centers, social security, protection of the elderly, accident safety, and housing problems received special attention. Under Palme the public health system in Sweden became efficient, with the infant mortality rate standing at 12 per 1,000 live births.An ambitious redistributive programme was carried out, with special help provided to the disabled, immigrants, the low paid, single-parent families, and the old.The Swedish welfare state was significantly expanded from a position already one of the most far-reaching in the world during his time in office. Various policy changes increased the basic old-age pension replacement rate from 42% of the average wage in 1969 to 57%, while a health care reform carried out in 1974 integrated all health services and increased the minimum replacement rate from 64% to 90% of earnings. In 1974, supplementary unemployment assistance was established, providing benefits to those workers ineligible for existing benefits. In 1971, eligibility for invalidity pensions was extended with greater opportunities for employees over the age of 60. In 1974, universal dental insurance was introduced, and former maternity benefits were replaced by a parental allowance. In 1974, housing allowances for families with children were raised and these allowances were extended to other low-income groups. Childcare centres were also expanded under Palme, and separate taxation of husband and wife introduced. Access to pensions for older workers in poor health was liberalised in 1970, and a disability pension was introduced for older unemployed workers in 1972. [NEWLINE][NEWLINE]The Palme cabinet was also active in the field of education, introducing such reforms as a system of loans and benefits for students, regional universities, and preschool for all children. Under a law of 1970, in the upper secondary school system "gymnasium," “fackskola" and vocational "yrkesskola" were integrated to form one school with 3 sectors (arts and social science, technical and natural sciences, economic and commercial). In 1975, a law was passed that established free admission to universities. A number of reforms were also carried out to enhance workers' rights. An employment protection Act of 1974 introduced rules regarding consultation with unions, notice periods, and grounds for dismissal, together with priority rules for dismissals and re-employment in case of redundancies. That same year, work-environment improvement grants were introduced and made available to modernising firms "conditional upon the presence of union-appointed 'safety stewards' to review the introduction of new technology with regard to the health and safety of workers." In 1976, an Act on co-determination at work was introduced that allowed unions to be consulted at various levels within companies before major changes were enforced that would affect employees, while management had to negotiate with labour for joint rights in all matters concerning organisation of work, hiring and firing, and key decisions affecting the workplace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_OLOF_PALME_TEXT_4">
+			<Text>Palme's last government, elected during a time when Sweden's economy was in difficult shape, sought to pursue a "third way," designed to stimulate investment, production, and employment, having ruled out classical Keynesian policies as a result of the growing burden of foreign debt, together with the big balance of payments and budget deficits. This involved "equality of sacrifice," whereby wage restraint would be accompanied by increases in welfare provision and more progressive taxation. For instance, taxes on wealth, gifts, and inheritance were increased, while tax benefits to shareholders were either reduced or eliminated. In addition, various welfare cuts carried out before Olof's return to office were rescinded. The previous system of indexing pensions and other benefits was restored, the grant-in-aid scheme for municipal child care facilities was re-established, unemployment insurance was restored in full, and the so-called "no benefit days" for those drawing sickness benefits were cancelled. Increases were also made to both food subsidies and child allowances, while the employee investment funds (which represented a radical form of profit-sharing) were introduced. As a forerunner in green politics, Palme was a firm believer in nuclear power as a necessary form of energy, at least for a transitional period to curb the influence of fossil fuel. His intervention in Sweden's 1980 referendum on the future of nuclear power is often pinpointed by opponents of nuclear power as saving it. As of 2011, nuclear power remains one of the most important sources of energy in Sweden, much attributed to Palme's actions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_OLOF_PALME_TEXT_5">
+			<Text>Political violence was little-known in Sweden at the time, and Olof Palme often went about without a bodyguard. Close to midnight on 28 February 1986, he was walking home from a cinema with his wife Lisbet Palme in the central Stockholm street Sveavägen when he was shot in the back at close range. A second shot grazed Lisbet's back. He was pronounced dead on arrival at the Sabbatsberg Hospital at 00:06 CET. Lisbet survived without serious injuries. Palme's assassination remains unsolved, with a number of alternative theories surrounding the murder. At the time, a murder under Swedish law was subject to prescription in 25 years. The law was later changed to prevent the Palme case from expiring, and thus the police investigation remains active. A Swedish extremist, Victor Gunnarsson (labeled in the media 33-åringen, "the 33-year-old"), was soon arrested for the murder but quickly released, after a dispute between the police and prosecuting attorneys. In December 1988, almost three years after Palme's death, Christer Pettersson, a criminal, drug user and alcoholic, who had previously been imprisoned for manslaughter, was arrested for the murder of Palme. Picked out by Mrs Palme at a lineup as the killer, Pettersson was tried and convicted of the murder, but was later acquitted on appeal to the court of appeal. Ten years later, towards the end of September 1996, Colonel Eugene de Kock, a former South African police officer, gave evidence to the Supreme Court in Pretoria, alleging that Palme had been shot and killed in 1986 because he "strongly opposed the apartheid regime and Sweden made substantial contributions to the ANC". De Kock went on to claim he knew the person responsible for Palme's murder. He alleged it was Craig Williamson, a former police colleague and a South African spy. A few days later, former police Captain Dirk Coetzee, who used to work with Williamson, identified Anthony White, a former Rhodesian Selous Scout with links to the South African security services, as Palme's actual murderer. Then a third person, Swedish mercenary Bertil Wedin, living in Northern Cyprus since 1985, was named as the killer by former police Lt. Peter Caselton, who had worked undercover for Williamson.[NEWLINE][NEWLINE] Other actors, including Abdullah Öcalan, the leader of the Kurdish Workers' Party, LaRouche extremists, far-right police officers and the 'Skandia man', have been mentioned as possible assassins.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_OLOF_PALME_NAME">
+			<Text>Olof Joachim Palme</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_OLOF_PALME_SUBTITLE">
+			<Text>26th Prime Minister of the Sweden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_OLOF_PALME_TITLES_1">
+			<Text>Leader of the Social Democratic Party of Sweden</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_OLOF_PALME_TITLES_2">
+			<Text>U.N. Iran-Iraq war mediator</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_GT_OLOF_PALME_LIVED">
+			<Text>1927 – 1986 A.D.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_GT_SWEDEN_PALME_TEXT">
+			<Text>Welcome, Olof Palme, two-time prime minister of Sweden and the architect of Swedish social democracy! Before your untimely assassination, you worked to transform Sweden into a state that would care for all, and would not be afriad to speak out against foreign injustice, despite the resistance of your colleagues. You set Sweden on a course of nuclear neutrality, denouncing the crimes of the United States and the Soviet Union, welcoming liberation movements across the globe. You ensured that the workers would recieve the rights and conditions they deserved. Unlike the social democracies east and west which crumbled to neoliberalism, you steadied the Swedish welfare state so it would become the Scandanavian model admired today. In opposition, you held mend peace between Iran and Iraq as a UN mediator, a role which earned you global attention. By the time of your death, you and your supporters were no longer misfits, but pioneers decades ahead of their time.[NEWLINE][NEWLINE]Sven, your years of social democracy warm your people as they hide from the forces of unchained capitalism and a chaotic world order. They see a chance to begin again, to establish a new Swedish state that will not only last your tenure, but through centuries. Will you take the mantle once again, and become the voice for the voiceless? Will you lead Sweden into prosperity? Can you build a civilization that will stand the Test of Time?</Text>
+		</Row>
+		<!-- DOM KALLAR OSS MODS -->
+		<Row Tag="TXT_KEY_TRAIT_GT_SWEDEN_PALME_SHORT">
+			<Text>Dom Kallar Oss Mods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_GT_SWEDEN_PALME">
+			<Text>Denouncing civilizations with a different starting policy tree or ideology increases the [ICON_HAPPINESS_1] Local Happiness of Cities. Befriending civilizations who share starting policy trees or ideologies converts excess Happiness into [ICON_RESEARCH] Science.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_SWEDEN_PALME">
+			<Text>Olof Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_SWEDEN_PALME_HELP">
+			<Text>Trait Effect</Text>
+		</Row>
+		<!-- UBATSJAGARE -->
+		<Row Tag="TXT_KEY_UNIT_GT_UBATSJAGARE">
+			<Text>Ubåtsjagare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GT_UBATSJAGARE_TEXT">
+			<Text>Particularly during the Cold War, the Swedish navy was comprised mainly of 'Ubåtsjagare' or submarine-hunting corvettes that patrolled the Baltic. In the early 1980s a series of submarine incidents occurred within Swedish territorial waters, the most famous of which was U 137 which ran aground outside Karlskrona 1981. These incidents showed that the Swedish Navy was seriously lacking in its anti-submarine capacity, despite the number of Ubåtsjagare. Specifically, it needed new hulls designed to anti-submarine warfare, and it needed them fast. The decision was to use the Ytattack-81 project and modify it for ASW operations, as designing a completely new ship is a time-consuming and costly task. It was given a towed array sonar, ASW torpedoes and the ELMA anti-submarine mortar system. HMS Stockholm was launched 22 August 1984 closely followed by HMS Malmö 23 March 1985, both ships entered service 1 May 1986.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GT_UBATSJAGARE_HELP">
+			<Text>Replaces the Missile Cruiser. Much weaker (58 vs 80) and slower (5 vs 7). Unlocked at Computing. Gains a unique promotion based on the Focus of the city it is trained in, and heals per the nearest city's local Happiness. May capture enemy Submarines that are within city limits.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_GT_UBATSJAGARE_STRATEGY">
+			<Text>Ubåtsjagare are crucial for defending Sweden's territorial waters, particularly when faced with a larger enemy fleet. Keep your Happiness up to protect these ships.</Text>
+		</Row>
+	<!-- Agesta-->
+		<Row Tag="TXT_KEY_BUILDING_GT_AGESTA">
+			<Text>Agesta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_AGESTA_TEXT">
+			<Text>The nuclear power station Ågesta (ASEA) was the first Swedish commercial nuclear power plant. Also known as R3, it was the third nuclear reactor built in Sweden. Construction started in 1957 and ended in 1962, operations began in 1964 and continued until 1974. The station was built underground, used heavy water moderation and was fueled with natural uranium. The station primarily provided district heating (initially 60 MW then increased to 80 MW) for the Stockholm suburb Farsta, as well as a small amount of electricity, 12 MW. It is widely assumed that the underground reactors had military purposes, being able to produce plutonium. The reactor was part of a project called "the Swedish line" (Svenska Linjen), an international initiative to use natural uranium (not enriched) for fuel in commercial power plants.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_AGESTA_HELP">
+			<Text>Replaces the Nuclear Plant. Requires a source of Freshwater. New buildings begin with +1 of their [ICON_RESEARCH] Science and [ICON_FOOD] Food yields. Production modifier increased from Research Agreements, Trade Agreements and Defensive Pacts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_AGESTA_STRATEGY">
+			<Text>Agestas are limited by their fresh water requirement, but key if you want to boost your production by making friends around the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_AGESTA_TOOLTIP">
+			<Text>New buildings begin with +1 of their [ICON_RESEARCH] Science and [ICON_FOOD] Food yields.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_AGESTA_SCIENCE">
+			<Text>Agesta: Additional Science</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_AGESTA_FOOD">
+			<Text>Agesta: Additional Food</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_AGESTA_FOOD_HELP">
+			<Text>+1 [ICON_SCIENCE] Food to new buildings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_AGESTA_SCIENCE_HELP">
+			<Text>+1 [ICON_SCIENCE] Science to new buildings.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_KALLAR_MODS">
+			<Text>Dom Kallar Oss Mods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GT_KALLAR_MODS_HELP">
+			<Text>Denunciation Handler</Text>
+		</Row>
+	<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_GT_UBATSJAGARE_HEAL">
+			<Text>Stockholm - Class</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_PROMOTION_GT_UBATSJAGARE_HEAL_HELP">
+			<Text>Heals faster within city limits per the city's Local Happiness.</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_PROMOTION_GT_UBATSJAGARE_FOCUS_FOOD">
+			<Text>City Focus: [ICON_FOOD][COLOR_POSITIVE_TEXT]Food[ENDCOLOR]</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_PROMOTION_GT_UBATSJAGARE_FOCUS_FOOD_HELP">
+			<Text>Gains [ICON_FOOD] Food from capturing Submarines.</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_PROMOTION_GT_UBATSJAGARE_FOCUS_GOLD">
+			<Text>City Focus: [ICON_GOLD][COLOR_YIELD_GOLD]Gold[ENDCOLOR]</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_PROMOTION_GT_UBATSJAGARE_FOCUS_GOLD_HELP">
+			<Text>Gains [ICON_GOLD] Gold from capturing Submarines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_UBATSJAGARE_FOCUS_SCIENCE">
+			<Text>City Focus: [ICON_RESEARCH][COLOR_RESEARCH_STORED]Science[ENDCOLOR]</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_PROMOTION_GT_UBATSJAGARE_FOCUS_SCIENCE_HELP">
+			<Text>Gains [ICON_RESEARCH] Science from capturing promoted Submarines.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_UBATSJAGARE_FOCUS_PRODUCTION">
+			<Text>City Focus: [ICON_PRODUCTION][COLOR_YIELD_PRODUCTION]Production[ENDCOLOR]</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_PROMOTION_GT_UBATSJAGARE_FOCUS_PRODUCTION_HELP">
+			<Text>Gains [ICON_PRODUCTION] Production from attacking adjacent to neutral territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_GT_UBATSJAGARE_FOCUS_CULTURE">
+			<Text>City Focus: [ICON_CULTURE][COLOR_CULTURE_STORED]Culture[ENDCOLOR]</Text>
+		</Row>		
+		<Row Tag="TXT_KEY_PROMOTION_GT_UBATSJAGARE_FOCUS_CULTURE_HELP">
+			<Text>Gains [ICON_CULTURE] Culture from attacking in friendly coast.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/26/2020 10:02:21 AM -->
+<GameData>
+	<Language_en_US>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_GT_OLOF_PALME_FIRSTGREETING_1">
+			<Text>Welcome to Sweden. I am the Prime Minister, Olof Palme. For us, democracy is a measure of human dignity; are you yourselves democratic, or are you so undignified as to treat your people like cattle? Only time will tell.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_OLOF_PALME_DEFEATED_1">
+			<Text>My Folkhemmet is no more. While you govern with an iron fist, I will challenge your rule in the streets.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_OLOF_PALME_ATTACKED_HOSTILE_1">
+			<Text>You have attacked a free and welcoming people. Your nation cannot be reformed; it has to be eliminated.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_OLOF_PALME_DEC_FRIENDSHIP_1">
+			<Text>As a fellow guardian of social democracy, I feel obliged to extent a hand of friendship. Will you help me to protect the world?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_OLOF_PALME_DENOUNCE_1">
+			<Text>You are a dictator and an aggressor. Walking down the road to war will result in your overthrow by the people.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_OLOF_PALME_DENOUNCE_FRIEND_1">
+			<Text>I had mistaken you for a friend in preserving social liberties. I can see now that these liberties can only be achieved with your end.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_OLOF_PALME_DOW_GENERIC_1">
+			<Text>My military might may be humble combared to your brute armies, but my navy will get the better of you. I resisted taking sides before, but I will summon all the lesser evils against you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GT_OLOF_PALME_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>If our democratic socialist way of life makes us an enemy, so be it.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

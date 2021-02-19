@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="93a5089b-cccf-48de-b766-f753b3d62bac" version="1">
+  <Properties>
+    <Name>Grant's Sweden (Olof Palme)</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds Sweden under Prime Minister Olof Palme</Teaser>
+    <Description>Adds Sweden under Prime Minister Olof Palme</Description>
+    <Authors>grant</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+	<Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+	<Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+	<Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="2706B9B9924A0FB7FC12A77603AFEAFD" import="1">Art/Diplomacy/Olof_Diplo.xml</File>
+    <File md5="55984BDBA89CF5B1254DB2B636A2A913" import="1">Art/Diplomacy/Olof_Diplo.dds</File>
+    <File md5="5726830B442A6BDF14A4F098F10364C9" import="1">Art/Graphics/BPK1155.fxsxml</File>
+    <File md5="244749BD51378E9A7A571735A6653F7D" import="1">Art/Graphics/BPK1155.gr2</File>
+    <File md5="DAA80E1722F4D8BC351F03D671AF1204" import="1">Art/Graphics/BPK1155.png</File>
+    <File md5="59691E8066A89121B146BC375B4B1ACD" import="1">Art/Graphics/BPK1155_diff.dds</File>
+    <File md5="3872E535CC6D36CD1B6B721A9B040510" import="1">Art/Graphics/BPK1155_sref.dds</File>
+    <File md5="ED208A47BF847AFD3C5B46EECA514931" import="1">Art/Graphics/Ubatsjagare_flag.dds</File>
+    <File md5="9AE4C8302F4B9604E9E7CEA7A1E59B5A" import="1">Art/Graphics/Ubatsjagare_sv.dds</File>
+    <File md5="FD319FE92354A74FF19BDF7C8A0AC7C6" import="1">Art/IconAtlas/SwedenPalme_PromotionAtlas_32.dds</File>
+    <File md5="9E9FCE390A7EB0ED8E45F21B81E1A413" import="1">Art/IconAtlas/Sweden_PalmeAlphaAtlas128.dds</File>
+    <File md5="9236FE4207D163A8F6A9EAC9B62F7069" import="1">Art/IconAtlas/Sweden_PalmeAlphaAtlas24.dds</File>
+    <File md5="C73DDB0C5942BF223263D0874AAF8B03" import="1">Art/IconAtlas/Sweden_PalmeAlphaAtlas32.dds</File>
+    <File md5="633851FB1E239C17A908D65ABDF064E4" import="1">Art/IconAtlas/Sweden_PalmeAlphaAtlas48.dds</File>
+    <File md5="6B0B94329FC07DE1A880DA02753DDF82" import="1">Art/IconAtlas/Sweden_PalmeAlphaAtlas64.dds</File>
+    <File md5="F96845E471454D3B39C00A13C26DC1FC" import="1">Art/IconAtlas/Sweden_PalmeAlphaAtlas80.dds</File>
+    <File md5="B25ADF65B7BE2216E4E0A09053C5F363" import="1">Art/IconAtlas/Sweden_PalmeAtlas128.dds</File>
+    <File md5="AC476C682894FDD9A9074ECD60A8679A" import="1">Art/IconAtlas/Sweden_PalmeAtlas24.dds</File>
+    <File md5="57835A94C446B262261BBDBF7EE39193" import="1">Art/IconAtlas/Sweden_PalmeAtlas256.dds</File>
+    <File md5="2EFBA0B1AA458F3F26E0C5B8CEBBFB66" import="1">Art/IconAtlas/Sweden_PalmeAtlas32.dds</File>
+    <File md5="A712966CC6D95203058CBBCD51F83FE7" import="1">Art/IconAtlas/Sweden_PalmeAtlas45.dds</File>
+    <File md5="43EAB64CD5E55FDC30633B0147100CEE" import="1">Art/IconAtlas/Sweden_PalmeAtlas64.dds</File>
+    <File md5="564F7D9BA582CAF78D2C6FCE605A541A" import="1">Art/IconAtlas/Sweden_PalmeAtlas80.dds</File>
+    <File md5="AFC3752756983587A615B5FE84CDA820" import="1">Art/Map/Olof_DoM.dds</File>
+    <File md5="A99162E18793702F6985BAA8694E7979" import="1">Art/Map/SwedenPalme_Map.dds</File>
+    <File md5="3DB72AC3CDCD53FBAA721BD99525AE7A" import="1">Audio/Sweden_Palme_Peace.mp3</File>
+    <File md5="595C92491D6A4302D8B2CCF13A805006" import="1">Audio/Sweden_Palme_War.mp3</File>
+    <File md5="2EB39EF9B6AF9953FF503405E3E13851" import="0">Core/SwedenPalme_ArtDefines.sql</File>
+    <File md5="1E5BB2BEE120E17437108C305D875ADC" import="0">Core/SwedenPalme_GameDefines.sql</File>
+    <File md5="398F3F2FF2387D7A3BFB6C7F1E05821D" import="0">Core/SwedenPalme_GameDefines_Diplomacy.sql</File>
+    <File md5="742F35B4D114D94FD0DB88CEC9470948" import="0">Core/SwedenPalme_GameDefines_ModSupport.sql</File>
+    <File md5="25188CD26EFF704D194C3A11C52F10A1" import="0">Core/SwedenPalme_GameText.xml</File>
+    <File md5="F5318464B6E38C80EE6D1CBDA8A0A0C2" import="0">Core/SwedenPalme_GameText_Diplomacy.xml</File>
+    <File md5="870E92B3E556F22B84079B8349E70967" import="0">Core/SwedenPalme_GameText_ModSupport.xml</File>
+    <File md5="896D96259E0BA8BEB44296906C35B070" import="1">Lua/SwedenPalme_Functions.xml</File>
+    <File md5="F0DE15E86F83FC87D46D04FA02A01A3A" import="0">Lua/SwedenPalme_Functions.lua</File>
+    <File md5="1368ACF988CC8834BB7AD60585E8B936" import="1">Lua/Utilities/AdditionalAchievementsUtility.lua</File>
+    <File md5="64DF635BD57CDEB13DC1038934568A7E" import="1">Lua/Utilities/MCIS/CityInfoStack.lua</File>
+    <File md5="120EB71025973A8A48B38314241DD0B3" import="1">Lua/Utilities/MCIS/CityInfoStack.xml</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/Utilities/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/SwedenPalme_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/SwedenPalme_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/SwedenPalme_GameDefines_Diplomacy.sql</UpdateDatabase>
+      <UpdateDatabase>Core/SwedenPalme_GameDefines_ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/SwedenPalme_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/SwedenPalme_GameText_Diplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>Core/SwedenPalme_GameText_ModSupport.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Diplomacy/Olof_Diplo.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/SwedenPalme_Functions.lua">
+      <Name>Palme</Name>
+      <Description>Functions</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Utilities/MCIS/CityInfoStack.lua">
+      <Name>Palme</Name>
+      <Description>MCIS</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

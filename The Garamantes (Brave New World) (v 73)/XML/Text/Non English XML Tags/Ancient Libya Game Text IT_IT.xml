@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh-->
+<GameData>
+	<Language_IT_IT>
+		<!-- -->
+		<Row Tag="TXT_KEY_SPY_NAME_ANCIENT_LIBYA_MOD_0">
+			<Text>Munatas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ANCIENT_LIBYA_MOD_1">
+			<Text>Ikken</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ANCIENT_LIBYA_MOD_2">
+			<Text>Shoshenq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ANCIENT_LIBYA_MOD_3">
+			<Text>Juba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ANCIENT_LIBYA_MOD_4">
+			<Text>Takelot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ANCIENT_LIBYA_MOD_5">
+			<Text>Tamayyurt</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ANCIENT_LIBYA_MOD_6">
+			<Text>Lemta</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ANCIENT_LIBYA_MOD_7">
+			<Text>Izza</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ANCIENT_LIBYA_MOD_8">
+			<Text>Ultafa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ANCIENT_LIBYA_MOD_9">
+			<Text>Kwella</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_GARAMA">
+			<Text>Garama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_ZINCHECRA">
+			<Text>Zinchecra</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_THELGAE">
+			<Text>Thelgae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_DEDRIS">
+			<Text>Dedris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_AGHRAM_NADHARIF">
+			<Text>Aghram Nadharif</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_FEWET">
+			<Text>Fewet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_ABALESSA">
+			<Text>Abalessa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_EL_HATTIA">
+			<Text>El-Hattia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_TAWTEK">
+			<Text>Tawtek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_ALELE">
+			<Text>Alele</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_EL_CHARAIG">
+			<Text>El-Charaig</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_CILLIBA">
+			<Text>Cilliba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_GYRI">
+			<Text>Gyri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_EL_ABIAD">
+			<Text>El-Abiad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_ALASI">
+			<Text>Alasit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_BALLA">
+			<Text>Balla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_EDRI">
+			<Text>Edri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_GHAT">
+			<Text>Ghat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_DIDER">
+			<Text>Dider</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_POLIGNAC">
+			<Text>Ikhlif</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_SEBHA">
+			<Text>Sebha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_BIR_GHELANIA">
+			<Text>Bir Ghelania</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_AGISYMBA">
+			<Text>Agisymba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_CYDAMUS">
+			<Text>Cydamus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_TASSILI">
+			<Text>Tassili</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_ES_SOUQ">
+			<Text>Es-Souq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_GHERIA">
+			<Text>Gheria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_BU_NJEM">
+			<Text>Bu Njem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_TABUDIUM">
+			<Text>Tabudium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_NIGLIGEMELA">
+			<Text>Nigligemela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_BUBEIUM">
+			<Text>Bubeium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_THUBEN">
+			<Text>Thuben</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_NITIBRUM">
+			<Text>Nitibrum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_BOIN">
+			<Text>Boin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_PEGE">
+			<Text>Pege</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_BULUBA">
+			<Text>Buluba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_ZIGAMA">
+			<Text>Zigama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_ANCIENT_LIBYA_MOD_RAPSA">
+			<Text>Rapsa</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_ANCIENT_LIBYA_MOD_DESC">
+			<Text>Garamantian Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ANCIENT_LIBYA_MOD_SHORT_DESC">
+			<Text>The Garamantes</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_ANCIENT_LIBYA_MOD_ADJECTIVE">
+			<Text>Garamantian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_ANCIENT_LIBYA_MOD">
+			<Text>The Garamantes</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_ANCIENT_LIBYA_QASR_MOD_HELP">
+			<Text>Each source of [ICON_RES_WHEAT] Wheat [ICON_RES_BANANA] Bananas and [ICON_RES_DEER] Deer worked by this City produce +1 [ICON_FOOD] Food.[NEWLINE][NEWLINE]+1 [ICON_FOOD] Food on Oasis Tiles.[NEWLINE][NEWLINE]Allows [ICON_FOOD] Food to be moved from this city along trade routes inside your civilization.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ANCIENT_LIBYA_QASR_MOD">
+			<Text>Aghrem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_ANCIENT_LIBYA_QASR_MOD_TEXT">
+			<Text>Aghrem is the Berber term for what is roughly known in Arabic as a Qasr. Strictly speaking, these terms may refer to an individual fort-like defensive structure or the entirety of a fortified town. Due to the limited nature of surviving Garamantian textual evidence, it is uncertain what the Garamantes themselves called their fortified cities. The Arabic Qasr is the term most often employed today when discussing Libyan architecture (both ancient and modern) in general. However, the Garamantian structure is perhaps best understood as a precursor building and not identical to the modern Qasr. It is also possible that Igherman, the plural of Aghrem, may be a linguistic cognate for the name Garamantes itself.[NEWLINE][NEWLINE]Garamantian cities were often structured around a central square Aghrem. These Igherman would have attached houses as well as collective granaries. However, it is not entirely correct to describe Igherman exclusively as fortified granaries, which is often the case in modern literature.  While granaries were included within an Aghrem, they formed just one part of a larger whole which also usually included religious and commercial structures. Igherman were often situated in mountain locations to aid in defense, as well as contained within a single, continuous wall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_ANCIENT_LIBYA_QASR_MOD_STRATEGY">
+			<Text>The Garamantian Aghrem represents a form of fortified Granary. It increases the city's [ICON_FOOD] Food intake (providing an additional +1 [ICON_FOOD] Food on Oasis tiles over the standard Granary), as well as bolstering city defenses by +2.5 [ICON_STRENGTH] and +25 HP. Only the Garamantes may build it.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_IMPROVEMENT_GARAMANTES_FOGGORA">
+			<Text>Foggara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_GARAMANTES_FOGGORA_HELP">
+			<Text>The Foggara provides [ICON_FOOD] Food on desert hill tiles. It also creates a source of Fresh Water, irrigating adjacent tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_GARAMANTES_FOGGORA_TEXT">
+			<Text>The Foggora increases the [ICON_FOOD] Food output of desert hill tiles and creates a source of Fresh Water (increasing the [ICON_FOOD] Food output of adjacent Farms after Civil Service is researched). Foggoras may only be built on desert hill tiles and are destroyed when pillaged.[NEWLINE][NEWLINE]The Garamantes constructed a network of underground tunnels and shafts, known as foggaras, to mine fossil water from under the limestone layer of the desert sand. These underground foggara were built as early as the sixth century BC with bricked and cemented galleries and vertical cleaning shafts at regular intervals. The system required intensive labor for both construction and maintenance and was most likely maintained through slave labor.[NEWLINE][NEWLINE]A staggering total of as much as 20,000 kilometers of south-north foggara may have existed supporting a stable population of up to 10,000 people. Botanical samples have shown that the Garamantes produced wheat, dates, olives, figs, grapes, and several other crops, which were irrigated by foggaras.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILD_GARAMA_FOGGORA">
+			<Text>Construct a [LINK=IMPROVEMENT_CHAMPA_MOD_WELL]Foggara[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_GARAMA_FOGGORA_HELP">
+			<Text>The Foggara provides [ICON_FOOD] Food on desert hill tiles. It also creates a source of Fresh Water, irrigating adjacent tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_GARAMA_FOGGORA_REC">
+			<Text>The Foggara provides [ICON_FOOD] Food on desert hill tiles. It also creates a source of Fresh Water, irrigating adjacent tiles.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PROMOTION_LIBYAN_DESERT_RAIDER">
+			<Text>Desert Raider</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LIBYAN_DESERT_RAIDER_HELP">
+			<Text>Double [ICON_MOVES] Movement on Desert Tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LIBYAN_NOMAD">
+			<Text>Nomad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LIBYAN_NOMAD_HELP">
+			<Text>Can Explore Rival Territory. Requires no [ICON_GOLD] Gold maintenance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LIBYAN_CHARIOT_ROUTE">
+			<Text>Ignores Terrain Cost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LIBYAN_CHARIOT_ROUTE_HELP">
+			<Text>Ignores Terrain Cost</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_UNIT_LIBYAN_NOMAD_MOD">
+			<Text>Plumed Nomad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LIBYAN_NOMAD_MOD_TEXT">
+			<Text>Although the extensive urbanization of the Garamantes is the primary focus of modern archeologists, the Garamantes existed as a nomadic people in the Fezzan area of modern Libya as early as 1000 BC. Even at the height of the civilization's power and urbanization a large portion of the population still existed as nomadic pastoralists. Additionally, Roman sources frequently describe raids conducted by nomadic Garamantian tribesman. The nomadic tradition is continued even today by the modern Tuareg descendants of the Garamantes; the principle inhabitants of the Saharan interior of North Africa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LIBYAN_NOMAD_MOD_STRATEGY">
+			<Text>The Plumed Nomad is the Garamantian unique unit, replacing the Scout. It is perhaps the best early exploration unit in the game with not only additional movement while traversing over Desert Tiles, but also possessing the unique ability to explore Rival Territory regardless of Open Borders agreements. Unlike the standard Scout, the Plumed Nomad has no maintenance cost. Use them for world exploration and to scout the strength of rival Civilizations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LIBYAN_NOMAD_MOD_HELP">
+			<Text>Unrivalled Recon Unit that excels at moving over Desert Tiles and scouting Rival Territory.[NEWLINE][NEWLINE]Maximum of 6 of these Units in your empire.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_TRAIT_FOGGARAS_ANCIENT_LIBYA_MOD_SHORT">
+			<Text>Chariot Routes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_FOGGARAS_ANCIENT_LIBYA_MOD">
+			<Text>Units ignore Terrain Costs when moving along land Trade Routes connected to your empire and start with +1 [ICON_MOVES] Movement if they begin their turn on such a Trade Route. Cities irrigate Fresh Water from Foggaras to adjacent tiles.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_FEATURE_ANCIENT_LIBYAN_MOD_FOSSIL_WATER_HELP">
+			<Text>Provides Fresh Water to all adjacent Tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_ANCIENT_LIBYAN_MOD_OASIS_HELP">
+			<Text>Provides Fresh Water to all adjacent Tiles.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ANCIENT_LIBYA_MOD_TITLE">
+			<Text>The Garamantes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ANCIENT_LIBYA_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ANCIENT_LIBYA_MOD_TEXT_1">
+			<Text>The Garamantes were a Saharan people who used an elaborate underground irrigation system and founded a prosperous Berber kingdom in the Fezzan area of modern day Libya. They were a local power in the Sahara between 700 BC and AD 500 and traded extensively; effectively controlling trans-Saharan trade with Roman-Carthage and Egypt and perhaps even the upper peoples of ancient West Africa.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ANCIENT_LIBYA_MOD_HEADING_2">
+			<Text>Climate and Terrain</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ANCIENT_LIBYA_MOD_TEXT_2">
+			<Text>During the second millennium BC the Sahara's climate began to change from wet to dry and then toward its present extreme aridity. Humans adapted, in part by shifting from nomadic hunting to settled pastoralism and agriculture. At the turn of the millennium, the height of the Garamantian kingdom, the Sahara would have been recognizable as desert sands, but perhaps not as arid as it presents itself today. Ancient lakes and salt beds would have served as both a source of water and the commercially viable salt. Settlements would have remained primarily around oases and within wadis.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ANCIENT_LIBYA_MOD_HEADING_3">
+			<Text>Early Period</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ANCIENT_LIBYA_MOD_TEXT_3">
+			<Text>The Early Garamantian period is placed around 1000 BC. It is at this point that the Garamantes began to shift from primarily nomadic pastoralists to a people centered on irrigated agriculture and the establishment of permanent settlements. There is linguistic evidence to suggest a possible relation between these early Garamantes and the Meshwesh who plagued and eventually conquered Egypt around 1300 BC.[NEWLINE][NEWLINE]The Garamantes would remain in relative isolation until the horse and camel had become domesticated, ca. 1500 and 200 BC respectively. The oldest capital of the Garamantes appears to have been Zinchecra, situated on a mountain spur south of the Wadi Al-Ajal. It was inhabited from 900 BC to the first century AD. The capital would later be moved to Garama which is estimated to have had a population of some four thousand with another six thousand living in villages within a 5 km radius.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ANCIENT_LIBYA_MOD_HEADING_4">
+			<Text>Plumed Barbarians</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ANCIENT_LIBYA_MOD_TEXT_4">
+			<Text>Herodotus informs us that the Garamantes were a very numerous tribe of people, who spread soil over salt to sow their seeds and hunted Ethiopian troglodytes from four-horse chariots. They were exceptional cattle breeders whose cows curiously ate backwards. Yet, Herodotus also describes the Garamantes as, "Avoiding all intercourse with men, possessing no weapons of war, and not knowing how to defend themselves."[NEWLINE][NEWLINE]Rome, on the other hand, described the Garamantes as the epitome of barbarism using such epithets as numerous, savage, fierce, indomitable, panted, naked, miserable, tent dwelling, scattered, promiscuous, lawless, and black. They fought several wars against the Garamantes, sometimes crossing the desert to assault their heartland, and the enemy was subsequently demonized.[NEWLINE][NEWLINE]The plume existed as a sort of de facto symbol for the inhabitants of Libya in ancient sources, appearing in reference to a wide range of independent tribes and settled groups. The earliest mention of such is probably in regard to the Libu (from which the name 'Libya' is derived) and Meshwesh (potentially a cognate for the Berber self-identifier, 'Imazighen') who plagued and eventually conquered Egypt between her eighteenth and twenty-second dynasties. The Roman period saw the extension of this description to the Garamantes, and Garamantian nobility in particular were often depicted with a feather on top of their heads. Not just limited to Libya's mortal residents, both Egyptian and Roman sources often described Libyan deities with plumed head-dress.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ANCIENT_LIBYA_MOD_HEADING_5">
+			<Text>Conflict with Rome</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ANCIENT_LIBYA_MOD_TEXT_5">
+			<Text>According to the Roman poet Lucan, the first conflict with the Garamantes took place when the Garamantes joined the Numidian king Juba I during the war between Julius Caesar and the Senate. Juba's army defeated the Roman commander Curio, but was in turn defeated by Caesar. The Garamantes in Juba's army may have been a group of nomads, but the Romans now realized the potential of the Garamantian threat, and, in 19 BC, their general Lucius Cornelius Balbus marched against the Phazanians and Garamantes. It is possible that this attack on the Garamantian homeland caused great upheaval, resulting in the abandonment of Zinchecra and the transfer of the royal residence to Garama.[NEWLINE][NEWLINE]Another conflict took place in 15 BC, when the governor of Cyrenaica, Publius Sulpicius Quirinius, attacked a group of Garamantes that had joined forces with the Marmarides, a tribe living east of the Garamantian heartland. This was followed by a campaign in AD 22 when Garamantes joined Tacfarinas' war against Rome. In AD 69, Garamantes enlisted in the army of the city of Oea, which attacked Lepcis Magna and potentially even conquered and held territory over the city for a while.[NEWLINE][NEWLINE]There are no records of conflicts in the second century, but Rome still regarded the Garamantes as a thread. In AD 203, three forts were built Ghadames, Gheriat al-Garbia, and Bu Njem, to keep the nomads away, and, in AD 400, the Numidian rebel Gildo recruited Garamantian tribesmen for his army. However, it is uncertain if these mercenaries were nomads or soldiers belonging to a state army.[NEWLINE][NEWLINE]It would be wrong, though, to conclude that the Garamantes and Romans were always at each other's throats. The Romans needed gold, salt, slaves, ivory, and exotic animals for their gladiatorial contests; the Garamantes needed metal, ceramics, and olive oil. Usually, the relationship between Rome and Garama was amicable, and there appears to have been an understanding that runaway Roman slaves who reached Garama were to be returned. The fact that the Romans believed the Garamantes to be descendants from Apollo indicates at least some level of respect between the two peoples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ANCIENT_LIBYA_MOD_HEADING_6">
+			<Text>Green Sahara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ANCIENT_LIBYA_MOD_TEXT_6">
+			<Text>The Garamantes constructed a network of underground tunnels and shafts, known as foggaras, to mine fossil water from under the limestone layer of the desert sand. These underground foggara were built as early as the sixth century BC with bricked and cemented galleries and vertical cleaning shafts at regular intervals. The system required intensive labor for both construction and maintenance and was most likely maintained through slave labor.[NEWLINE][NEWLINE]A staggering total of as much as 20,000 kilometers of south-north foggara may have existed supporting a stable population of up to 10,000 people. Botanical samples have shown that the Garamantes produced wheat, dates, olives, figs, grapes, and several other crops, which were irrigated by foggaras.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ANCIENT_LIBYA_MOD_HEADING_7">
+			<Text>Decline and Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ANCIENT_LIBYA_MOD_TEXT_7">
+			<Text>Historians place the end of the late Garamantian phase at around AD 500. Byzantine records claim the king of the Garamantes made peace with Byzantium and converted to Christianity around AD 569. Likewise, Arabic records claim to have imprisoned and dragged off the king of the Garamantes in chains around AD 668. The area would then be absorbed into the Islamic world.[NEWLINE][NEWLINE]Regardless, by that point in time, the Garamantian kingdom would have been but a shadow of its former self. Many of the foggaras had long since ceased to function and their population was shrinking as a result. The decline of Garamantian cities in Late Antiquity may have also reduced the market for trans-Saharan trade while limiting the supply of slaves to maintain the remaining irrigation systems. It is estimated that over six centuries the Garamantes extracted thirty billion gallons of non-renewable fossil water and the water-table likely dropped below sustainable levels.[NEWLINE][NEWLINE]However, perhaps the Garamantes' greatest legacy to the outside world lay not in their agricultural achievements, but in their prowess for trans-Saharan travel. The measured routes, mapped mountain passes, and rough bypasses around in such inhospitable terrain would continue to be used for centuries by later caravaneers. In fact, many are still followed today! That in the Islamic period the Fezzan's capital shifted one wadi south from Garama to Murzuk meant simply that the north-south trade axis between Tripoli and Nigeria had gained in importance, and Garama had fallen off the main route.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ANCIENT_LIBYA_MOD_STATBOX">
+			<Text>[NEWLINE]        Leader: Djalla[NEWLINE]        Unique Unit: Plumed Nomad[NEWLINE]        Unique Improvement: Foggara[NEWLINE][NEWLINE]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ANCIENT_LIBYA_MOD_FACTOID_HEADING">
+			<Text>Garamantian Factoids</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_ANCIENT_LIBYA_MOD_FACTOID_TEXT">
+			<Text>The modern Tuareg people, the principal inhabitants of the Saharan interior of North Africa, are the direct descendants of the ancient Garamantes. The Proto-Tifaniq script of the Garamantes is also the foundation of the modern Tuareg script.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_ANCIENT_LIBYA_MOD_FIRST_GREETING_1">
+			<Text>The faces of your brothers are already savage to kill you. What business can such a troubled people have with the King of Garama?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANCIENT_LIBYA_MOD_FIRST_GREETING_2">
+			<Text>You should flee now under the cover of night, lest your wives be seized and you find no water in your water-skin to keep you alive.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANCIENT_LIBYA_MOD_DEFEATED_1">
+			<Text>My people already retreat to fill our wells with sand. Do you truly believe that you can survive in these lands, let alone rule?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_ANCIENT_LIBYA_MOD_DEFEATED_2">
+			<Text>My people have wandered the sands since before the time of your father's father. Destroying our cities does little but return us home.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_CIV5_DAWN_ANCIENT_LIBYA_MOD_TEXT">
+			<Text>Cunning Djalla, who raids the camps at night, your people once again gather to tell your story. You rule the enigmatic Garamantes, a civilization long since lost to history beneath the never-ending sands of the Sahara. With feathers in their hair they roamed the desert and controlled trade between the Punic World and West Africa. Yet, Proud King, your people also did the impossible. Digging deep in the earth to find life-giving water, they turned the Sahara green and settled cities where no one else could. Amidst the unforgiving sands, Garama grew into a mighty kingdom that halted even the march of the Roman Empire.[NEWLINE][NEWLINE]Oh, Raider of the Night! Your wells have long since dried up and foreign creeds have laid claim to your throne. It is time to dig deeper, to find the water for your water-skin, and gather the wandering tribes once more. Can you claim the shifting sands? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_LEADER_JALLA_MOD_DESC">
+			<Text>Djalla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JALLA_MOD_LIVED">
+			<Text>ca. 75 - 10? BC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JALLA_MOD_NAME">
+			<Text>Djalla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JALLA_MOD_SUBTITLE">
+			<Text>Leader of the Garamantes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JALLA_MOD_TITLES_1">
+			<Text>King of Zinchecra and Garama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JALLA_MOD_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JALLA_MOD_TEXT_1">
+			<Text>Djalla's reign is marked with several notable conflicts with Rome and a shift in Roman eyes from viewing the Garamantes as an occasional annoyance to a potentially serious threat to their North African territories. The exact dates of Djalla's reign is a matter of debate, and it is possible that historical records have amalgamated several consecutive kings into one ruler.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JALLA_MOD_HEADING_2">
+			<Text>Alliance with Numidia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JALLA_MOD_TEXT_2">
+			<Text>The Roman poet Marcus Annaeus Lucanus described the 'nudi Garamantes'; the naked inhabitants of North Africa who uselessly ploughed the desert sands. Such descriptions of the Garamantes in early Roman writing are typical, depicting a sort of primitive, impotent savage. According to Lucanus, the first conflict between Rome and the Garamantes took place when the Garamantes, then ruled by a king named Djalla, joined the Numidian King Juba I during the war between Julius Caesar and the Senate.[NEWLINE][NEWLINE]In 81 BC Juba's father, Hiempsal II, had been driven from his throne. Soon afterwards, Pompey the Great was sent to Africa by Lucius Cornelius Sulla to reinstate Hiempsal as King of Numidia. As a result, both Hiempsal and later Juba would become Pompey's ally. This alliance was strengthened during a visit by Juba to Rome where Juba was insulted by Julius Caesar.[NEWLINE][NEWLINE]In August 49 BC, Julius Caesar sent Gaius Scribonius Curio to take Africa from the Republicans. Overconfident and holding the governor of Africa in low esteem, Curio took fewer legions than he had been given. In the Battle of the Bagradas River, Curio led his army in a bold, uphill attack which swiftly routed Varus' army. Encouraged by this success, Curio acted on faulty intelligence and attacked what he believed to be a detachment of Juba's army. In fact, the bulk of the king's forces were there including his Garamantian allies and Curio's forces were ambushed and virtually annihilated. Juba took several senators captive back to Numidia for display and execution.[NEWLINE][NEWLINE]With the arrival of Julius Caesar in Africa, Juba originally planned to join Publius Cornelius Scipio Salvito, but his kingdom was invaded from the west by Caesar's ally Bocchus II. He therefore left only thirty elephants behind and marched home to save his country. Scipio knew he couldn't fight without more troops, and sent a desperate message to Juba for assistance. Though Juba returned with reinforcements he saw that it was unlikely Scipio could win and did not take part in the battle, fleeing to the west. Having fled with the Roman general Petreius and finding their retreat cut off, they made a suicide pact and engaged in one on one combat. The idea was that one would meet an honourable death. Sources vary on the outcome, but most likely, Petreius killed Juba and then committed suicide with the assistance of a slave.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JALLA_MOD_HEADING_3">
+			<Text>Tributary</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JALLA_MOD_TEXT_3">
+			<Text>The Garamantes in Juba's army may have been nomads unconnected to the Garamantian state, but the Romans now realized that the Garamantian threat could be serious, and, in 19 BC, their general Lucius Cornelius Balbus marched against the Phazanians and Garamantes. Pliny the Elder records Balbus' punitive sacking of the Garamantian cities of Thelgae, Dedris, and even Garama. It is possible that this attack on the Garamantian homeland caused great upheavals, resulting in the abandonment of Zinchecra and the transfer of the royal residence to Garama. The conflict would continue when the governor of Cyrenaica, Publius Sulpicius Quirinius, attacked a group of Garamantes that had joined forces with the Marmarides, a tribe living east of the Garamantian heartland.[NEWLINE][NEWLINE]In 46 BC, Numidia officially became a Roman Province. After Juba's death, he was succeeded by his son; Juba II. Juba II was brought to Rome by Julius Caesar and as a result became thoroughly Romanized, receiving both a Roman education and military training. He was declared an ally of Rome and in 29 BC Augustus Caesar restored Juba II to his throne as King of Numidia and Mauretania.  Juba II would become one of the most loyal client kings that served Rome, marrying Cleopatra Selene II to cement his alliance.[NEWLINE][NEWLINE]At this point, it seems, Rome considered the Garamantes to be a subsidiary of Numidia with sources stating Juba II as King of Mauretania and the Garamantes. However, Rome never officially occupied the Garamantian heart-land for any extended period of time. It is uncertain how much political power Djalla maintained, although funerary records at Ahramat al-Hattia maintain a line of Kings of Garama separate from Juba II. Later sources also describe the Garamantes as allies and, occasionally, as a tributary of Rome.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JALLA_MOD_HEADING_4">
+			<Text>Punic Trade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JALLA_MOD_TEXT_4">
+			<Text>Trans-Saharan trade was essential to the strength and influence of the Garamantes during Djalla's reign. Pliny notes how 'Garamantian Carbuncle' was especially prized by the Carthaginian and Roman elite. Furthermore, there is strong evidence that the black slaves present in Carthage were sold by Garamantian slavers. This correlates to Herodotus' earlier description of Garamantian charioteers hunting 'Ethiopian' troglodytes (most likely inhabitants of upper West Africa on the southern edge of the Sahara).[NEWLINE][NEWLINE]It was also toward the beginning of the camel period that caravan trade was being established. At this time, typical African products, such as the Guinean gold from Bambuk, began to regularly arrive at the Mediterranean coasts, and items of Punic origin then arrived in southern Morocco or Mauritania. The beginning of this trans-Saharan trade could only happen after the introduction of the camel into central and western Sahara.[NEWLINE][NEWLINE]The rock art of the central Sahara shows no discontinuity in the evolution from the horse period to the camel period, and the latter continued until the present. Therefore, the local introduction of the horse, chariot, throwing spear, camel, and writing can be attributed to the Garamantes and their nomadic precursors, who were already settled in the central Sahara, at least since the beginning of the first millennium BC.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JALLA_MOD_HEADING_5">
+			<Text>Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_JALLA_MOD_TEXT_5">
+			<Text>The Garamantian Royal Cemetery at Ahramat al-Hattia is traditionally believed to be divided along gender lines; however, there is no archeological basis for this claim.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_BUILDING_GARA_PRODUCTION_EDIT_BUILDING">
+			<Text>Garamantes Production Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GARAMA_DUMMY_DESC">
+			<Text>Garamantes Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GARAMA_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates the Garamantes' unique abilities.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GARAMA_DUMMY_TEXT">
+			<Text>The Garamantes constructed a network of underground tunnels and shafts, known as foggaras, to mine fossil water from under the limestone layer of the desert sand. These underground foggara were built as early as the sixth century BC with bricked and cemented galleries and vertical cleaning shafts at regular intervals. The system required intensive labor for both construction and maintenance and was most likely maintained through slave labor.[NEWLINE][NEWLINE]A staggering total of as much as 20,000 kilometers of south-north foggara may have existed supporting a stable population of up to 10,000 people. Botanical samples have shown that the Garamantes produced wheat, dates, olives, figs, grapes, and several other crops, which were irrigated by foggaras.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GARAMANTES_DECISION_DUMMY">
+			<Text>Chariot Route</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_FEATURE_ANCIENT_LIBYAN_MOD_FOSSIL_WATER">
+			<Text>Aquifer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_ANCIENT_LIBYAN_MOD_FOSSIL_WATER_TEXT">
+			<Text>An aquifer is an underground layer of water-bearing permeable rock or unconsolidated materials (gravel, sand, or silt) which acts as a reservoir for groundwater. Aquifers are filled with water from rain or melted snow that drains into the ground until it reaches a layers of less permeable rock. Wells drilled into aquifers provide water for drinking, agriculture, and industrial uses. However, aquifers can dry up if drained faster than they can naturally refill from precipitation.[NEWLINE][NEWLINE]Fossil Water is groundwater that has remained sealed in an aquifer for a long period of time. Water can rest underground in aquifers for thousands or even millions of years. When changes in the surrounding geology seal the aquifer off from further replenishment, the water becomes trapped within and is known as fossil water. Fossil water is, by definition, a non-renewable resource. Whereas most aquifers are naturally replenished by infiltration of water from precipitation, fossil aquifers are those that get little or no recharge.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_ANCIENT_LIBYAN_MOD_FOSSIL_WATER_MOD">
+			<Text>Fossil Water</Text>
+		</Row>
+		<Row Tag="TXT_KEY_FEATURE_ANCIENT_LIBYAN_MOD_FOSSIL_WATER_MOD_TEXT">
+			<Text>Fossil Water is groundwater that has remained sealed in an aquifer for a long period of time. Water can rest underground in aquifers for thousands or even millions of years. When changes in the surrounding geology seal the aquifer off from further replenishment, the water becomes trapped within and is known as fossil water.[NEWLINE][NEWLINE]Fossil water is, by definition, a non-renewable resource. Whereas most aquifers are naturally replenished by infiltration of water from precipitation, fossil aquifers are those that get little or no recharge. The extraction of water from such non-replenishing groundwater reserves (known as low safe-yield reserves) is known in hydrology as water mining.[NEWLINE][NEWLINE]The Nubian Sandstone Aquifer System is among the most notable of fossil water reserves. Fossil aquifers also exist in the Sahara, the Kalahari, and the Ogallala underlying the US Great Plains. A further potential store of ancient water is Lake Vostok, a subglacial lake in Antarctica.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_GENERIC_ANCIENT_LIBYA_MOD_INFLUENTIAL_ON_AI_1">
+			<Text>Ostrich feathers are this season's must have fashion accessory... I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_PMMM_LEADER_MG_NAME_ANCIENT_LIBYA_MOD">
+			<Text>Sophonisba</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_EVENT_CULDEV_TOMATEKH_GARAMANTES_01">
+			<Text>A fashionable blue penis sheath has been woven in {1_City}.</Text>
+		</Row>
+		<!-- -->
+		<Row Tag="TXT_KEY_POLICY_GARAMANTES_UI_FIX_MOD">
+			<Text>Garamantes Dummy 3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_GARAMANTES_UI_FIX_MOD_TEXT">
+			<Text>Garamantes Dummy 3</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_GARAMANTES_UI_FIX_MOD_HELP">
+			<Text>+1 [ICON_GOLD] on Foggara</Text>
+		</Row>
+		<!-- -->
+	</Language_IT_IT>
+</GameData>

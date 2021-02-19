@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by Tomatekh -->
+<GameData>
+	<Language_en_US>
+		<!--Cave Dwellers-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_GARAMANTES_WATER_WELLS">
+			<Text>Bury the Water Wells</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_GARAMANTES_WATER_WELLS_DESC">
+			<Text>My king, the desert terrain has proven difficult for the invading army. Though they greatly outnumber us, if we cut off their access to fresh water we may be able to break their resolve and claim victory.[NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Garamantes
+				[NEWLINE][ICON_BULLET]Player must be at War
+				[NEWLINE][ICON_BULLET]Must have built at least 3 Foggaras
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]3 Foggaras will be destroyed
+				[NEWLINE][ICON_BULLET]2 [ICON_MAGISTRATES] Magistrates
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_FOOD] Food and +1 [ICON_GOLD] Gold on Oasis Tiles
+				[NEWLINE][ICON_BULLET]Enemy Units that end their turn on Desert Tiles within your territory take -5 HP damage
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_GARAMANTES_WATER_WELLS_ENACTED_DESC">
+			<Text>My king, the desert terrain has proven difficult for the invading army. Though they greatly outnumber us, if we cut off their access to fresh water we may be able to break their resolve and claim victory.[NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_FOOD] Food and +1 [ICON_GOLD] Gold on Oasis Tiles
+				[NEWLINE][ICON_BULLET]Enemy Units that end their turn on Desert Tiles within your territory take -5 HP damage
+			</Text>
+		</Row>	
+		<!--Cave Dwellers-->
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_GARAMANTES_CAVE_DWELLERS">
+			<Text>Hunt the Aethiopian Troglodytes</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_GARAMANTES_CAVE_DWELLERS_DESC">
+			<Text>The cave dwellers feed off serpents and lizards and speak in a tongue like screeching bats. Now they have begun to raid our village farms and ransack passing caravans. Let us give chase and drive them from our lands![NEWLINE]
+				[NEWLINE]Requirement/Restrictions:
+				[NEWLINE][ICON_BULLET]Player must be the Garamantes
+				[NEWLINE][ICON_BULLET]Must have at least {1_Gold} Military Units
+				[NEWLINE][ICON_BULLET]May only be enacted before the Medieval Era
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+10% [ICON_STRENGTH] Combat Strength when fighting Barbarians
+				[NEWLINE][ICON_BULLET]A War Chariot appears near your [ICON_CAPITAL] Capital after you research the Wheel
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_TOMATEKH_GARAMANTES_CAVE_DWELLERS_ENACTED_DESC">
+			<Text>The cave dwellers feed off serpents and lizards and speak in a tongue like screeching bats. Now they have begun to raid our village farms and ransack passing caravans. Let us give chase and drive them from our lands![NEWLINE]
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+10% [ICON_STRENGTH] Combat Strength when fighting Barbarians
+				[NEWLINE][ICON_BULLET]A War Chariot appears near your [ICON_CAPITAL] Capital after you research the Wheel
+			</Text>
+		</Row>
+		<!--Dummy -->
+		<Row Tag="TXT_KEY_POLICY_GARAMANTES_CAVE_DWELLERS_MOD">
+			<Text>Garamantes Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_GARAMANTES_CAVE_DWELLERS_MOD_TEXT">
+			<Text>Garamantes Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_GARAMANTES_CAVE_DWELLERS_MOD_HELP">
+			<Text>+10% [ICON_STRENGTH] Combat Strength vs Barbarians.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_GARAMANTES_AI_DUMMY_MOD">
+			<Text>Garamantes Dummy 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_GARAMANTES_AI_DUMMY_TEXT">
+			<Text>Garamantes Dummy 2</Text>
+		</Row>
+		<Row Tag="TXT_KEY_POLICY_GARAMANTES_AI_DUMMY_HELP">
+			<Text>+1 [ICON_FOOD] per City.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GARAMANTES_DEC_OASIS_DUMMY_DESC">
+			<Text>Garamantes Decision Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GARAMANTES_DEC_OASIS_DUMMY_HELP">
+			<Text>+1 [ICON_FOOD] Food +1 [ICON_GOLD] Gold on Oasis Tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_GARAMANTES_DEC_OASIS_DUMMY_STRATEGY">
+			<Text>This building cannot be constructed but rather facilitates the Garamantes's unique ability.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVLOPEDIA_GARAMANTES_DEC_OASIS_DUMMY_TEXT">
+			<Text>Aghrem is the Berber term for what is roughly known in Arabic as a Qasr. Strictly speaking, these terms may refer to an individual fort-like defensive structure or the entirety of a fortified town. Due to the limited nature of surviving Garamantian textual evidence, it is uncertain what the Garamantes themselves called their fortified cities. The Arabic Qasr is the term most often employed today when discussing Libyan architecture (both ancient and modern) in general. However, the Garamantian structure is perhaps best understood as a precursor building and not identical to the modern Qasr. It is also possible that Igherman, the plural of Aghrem, may be a linguistic cognate for the name Garamantes itself.[NEWLINE][NEWLINE]Garamantian cities were often structured around a central square Aghrem. These Igherman would have attached houses as well as collective granaries. However, it is not entirely correct to describe Igherman exclusively as fortified granaries, which is often the case in modern literature.  While granaries were included within an Aghrem, they formed just one part of a larger whole which also usually included religious and commercial structures. Igherman were often situated in mountain locations to aid in defense, as well as contained within a single, continuous wall.</Text>
+		</Row>			
+	</Language_en_US>	
+	<Policies>
+		<Row>
+			<Type>POLICY_GARAMANTES_CAVE_DWELLERS_MOD</Type>
+			<Description>TXT_KEY_POLICY_GARAMANTES_CAVE_DWELLERS_MOD</Description>
+			<Civilopedia>TXT_KEY_POLICY_GARAMANTES_CAVE_DWELLERS_MOD_TEXT</Civilopedia>
+			<Help>TXT_KEY_POLICY_GARAMANTES_CAVE_DWELLERS_MOD_HELP</Help>
+			<BarbarianCombatBonus>10</BarbarianCombatBonus>
+			<GridX>1000</GridX>
+			<GridY>1000</GridY>
+			<PortraitIndex>47</PortraitIndex>
+			<IconAtlas>POLICY_ATLAS</IconAtlas>
+			<IconAtlasAchieved>POLICY_A_ATLAS</IconAtlasAchieved>
+		</Row>		
+	</Policies>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_GARAMANTES_DEC_OASIS_DUMMY</Type>
+			<DefaultBuilding>BUILDING_GARAMANTES_DEC_OASIS_DUMMY</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_GARAMANTES_DEC_OASIS_DUMMY_DESC</Description>
+		</Row>
+	</BuildingClasses>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_BARBARIAN</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_GARAMANTES_DEC_OASIS_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MINOR</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_GARAMANTES_DEC_OASIS_DUMMY</BuildingClassType>
+			<BuildingType/>
+		</Row>
+	</Civilization_BuildingClassOverrides>	
+	<Buildings>
+		<Row>
+			<Type>BUILDING_GARAMANTES_DEC_OASIS_DUMMY</Type>
+			<BuildingClass>BUILDINGCLASS_GARAMANTES_DEC_OASIS_DUMMY</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<Description>TXT_KEY_BUILDING_GARAMANTES_DEC_OASIS_DUMMY_DESC</Description>
+			<Civilopedia>TXT_KEY_CIVLOPEDIA_GARAMANTES_DEC_OASIS_DUMMY_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_GARAMANTES_DEC_OASIS_DUMMY_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_GARAMANTES_DEC_OASIS_DUMMY_HELP</Help>
+			<ArtDefineTag>ART_DEF_BUILDING_GRANARY</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<NeverCapture>true</NeverCapture>
+			<NukeImmune>true</NukeImmune>
+			<IconAtlas>ANCIENT_LIBYA_ATLAS</IconAtlas>
+			<PortraitIndex>7</PortraitIndex>
+		</Row>
+	</Buildings>
+	<Building_FeatureYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_GARAMANTES_DEC_OASIS_DUMMY</BuildingType>
+			<FeatureType>FEATURE_OASIS</FeatureType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_GARAMANTES_DEC_OASIS_DUMMY</BuildingType>
+			<FeatureType>FEATURE_OASIS</FeatureType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_FeatureYieldChanges>
+</GameData>

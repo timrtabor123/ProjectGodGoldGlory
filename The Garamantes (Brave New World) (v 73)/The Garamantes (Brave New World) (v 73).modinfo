@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="6e2bffad-eebc-4e29-a204-d96afc486924" version="73">
+  <Properties>
+    <Name>The Garamantes (Brave New World)</Name>
+    <Teaser>Adds the Garamantes to the base game. Requires the Brave New World expansion.</Teaser>
+    <Description>Adds the Garamantes to the base game.
+[NEWLINE]
+[NEWLINE]~~~
+[NEWLINE]
+[NEWLINE]Note: 
+[NEWLINE]- This civilization requires the Brave New World expansion.
+[NEWLINE]- Updates to the Mod will most likely break save games. Please do not update until you are ready to begin a new game.
+[NEWLINE]
+[NEWLINE]~~~
+[NEWLINE]
+[NEWLINE]Leader: Djalla
+[NEWLINE]UA: Chariot Routes
+[NEWLINE]UU: Plumed Nomad
+[NEWLINE]UB: Foggara</Description>
+    <Authors>Tomatekh</Authors>
+    <SpecialThanks>Janboruta, Sukritact</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=472751</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>73</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="YnAEMP" />
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Events and Decisions" />
+    <Mod id="7fdd72a5-d4ae-441c-bc4e-2e3d2a26cff4" minversion="0" maxversion="999" title="Ethnic Units" />
+    <Mod id="40b2f19b-236b-4699-88dd-72025ea1080d" minversion="0" maxversion="999" title="Nazca" />
+    <Mod id="e576894a-ed2b-4033-be14-ed1c8ceb81d3" minversion="0" maxversion="999" title="Map Labels" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="Cultural Diversity" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Cultural Influence" />
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="C. Patch" />
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="C. Balance Patch" />
+    <Mod id="8670da15-d435-44ea-9758-7438cb321411" minversion="0" maxversion="999" title="R.E.D." />
+    <Mod id="eea66053-7579-481a-bb8d-2f3959b59974" minversion="0" maxversion="999" title="Piety" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Enlightenment" />
+    <Mod id="d99bf7aa-51ac-4bef-bd88-d765b28e260e" minversion="0" maxversion="999" title="Sovereignty" />
+    <Mod id="a19351c5-c0b3-4b07-8695-4affaa199949" minversion="0" maxversion="999" title="Mercenaries" />
+    <Mod id="10e9728f-d61c-4317-be4f-7d52d6bae6f4" minversion="0" maxversion="999" title="CiD" />
+    <Mod id="910fd32c-1b89-489d-a890-d94d36dc4cdf" minversion="0" maxversion="999" title="JFD - CL" />
+    <Mod id="d9ece224-6cd8-4519-a27a-c417b59cdf35" minversion="0" maxversion="999" title="Future Worlds" />
+    <Mod id="6676902b-b907-45f1-8db5-32dcb2135eee" minversion="0" maxversion="999" title="ExCE" />
+  </References>
+  <Blocks>
+    <Mod id="2626e6a3-a0fd-478d-a5ab-0d9dee67ed0a" minversion="0" maxversion="999" title="YnAEMP Patch" />
+  </Blocks>
+  <Files>
+    <File md5="F00A208D2FFC3D219026BA2F153C8E30" import="1">Art/Alpha Atlas/AncientLibyaAlphaAtlas128.dds</File>
+    <File md5="D553D794B7241253785D5B3274B1317B" import="1">Art/Alpha Atlas/AncientLibyaAlphaAtlas16.dds</File>
+    <File md5="3FC16EA4E09EF6324EB7DDADE39251DF" import="1">Art/Alpha Atlas/AncientLibyaAlphaAtlas24.dds</File>
+    <File md5="DA07CB2F35B36D39B6F1C454B8822B60" import="1">Art/Alpha Atlas/AncientLibyaAlphaAtlas32.dds</File>
+    <File md5="11F62DEEDFF1F2600285692C0F144370" import="1">Art/Alpha Atlas/AncientLibyaAlphaAtlas48.dds</File>
+    <File md5="5A475DFFA16C87A72138808DBE897BCD" import="1">Art/Alpha Atlas/AncientLibyaAlphaAtlas64.dds</File>
+    <File md5="AEA41316BCC3B8C54B5644E0CDD04172" import="1">Art/Alpha Atlas/AncientLibyaUnitAlphaAtlas.dds</File>
+    <File md5="8E5AE0F928E321742DFDA9824698BECF" import="1">Art/Alpha Atlas/sv_Ancient_Libya.dds</File>
+    <File md5="2E2DEB81CEF831D8F94CB1F8AD2DD4BC" import="1">Art/Atlas/AncientLibyaAtlas128.dds</File>
+    <File md5="E06B634B6FFEBCB73F5490844A00A4EA" import="1">Art/Atlas/AncientLibyaAtlas214.dds</File>
+    <File md5="44AFF78E26DF4C476295DC2AF520CA56" import="1">Art/Atlas/AncientLibyaAtlas256.dds</File>
+    <File md5="BAAA1EF81FE3B94C6D4CCC4C6F6B33C2" import="1">Art/Atlas/AncientLibyaAtlas32.dds</File>
+    <File md5="38A5099CB34031C47D7EBE581F313A03" import="1">Art/Atlas/AncientLibyaAtlas45.dds</File>
+    <File md5="DBF894B5207E49FC5C088F9DCC6E71DA" import="1">Art/Atlas/AncientLibyaAtlas64.dds</File>
+    <File md5="CD215944076E194EF8D75C2847E0612A" import="1">Art/Atlas/AncientLibyaAtlas80.dds</File>
+    <File md5="02B8669B623F9C2F26175D1F5B1148AB" import="1">Art/Build/Garama_Build_45.dds</File>
+    <File md5="19DB8E486ECCD2F02FE22E5C5E377220" import="1">Art/Build/Garama_Build_64.dds</File>
+    <File md5="A0E270EC3173058F1DD0D889C0D82660" import="1">Art/Build/Garama_Gold_Build_45.dds</File>
+    <File md5="9FE623E800441A5A25216DBD2883AC49" import="1">Art/Build/Garama_Gold_Build_64.dds</File>
+    <File md5="4D5397BD59287A487F62EC20D861B2A1" import="1">Art/Improvement/meso-american_city_diff.dds</File>
+    <File md5="E7E1EB2A3B2A7567C8DC15C27B478ABB" import="1">Art/Improvement/sv_Fogaaras.dds</File>
+    <File md5="5507313D3CB873E98258B6819AD73E8B" import="1">Art/Improvement/Tomatekh_Foggaras.gr2</File>
+    <File md5="A5440DB0F52106321882CB094856D9CE" import="1">Art/Improvement/Tomatekh_Foggaras.sql</File>
+    <File md5="4B0C1C1C4713B5B654FC146D877F70BE" import="1">Art/Improvement/Tomatekh_Foggaras_B.fxsxml</File>
+    <File md5="CD31CA1016A6661AC070D69EE7620D5F" import="1">Art/Improvement/Tomatekh_Foggaras_diff.dds</File>
+    <File md5="A10667D71163CBB414EE895C52B2C535" import="1">Art/Improvement/Tomatekh_Foggaras_diff_U.dds</File>
+    <File md5="BEA37DFFCAC5F7EA49F67339E7ECAF25" import="1">Art/Improvement/Tomatekh_Foggaras_h.dds</File>
+    <File md5="AB074F1E0EA0B9D05EE5F173C934CF46" import="1">Art/Improvement/Tomatekh_Foggaras_HB.fxsxml</File>
+    <File md5="1EFD4E20CF1C926C8329A4716C7D8970" import="1">Art/Improvement/Tomatekh_Foggaras_PL.fxsxml</File>
+    <File md5="BF9687747854B18A1C313FEFA9EA4D28" import="1">Art/Improvement/Tomatekh_Foggaras_PL.gr2</File>
+    <File md5="A974D627353B6BFCB38D4E4EB25B79B8" import="1">Art/Improvement/Tomatekh_Foggaras_sref.dds</File>
+    <File md5="23EA13AB4463AB203FF874C59B01DA57" import="1">Art/Improvement/Tomatekh_Foggaras_U.gr2</File>
+    <File md5="6F5F5838EB9D450E4FFB2C7EF4640EE7" import="1">Art/Leader/ALT_AncientLibyaModDOM.dds</File>
+    <File md5="60A51B021C5A73ADB1E52E7028266CD3" import="1">Art/Leader/ALT_Ancient_Libya_Diplo_Mod.dds</File>
+    <File md5="EF7E7168B37544F138B3DA9B89ABEAC4" import="1">Art/Leader/AncientLibyaModMap.dds</File>
+    <File md5="BCAC022B77BBBC167DCDB2BC2EE2D4C8" import="1">Art/Units/UU/Garamante.dds</File>
+    <File md5="B20AFE8174B39E9CE00542E849CEDC8F" import="1">Art/Units/UU/Garamante.fbx</File>
+    <File md5="D678AD4D19A8110637EE0A3BEF788B91" import="1">Art/Units/UU/Garamante.fxsxml</File>
+    <File md5="A212CDA10B0719A5D357304C81C37717" import="1">Art/Units/UU/Garamante.gr2</File>
+    <File md5="1C2E53F63C16D16E9CDAE18C5DE851CA" import="1">Art/Units/UU/Garamante_sref.dds</File>
+    <File md5="B247A766F8813DFEF66FA8AD67153578" import="1">Art/Units/UU/Garamante_Template.blend</File>
+    <File md5="1B4C8A093430E47B3546DA792DFE07E9" import="0">Decisions/Garamantes Decisions.xml</File>
+    <File md5="D3E315B6E46BC3DDA2B531A813C0AAD2" import="1">Decisions/TomatekhGaramantesDecisions.lua</File>
+    <File md5="111B9CFB306E27C332A623D561350953" import="1">LUA/Garamantes Scripts.lua</File>
+    <File md5="50E0357B8A61D93838CC165D47721C25" import="0">LUA/Garamantes Check.lua</File>
+    <File md5="6CEF719218660E2886C8A56B89607905" import="1">Sound/DjallaDoM.mp3</File>
+    <File md5="15B0FBD65492D4DB89AEC305F981AFA9" import="1">Sound/DjallaPeace.mp3</File>
+    <File md5="036B57E95F7A6ACAF9579D5997D0500B" import="1">Sound/DjallaWar.mp3</File>
+    <File md5="1B62254134D8E4492294EDC592191CD2" import="0">SQL/Garamantes Civ and Leader.sql</File>
+    <File md5="50A7C58C7238CD896F132B3653DEA5E2" import="0">SQL/Garamantes Game Info.sql</File>
+    <File md5="3A5CAFC821CF26CEE1F4509967E53E89" import="1">SQL/Garamantes Skins.sql</File>
+    <File md5="6E61AB6DC38C1A703DD752FB107210B2" import="0">SQL/Garamantes Mod Support.sql</File>
+    <File md5="A7F1D807CCC6EE7D2FC22D409D272D7C" import="0">SQL/Garamantes Units and Improvements.sql</File>
+    <File md5="5784B8D6A7C4194FB4D8A0A8F59D76C3" import="0">SQL/Garamantes YnAEMP.sql</File>
+    <File md5="1126A7D372E518216500B1792AE017CE" import="1">XML/Art/Ancient_Libya_Leader_Scene_Mod.xml</File>
+    <File md5="0693D1C04CEF2D4F21C162B7BE9AD761" import="0">XML/Terrain/Garamantes Terrain Overlap.xml</File>
+    <File md5="3E6B37784F2C5ED8E75CC334471F7714" import="0">XML/Text/Ancient Libya Game Text Mod.xml</File>
+    <File md5="86B3E369B8A03A94D8094FDD86682F49" import="0">XML/Text/Non English XML Tags/Ancient Libya Game Text DE_DE.xml</File>
+    <File md5="B226D363AFF9BD9AAC9396032B33FFDA" import="0">XML/Text/Non English XML Tags/Ancient Libya Game Text ES_ES.xml</File>
+    <File md5="B21427519A5D4A60873F8337A36014B5" import="0">XML/Text/Non English XML Tags/Ancient Libya Game Text FR_FR.xml</File>
+    <File md5="50BADC4CAC7F364DB8C1E90462B9EE9D" import="0">XML/Text/Non English XML Tags/Ancient Libya Game Text IT_IT.xml</File>
+    <File md5="F1E67F669E0662AEA1F58749FF7659EC" import="0">XML/Text/Non English XML Tags/Ancient Libya Game Text JA_JP.xml</File>
+    <File md5="135897C5F8E7A04499E0855D642BC173" import="0">XML/Text/Non English XML Tags/Ancient Libya Game Text KO_KR.xml</File>
+    <File md5="9A082E532BD7B1A855EEF8762FCC7349" import="0">XML/Text/Non English XML Tags/Ancient Libya Game Text PL_PL.xml</File>
+    <File md5="F60353929D2CA57B2E88BF2BA75BCB27" import="0">XML/Text/Non English XML Tags/Ancient Libya Game Text RU_RU.xml</File>
+    <File md5="A32484FEFC8106D69B9C44FD93155EAB" import="0">XML/Units/Garamantes Unit Overlap.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/Garamantes Skins.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Garamantes Civ and Leader.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Garamantes Game Info.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Garamantes Units and Improvements.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Terrain/Garamantes Terrain Overlap.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Garamantes Unit Overlap.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Garamantes YnAEMP.sql</UpdateDatabase>
+      <UpdateDatabase>Decisions/Garamantes Decisions.xml</UpdateDatabase>
+      <UpdateDatabase>SQL/Garamantes Mod Support.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Ancient Libya Game Text Mod.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Ancient Libya Game Text DE_DE.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Ancient Libya Game Text ES_ES.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Ancient Libya Game Text FR_FR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Ancient Libya Game Text IT_IT.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Ancient Libya Game Text JA_JP.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Ancient Libya Game Text KO_KR.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Ancient Libya Game Text PL_PL.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Non English XML Tags/Ancient Libya Game Text RU_RU.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/Garamantes Check.lua">
+      <Name>Libya Trait</Name>
+      <Description>Libya Trait</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

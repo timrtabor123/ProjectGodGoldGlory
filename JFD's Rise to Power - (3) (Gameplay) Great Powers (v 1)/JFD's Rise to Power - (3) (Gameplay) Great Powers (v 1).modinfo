@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="9d8673d3-716b-4d46-8573-46021ea8f095" version="1">
+  <Properties>
+    <Name>JFD's Rise to Power - (3) (Gameplay) Great Powers</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>asdasdsadasda</Teaser>
+    <Description>asdasdsadasda</Description>
+    <Authors>JFD</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Mod id="a2cfe2eb-d94b-496d-a1ce-266c14d6afcb" minversion="0" maxversion="999" title="JFD's Rise to Power - (1) (Core) Utilities" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="82158BA446AD9F2636A3C0A8BB578177" import="1">Art/Fonts/FontIcons_JFD_DevelopingPower_22.dds</File>
+    <File md5="07C63485A5CE0D4561C25AF2BEE1830A" import="1">Art/Fonts/FontIcons_JFD_GreatPower_22.dds</File>
+    <File md5="82F687AF9368C0CEF59F33A38AD88F9F" import="1">Art/Fonts/FontIcons_JFD_HyperPower_22.dds</File>
+    <File md5="C3DDE00CFDE932D5E3CE794DD5CE3674" import="1">Art/Fonts/FontIcons_JFD_HyperPower_22.ggxml</File>
+    <File md5="F88D2DB611DED1F2E8BA7DA508C9CBA8" import="1">Art/Fonts/FontIcons_JFD_MiddlePower_22.ggxml</File>
+    <File md5="F0CF9E17265B00AFFB7BF265540DC9E6" import="1">Art/Fonts/FontIcons_JFD_MiddlePower_22.dds</File>
+    <File md5="2D9FF9A88D3967D97E7D900C80A08F1D" import="1">Art/Fonts/FontIcons_JFD_SmallPower_22.ggxml</File>
+    <File md5="23CB6716F450641BDBE68DEA6C35E728" import="1">Art/Fonts/FontIcons_JFD_GreatPower_22.ggxml</File>
+    <File md5="E95A71AB854720A874AA02D5F71E2CD4" import="1">Art/Fonts/FontIcons_JFD_SmallPower_22.dds</File>
+    <File md5="51C007C4F5A66D71181B021F11A1DDCD" import="1">Art/Fonts/FontIcons_JFD_StagnantPower_22.dds</File>
+    <File md5="1C3A0ACC076EE3A2FF53E39AC8DC8EF6" import="1">Art/Fonts/FontIcons_JFD_StagnantPower_22.ggxml</File>
+    <File md5="A7D2EF8454D90A3F75D5967528CF7AD5" import="1">Art/Fonts/FontIcons_JFD_SuperPower_22.ggxml</File>
+    <File md5="3D8BE5BF1466C3A49CAA9603AD5199DC" import="1">Art/Fonts/FontIcons_JFD_DevelopingPower_22.ggxml</File>
+    <File md5="524BBB8A4E7E42A59754740FD63D9562" import="1">Art/Fonts/FontIcons_JFD_SuperPower_22.dds</File>
+    <File md5="B05726CD3049D0A23A3F960B6C63CFE0" import="0">Core/GreatPowers_GameText.xml</File>
+    <File md5="018D6F0301C28C9CA68BD944CDCB2639" import="0">Core/GreatPowers_ArtDefines.sql</File>
+    <File md5="2FC3111349BA6C8A86A463324BFF222D" import="0">Core/GreatPowers_Master.sql</File>
+    <File md5="A10F9A01873D16E35CD3723E8EEB00DC" import="0">Core/GreatPowers_GreatPowers.sql</File>
+    <File md5="705580D3C724322C971CD22168FCC7C9" import="0">Lua/JFD_RTP_GreatPowers_Functions.lua</File>
+    <File md5="6854F98BBEEF689A860A35145F34346D" import="1">Lua/Utilities/JFD_GreatPowers_Utils.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/GreatPowers_Master.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GreatPowers_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GreatPowers_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/GreatPowers_GreatPowers.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/JFD_RTP_GreatPowers_Functions.lua">
+      <Name>JFD_RTP_GreatPowers_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/2/2020 10:28:53 AM -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row Leadertype="LEADER_CTCL_ALACH">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_RESPONSE_CTCL_ALACH_GREETING_%</Response>
+		</Row>
+		<Row Leadertype="LEADER_CTCL_ALACH">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_RESPONSE_CTCL_ALACH_DEFEAT</Response>
+		</Row>
+	</Diplomacy_Responses>
+</GameData>

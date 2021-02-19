@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="98c25484-be19-482e-968e-adc460260a8f" version="1">
+  <Properties>
+    <Name>(Colonialist Legacies, CurlySnail, &amp; Thirdvoice) Yugra under Alach</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Yugra under Alach, by CurlySnail, Thirdvoice, and Colonialist Legacies.</Teaser>
+    <Description>Allows you to play as Yugra under Alach, by CurlySnail, Thirdvoice, and Colonialist Legacies.
+
+CREDITS:
+
+CurlySnail (Design)
+Thirdvoice (Design, XML, Text)
+TPangolin (Design, Art, XML)
+ExplosiveWatermelon (Design, SQL, Text, Lua)
+TopHatPaladin (SQL, Lua)
+Grant (Lua)
+JFD (Lua)</Description>
+    <Authors>CurlySnail, Thirdvoice, Colonialist Legacies</Authors>
+    <SpecialThanks>CurlySnail, Thirdvoice, TPangolin, TopHatPaladin, ExplosiveWatermelon, Grant, JFD, H-Ural</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Map Pack" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions (Complete)" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="6B9E96843558527EBC03297E909105B4" import="1">Art/caviarAtlas128.dds</File>
+    <File md5="242926213DE9A9672E1A26A3A8BBD70E" import="1">Art/caviarAtlas16.dds</File>
+    <File md5="ECA304EEB12C26F027CF3A6014400725" import="1">Art/caviarAtlas24.dds</File>
+    <File md5="A9CE8037EFE75193C9B24CC4C87A4833" import="1">Art/caviarAtlas256.dds</File>
+    <File md5="21E7CAECA69A229D4CD35570D9CC1883" import="1">Art/caviarAtlas32.dds</File>
+    <File md5="B58C0C579019FD82F0DC1B8E54383F78" import="1">Art/caviarAtlas45.dds</File>
+    <File md5="1B9868564C735050F3B6CA6E8D70C77D" import="1">Art/caviarAtlas48.dds</File>
+    <File md5="80108C2264958067CB67F7F59EEB5574" import="1">Art/caviarAtlas64.dds</File>
+    <File md5="EF37B9FF6051F288C68A6052B55F52B0" import="1">Art/caviarAtlas80.dds</File>
+    <File md5="A2AD8A41B80E114EFA0F5B7A2F66D97E" import="1">Art/caviarAtlas_SV.dds</File>
+    <File md5="89D349B1F6ECD9F237DDAAC7FE41ED4E" import="1">Art/FontIcon/caviarAtlas_FontIcon.dds</File>
+    <File md5="087978CB1483485DDAFD8E2E63AFC8CD" import="1">Art/FontIcon/Caviar_fonticon.ggxml</File>
+    <File md5="ABAEC1036F885E12391FEB7209BBA98A" import="1">Art/FontIcon/caviarAtlas_FontIcon.xml</File>
+    <File md5="B18FF4F2FA6EB4492A748EEF88E3F714" import="1">Art/Music/YugraPeace.mp3</File>
+    <File md5="0631C8E209311B70AC441BB3B73AAB89" import="1">Art/Music/YugraWar.mp3</File>
+    <File md5="37A700288166808D4A4AE0FDFD0B79A9" import="1">Art/Resources/feathers.fxsxml</File>
+    <File md5="093E72452142412CBD52AA7C81BDB8FA" import="1">Art/Resources/feathers.gr2</File>
+    <File md5="0DEA1A12E0D05FA59C74EDA579E2058A" import="1">Art/Resources/Seagul01_diff.dds</File>
+    <File md5="5A7D52ADA6C500CA3FFA46AC756D39E7" import="1">Art/Units/bow_diff.dds</File>
+    <File md5="9513F81DE4E5E0C30DE6BC8011E29A0A" import="1">Art/Units/bow_sref.dds</File>
+    <File md5="5823D11B90F3485E6B41D9645CBC8EE1" import="1">Art/Units/deer_diff.dds</File>
+    <File md5="9274BD21B9EC1D53F4D1BB56CF0A3FE1" import="1">Art/Units/deer_sref.dds</File>
+    <File md5="5CA93A38A8042D93F1C196AD418BD167" import="1">Art/Units/Fyrdwell_diff.dds</File>
+    <File md5="E961BA909DD7E00A3559E086E679689A" import="1">Art/Units/Fyrdwell_sref.dds</File>
+    <File md5="725FBC878212A21E89ADD7DF2DD9864F" import="1">Art/Units/mooseCav.fxsxml</File>
+    <File md5="F5C324460BACCC4D6B839329EAB695C9" import="1">Art/Units/mooseCav.gr2</File>
+    <File md5="C0EC22E375FACB7EABEF30B7B125A02F" import="1">Art/Units/mooseCav_body_diff.dds</File>
+    <File md5="38243C05781A43FD5A364C3B76B630A5" import="1">Art/Units/mooseCav_body_sref.dds</File>
+    <File md5="464D23771296026BFED83B9FA1CF84FC" import="1">Art/Units/MooseFlag.dds</File>
+    <File md5="88E1C359596FFBDD47EB3ED9F720CBE6" import="1">Art/Units/MooseSV.dds</File>
+    <File md5="A6C9678B8D1599900F0A39A9B36BEEE2" import="1">Art/YugraAlpha128.dds</File>
+    <File md5="B20C87C34437A7F0D7E86D8A9BE8DC27" import="1">Art/YugraAlpha16.dds</File>
+    <File md5="35790544F4CBE3CBA1868F90E2E6C168" import="1">Art/YugraAlpha24.dds</File>
+    <File md5="399BF9438A43171BBCBA9C83E03D3029" import="1">Art/YugraAlpha256.dds</File>
+    <File md5="0C8B67FA9321964FE952710D705ECE5A" import="1">Art/YugraAlpha32.dds</File>
+    <File md5="30EF848CC7136EB24783D28B7FB0B906" import="1">Art/YugraAlpha45.dds</File>
+    <File md5="3B8CC45ABD0D26FC7C1D4C1C21EBCA29" import="1">Art/YugraAlpha64.dds</File>
+    <File md5="45FCC900157B22E3B471E8B6D2127224" import="1">Art/YugraAlpha80.dds</File>
+    <File md5="45EAC17F852C80464D131524CBED625B" import="1">Art/YugraAtlas128.dds</File>
+    <File md5="84D9836B7AB16E26E4B7F9F09413BA9E" import="1">Art/YugraAtlas256.dds</File>
+    <File md5="90E4E848A5A9D17544C28B26273104D4" import="1">Art/YugraAtlas32.dds</File>
+    <File md5="BBA600C1CE630115D77F567FA4F49AB3" import="1">Art/YugraAtlas45.dds</File>
+    <File md5="0BD96FBD4FCC069F3E9AC061C25F3030" import="1">Art/YugraAtlas48.dds</File>
+    <File md5="BA6DC1A046D224BAB647D40DFE4B6EFA" import="1">Art/YugraAtlas64.dds</File>
+    <File md5="58A36C261FBAD001E51DF53636E9FD63" import="1">Art/YugraAtlas80.dds</File>
+    <File md5="95759FED85730203F24A34AEFCF39CA7" import="1">Art/YugraDoM.dds</File>
+    <File md5="04F50F1356B245826ECF02BE2173195D" import="1">Art/YugraIcon128.dds</File>
+    <File md5="EA8A8E19FAE480E0EEBC8886E03A9A79" import="1">Art/YugraIcon256.dds</File>
+    <File md5="608785F6D08FB073204A28CB203AD516" import="1">Art/YugraIcon32.dds</File>
+    <File md5="B9C5DA1F7709AD8983D9E6FE11230736" import="1">Art/YugraIcon45.dds</File>
+    <File md5="734294CB67F57BA9E36A071EA6BD825F" import="1">Art/YugraIcon64.dds</File>
+    <File md5="FDEDF016675A1300E6CC39B6AF60D288" import="1">Art/YugraIcon80.dds</File>
+    <File md5="99C2912BD6FD396B704AFD63BC382207" import="1">Art/YugraMap.dds</File>
+    <File md5="23AE312E1887F92FB256E3203419BCCF" import="1">Art/Yugra_AlachLS.dds</File>
+    <File md5="AE303BB3DEC3955DE68799F7A9E3401D" import="0">Core/ArtDefines.sql</File>
+    <File md5="4A5668F5726E75F78EA4D8F8DBB99EA1" import="0">Core/Buildings.xml</File>
+    <File md5="3574E1848DF14EFEF1E66D8445BC8FEE" import="0">Core/CaviarText.xml</File>
+    <File md5="CE1E52B5E73AB6A12340DD251B800C60" import="0">Core/Civilization.xml</File>
+    <File md5="DBA3411F241996659ABD8C0FA64A02A3" import="0">Core/DiplomacyResponses.xml</File>
+    <File md5="C726069A134ABB77F0BEFB4859B0BE25" import="0">Core/Leader.xml</File>
+    <File md5="448530FD091C12FFA7231F02130AC62E" import="0">Core/MasterSupportFile.sql</File>
+    <File md5="550D879AB45BD119A6E99C71B4CCD71F" import="0">Core/Trait.xml</File>
+    <File md5="E6610B89710F392749A233FF331CC0AA" import="0">Core/Units.xml</File>
+    <File md5="AB5CFB87E51C24333B70E3FF51AD92C2" import="0">Core/YugraDummies.sql</File>
+    <File md5="462CAF60659696D75E6819D10C9E8525" import="1">Core/Yugra_LS.xml</File>
+    <File md5="F549F54EFF207E933BEFD0CFFF6D1DEC" import="0">Core/Yugra_TraitTables.sql</File>
+    <File md5="1368ACF988CC8834BB7AD60585E8B936" import="1">Lua/AdditionalAchievementsUtility.lua</File>
+    <File md5="D63DC8BB6AA0F310DD55B264DB49C7E2" import="1">Lua/PlotIterators.lua</File>
+    <File md5="EAC9630C5E7BF25893ADB3D4D1BB506E" import="0">Lua/Yugra_BuildingAllocation.lua</File>
+    <File md5="0C6BB8DAFCDC44F72542197A472139E0" import="0">Lua/Yugra_Functions_2.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/Buildings.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Trait.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Units.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Yugra_TraitTables.sql</UpdateDatabase>
+      <UpdateDatabase>Core/YugraDummies.sql</UpdateDatabase>
+      <UpdateDatabase>Core/CaviarText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>Art/FontIcon/caviarAtlas_FontIcon.xml</UpdateDatabase>
+      <UpdateDatabase>Core/MasterSupportFile.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Yugra_BuildingAllocation.lua">
+      <Name>Yugra_BuildingAllocation</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Yugra_Functions_2.lua">
+      <Name>Yugra_Functions_2</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

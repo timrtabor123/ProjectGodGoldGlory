@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/23/2020 2:11:38 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_RESOURCE_CS_CAVIAR">
+			<Text>Caviar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_CS_CAVIAR_PEDIA">
+			<Text>Caviar are sturgeon eggs harvested from inside the fish before they are laid. Despite the gross origin, they are often seen as a sign of nobility or wealth. The difficult and harmful practice of farming caviar has limited the industry, and prices for Caviar have remained consistently high. The term caviar can also refer to various other types of fish eggs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CS_BONUSEXP">
+			<Text>Double Experience</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CS_BONUSATTACK">
+			<Text>Bonus Attack</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CS_BONUSATTACK_HELP">
+			<Text>Can make 2 Attacks per turn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CS_YUGRA_SETTLER">
+			<Text>World Surveyor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CS_YUGRA_SETTLER_HELP">
+			<Text>Founds City with Great Work of Art slot.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

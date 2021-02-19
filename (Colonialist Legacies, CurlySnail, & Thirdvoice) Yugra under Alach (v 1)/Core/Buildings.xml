@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_CTCL_NEVED</Type>
+			<Description>TXT_KEY_BUILDING_CTCL_NEVED</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_CTCL_NEVED_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_CTCL_NEVED_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_CTCL_NEVED_HELP</Help>
+			<ThemingBonusHelp></ThemingBonusHelp>
+			<Quote></Quote>
+			<GoldMaintenance>1</GoldMaintenance>
+			<MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+			<TeamShare>0</TeamShare>
+			<Water>0</Water>
+			<River>1</River>
+			<FreshWater>0</FreshWater>
+			<Mountain>0</Mountain>
+			<NearbyMountainRequired>0</NearbyMountainRequired>
+			<Hill>0</Hill>
+			<Flat>0</Flat>
+			<FoundsReligion>0</FoundsReligion>
+			<IsReligious>0</IsReligious>
+			<BorderObstacle>0</BorderObstacle>
+			<PlayerBorderObstacle>0</PlayerBorderObstacle>
+			<Capital>0</Capital>
+			<GoldenAge>0</GoldenAge>
+			<MapCentering>0</MapCentering>
+			<NeverCapture>0</NeverCapture>
+			<NukeImmune>0</NukeImmune>
+			<AllowsWaterRoutes>0</AllowsWaterRoutes>
+			<ExtraLuxuries>0</ExtraLuxuries>
+			<DiplomaticVoting>0</DiplomaticVoting>
+			<AffectSpiesNow>0</AffectSpiesNow>
+			<NullifyInfluenceModifier>0</NullifyInfluenceModifier>
+			<Cost>75</Cost>
+			<FaithCost>0</FaithCost>
+			<LeagueCost>0</LeagueCost>
+			<UnlockedByBelief>0</UnlockedByBelief>
+			<UnlockedByLeague>0</UnlockedByLeague>
+			<HolyCity>0</HolyCity>
+			<NumCityCostMod>0</NumCityCostMod>
+			<HurryCostModifier>0</HurryCostModifier>
+			<MinAreaSize>-1</MinAreaSize>
+			<ConquestProb>66</ConquestProb>
+			<CitiesPrereq>0</CitiesPrereq>
+			<LevelPrereq>0</LevelPrereq>
+			<CultureRateModifier>0</CultureRateModifier>
+			<GlobalCultureRateModifier>0</GlobalCultureRateModifier>
+			<GreatPeopleRateModifier>0</GreatPeopleRateModifier>
+			<GlobalGreatPeopleRateModifier>0</GlobalGreatPeopleRateModifier>
+			<GreatGeneralRateModifier>0</GreatGeneralRateModifier>
+			<GreatPersonExpendGold>0</GreatPersonExpendGold>
+			<GoldenAgeModifier>0</GoldenAgeModifier>
+			<UnitUpgradeCostMod>0</UnitUpgradeCostMod>
+			<Experience>0</Experience>
+			<GlobalExperience>0</GlobalExperience>
+			<FoodKept>0</FoodKept>
+			<Airlift>0</Airlift>
+			<AirModifier>0</AirModifier>
+			<NukeModifier>0</NukeModifier>
+			<NukeExplosionRand>0</NukeExplosionRand>
+			<HealRateChange>0</HealRateChange>
+			<Happiness>0</Happiness>
+			<UnmoddedHappiness>0</UnmoddedHappiness>
+			<UnhappinessModifier>0</UnhappinessModifier>
+			<HappinessPerCity>0</HappinessPerCity>
+			<HappinessPerXPolicies>0</HappinessPerXPolicies>
+			<CityCountUnhappinessMod>0</CityCountUnhappinessMod>
+			<NoOccupiedUnhappiness>0</NoOccupiedUnhappiness>
+			<WorkerSpeedModifier>0</WorkerSpeedModifier>
+			<MilitaryProductionModifier>0</MilitaryProductionModifier>
+			<SpaceProductionModifier>0</SpaceProductionModifier>
+			<GlobalSpaceProductionModifier>0</GlobalSpaceProductionModifier>
+			<BuildingProductionModifier>0</BuildingProductionModifier>
+			<WonderProductionModifier>0</WonderProductionModifier>
+			<CityConnectionTradeRouteModifier>0</CityConnectionTradeRouteModifier>
+			<CapturePlunderModifier>0</CapturePlunderModifier>
+			<PolicyCostModifier>0</PolicyCostModifier>
+			<PlotCultureCostModifier>0</PlotCultureCostModifier>
+			<GlobalPlotCultureCostModifier>0</GlobalPlotCultureCostModifier>
+			<PlotBuyCostModifier>0</PlotBuyCostModifier>
+			<GlobalPlotBuyCostModifier>0</GlobalPlotBuyCostModifier>
+			<GlobalPopulationChange>0</GlobalPopulationChange>
+			<TechShare>0</TechShare>
+			<FreeTechs>0</FreeTechs>
+			<FreePolicies>0</FreePolicies>
+			<FreeGreatPeople>0</FreeGreatPeople>
+			<MedianTechPercentChange>0</MedianTechPercentChange>
+			<Gold>0</Gold>
+			<AllowsRangeStrike>0</AllowsRangeStrike>
+			<Espionage>0</Espionage>
+			<AllowsFoodTradeRoutes>0</AllowsFoodTradeRoutes>
+			<AllowsProductionTradeRoutes>0</AllowsProductionTradeRoutes>
+			<Defense>0</Defense>
+			<ExtraCityHitPoints>0</ExtraCityHitPoints>
+			<GlobalDefenseMod>0</GlobalDefenseMod>
+			<MinorFriendshipChange>0</MinorFriendshipChange>
+			<VictoryPoints>0</VictoryPoints>
+			<ExtraMissionarySpreads>0</ExtraMissionarySpreads>
+			<ReligiousPressureModifier>0</ReligiousPressureModifier>
+			<EspionageModifier>0</EspionageModifier>
+			<GlobalEspionageModifier>0</GlobalEspionageModifier>
+			<ExtraSpies>0</ExtraSpies>
+			<SpyRankChange>0</SpyRankChange>
+			<InstantSpyRankChange>0</InstantSpyRankChange>
+			<TradeRouteRecipientBonus>0</TradeRouteRecipientBonus>
+			<TradeRouteTargetBonus>0</TradeRouteTargetBonus>
+			<NumTradeRouteBonus>0</NumTradeRouteBonus>
+			<LandmarksTourismPercent>0</LandmarksTourismPercent>
+			<InstantMilitaryIncrease>0</InstantMilitaryIncrease>
+			<GreatWorksTourismModifier>0</GreatWorksTourismModifier>
+			<XBuiltTriggersIdeologyChoice>0</XBuiltTriggersIdeologyChoice>
+			<TradeRouteSeaDistanceModifier>0</TradeRouteSeaDistanceModifier>
+			<TradeRouteSeaGoldBonus>0</TradeRouteSeaGoldBonus>
+			<TradeRouteLandDistanceModifier>0</TradeRouteLandDistanceModifier>
+			<TradeRouteLandGoldBonus>0</TradeRouteLandGoldBonus>
+			<CityStateTradeRouteProductionModifier>0</CityStateTradeRouteProductionModifier>
+			<GreatScientistBeakerModifier>0</GreatScientistBeakerModifier>
+			<BuildingClass>BUILDINGCLASS_WATERMILL</BuildingClass>
+			<ArtDefineTag>ART_DEF_BUILDING_HOSPITAL</ArtDefineTag>
+			<NearbyTerrainRequired></NearbyTerrainRequired>
+			<ProhibitedCityTerrain></ProhibitedCityTerrain>
+			<VictoryPrereq></VictoryPrereq>
+			<FreeStartEra></FreeStartEra>
+			<MaxStartEra></MaxStartEra>
+			<ObsoleteTech></ObsoleteTech>
+			<EnhancedYieldTech></EnhancedYieldTech>
+			<TechEnhancedTourism>0</TechEnhancedTourism>
+			<FreeBuilding></FreeBuilding>
+			<FreeBuildingThisCity></FreeBuildingThisCity>
+			<FreePromotion></FreePromotion>
+			<TrainedFreePromotion></TrainedFreePromotion>
+			<FreePromotionRemoved></FreePromotionRemoved>
+			<ReplacementBuildingClass></ReplacementBuildingClass>
+			<PrereqTech>TECH_THE_WHEEL</PrereqTech>
+			<PolicyBranchType></PolicyBranchType>
+			<SpecialistType></SpecialistType>
+			<SpecialistCount>0</SpecialistCount>
+			<GreatWorkSlotType></GreatWorkSlotType>
+			<FreeGreatWork></FreeGreatWork>
+			<GreatWorkCount>0</GreatWorkCount>
+			<SpecialistExtraCulture>0</SpecialistExtraCulture>
+			<GreatPeopleRateChange>0</GreatPeopleRateChange>
+			<ExtraLeagueVotes>0</ExtraLeagueVotes>
+			<CityWall>0</CityWall>
+			<DisplayPosition>0</DisplayPosition>
+			<PortraitIndex>2</PortraitIndex>
+			<WonderSplashImage></WonderSplashImage>
+			<WonderSplashAnchor>R,T</WonderSplashAnchor>
+			<WonderSplashAudio></WonderSplashAudio>
+			<IconAtlas>ATLAS_EW_YUGRA</IconAtlas>
+			<ArtInfoCulturalVariation>0</ArtInfoCulturalVariation>
+			<ArtInfoEraVariation>0</ArtInfoEraVariation>
+			<ArtInfoRandomVariation>0</ArtInfoRandomVariation>
+		</Row>
+	</Buildings>
+
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_CTCL_NEVED</BuildingType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>40</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CTCL_NEVED</BuildingType>
+			<FlavorType>FLAVOR_SCIENCE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_CTCL_NEVED</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>30</Flavor>
+		</Row>
+	</Building_Flavors>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_CTCL_NEVED">
+			<Text>Neved</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_CTCL_NEVED_TEXT">
+			<Text>A Neved is a type of Khanty fishing net, analogous to the West European fishing nets on the Seine. A Neved is an enormous vertical drag net that is buoyed by attached floaters. The Khanty-Mansi derived a great deal of their sustenance from fishing the vast rivers of Siberia, even more so than from reindeer. Fish were so important to Yugran culture that an elaborate set of religious taboos developed around the hunting and eating of fish. During WWII, the Soviets forced almost all Yugran adults into collectivized fish canneries, where all catches were turned into military rations for the front lines and the fishermen were forbidden from eating any of their own hauls. This caused a great deal of discontentment, and many Yugrans continued to secretly catch and eat fish the traditional way. After WWII, fishing has remained an important and sacred tradition in Yugra, with the traditional Neved method still being popular.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CTCL_NEVED_STRATEGY">
+			<Text>Replaces the Watermill. +1 Food from Marshes for each type of Luxury Resource worked by the City. Spawns a Caviar Luxury Resource with a Marsh on an available freshwater tile within the city radius. Caviar provides +1 [ICON_FOOD] Food, +1 [ICON_GOLD] Gold and +4 [ICON_HAPPINESS] Happiness, and requires a Camp to improve.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CTCL_NEVED_HELP">
+			<Text>+1 [ICON_FOOD] from Marshes for each type of Luxury Resource worked by the City. Spawns [ICON_RES_CS_CAVIAR] Caviar and Marsh on a freshwater tile in the Cities radius.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CS_YUGRA_LUXURY_SETTLE">
+			<Text>Yugra: Luxury Settlers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CS_YUGRA_LUXURY_SETTLE_HELP">
+			<Text>Yugra: Luxury Settlers</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CS_YUGRA_ART">
+			<Text>Yugra:  Great Work of Art Slot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CS_YUGRA_ART_HELP">
+			<Text>Cities founded by Settlers trained in Cities founded on Luxury Resources recieve a Great Work of Art Slot.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CS_NEVED_STORE">
+			<Text>Yugra: Neved Food Storage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CS_NEVED_STORE_HELP">
+			<Text>Yugra: Neved Food Storage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_CS_MOOSETRAIN">
+			<Text>Yugra: Moose Production Bonus</Text>
+		</Row>	
+		<Row Tag="TXT_KEY_BUILDING_CS_MOOSETRAIN_HELP">
+			<Text>Yugra: Moose Production Bonus</Text>
+		</Row>		
+	</Language_en_US>
+</GameData>

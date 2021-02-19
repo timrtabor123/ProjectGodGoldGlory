@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_CTCL_YUGRA</Type>
+      <Description>TXT_KEY_CIV_CTCL_YUGRA_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_CTCL_YUGRA</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_CTCL_YUGRA_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_CTCL_YUGRA_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_CTCL_YUGRA</DefaultPlayerColor>
+      <ArtDefineTag>ART_DEF_CIVILIZATION_CTCL_YUGRA</ArtDefineTag>
+      <ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+      <ArtStyleSuffix>_EURO</ArtStyleSuffix>
+      <ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>ICON_EW_YUGRA</IconAtlas>
+      <AlphaIconAtlas>ALPHA_EW_YUGRA</AlphaIconAtlas>
+      <MapImage>YugraMap.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_CTCL_YUGRA_TEXT</DawnOfManQuote>
+      <DawnOfManImage>YugraDOM.dds</DawnOfManImage>
+      <DawnOfManAudio>AS2D_DOM_SPEECH_CTCL_YUGRA</DawnOfManAudio>
+      <SoundtrackTag></SoundtrackTag>
+    </Row>
+  </Civilizations>
+
+  <Civilization_BuildingClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_WATERMILL</BuildingClassType>
+      <BuildingType>BUILDING_CTCL_NEVED</BuildingType>
+    </Row>
+  </Civilization_BuildingClassOverrides>
+	
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_25</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_26</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_27</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_28</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_29</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_30</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_31</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_32</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_33</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_34</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_35</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_36</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_CTCL_YUGRA_37</CityName>
+    </Row>
+  </Civilization_CityNames>
+
+	
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+	
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+	
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+	
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <LeaderheadType>LEADER_CTCL_ALACH</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+	
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <ReligionType>RELIGION_ORTHODOXY</ReligionType>
+    </Row>
+  </Civilization_Religions>
+	
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_CTCL_YUGRA_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_CTCL_YUGRA_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_CTCL_YUGRA_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_CTCL_YUGRA_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_CTCL_YUGRA_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_CTCL_YUGRA_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_CTCL_YUGRA_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_CTCL_YUGRA_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_CTCL_YUGRA_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_CTCL_YUGRA_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+			<UnitClassType>UNITCLASS_KNIGHT</UnitClassType>
+			<UnitType>UNIT_CTCL_MOOSECAV</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	
+  <Civilization_Start_Region_Priority>
+    <Row>
+      <CivilizationType>CIVILIZATION_CTCL_YUGRA</CivilizationType>
+      <RegionType>REGION_TUNDRA</RegionType>
+    </Row>
+  </Civilization_Start_Region_Priority>
+
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_CTCL_YUGRA</Type>
+			<PrimaryColor>COLOR_PLAYER_CTCL_YUGRA_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_CTCL_YUGRA_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_CTCL_YUGRA_ICON</Type>
+			<Red>0.003921568</Red>
+			<Green>0.270588235</Green>
+			<Blue>0.396078431</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_CTCL_YUGRA_BACKGROUND</Type>
+			<Red>0.662745098</Red>
+			<Green>0.545098039</Green>
+			<Blue>0.011764705</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_CTCL_YUGRA_DESC">
+      <Text>Yugra</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_CTCL_YUGRA_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_CTCL_YUGRA_TEXT_1">
+      <Text>Yugra or Iuhra was a collective name for lands and peoples between the Pechora River and Urals (modern north-west Russia), in the Russian annals of the 12th–17th centuries. During this period the region was inhabited by the name of the Khanty and Mansi peoples. Yugra and its vicinity to the south are considered to be the place of origin of the Hungarians.[NEWLINE][NEWLINE]There are three or four known proto-states of the Yugran inhabitants, both Khanty and Mansi. The Principality of Pelym (largely Khanty) was located in the basin of the Konda river and stretched from the mouth of the Sosva River near Tavda up to Tabory. The stronghold of the Pelym princes was also a significant religious centre; a sacred Siberian larch grew in its surroundings and even in the 18th century people used to hang the skins of sacrificed horses on its branches. The Principality of Konda (mainly Mansi) formed a large semi autonomous part of the Pelym principality, according to the tax registers from 1628/29 it was inhabited by 257 tax-paying Mansi. Preceding the coming of the Russians, the Mansi of this region were farmers and according to the tradition Yermak collected tribute in the form of grain. It is believed that the Yugran people or Ob-Ugrians had made trade with many countries far and wide since the earliest times. This trade was described in journals attributed to Abu Hamid al-Gharnati the Arab traveller during the 12th century.[NEWLINE][NEWLINE]Novgorod launched military campaigns against the Yugrans "living with the Samoyeds in the Land of Midnight" at the end of the first millennium. At that time, the Russians probably came into contact with the Mansi who were still living in Europe, along the upper course of the river Pechora, in the neighbourhood of the ancient Komi realm of Great Perm. The Novgorod Chronicle tells of a military campaign under the leadership of Yadrei of Novgorod in 1193, which ended in the destruction of the Novgorod forces. In the 15th century, the most important Russian stronghold in Permland and the starting point for all expeditions going to the East was the diocese established on the Vym River by Stephan of Perm. In 1455 the Mansi of Pelym launched a campaign under the command of Prince Asyka. Moscow reciprocated by forming an alliance with Prince Vasily of Great Perm who together with the warriors of Vym who took part in the 1465 expedition to Yugra (Bahrushin 1955,1:76). It is recorded in the Russian Chronicles that in 1465 as a result of this raid that two minor "Yugrian" princes named Kalpik and Chepik were compelled to submit to the Russians and pay tribute. They were soon deposed. In a second campaign during 1467 Prince Asyka himself was captured and brought to Vyatka (Bahrushin 1955,2:113). In 1483 Moscow sent forth another expedition against the princes of Yugra and Konda where the "grand duke" Moldan was captured. In 1499 Moscow dispatched a great force against Yugra (led by Prince Semyon Kurbski). The 4000 strong army, using dog and reindeer teams, reached the Lyapin stronghold of the Khanty, located on the river of the same name. In the source it is told that 40 strongholds were taken and 58 Khanty and Mansi princes captured in the expedition. Even though already at the end of the 15th century the Grand Duke of Moscow assumed the honorary title of Prince of Yugra, by the 16th century several Yugran princes were paying tribute to the Sibir Khanate and participated in their military ventures against Russian settlers protected by Cossacks and Komi auxiliaries who were chasing the Yugran natives from their homes.[NEWLINE][NEWLINE]In response the Khanty and Mansi of Pelym continually sent forth counter-campaigns to the lands of Great Perm. Thus, the year 1581 went into history as the year of the raiding of Kaigorod and Cherdyn. According to Russian estimates, the army of the Mansi and their allies, the Tartars, stood 700 strong. Continuing resistance to border conflagration led to the launching of a campaign in 1582–1584 arranged and financed by the Stroganovs and led by the Cossack leader Yermak Timofeyevich, which began with the destruction of a Mansi war band that had invaded the Russian settlers territory and ended as a punitive expedition against the Pelym Mansi and their ally the Siberian Khan. Alach, Prince of Koda, appears as an important ally of the Sibir Khan Kuchum Khan and is said to have been awarded one of the Yermak mail-coats taken from the enemy. In 1592, another Russian campaign against the Mansi of Pelym was launched. It ended in 1593 when the stronghold of Prince Ablegirim of Pelym was taken, the prince and his family captured and a Russian fortress erected in the heart of the stronghold. Although in the following year the Pelym principality suffered the loss of its lands lying on the Konda River, the Mansi did not give up resistance. In 1599, they once again brought "war, theft and treachery" to the banks of the Chusovaya River and Kurya River and plundered the Russian settlements there. The close connections between the Yugrans and the Turkic Tartars are also demonstrated by the fact that even in the 1660s, the idea of restoring the Sibir Khanate was still popular with the Khanty of Beryozovo. It was only in the middle of the 17th century that Moscow succeeded in subduing Yugra. In the 18th century the successors of the Principality of Pelym and Principality of Konda – princes Vassili and Fyodor – lived in Pelym. They became Russianized and performed various duties for the Tsarist government. The Mansi, however, considered them still as their rulers.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_CTCL_YUGRA_TITLE">
+      <Text>Yugra</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_CTCL_YUGRA_SHORT_DESC">
+      <Text>Yugra</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_CTCL_YUGRA_ADJECTIVE">
+      <Text>Khanty-Mansi</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_CTCL_YUGRA_TEXT">
+      <Text>The sun rises over the vast expanse of the taiga, Prince Alach. Its bountiful rivers and herds of deer are your possessions, which the Khanty-Mansi people have defended for generations against encroachment from all sides. From the 13th century, this land, known as Yugra, was known to traders from Moscow to Persia as a land of great wealth and unique pagan traditions. Ruling over the powerful Mansi principality of Koda, you were part of a centuries-long struggle for autonomy against the Russian monarchy, who sought to enrich themselves with the wealth that was rightfully yours. To oppose them, you allied with Kuchum Khan of the Siberian Khanate, and were awarded a stolen suit of Cossak chainmail for your bravery in leading the Mansi forces. The Khanate and her allies were crushed by Ivan the Terrible in the 1580s, but those committed to Yugran freedom continued safeguard the idols and holy sites for generations to come.[NEWLINE][NEWLINE]Mighty Prince, your people again call on you to build Yugra’s wealth and strike back against her enemies. Will your homelands again be seen as a land of feared mystery? Are its treasures safe in your hands? Will you build a civilization to stand the test of time?</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_0">
+      <Text>Vezhakary</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_1">
+      <Text>Kaltysyani</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_2">
+      <Text>Pelym</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_3">
+      <Text>Samorovo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_4">
+      <Text>Big Atlym</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_5">
+      <Text>Karymkary</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_6">
+      <Text>Tshemashi</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_7">
+      <Text>Little Atlym</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_8">
+      <Text>Sukhorukova</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_9">
+      <Text>Nizyani</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_10">
+      <Text>Narykary</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_11">
+      <Text>Kartauzh</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_12">
+      <Text>Belogorye</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_13">
+      <Text>Pyt-Yakh</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_14">
+      <Text>Sumgut-Vosh</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_15">
+      <Text>Bardak</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_16">
+      <Text>Naramkary</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_17">
+      <Text>Kharom-Vosh</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_18">
+      <Text>Kazym</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_19">
+      <Text>Koshuki</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_20">
+      <Text>Voikar</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_21">
+      <Text>Pulnovat-Vosh</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_22">
+      <Text>Kari-Pospat-Vosh</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_23">
+      <Text>Surgut</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_24">
+      <Text>Ilchma</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_25">
+      <Text>Kunovat</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_26">
+      <Text>Tabary</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_27">
+      <Text>Chukas-Vosh</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_28">
+      <Text>Leushi</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_29">
+      <Text>Nahratch</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_30">
+      <Text>Yagrim</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_31">
+      <Text>Beloyarsky</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_32">
+      <Text>Pim</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_33">
+      <Text>Khanty-Mansiysk</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_34">
+      <Text>Pokachi</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_35">
+      <Text>Langepas</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_36">
+      <Text>Agirsh</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_CTCL_YUGRA_37">
+      <Text>Zelenoborsk</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_CTCL_YUGRA_0">
+      <Text>Yeplayev</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_CTCL_YUGRA_1">
+      <Text>Kalpik</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_CTCL_YUGRA_2">
+      <Text>Chepik</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_CTCL_YUGRA_3">
+      <Text>Ablegirim</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_CTCL_YUGRA_4">
+      <Text>Vassili</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_CTCL_YUGRA_5">
+      <Text>Fyodor</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_CTCL_YUGRA_6">
+      <Text>Kyntsha</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_CTCL_YUGRA_7">
+      <Text>Big Konda</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_CTCL_YUGRA_8">
+      <Text>Lyapin</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_CTCL_YUGRA_9">
+      <Text>Mansi</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

@@ -1,0 +1,13 @@
+-- Credits
+-- Author: DuskJockey
+-- DateCreated: 2/6/2019 9:39:04 AM
+--------------------------------------------------------------
+DuskJockey: Design, code, art
+Sukritact: Modular City Info Stack
+Chrisy15, Enginseer: Lua help
+TopHatPaladin: Balancing, Lua help
+TheLohoped: City list
+--------------------------------------------------------------
+Civilopedia Entries
+--------------------------------------------------------------
+--Finishing School: https://en.wikipedia.org/wiki/Finishing_school

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="242c5f16-28c5-40b9-abb5-ac8e37bb8c40" version="4">
+  <Properties>
+    <Name>DuskJockey's Russia (Catherine II) (Revision)</Name>
+    <Teaser>Implements changes to [COLOR_POSITIVE_TEXT]Catherine's Russia[ENDCOLOR]. Click [COLOR_CYAN]here[ENDCOLOR] for more details.</Teaser>
+    <Description>Unique Ability: [COLOR_POSITIVE_TEXT]Imperial Instructions[ENDCOLOR][NEWLINE]Cities with a stationed [ICON_GREAT_PEOPLE] Great Person gain +5% [ICON_PRODUCTION] Building Production and expand upon completing a Building. These bonuses are doubled during a 'We Love the King' Day.[NEWLINE][NEWLINE]Unique Unit: [COLOR_POSITIVE_TEXT]Cossack[ENDCOLOR][NEWLINE]Mounted Unit capable of fighting toe-to-toe with contemporary infantry units. Only the Russians may build it. This Unit has a combat bonus when fighting enemies that have already taken damage.[NEWLINE][NEWLINE]Unique Building: [COLOR_POSITIVE_TEXT]Finishing School[ENDCOLOR][NEWLINE]Public School replacement only available to Russia. Requires a University. Yields +3 [ICON_RESEARCH] Science and +1 [ICON_RESEARCH] Science for every two Citizens in this City. Costs no maintenance and provides +10% [ICON_GREAT_PEOPLE] Great Person generation when built in a City with a Guild.</Description>
+    <Authors>DuskJockey</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References>
+    <Mod id="8411a7a8-dad3-4622-a18e-fcc18324c799" minversion="0" maxversion="999" title="Community Balance Patch" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="CA3EC34E12EA76D1B3025756613D1508" import="0">Art/ArtDefines.sql</File>
+    <File md5="2259CEB0F5B71022D7363B2A36650AE4" import="1">Art/FinishingIcon128.dds</File>
+    <File md5="6845DC2E21B6537DFC8A3797BB259A15" import="1">Art/FinishingIcon256.dds</File>
+    <File md5="733CA6703E534DD19104ADD9E6998285" import="1">Art/FinishingIcon45.dds</File>
+    <File md5="F189F0E23A2FF27C520A26A36A1D293C" import="1">Art/FinishingIcon64.dds</File>
+    <File md5="31DB525A0FC1443FDBD26213D597BE8C" import="1">Art/FinishingIcon80.dds</File>
+    <File md5="FCA2280306F06C9BDF52AACA8CF0E9BE" import="0">Credits.txt</File>
+    <File md5="DE2B02CB476BEFC4EFC7DAEB197D84FF" import="0">Functions/CatherineCityInfo.lua</File>
+    <File md5="5DEADEA50A936280DDFD7A6B48A04BA5" import="0">Functions/CatherineCityInfo.xml</File>
+    <File md5="3AC4D003E11786F2FBB3798C224E9E07" import="0">Functions/CatherineFunctions.lua</File>
+    <File md5="64DF635BD57CDEB13DC1038934568A7E" import="0">Functions/Utilities/CityInfoStack.lua</File>
+    <File md5="4E7C5E4894BC0A0E0CBA1743787E1015" import="0">Functions/Utilities/CityInfoStack.xml</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Functions/Utilities/PlotIterators.lua</File>
+    <File md5="E14583C2B1F65526E164BD69B8395FF7" import="0">GameDefines/CatherineGameDefines.sql</File>
+    <File md5="FFA4B07A518D14F9E8B2CE8F00F16DAB" import="0">GameDefines/CatherineModSupport.sql</File>
+    <File md5="54420815D7FE9E0B2F4346C94DE568A1" import="0">GameDefines/CatherineText.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>GameDefines/CatherineGameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>GameDefines/CatherineText.xml</UpdateDatabase>
+      <UpdateDatabase>GameDefines/CatherineModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Functions/CatherineFunctions.lua">
+      <Name>CatherineFunctions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Functions/Utilities/CityInfoStack.lua">
+      <Name>CityInfoStack.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Functions/CatherineCityInfo.lua">
+      <Name>CatherineCityInfo.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

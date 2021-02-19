@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/30/2018 11:30:44 AM -->
+<GameData>
+	<Language_en_US>
+		<!-- City List -->
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_0">
+			<Text>St. Petersburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_1">
+			<Text>Moscow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_2">
+			<Text>Kiev</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_3">
+			<Text>Novgorod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_4">
+			<Text>Vladimir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_5">
+			<Text>Rostov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_6">
+			<Text>Smolensk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_7">
+			<Text>Yaroslavl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_8">
+			<Text>Yekaterinburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_9">
+			<Text>Stavropol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_10">
+			<Text>Kherson</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_11">
+			<Text>Yekaterinoslav</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_12">
+			<Text>Sevastopol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_13">
+			<Text>Simferopol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_14">
+			<Text>Orenburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_15">
+			<Text>Uralsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_16">
+			<Text>Minsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_17">
+			<Text>Odessa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_18">
+			<Text>Kazan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_19">
+			<Text>Yekaterinodar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_20">
+			<Text>Chelyabinsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_21">
+			<Text>Kurgan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_22">
+			<Text>Tyumen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_23">
+			<Text>Omsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_24">
+			<Text>Semipalatinsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_25">
+			<Text>Tomsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_26">
+			<Text>Krasnoyarsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_27">
+			<Text>Petropavlovkiy-Ostrog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_28">
+			<Text>Tobolsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_29">
+			<Text>Shlisselburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_30">
+			<Text>Vilno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_31">
+			<Text>Rigo</Text>
+		</Row>
+		<!-- Imperial Instructions -->
+		<Row Tag="TXT_KEY_TRAIT_DJ_NAKAZ">
+			<Text>Cities occupied by a [ICON_GREAT_PEOPLE] Great Person gain +5% [ICON_PRODUCTION] Building Production and expand upon completing a Building. These bonuses are doubled during a 'We Love the King' Day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_DJ_NAKAZ_SHORT">
+			<Text>Imperial Instructions</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DJ_CATHERINE_II_CITY_VIEW_HELP">
+			<Text>+[COLOR_POSITIVE_TEXT]{1_Num}[ENDCOLOR]% [ICON_PRODUCTION] Building Production in this City from the stationed [ICON_GREAT_PEOPLE] Great Person.</Text>
+		</Row>
+		<!-- Finishing School -->
+		<Row Tag="TXT_KEY_BUILDING_DJ_FINISHING_SCHOOL">
+			<Text>Finishing School</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDING_DJ_FINISHING_SCHOOL">
+			<Text>A finishing school is a school for young people that focuses on teaching social graces and upper-class cultural rites as a preparation for entry into society. The name reflects that it follows on from ordinary school and is intended to complete the education, with classes primarily on deportment and etiquette, with academic subjects secondary.[NEWLINE][NEWLINE]The first Russian finishing schools were built during the reign of Catherine the Great. These 'Institutes for Noble Maidens', as they were called, were meant to create 'a new race of men' and were founded on the principles of Enlightenment philosophers such as Jean-Jacques Rousseau.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DJ_FINISHING_SCHOOL_STRATEGY">
+			<Text>The Finishing School is the Russian unique building, replacing the Public School. It increases the City's [ICON_RESEARCH] Science output by 33% and yields +1 [ICON_RESEARCH] Science for every two Citizens. In addition, the Finishing School also provides +1 [ICON_HAPPINESS_1] Happiness to its city. If built in a city with a cultural Guild, however, the Finishing School costs no [ICON_GOLD] Gold maintenance and provides double the [ICON_HAPPINESS_1] Happiness. It's quite worthwhile to construct these useful buildings in all Russian cities, but especially in your scientific and cultural centers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DJ_FINISHING_SCHOOL_HELP">
+			<Text>Public School replacement only available to Russia. Requires a University. Yields +3 [ICON_RESEARCH] Science and +1 [ICON_RESEARCH] Science for every two Citizens in this City. Costs no maintenance and provides extra [ICON_HAPPINESS_1] Happiness when built in a City with a Guild.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DJ_FINISHING_SCHOOL_STRATEGY_EE">
+			<Text>The Finishing School is the Russian unique building, replacing the Academy. In addition to the [ICON_RESEARCH] Science output of the Academy it replaces, the Finishing School also provides +1 [ICON_HAPPINESS_1] Happiness to its city. If built in a city with a cultural Guild, however, the Finishing School costs no [ICON_GOLD] Gold maintenance and provides double the [ICON_HAPPINESS_1] Happiness. It's quite worthwhile to construct these useful buildings in all Russian cities, but especially in your scientific and cultural centers.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DJ_FINISHING_SCHOOL_HELP_EE">
+			<Text>Academy replacement only available to Russia. Cannot be built in a city with a Salon. Yields +2 [ICON_RESEARCH] Science and +25% [ICON_RESEARCH] Science. Costs no maintenance and provides extra [ICON_HAPPINESS_1] Happiness when built in a City with a Guild.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Units>
+    <Row>
+      <Type>UNIT_VIVALA_HARPOONER</Type>
+      <Description>TXT_KEY_UNIT_VIVALA_HARPOONER</Description>
+      <Civilopedia>TXT_KEY_CIV5_ANTIQUITY_VIVALA_HARPOONER_TEXT</Civilopedia>
+      <Strategy>TXT_KEY_UNIT_VIVALA_HARPOONER_STRATEGY</Strategy>
+      <Help>TXT_KEY_UNIT_HELP_VIVALA_HARPOONER</Help>
+      <Requirements></Requirements>
+      <Combat>16</Combat>
+      <RangedCombat>0</RangedCombat>
+      <Cost>56</Cost>
+      <FaithCost>112</FaithCost>
+      <RequiresFaithPurchaseEnabled>1</RequiresFaithPurchaseEnabled>
+      <PurchaseOnly>0</PurchaseOnly>
+      <MoveAfterPurchase>0</MoveAfterPurchase>
+      <Moves>2</Moves>
+      <Immobile>0</Immobile>
+      <Range>0</Range>
+      <BaseSightRange>2</BaseSightRange>
+      <Class>UNITCLASS_SPEARMAN</Class>
+      <Special></Special>
+      <Capture></Capture>
+      <CombatClass>UNITCOMBAT_MELEE</CombatClass>
+      <Domain>DOMAIN_LAND</Domain>
+      <CivilianAttackPriority></CivilianAttackPriority>
+      <DefaultUnitAI>UNITAI_COUNTER</DefaultUnitAI>
+      <Food>0</Food>
+      <NoBadGoodies>0</NoBadGoodies>
+      <RivalTerritory>0</RivalTerritory>
+      <MilitarySupport>1</MilitarySupport>
+      <MilitaryProduction>1</MilitaryProduction>
+      <Pillage>1</Pillage>
+      <PillagePrereqTech></PillagePrereqTech>
+      <Found>0</Found>
+      <FoundAbroad>0</FoundAbroad>
+      <CultureBombRadius>0</CultureBombRadius>
+      <GoldenAgeTurns>0</GoldenAgeTurns>
+      <FreePolicies>0</FreePolicies>
+      <OneShotTourism>0</OneShotTourism>
+      <OneShotTourismPercentOthers>0</OneShotTourismPercentOthers>
+      <IgnoreBuildingDefense>0</IgnoreBuildingDefense>
+      <PrereqResources>0</PrereqResources>
+      <Mechanized>0</Mechanized>
+      <Suicide>0</Suicide>
+      <CaptureWhileEmbarked>0</CaptureWhileEmbarked>
+      <PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+      <ObsoleteTech>TECH_CIVIL_SERVICE</ObsoleteTech>
+      <GoodyHutUpgradeUnitClass>UNITCLASS_PIKEMAN</GoodyHutUpgradeUnitClass>
+      <HurryCostModifier>0</HurryCostModifier>
+      <AdvancedStartCost>15</AdvancedStartCost>
+      <MinAreaSize>-1</MinAreaSize>
+      <AirInterceptRange>0</AirInterceptRange>
+      <AirUnitCap>0</AirUnitCap>
+      <NukeDamageLevel>-1</NukeDamageLevel>
+      <WorkRate>0</WorkRate>
+      <NumFreeTechs>0</NumFreeTechs>
+      <BaseBeakersTurnsToCount>0</BaseBeakersTurnsToCount>
+      <BaseCultureTurnsToCount>0</BaseCultureTurnsToCount>
+      <RushBuilding>0</RushBuilding>
+      <BaseHurry>0</BaseHurry>
+      <HurryMultiplier>0</HurryMultiplier>
+      <BaseGold>0</BaseGold>
+      <NumGoldPerEra>0</NumGoldPerEra>
+      <SpreadReligion>0</SpreadReligion>
+      <RemoveHeresy>0</RemoveHeresy>
+      <ReligionSpreads>0</ReligionSpreads>
+      <ReligiousStrength>0</ReligiousStrength>
+      <FoundReligion>0</FoundReligion>
+      <RequiresEnhancedReligion>0</RequiresEnhancedReligion>
+      <ProhibitsSpread>0</ProhibitsSpread>
+      <CanBuyCityState>0</CanBuyCityState>
+      <CombatLimit>100</CombatLimit>
+      <RangeAttackOnlyInDomain>0</RangeAttackOnlyInDomain>
+      <RangeAttackIgnoreLOS>0</RangeAttackIgnoreLOS>
+      <Trade>0</Trade>
+      <NumExoticGoods>0</NumExoticGoods>
+      <PolicyType></PolicyType>
+      <RangedCombatLimit>0</RangedCombatLimit>
+      <XPValueAttack>3</XPValueAttack>
+      <XPValueDefense>3</XPValueDefense>
+      <SpecialCargo></SpecialCargo>
+      <DomainCargo></DomainCargo>
+      <Conscription>2</Conscription>
+      <ExtraMaintenanceCost>0</ExtraMaintenanceCost>
+      <NoMaintenance>0</NoMaintenance>
+      <Unhappiness>0</Unhappiness>
+      <UnitArtInfo>ART_DEF_UNIT_SPEARMAN</UnitArtInfo>
+      <UnitArtInfoCulturalVariation>0</UnitArtInfoCulturalVariation>
+      <UnitArtInfoEraVariation>0</UnitArtInfoEraVariation>
+      <ProjectPrereq></ProjectPrereq>
+      <SpaceshipProject></SpaceshipProject>
+      <LeaderPromotion></LeaderPromotion>
+      <LeaderExperience>0</LeaderExperience>
+      <DontShowYields>0</DontShowYields>
+      <ShowInPedia>1</ShowInPedia>
+      <MoveRate>BIPED</MoveRate>
+      <UnitFlagIconOffset>0</UnitFlagIconOffset>
+      <PortraitIndex>2</PortraitIndex>
+      <IconAtlas>VIVALA_DORSET_ATLAS</IconAtlas>
+      <UnitFlagAtlas>VIVALA_HARPOONER_FLAG</UnitFlagAtlas>
+    </Row>
+  </Units>
+
+  <Unit_AITypes>
+    <Row>
+      <UnitType>UNIT_VIVALA_HARPOONER</UnitType>
+      <UnitAIType>UNITAI_COUNTER</UnitAIType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_VIVALA_HARPOONER</UnitType>
+      <UnitAIType>UNITAI_DEFENSE</UnitAIType>
+    </Row>
+    <Row>
+      <UnitType>UNIT_VIVALA_HARPOONER</UnitType>
+      <UnitAIType>UNITAI_EXPLORE</UnitAIType>
+    </Row>
+  </Unit_AITypes>
+  <!-- Unit_Buildings -->
+  <!-- Unit_BuildingClassRequireds -->
+  <!-- Unit_ProductionModifierBuildings -->
+  <!-- Unit_Builds -->
+  <Unit_ClassUpgrades>
+    <Row>
+      <UnitType>UNIT_VIVALA_HARPOONER</UnitType>
+      <UnitClassType>UNITCLASS_PIKEMAN</UnitClassType>
+    </Row>
+  </Unit_ClassUpgrades>
+  <Unit_FreePromotions>
+    <Row>
+      <UnitType>UNIT_VIVALA_HARPOONER</UnitType>
+      <PromotionType>PROMOTION_ANTI_MOUNTED_I</PromotionType>
+    </Row>
+	  <Row>
+		  <UnitType>UNIT_VIVALA_HARPOONER</UnitType>
+		  <PromotionType>PROMOTION_ONLY_DEFENSIVE</PromotionType>
+	  </Row>
+  </Unit_FreePromotions>
+  <Unit_Flavors>
+	  <Row>
+		  <UnitType>UNIT_VIVALA_HARPOONER</UnitType>
+		  <FlavorType>FLAVOR_GROWTH</FlavorType>
+		  <Flavor>8</Flavor>
+	  </Row>
+    <Row>
+      <UnitType>UNIT_VIVALA_HARPOONER</UnitType>
+      <FlavorType>FLAVOR_DEFENSE</FlavorType>
+      <Flavor>20</Flavor>
+    </Row>
+  </Unit_Flavors>
+  <!-- Unit_GreatPersons -->
+  <!-- Unit_ResourceQuantityRequirements -->
+  <!-- Unit_UniqueNames -->
+  <!-- Unit_YieldFromKills -->
+  <!-- Unit_NotAITypes -->
+  <!-- Unit_ProductionTraits -->
+  <!-- Unit_TechTypes -->
+  <!-- UnitPromotions_CivilianUnitType -->
+  <UnitGameplay2DScripts>
+    <Row>
+      <UnitType>UNIT_VIVALA_HARPOONER</UnitType>
+      <SelectionSound>AS2D_SELECT_PIKEMAN</SelectionSound>
+      <FirstSelectionSound>AS2D_BIRTH_PIKEMAN</FirstSelectionSound>
+    </Row>
+  </UnitGameplay2DScripts>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_UNIT_VIVALA_HARPOONER">
+      <Text>Harpooner</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_ANTIQUITY_VIVALA_HARPOONER_TEXT">
+      <Text>The harpoon was perhaps the most important tool in Dorset society. Since little grew in their lands, they relied entirely on hunting large marine mammals (namely seals, walruses, and narwhals) and the harpoon was the most effective tool at wounding and anchoring big game. Harpooners had to be incredibly adept in order to successfully hunt, since they had to pierce thick arctic blubber. Inuit accounts back up this strength, stating that the Tuniit could throw harpoons so hard that they would shatter rocks and send debris flying. However, those harpoons were rarely aimed at humans. Even in that Inuit account, the mighty harpoon throw was only meant to give the Tuniit cover to flee. While powerful, the Dorset hunters were not warriors. They were far more interested in gathering food than making war.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_VIVALA_HARPOONER_STRATEGY">
+      <Text>The Harpooner is the Dorset unique unit, replacing the Spearman. It is incredibly strong, particularly against mounted units, but lacks the ability to attack. Instead, Harpooners serve as an excellent wall to defend the Dorset border, as any unit would be foolish to attack one. Additionally, because the Harpooner never attacks, it is guaranteed to generate +1 [ICON_FOOD] Food per turn if owned by the Dorset.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_UNIT_HELP_VIVALA_HARPOONER">
+      <Text>Only the Dorset may build this unit. It is much stronger than other units of the Ancient Era, but cannot attack.</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

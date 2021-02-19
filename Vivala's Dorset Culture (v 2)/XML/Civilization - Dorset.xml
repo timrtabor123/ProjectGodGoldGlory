@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Civilizations>
+    <Row>
+      <Type>CIVILIZATION_VIVALA_DORSET</Type>
+      <Description>TXT_KEY_CIV_VIVALA_DORSET_DESC</Description>
+      <Civilopedia></Civilopedia>
+      <CivilopediaTag>TXT_KEY_CIV5_VIVALA_DORSET</CivilopediaTag>
+      <Strategy></Strategy>
+      <Playable>1</Playable>
+      <AIPlayable>1</AIPlayable>
+      <ShortDescription>TXT_KEY_CIV_VIVALA_DORSET_SHORT_DESC</ShortDescription>
+      <Adjective>TXT_KEY_CIV_VIVALA_DORSET_ADJECTIVE</Adjective>
+      <DefaultPlayerColor>PLAYERCOLOR_VIVALA_DORSET</DefaultPlayerColor>
+		<ArtDefineTag>ART_DEF_CIVILIZATION_IROQUOIS</ArtDefineTag>
+		<ArtStyleType>ARTSTYLE_SOUTH_AMERICA</ArtStyleType>
+		<ArtStyleSuffix>_AMER</ArtStyleSuffix>
+		<ArtStylePrefix>AMERICAN </ArtStylePrefix>
+      <DerivativeCiv></DerivativeCiv>
+      <PortraitIndex>0</PortraitIndex>
+      <IconAtlas>VIVALA_DORSET_ATLAS</IconAtlas>
+      <AlphaIconAtlas>VIVALA_DORSET_ALPHA</AlphaIconAtlas>
+      <MapImage>DorsetMap.dds</MapImage>
+      <DawnOfManQuote>TXT_KEY_CIV5_DAWN_VIVALA_DORSET_TEXT</DawnOfManQuote>
+      <DawnOfManImage>DorsetDOM.dds</DawnOfManImage>
+      <DawnOfManAudio>AS2D_DOM_SPEECH_VIVALA_DORSET</DawnOfManAudio>
+      <SoundtrackTag></SoundtrackTag>
+    </Row>
+  </Civilizations>
+
+  <Civilization_BuildingClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_MONUMENT</BuildingClassType>
+      <BuildingType>BUILDING_VIVALA_IVORY_CARVER</BuildingType>
+    </Row>
+  </Civilization_BuildingClassOverrides>
+  <Civilization_CityNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_0</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_1</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_2</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_3</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_4</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_5</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_6</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_7</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_8</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_9</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_10</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_11</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_12</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_13</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_14</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_15</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_16</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_17</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_18</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_19</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_20</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_21</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_22</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_23</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_24</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_25</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_26</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_27</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_28</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_29</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_30</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_31</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_32</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_33</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_34</CityName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_35</CityName>
+    </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_36</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_37</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_38</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_39</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_40</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_41</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_42</CityName>
+	  </Row>
+	  <Row>
+		  <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+		  <CityName>TXT_KEY_CITY_NAME_VIVALA_DORSET_43</CityName>
+	  </Row>
+  </Civilization_CityNames>
+  <!-- Civilization_DisableTechs -->
+  <Civilization_FreeBuildingClasses>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+    </Row>
+  </Civilization_FreeBuildingClasses>
+  <Civilization_FreeTechs>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <TechType>TECH_AGRICULTURE</TechType>
+    </Row>
+  </Civilization_FreeTechs>
+  <Civilization_FreeUnits>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+      <UnitAIType>UNITAI_SETTLE</UnitAIType>
+      <Count>1</Count>
+    </Row>
+  </Civilization_FreeUnits>
+  <Civilization_Leaders>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <LeaderheadType>LEADER_VIVALA_INUKPAK</LeaderheadType>
+    </Row>
+  </Civilization_Leaders>
+  <Civilization_Religions>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <ReligionType>RELIGION_CHRISTIANITY</ReligionType>
+    </Row>
+  </Civilization_Religions>
+  <Civilization_SpyNames>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIVALA_DORSET_0</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIVALA_DORSET_1</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIVALA_DORSET_2</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIVALA_DORSET_3</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIVALA_DORSET_4</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIVALA_DORSET_5</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIVALA_DORSET_6</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIVALA_DORSET_7</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIVALA_DORSET_8</SpyName>
+    </Row>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <SpyName>TXT_KEY_SPY_NAME_VIVALA_DORSET_9</SpyName>
+    </Row>
+  </Civilization_SpyNames>
+  <Civilization_UnitClassOverrides>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <UnitClassType>UNITCLASS_SPEARMAN</UnitClassType>
+      <UnitType>UNIT_VIVALA_HARPOONER</UnitType>
+    </Row>
+  </Civilization_UnitClassOverrides>
+  <!-- Civilization_Start_Along_Ocean -->
+  <!-- Civilization_Start_Along_River -->
+  <Civilization_Start_Region_Priority>
+    <Row>
+      <CivilizationType>CIVILIZATION_VIVALA_DORSET</CivilizationType>
+      <RegionType>REGION_TUNDRA</RegionType>
+    </Row>
+  </Civilization_Start_Region_Priority>
+  <!-- Civilization_Start_Region_Avoid -->
+  <!-- Civilization_Start_Place_First_Along_Ocean -->
+
+  <PlayerColors>
+    <Row>
+      <Type>PLAYERCOLOR_VIVALA_DORSET</Type>
+      <PrimaryColor>COLOR_PLAYER_VIVALA_DORSET_ICON</PrimaryColor>
+      <SecondaryColor>COLOR_PLAYER_VIVALA_DORSET_BACKGROUND</SecondaryColor>
+      <TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+    </Row>
+  </PlayerColors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_VIVALA_DORSET_ICON</Type>
+      <Red>1.0</Red>
+      <Green>0.6745</Green>
+      <Blue>0.3255</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+  <Colors>
+    <Row>
+      <Type>COLOR_PLAYER_VIVALA_DORSET_BACKGROUND</Type>
+      <Red>0.1686</Red>
+      <Green>0.3725</Green>
+      <Blue>0.2784</Blue>
+      <Alpha>1.0</Alpha>
+    </Row>
+  </Colors>
+
+  <Language_en_US>
+    <Row Tag="TXT_KEY_CIV_VIVALA_DORSET_DESC">
+      <Text>Dorset Empire</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_DORSET_FACTOID_HEADING">
+      <Text>Factoids</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_DORSET_FACTOID_TEXT">
+      <Text>The Dorset have shockingly little genetic diversity compared to other civilizations in similar eras and locations. Genetic analysis suggests that the Dorset ancestors who migrated to the Americas travelled with very few women, to the point where some archaeologists have made the claim that the entire Dorset civilization descended from a single woman.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_DORSET_HEADING_1">
+      <Text>History</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_DORSET_HEADING_2">
+      <Text>Terrain and Climate</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_DORSET_HEADING_3">
+      <Text>Dorset Origins</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_DORSET_HEADING_4">
+      <Text>Culture of the Dorset Culture</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_DORSET_HEADING_5">
+      <Text>Mysterious Disappearance</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_DORSET_TEXT_1">
+      <Text>Ancient Inuit legends recall encounters with a people who had been in the Arctic long before them. The Tuniit, as they called them, were a race of giants, so strong that one man could carry over 1,000 pounds of game on his back. Yet the Tuniit never used their legendary strength in war. Instead, they ran whenever confronted.[NEWLINE][NEWLINE]To modern archaeologists, the Tuniit are the Dorset culture, a pre-Inuit East Arctic civilization that lived roughly from 500 BCE to 1500 CE. They were discovered at, and named for, Cape Dorset, Nunavut in 1925. For a time, this culture was a mystery. Archaeologists knew the Dorset were separate from other ancient Arctic civilizations, such as the Thule, but knew little about them besides what few artifacts they could find. Eventually, however, archaeologists began to notice that their findings were lining up with Inuit oral tradition, leading them to conclude that the Dorset were the gentle giant Tuniit of legend.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_DORSET_TEXT_2">
+      <Text>The Dorset inhabited the Canadian Arctic Archipelago and the coasts of the Foxe Basin, Hudson Bay, Newfoundland and Labrador, and Western Greenland. The climate in these regions (with the slight exception of the southernmost settlements) is brutally cold. The temperatures can reach lows of -40 degrees (which happens to be the same in Celsius and Fahrenheit). Little to no flora grows in this region and the ice consistently freezes over. The primary sources of food were large game like polar bears, caribou, walrus, and seal. The Dorset primarily hunted marine mammals through holes in the ice to survive.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_DORSET_TEXT_3">
+      <Text>The exact ancestors of the Dorset are unclear. The only group archaeologists are sure relate to the Dorset are the aptly-named Pre-Dorset. Also theorized, though less likely, is a connection to two ancient Greenlandic civilizations: the Saqqaq in the South and Independence I in the North. The main flaw with these theories is that all of these groups had technology that the Dorset never seemed to possess, particularly archery and drills. This has led some scholars to claim that the Dorset came through an entirely different migration, completely unrelated to the (now less than aptly-named) Pre-Dorset and later civilizations like the Thule.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_DORSET_TEXT_4">
+      <Text>With the exception of some communities in Greenland and Newfoundland and Labrador, Dorset culture was incredibly homogenous. Most of the details about their culture have been gleaned from the recovery of stone and ivory carvings. These carvings are the Dorset's defining cultural artifact. They were incredibly skilled at carving, despite lacking certain tools such as drills, and were able to create a wide variety of sophisticated figures and masks that look distinct from those of the Inuit. The carvings ranged from human figures, to various arctic animals, amulets, magical items, and masks. Many carvings, particularly the masks, are believed to have been part of a shamanistic religion that may have been a distant ancestor to Inuit faith.[NEWLINE][NEWLINE]Records suggest that the Dorset had two types of homes: tents, which were used during migratory hunting seasons, and primitive longhouse-like stone buildings. The tents were usually arranged in rings around a fire and a few tent rings were grouped together to form a settlement. Longhouses were grouped together in more permanent settlements. Some communities were smaller, grouping together a few houses that held a family or two each, but others were massive for the region. Alarngnak was home to over 200 houses (that we known of so far), making it the largest settlement in the ancient East Arctic.[NEWLINE][NEWLINE]Human-shaped carvings portray the Dorset as wearing high-collared, hoodless parkas. Women had larger hairstyles than most other cultures in the region. Many Dorset settlements also showed signs of weaving. A controversial theory suggests that they learned weaving from Norse settlers on Baffin Island, but many scholars dismiss the theory, believing the Dorset developed it on their own.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_DORSET_TEXT_5">
+      <Text>With the possible exception of a few encounters with the Norse, the Dorset vanished by the time Europeans began settling the region, so there are no written records of them, nor do Inuit oral legends say anything about their fate. Archaeologists are unsure how exactly the Dorset died out, but they have a few theories with varying levels of support. Some initially believed that the Dorset interbred with later Arctic cultures, such as the Thule, the ancestors of the Inuit, but genetic records show now sign of this. Others suggest that the Thule may have invaded Dorset territory and wiped them out, but no Inuit legends make note of conflict between the two groups.[NEWLINE][NEWLINE]Two theories remain the most prominent: first, perhaps the Thule did lead to the Dorset's demise, but rather than do so through direct combat, the Dorset fled their villages at the sight of the new settlers until they had been completely pushed out of their hunting grounds and slowly faded away. Second, climate change may have made the Dorset's hunting style impractical, leading to them slowly dying off. Either way, by the 1500s, the Dorset had vanished from the Arctic, leaving the Thule to take their place.</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_VIVALA_DORSET_TITLE">
+      <Text>The Dorset</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_VIVALA_DORSET_SHORT_DESC">
+      <Text>The Dorset</Text>
+      <Plurality>2</Plurality>
+    </Row>
+    <Row Tag="TXT_KEY_CIV_VIVALA_DORSET_ADJECTIVE">
+      <Text>Dorset</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CIV5_DAWN_VIVALA_DORSET_TEXT">
+	  <Text>What a rare sight before us: a chief among giants! Your people, secluded and powerful, have remained a mystery to the world for millennia, but today is the day you introduce yourselves. Shaped by the brutal ice of the Arctic, the Dorset people learned to not just survive, but thrive in a land that would drive others to extinction. You built yourselves up so well that the mere sight of the Dorset left an impression that lasted for centuries.[NEWLINE][NEWLINE]Oh Aggrandizer of Alarngnak, the time has come to unleash the glory of the Arctic! Will you tame the frigid tundra? Will you use your legendary strength in the name of peace and prosperity? Will you build a civilization that will stand the test of time?</Text>
+	</Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_0">
+      <Text>Alarngnak</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_1">
+      <Text>Cape Dorset</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_2">
+      <Text>Disko Bay</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_3">
+      <Text>Arngnakoatshat</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_4">
+      <Text>Phillip's Garden</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_5">
+      <Text>Brooman Point</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_6">
+      <Text>Kaersuit</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_7">
+      <Text>Nettilling Lake</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_8">
+      <Text>Cape Grinnell</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_9">
+      <Text>Tyara</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_10">
+      <Text>Churchill</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_11">
+      <Text>Nuvulik</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_12">
+      <Text>Bell</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_13">
+      <Text>Nanook</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_14">
+      <Text>Sisimiut</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_15">
+      <Text>Buxhall</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_16">
+      <Text>Ooglit</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_17">
+      <Text>Native Point</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_18">
+      <Text>Qeqertaaraq</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_19">
+      <Text>Richmond Gulf</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_20">
+      <Text>Koldewey Point</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_21">
+      <Text>McCormick Inlet</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_22">
+      <Text>Karngmamintil</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_23">
+      <Text>Payne Lake</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_24">
+      <Text>Nuup Kangerlua</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_25">
+      <Text>Cape Sparbo</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_26">
+      <Text>Tasuiyap Taima</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_27">
+      <Text>Mingo Lake</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_28">
+      <Text>Cordeau</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_29">
+      <Text>Axel-Heiberg Island</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_30">
+      <Text>Aasivissuit</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_31">
+      <Text>Kringmiktogvik</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_32">
+      <Text>Nunguvik</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_33">
+      <Text>Rose Island</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_34">
+      <Text>Tasealuk</Text>
+    </Row>
+    <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_35">
+      <Text>Peelik</Text>
+    </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_36">
+		  <Text>Silumiut</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_37">
+		  <Text>Pulleruaq</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_38">
+		  <Text>Hornby Head</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_39">
+		  <Text>Juet Island</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_40">
+		  <Text>Belcher Islands</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_41">
+		  <Text>Taserkjuaguserk</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_42">
+		  <Text>Ikerasak</Text>
+	  </Row>
+	  <Row Tag="TXT_KEY_CITY_NAME_VIVALA_DORSET_43">
+		  <Text>Alargnakjuk</Text>
+	  </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIVALA_DORSET_0">
+      <Text>Diamond</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIVALA_DORSET_1">
+      <Text>Patricia</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIVALA_DORSET_2">
+      <Text>Park</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIVALA_DORSET_3">
+      <Text>Jan</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIVALA_DORSET_4">
+      <Text>Wintemberg</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIVALA_DORSET_5">
+      <Text>Maribeth</Text>
+      <Gender>feminine</Gender>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIVALA_DORSET_6">
+      <Text>Irving</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIVALA_DORSET_7">
+      <Text>Moreau</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIVALA_DORSET_8">
+      <Text>Bruno</Text>
+    </Row>
+    <Row Tag="TXT_KEY_SPY_NAME_VIVALA_DORSET_9">
+      <Text>Niels</Text>
+    </Row>
+  </Language_en_US>
+</GameData>

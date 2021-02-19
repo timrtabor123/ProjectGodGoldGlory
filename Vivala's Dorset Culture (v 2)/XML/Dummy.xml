@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/9/2019 1:08:59 PM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_VIVALA_DORSET_FOOD_1</Type>
+			<DefaultBuilding>BUILDING_VIVALA_DORSET_FOOD_1</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_VIVALA_DORSET_FOOD_1</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_VIVALA_DORSET_FOOD_2</Type>
+			<DefaultBuilding>BUILDING_VIVALA_DORSET_FOOD_2</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_VIVALA_DORSET_FOOD_2</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_VIVALA_DORSET_FOOD_3</Type>
+			<DefaultBuilding>BUILDING_VIVALA_DORSET_FOOD_3</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_VIVALA_DORSET_FOOD_3</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_VIVALA_DORSET_CULTURE</Type>
+			<DefaultBuilding>BUILDING_VIVALA_DORSET_CULTURE</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_VIVALA_DORSET_CULTURE</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+		<Row>
+			<Type>BUILDINGCLASS_VIVALA_DORSET_PRODUCTION</Type>
+			<DefaultBuilding>BUILDING_VIVALA_DORSET_PRODUCTION</DefaultBuilding>
+			<Description>TXT_KEY_BUILDING_VIVALA_DORSET_PRODUCTION</Description>
+			<NoLimit>true</NoLimit>
+		</Row>
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_VIVALA_DORSET_FOOD_1</Type>
+			<Description>TXT_KEY_BUILDING_VIVALA_DORSET_FOOD_1</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_VIVALA_DORSET_FOOD_1_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_VIVALA_DORSET_FOOD_1_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_VIVALA_DORSET_FOOD_1_HELP</Help>
+			<GoldMaintenance>0</GoldMaintenance>
+			<MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+			<NeverCapture>1</NeverCapture>
+			<NukeImmune>1</NukeImmune>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<MinAreaSize>-1</MinAreaSize>
+			<BuildingClass>BUILDINGCLASS_VIVALA_DORSET_FOOD_1</BuildingClass>
+			<Defense>0</Defense>
+			<TechEnhancedTourism>0</TechEnhancedTourism>
+			<DisplayPosition>0</DisplayPosition>
+			<PortraitIndex>4</PortraitIndex>
+			<WonderSplashImage></WonderSplashImage>
+			<WonderSplashAnchor>R,T</WonderSplashAnchor>
+			<WonderSplashAudio></WonderSplashAudio>
+			<IconAtlas>VIVALA_DORSET_ATLAS</IconAtlas>
+			<ArtInfoCulturalVariation>0</ArtInfoCulturalVariation>
+			<ArtInfoEraVariation>0</ArtInfoEraVariation>
+			<ArtInfoRandomVariation>0</ArtInfoRandomVariation>
+		</Row>
+		<Row>
+			<Type>BUILDING_VIVALA_DORSET_FOOD_2</Type>
+			<Description>TXT_KEY_BUILDING_VIVALA_DORSET_FOOD_2</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_VIVALA_DORSET_FOOD_2_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_VIVALA_DORSET_FOOD_2_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_VIVALA_DORSET_FOOD_2_HELP</Help>
+			<GoldMaintenance>0</GoldMaintenance>
+			<MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+			<NeverCapture>1</NeverCapture>
+			<NukeImmune>1</NukeImmune>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<MinAreaSize>-1</MinAreaSize>
+			<BuildingClass>BUILDINGCLASS_VIVALA_DORSET_FOOD_2</BuildingClass>
+			<Defense>0</Defense>
+			<TechEnhancedTourism>0</TechEnhancedTourism>
+			<DisplayPosition>0</DisplayPosition>
+			<PortraitIndex>5</PortraitIndex>
+			<WonderSplashImage></WonderSplashImage>
+			<WonderSplashAnchor>R,T</WonderSplashAnchor>
+			<WonderSplashAudio></WonderSplashAudio>
+			<IconAtlas>VIVALA_DORSET_ATLAS</IconAtlas>
+			<ArtInfoCulturalVariation>0</ArtInfoCulturalVariation>
+			<ArtInfoEraVariation>0</ArtInfoEraVariation>
+			<ArtInfoRandomVariation>0</ArtInfoRandomVariation>
+		</Row>
+		<Row>
+			<Type>BUILDING_VIVALA_DORSET_FOOD_3</Type>
+			<Description>TXT_KEY_BUILDING_VIVALA_DORSET_FOOD_3</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_VIVALA_DORSET_FOOD_3_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_VIVALA_DORSET_FOOD_3_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_VIVALA_DORSET_FOOD_3_HELP</Help>
+			<GoldMaintenance>0</GoldMaintenance>
+			<MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+			<NeverCapture>1</NeverCapture>
+			<NukeImmune>1</NukeImmune>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<MinAreaSize>-1</MinAreaSize>
+			<BuildingClass>BUILDINGCLASS_VIVALA_DORSET_FOOD_3</BuildingClass>
+			<Defense>0</Defense>
+			<TechEnhancedTourism>0</TechEnhancedTourism>
+			<DisplayPosition>0</DisplayPosition>
+			<PortraitIndex>6</PortraitIndex>
+			<WonderSplashImage></WonderSplashImage>
+			<WonderSplashAnchor>R,T</WonderSplashAnchor>
+			<WonderSplashAudio></WonderSplashAudio>
+			<IconAtlas>VIVALA_DORSET_ATLAS</IconAtlas>
+			<ArtInfoCulturalVariation>0</ArtInfoCulturalVariation>
+			<ArtInfoEraVariation>0</ArtInfoEraVariation>
+			<ArtInfoRandomVariation>0</ArtInfoRandomVariation>
+		</Row>
+		<Row>
+			<Type>BUILDING_VIVALA_DORSET_CULTURE</Type>
+			<Description>TXT_KEY_BUILDING_VIVALA_DORSET_CULTURE</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_VIVALA_DORSET_CULTURE_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_VIVALA_DORSET_CULTURE_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_VIVALA_DORSET_CULTURE_HELP</Help>
+			<GoldMaintenance>0</GoldMaintenance>
+			<MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+			<NeverCapture>1</NeverCapture>
+			<NukeImmune>1</NukeImmune>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<MinAreaSize>-1</MinAreaSize>
+			<BuildingClass>BUILDINGCLASS_VIVALA_DORSET_CULTURE</BuildingClass>
+			<Defense>0</Defense>
+			<TechEnhancedTourism>0</TechEnhancedTourism>
+			<DisplayPosition>0</DisplayPosition>
+			<PortraitIndex>7</PortraitIndex>
+			<WonderSplashImage></WonderSplashImage>
+			<WonderSplashAnchor>R,T</WonderSplashAnchor>
+			<WonderSplashAudio></WonderSplashAudio>
+			<IconAtlas>VIVALA_DORSET_ATLAS</IconAtlas>
+			<ArtInfoCulturalVariation>0</ArtInfoCulturalVariation>
+			<ArtInfoEraVariation>0</ArtInfoEraVariation>
+			<ArtInfoRandomVariation>0</ArtInfoRandomVariation>
+		</Row>
+		<Row>
+			<Type>BUILDING_VIVALA_DORSET_PRODUCTION</Type>
+			<Description>TXT_KEY_BUILDING_VIVALA_DORSET_PRODUCTION</Description>
+			<Civilopedia>TXT_KEY_CIV5_BUILDINGS_VIVALA_DORSET_PRODUCTION_TEXT</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_VIVALA_DORSET_PRODUCTION_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_VIVALA_DORSET_PRODUCTION_HELP</Help>
+			<GoldMaintenance>0</GoldMaintenance>
+			<MutuallyExclusiveGroup>-1</MutuallyExclusiveGroup>
+			<NeverCapture>1</NeverCapture>
+			<NukeImmune>1</NukeImmune>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<MinAreaSize>-1</MinAreaSize>
+			<BuildingClass>BUILDINGCLASS_VIVALA_DORSET_PRODUCTION</BuildingClass>
+			<Defense>0</Defense>
+			<TechEnhancedTourism>0</TechEnhancedTourism>
+			<DisplayPosition>0</DisplayPosition>
+			<PortraitIndex>2</PortraitIndex>
+			<WonderSplashImage></WonderSplashImage>
+			<WonderSplashAnchor>R,T</WonderSplashAnchor>
+			<WonderSplashAudio></WonderSplashAudio>
+			<IconAtlas>VIVALA_DORSET_ATLAS</IconAtlas>
+			<ArtInfoCulturalVariation>0</ArtInfoCulturalVariation>
+			<ArtInfoEraVariation>0</ArtInfoEraVariation>
+			<ArtInfoRandomVariation>0</ArtInfoRandomVariation>
+		</Row>
+	</Buildings>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_VIVALA_DORSET_FOOD_1</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_VIVALA_DORSET_FOOD_2</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_VIVALA_DORSET_FOOD_3</BuildingType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_VIVALA_DORSET_CULTURE</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_VIVALA_DORSET_UA</Type>
+			<Description>TXT_KEY_PROMOTION_VIVALA_DORSET_UA</Description>
+			<Help>TXT_KEY_PROMOTION_VIVALA_DORSET_UA_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<OrderPriority>2</OrderPriority>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_RANGED</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_VIVALA_DORSET_UA</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<UnitPromotions_UnitCombats>
+		<Row>
+			<PromotionType>PROMOTION_VIVALA_DORSET_UA</PromotionType>
+			<UnitCombatType>UNITCOMBAT_FIGHTER</UnitCombatType>
+		</Row>
+	</UnitPromotions_UnitCombats>
+	<Building_DomainProductionModifiers>
+		<Row>
+			<BuildingType>BUILDING_VIVALA_DORSET_PRODUCTION</BuildingType>
+			<DomainType>DOMAIN_LAND</DomainType>
+			<Modifier>10</Modifier>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_VIVALA_DORSET_PRODUCTION</BuildingType>
+			<DomainType>DOMAIN_SEA</DomainType>
+			<Modifier>10</Modifier>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_VIVALA_DORSET_PRODUCTION</BuildingType>
+			<DomainType>DOMAIN_AIR</DomainType>
+			<Modifier>10</Modifier>
+		</Row>
+	</Building_DomainProductionModifiers>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_BUILDING_VIVALA_DORSET_FOOD_1">
+			<Text>Walrus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_VIVALA_DORSET_FOOD_1_TEXT">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VIVALA_DORSET_FOOD_1_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VIVALA_DORSET_FOOD_1_HELP">
+			<Text>Your hunters have successfully managed to provide the city with additional [ICON_FOOD] Food!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VIVALA_DORSET_FOOD_2">
+			<Text>Narwhal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_VIVALA_DORSET_FOOD_2_TEXT">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VIVALA_DORSET_FOOD_2_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VIVALA_DORSET_FOOD_2_HELP">
+			<Text>Your hunters have successfully managed to provide the city with additional [ICON_FOOD] Food!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VIVALA_DORSET_FOOD_3">
+			<Text>Seal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_VIVALA_DORSET_FOOD_3_TEXT">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VIVALA_DORSET_FOOD_3_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VIVALA_DORSET_FOOD_3_HELP">
+			<Text>Your hunters have successfully managed to provide the city with additional [ICON_FOOD] Food!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VIVALA_DORSET_CULTURE">
+			<Text>Ivory Carving</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_VIVALA_DORSET_CULTURE_TEXT">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VIVALA_DORSET_CULTURE_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VIVALA_DORSET_CULTURE_HELP">
+			<Text>Your ivory-carvers have produced magnificent pieces of art, providing the city with additional [ICON_CULTURE] Culture!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VIVALA_DORSET_UA">
+			<Text>Not So Gentle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_VIVALA_DORSET_UA_HELP">
+			<Text>Because it took the time to attack, this unit will not provide any [ICON_FOOD] Food this turn.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VIVALA_DORSET_PRODUCTION">
+			<Text>Ancestral Home</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDINGS_VIVALA_DORSET_PRODUCTION_TEXT">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VIVALA_DORSET_PRODUCTION_STRATEGY">
+			<Text></Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_VIVALA_DORSET_PRODUCTION_HELP">
+			<Text>Your people are more comfortable living in frigid environments. The Snow, Tundra, and Ice surrounding this city each increase its [ICON_PRODUCTION] Unit Production by 10%.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

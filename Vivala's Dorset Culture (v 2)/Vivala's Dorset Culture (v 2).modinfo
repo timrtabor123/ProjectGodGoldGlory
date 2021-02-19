@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="c60a71e9-24b8-4e0e-b2ab-93c60867a271" version="2">
+  <Properties>
+    <Name>Vivala's Dorset Culture</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Dorset, ancient inhabitors of the Canadian East Arctic, predating the Inuit.</Teaser>
+    <Description>Adds the Dorset, ancient inhabitors of the Canadian East Arctic, predating the Inuit.</Description>
+    <Authors>Vivala</Authors>
+    <SpecialThanks>CBR and Civ V Modding Helpline Discords, especially EmeraldRange</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="8005965132669DF42A862A6BB1D132D4" import="1">Art/Alpha/DorsetAlpha128.dds</File>
+    <File md5="46DB9E6ED0F7831BC63F7E3CFDDC541C" import="1">Art/Alpha/DorsetAlpha16.dds</File>
+    <File md5="918E052D7A6604BB38F7923F505B65F2" import="1">Art/Alpha/DorsetAlpha22.dds</File>
+    <File md5="22667E0C2E66CA433D894F46D401CECE" import="1">Art/Alpha/DorsetAlpha24.dds</File>
+    <File md5="85F55F722EC52E00F36D27BA0075D49D" import="1">Art/Alpha/DorsetAlpha256.dds</File>
+    <File md5="1F746DB4BC079F0B44CB3144A5D6C6D0" import="1">Art/Alpha/DorsetAlpha32.dds</File>
+    <File md5="9B3A2ABC645341E00E986F4414C98AFE" import="1">Art/Alpha/DorsetAlpha45.dds</File>
+    <File md5="607E2A21A20B4F4942906CE87521D9FD" import="1">Art/Alpha/DorsetAlpha48.dds</File>
+    <File md5="3E1098852AA2ABFFBFBC591454ECB3D8" import="1">Art/Alpha/DorsetAlpha64.dds</File>
+    <File md5="1B7B23D1289F5B26F86DF327B48F0D5B" import="1">Art/Alpha/DorsetAlpha80.dds</File>
+    <File md5="6DF78D06C3A89EABF0EB3F70FB204CFB" import="1">Art/Atlas/DorsetAtlas128.dds</File>
+    <File md5="4F2862A0D951ABAC2BD7C8BB58FC290D" import="1">Art/Atlas/DorsetAtlas256.dds</File>
+    <File md5="46CF138E2C9B933A2A26660BE6A15F4D" import="1">Art/Atlas/DorsetAtlas32.dds</File>
+    <File md5="BE1E8217C2B829B63ADFEA8FFF2BD0E2" import="1">Art/Atlas/DorsetAtlas45.dds</File>
+    <File md5="356E75365DD61BA5E4EE56CC3CB7E207" import="1">Art/Atlas/DorsetAtlas64.dds</File>
+    <File md5="EB78ABFBA858B811466F9C0F6EC3109E" import="1">Art/Atlas/DorsetAtlas80.dds</File>
+    <File md5="DA5F6879A3D074BA93806DB016066A21" import="1">Art/DorsetDOM.dds</File>
+    <File md5="0A99F8ABA45231AEA89A08C79C593573" import="0">Art/DorsetIconAtlas.xml</File>
+    <File md5="08073386FDA864DAB5231A43B0BF393F" import="1">Art/DorsetMap.dds</File>
+    <File md5="A3E50CBD9EC010CB0A5CF7EBC350E183" import="1">Art/HarpoonerFlag.dds</File>
+    <File md5="070B137AEDB77795C20D96D91C3FD7F8" import="1">Art/InukpakLeaderScreen.dds</File>
+    <File md5="1B8F7B51D30AFCEFD28A10ADE5E9E884" import="0">Lua/DorsetUniques.lua</File>
+    <File md5="C544A9AED8409D52B352C79329C84D33" import="0">XML/Civilization - Dorset.xml</File>
+    <File md5="C27FCAF0606857D85799448079E94A30" import="0">XML/Diplomacy Responses - Inukpak.xml</File>
+    <File md5="78BD469DB1CBAEC1398606A12D55ED37" import="0">XML/Dummy.xml</File>
+    <File md5="A7CF3FECBC54AE79CC560CFD5AC7666D" import="0">XML/Historical Religions Support.sql</File>
+    <File md5="1833E84397127BF7246C34040BAB115E" import="1">XML/Inukpak_Scene.xml</File>
+    <File md5="98DA96AC3AF3E14E12E6C607DA02E7C5" import="0">XML/Leader - Inukpak.xml</File>
+    <File md5="DCE2294A5169D0B42DF1F69AEB4725AD" import="0">XML/Building - Ivory-Carvers House.xml</File>
+    <File md5="95725B738FB0EBA9C66C11F24F8E3D3A" import="0">XML/Unique Cultural Influence.xml</File>
+    <File md5="DB0E5A2AD458AC45E6227BD00AAD79B9" import="0">XML/Unit - Harpooner.xml</File>
+    <File md5="C78FA9C769107262A1E71898F3B6BFFD" import="0">XML/Trait - Gentle Giants.xml</File>
+    <File md5="1044CC682E98879530EAA265AB582FA6" import="0">XML/YNAEMP.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Art/DorsetIconAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilization - Dorset.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Diplomacy Responses - Inukpak.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leader - Inukpak.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Trait - Gentle Giants.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Unit - Harpooner.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Historical Religions Support.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Building - Ivory-Carvers House.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Inukpak_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Dummy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Unique Cultural Influence.xml</UpdateDatabase>
+      <UpdateDatabase>XML/YNAEMP.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/DorsetUniques.lua">
+      <Name>Dorset Uniques</Name>
+      <Description>Code for the Dorset's UA and UB.</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

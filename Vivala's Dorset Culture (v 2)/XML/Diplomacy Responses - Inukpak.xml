@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_VIVALA_INUKPAK">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_INUKPAK_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_INUKPAK">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_INUKPAK_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_INUKPAK">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_INUKPAK_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_INUKPAK">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_INUKPAK_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_INUKPAK">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_INUKPAK_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_INUKPAK">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_INUKPAK_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_INUKPAK">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_INUKPAK_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_INUKPAK">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_INUKPAK_RESPONSE_REQUEST%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_INUKPAK">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_INUKPAK_RESPONSE_LUXURY_TRADE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_INUKPAK">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_INUKPAK_OPEN_BORDERS_EXCHANGE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_INUKPAK">
+			<ResponseType>RESPONSE_ATTACKED_BETRAYED</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_INUKPAK_ATTACKED_BETRAYED</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_INUKPAK">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_INUKPAK_ATTACKED_EXCITED</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_INUKPAK">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_INUKPAK_ATTACKED_HOSTILE</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_INUKPAK">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_INUKPAK_TRADE_NEEDMORE_ANGRY</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_INUKPAK">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_INUKPAK_TRADE_NEEDMORE_NEUTRAL</Response>
+		</Row>
+		<Row LeaderType="LEADER_VIVALA_INUKPAK">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_VIVALA_INUKPAK_TRADE_NEEDMORE_HAPPY</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_INUKPAK_FIRSTGREETING_1">
+			<Text>You must be a long way from home. This is the land of the Dorset. Please leave.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_INUKPAK_FIRSTGREETING_2">
+			<Text>I am not sure how you ended up in these frigid lands, but I suggest you don't stay long. You likely would not survive, and if you did, we Dorset would not appreciate the company.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_INUKPAK_FIRSTGREETING_3">
+			<Text>You don't look like you hail from Dorset lands, stranger. When you return home and speak of us, please tell your tribe that this land is full of giants who prefer to keep to ourselves.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_INUKPAK_DEFEATED_1">
+			<Text>You have accomplished nothing. One day the Dorset will fade from the memory of the world, and on that day your conquest will cease to impress anyone.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_INUKPAK_DEFEATED_2">
+			<Text>Destroying a people who didn't even want to fight in the first place. What a wretched legacy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_INUKPAK_DEFEATED_3">
+			<Text>What use do you have for old tundra cities? Was it worth the price we paid?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_INUKPAK_GREETING_POLITE_HELLO_1">
+			<Text>Yours is a face I would never run from! What can I do for you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_INUKPAK_GREETING_POLITE_HELLO_2">
+			<Text>I rarely say this to outsiders, but welcome!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_INUKPAK_GREETING_NEUTRAL_HELLO_1">
+			<Text>What brings you out this far?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_INUKPAK_GREETING_NEUTRAL_HELLO_2">
+			<Text>Frigid day, isn't it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_INUKPAK_GREETING_HOSTILE_HELLO_1">
+			<Text>If you do not leave soon, then I shall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_INUKPAK_GREETING_HOSTILE_HELLO_2">
+			<Text>Your presence here disrupts our very way of life. Get out soon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_INUKPAK_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>My people are getting antsy with your troops staring at us like that. We would rather not fight, so please just send them back to their homes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_INUKPAK_EXPANSION_SERIOUS_WARNING_1">
+			<Text>We have our part of the world, you have yours. Please leave it that way.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_INUKPAK_REQUEST">
+			<Text>The walruses have not been as plentiful as they have in recent years. Could you help keep my people fed?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_INUKPAK_LUXURY_TRADE">
+			<Text>Our ivory-carvers have caught word of a marvelous material in your possession - one that would look great with our carved figures. Perhaps there is something I offer to convince you to part with it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_INUKPAK_OPEN_BORDERS_EXCHANGE">
+			<Text>We are in desperate need of more game this year. Would you allow us to hunt in your territory?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_INUKPAK_ATTACKED_BETRAYED">
+			<Text>I should have known better than to trust outsiders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_INUKPAK_ATTACKED_EXCITED">
+			<Text>My people are passive, yes, but we are still powerful. We will drive you from our lands once and for all!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_VIVALA_INUKPAK_ATTACKED_HOSTILE">
+			<Text>You have been quite a nuisance. Hopefully this conflict will finally convince you to leave us alone.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

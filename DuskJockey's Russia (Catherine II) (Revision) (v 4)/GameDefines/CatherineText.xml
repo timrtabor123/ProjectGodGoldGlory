@@ -4,10 +4,10 @@
 	<Language_en_US>
 		<!-- City List -->
 		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_0">
-			<Text>St. Petersburg</Text>
+			<Text>Moscow</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_1">
-			<Text>Moscow</Text>
+			<Text>St.Petersburg</Text>
 		</Row>
 		<Row Tag="TXT_KEY_CITY_NAME_DJ_RUSSIA_2">
 			<Text>Kiev</Text>

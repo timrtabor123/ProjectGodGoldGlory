@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="d60aa321-07dc-4272-82dc-97b1029df6e6" version="1">
+  <Properties>
+    <Name>PorkBean's Lanfang Republic</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the [COLOR_POSITIVE_TEXT]Lanfang Republic[ENDCOLOR] (1777-1884), led by Luo Fangbo! Part of PorkBean's Rebellions and Failed States.</Teaser>
+    <Description>This mod adds the [COLOR_YIELD_GOLD]Lanfang Republic[ENDCOLOR] by Porkbean to the game as a playable civilization.
+[NEWLINE]
+[NEWLINE]
+[NEWLINE][COLOR_YIELD_GOLD]Leader: [ENDCOLOR]Luo Fangbo
+[NEWLINE]
+[NEWLINE][COLOR_YIELD_GOLD]Kongsi Federation: [ENDCOLOR]For every City actively working 3 Mines or Quarries in your Empire, unlock a random Social Policy tree. Once all Social Policy trees have been unlocked, this bonus will provide a random Freedom Tenet.
+[NEWLINE]
+[NEWLINE][COLOR_YIELD_GOLD]Lansaai: [ENDCOLOR]Slightly weaker than the base unit, but gains a +50% Combat Strength bonus if within two tiles of a Trade Route. When beginning a turn on a resource improved by a Mine, this unit provides a variety of yields depending on the type of resource. Replaces the Rifleman.
+[NEWLINE]
+[NEWLINE][COLOR_YIELD_GOLD]Zongting: [ENDCOLOR]Has a chance to build Mines on unimproved tiles along friendly Trade Routes within range of this city. Replaces the Forge, and does not require a source of Iron.</Description>
+    <Authors>PorkBean</Authors>
+    <SpecialThanks>TPangolin</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="8c101299-95c5-4b28-b7ed-4e0f774857ef" minversion="0" maxversion="999" title="Historical Religions" />
+    <Mod id="6010e6f6-918e-48b8-9332-d60783bd8fb5" minversion="0" maxversion="999" title="Historical Religions Complete" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Pouakai's Enlightenment Era" />
+    <Mod id="1153b26a-69fd-4cd5-899c-a8ba8e0e5e5d" minversion="0" maxversion="999" title="Civ IV Leader Traits in Civ V" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="1B22A4BEE43178561D3166395B47F2A0" import="1">Art/FangboPeace.mp3</File>
+    <File md5="4FD57223572A29ED4900B2F2AE2FA6B2" import="1">Art/FangboWar.mp3</File>
+    <File md5="8CDD07400E3E77D2E382DFF03E14850F" import="1">Art/Flag_Lansaai.dds</File>
+    <File md5="8F94D121A5819CABD24A40D82425A9E5" import="1">Art/LanfangAlpha128.dds</File>
+    <File md5="83DA7E3A7772593BB85E74ABDF587CA2" import="1">Art/LanfangAlpha16.dds</File>
+    <File md5="80699A321A27A924282470C831591C51" import="1">Art/LanfangAlpha24.dds</File>
+    <File md5="49AE36A960764A7271AFD33FE0A60829" import="1">Art/LanfangAlpha256.dds</File>
+    <File md5="364CF96E73E5B4CC6126E9450A8666F3" import="1">Art/LanfangAlpha32.dds</File>
+    <File md5="460336406767E852BBB893EA98F7274D" import="1">Art/LanfangAlpha45.dds</File>
+    <File md5="82E2C7F83C92B1122209B0A220538B54" import="1">Art/LanfangAlpha48.dds</File>
+    <File md5="486C3AD39FAF93657B59412906C2A9B4" import="1">Art/LanfangAlpha64.dds</File>
+    <File md5="864F1E2D7E3D44CE95F27E96C3474012" import="1">Art/LanfangAlpha80.dds</File>
+    <File md5="A5D94D562F19B363394F1E44162FD4D4" import="1">Art/Lanfang_Atlas128.dds</File>
+    <File md5="EEBC31D901E2E131DF3787CB5DDAF4CB" import="1">Art/Lanfang_Atlas214.dds</File>
+    <File md5="160FC537FEB8C4DE21C6B9289B1CD44B" import="1">Art/Lanfang_Atlas256.dds</File>
+    <File md5="7D6CA060017B28816B814B498478A9BD" import="1">Art/Lanfang_Atlas32.dds</File>
+    <File md5="1B4F7E078E56FA0FFDD6B9195F75472B" import="1">Art/Lanfang_Atlas45.dds</File>
+    <File md5="3B44D4D0DB8725FC7F618BF706E25F92" import="1">Art/Lanfang_Atlas64.dds</File>
+    <File md5="68435E959D5131981C4B0B620BCCC832" import="1">Art/Lanfang_Atlas80.dds</File>
+    <File md5="5725B6BC45DAD2D33504AE1D39AB6B8C" import="1">Art/Lanfang_DOM.dds</File>
+    <File md5="AC36298584CE5F7D8247BD230AF371BE" import="1">Art/Lanfang_Map.dds</File>
+    <File md5="30A2D729AA8DE8965283B53466D8D9ED" import="1">Art/Lansaai/lansaai1.fxsxml</File>
+    <File md5="F1EFBC2254CAE05A613E733375395014" import="1">Art/Lansaai/lansaai1.gr2</File>
+    <File md5="2036389E4B5AD01B070159C9D2FDE2B3" import="1">Art/Lansaai/lansaai1_diff.dds</File>
+    <File md5="9CA3CAACC7A3B99A4493242FC92CEDDA" import="1">Art/Lansaai/lansaai1_sref.dds</File>
+    <File md5="42920BC37E6A3211DAB81EBFAE8A977A" import="1">Art/Lansaai/lansaai2.fxsxml</File>
+    <File md5="9FD16EB895EDE0BD4B064B8F59B0D243" import="1">Art/Lansaai/lansaai2.gr2</File>
+    <File md5="B326496D8470033F0D90AE9F15B1725F" import="1">Art/Lansaai/lansaai2_diff.dds</File>
+    <File md5="60843AD11B4C78C2A222B362E8F369BF" import="1">Art/Lansaai/lansaai2_sref.dds</File>
+    <File md5="6D1321E4DB2BBF3385727129EAAE75FA" import="1">Art/Lansaai/lansaai3.fxsxml</File>
+    <File md5="2C8C2EAE219A6EB077C5C8B4322E147E" import="1">Art/Lansaai/lansaai3.gr2</File>
+    <File md5="38C3830ED231E24E09C20A9556F985CD" import="1">Art/Lansaai/lansaai3_diff.dds</File>
+    <File md5="A0F2ADCE7787C05B2CAC969FF3DFFB8D" import="1">Art/Lansaai/lansaai3_sref.dds</File>
+    <File md5="57FA8273673FFEFE0E8193FC9FBB3867" import="1">Art/lansaai_sv.dds</File>
+    <File md5="39CB88B430D3B673F4CB05179442E8C0" import="1">Art/Luo_Scene.dds</File>
+    <File md5="9C5E98A530B4F64F903560BA9D75ABBB" import="0">Core/ArtDefines.sql</File>
+    <File md5="FF0A83E6FC116594E2BBDAB4E7BE11E2" import="0">Core/DiplomacyResponses.sql</File>
+    <File md5="7C436AEA0D7B70280CDFF93E68405A9E" import="0">Core/DiplomacyResponses.xml</File>
+    <File md5="CA56DD436DADB8E5A1DC028C1DF33D16" import="0">Core/GameDefines.sql</File>
+    <File md5="924BBEB6C9B19963BE99365587549E41" import="0">Core/GameText.xml</File>
+    <File md5="F80AC5F419381F2A7FCC83C08AE8CBC7" import="0">Core/Luo_Music.xml</File>
+    <File md5="7DF698F6E5F924E9C7B01627B05638C6" import="1">Core/Luo_Scene.xml</File>
+    <File md5="165671F63832E9647A7DE8D633573B9C" import="0">Core/ModSupport.sql</File>
+    <File md5="1F52128BF6FCA88168D8AE9492C04D08" import="0">Lua/Lanfang_KongsiFederation.lua</File>
+    <File md5="1D0B69882345E5F0027E4A2B98149E6D" import="0">Lua/Lanfang_Lansaai.lua</File>
+    <File md5="75B3AB7A51CD8691058B6B5E0ECCA2D8" import="0">Lua/Lanfang_Zongting.lua</File>
+    <File md5="3B7B1EE92949FC3B7B9308074F036BEB" import="1">Lua/NewSaveUtils.lua</File>
+    <File md5="5690A1B2ACA2729FD9D55156E232AB1A" import="1">Lua/PlotIterators.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/ModSupport.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyResponses.sql</UpdateDatabase>
+      <UpdateDatabase>Core/DiplomacyResponses.xml</UpdateDatabase>
+      <UpdateDatabase>Core/Luo_Music.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Lanfang_Lansaai.lua">
+      <Name>Lanfang_Lansaai</Name>
+      <Description>Lua for the Lanfang Unique Unit</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Lanfang_Zongting.lua">
+      <Name>Lanfang_Zongting</Name>
+      <Description>Lua for the Lanfang Unique Building</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="Lua/Lanfang_KongsiFederation.lua">
+      <Name>Lanfang_KongsiFederation</Name>
+      <Description>Lua for the Lanfang Unique Ability</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

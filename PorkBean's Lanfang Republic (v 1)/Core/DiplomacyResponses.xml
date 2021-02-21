@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/15/2018 9:35:06 AM -->
+<GameData>
+	<Language_en_US>
+		<!-- When you first meet this AI player -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_FIRSTGREETING_1">
+			<Text>Welcome to our Lanfang Republic. My name is Luo Fangbo, and I speak for the communities here as their first elected President.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_FIRSTGREETING_2">
+			<Text>Welcome to the Lanfang kongsi republic. Although we are but simple mining communities, each man here has a voice to share with the world. Those voices call me their President, Luo Fangbo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_FIRSTGREETING_3">
+			<Text>A pleasure to meet you. I'm President Luo Fangbo, and I speak for the people of the Lanfang Republic. Oh, are you interested in our system of government?</Text>
+		</Row>
+		<!-- When you've defeated this AI player through conquest -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_DEFEATED_1">
+			<Text>Ours will not be the last republic. Another will bear the sword of freedom in defiance of you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_DEFEATED_2">
+			<Text>So this is how liberty dies.</Text>
+		</Row>
+		<!-- Trying to contact or trade with the AI too many times; "REPEAT" appears first, and then "TOO_MUCH" if you continue (regardless of AI feelings) -->
+		<!-- Repeatedly contacting the AI -->
+		<!-- AI has no strong feelings -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_REPEAT_1">
+			<Text>Welcome back to the republic.</Text>
+		</Row>
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_HOSTILE_REPEAT_1">
+			<Text>Indeed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_HOSTILE_REPEAT_2">
+			<Text>I see.</Text>
+		</Row>
+		<!-- You have contacted them for a fifth time -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_REPEAT_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+		<!-- Repeatedly trying to trade with the AI -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_REPEAT_TRADE_1">
+			<Text>Unlikely.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_REPEAT_TRADE_2">
+			<Text>I will not.</Text>
+		</Row>
+		<!-- You have tried for a fifth time (?) -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+
+		<!-- ==================================== Greetings ==================================== -->
+		<!-- Generic greetings depending on how the AI feels about you -->
+		<!-- AI likes you -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_POLITE_HELLO_1">
+			<Text>Oh, welcome back. Today's assembly meeting has just concluded. How may I help you?</Text>
+		</Row>
+		<!-- AI has no strong feelings -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_NEUTRAL_HELLO_1">
+			<Text>I see you've returned. Is this an official visit?</Text>
+		</Row>
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_HOSTILE_HELLO_1">
+			<Text>You are free to visit here as you wish. A pity such freedoms are not extended to your people.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_HOSTILE_HELLO_2">
+			<Text>Ah. Here to see what a functioning democracy looks like?</Text>
+		</Row>
+
+		<!-- Greetings while at war -->
+		<!-- All other times -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_AT_WAR_HOSTILE_1">
+			<Text>The communities are giving their all in the fight against you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_AT_WAR_HOSTILE_2">
+			<Text>You're here, but have yet to give a reason.</Text>
+		</Row>
+
+		<!-- Situational greetings -->
+		<!-- You have a Declaration of Friendship with them -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_WORKING_WITH_1">
+			<Text>You're a true friend of the republic. What can we discuss today?</Text>
+		</Row>
+		<!-- The human is at war -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Citizens the world over long to see you crushed. What do you want?</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_HUMAN_AT_WAR_1">
+			<Text>Welcome back. I hope you can peacefully resolve your current conflict.</Text>
+		</Row>
+		<!-- The human has an aggressive military posture -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>It does not take a wise man to notice that your military is poised to strike.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>Are you performing military drills? Cast your swords into picks, and instead work to better your communities.</Text>
+		</Row>
+		<!-- The human is aggressively setting cities -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Greed consumes the land, including that which we intend to mine. I do not wish to resort to violence.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>I see you are expanding as well, seeking mining opportunities. We should negotiate a compromise, before this escalates.</Text>
+		</Row>
+		<!-- The human is aggressively claiming plots -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Invest in improving your shoddy lands. Don't waste time expanding.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>You may wish to consider buying infrastructure, rather than more territory.</Text>
+		</Row>
+		<!-- AI is praising your strong military -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>A strong defense force is an important tool of any country. You should be proud of your military.</Text>
+		</Row>
+		<!-- AI is praising your strong economy -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>An economy worthy of a wise ruler. Perhaps you're here to discuss trade?</Text>
+		</Row>
+		<!-- AI is mocking you for having fewer cities than them -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>Without workable land your people will grow poor and starve. Settle more cities, or don't.</Text>
+		</Row>
+		<!-- AI is mocking you for having a small military -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>No country can survive undefended. It is simply the way of the world.</Text>
+		</Row>
+		<!-- AI considers you to be a warmonger -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Your ways are brutish and uncivilized. We always have more to gain through co-operation than conquest.</Text>
+		</Row>
+
+		<!-- ==================================== Declarations of Friendship and Denouncing ==================================== -->
+		<!-- AI offers you a Declaration of Friendship -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_DEC_FRIENDSHIP_1">
+			<Text>Would you consider making a joint Declaration of Friendship? I believe our countries have a bright future together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_DEC_FRIENDSHIP_2">
+			<Text>Neither of our countries may stand alone in this world. What do you think of making a Declaration of Friendship?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_DEC_FRIENDSHIP_3">
+			<Text>Lanfang is seeking to position itself among the better nations of the world. To this end, may we consider ourselves your friends?</Text>
+		</Row>
+		<!-- AI isn't ready for a Declaration of Friendship yet -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_TOO_SOON_FOR_DOF_1">
+			<Text>I hope some day we can formally become friends. Until then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_TOO_SOON_FOR_DOF_2">
+			<Text>Let us work together, first. Then we will know if this suits our interests.</Text>
+		</Row>
+		<!-- AI, as your friend, wants you to denounce another civilization -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>The world is moving beyond violent empires like {1_CivName}. We should denounce this relic together.</Text>
+		</Row>
+		<!-- AI is denouncing you -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_DENOUNCE_1">
+			<Text>I have no time for greedy empires.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_DENOUNCE_2">
+			<Text>The republic stands against you.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<!-- AI is responding to you denouncing them -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You may denounce us if you wish. Nothing will come of it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>Well? Anything else? Or are you simply here to shout and thump your chest?</Text>
+		</Row>
+		<!-- AI contacting you after you befriend their friend -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_HUMAN_DOFED_FRIEND_1">
+			<Text>It is wonderful to hear that you have befriended {1_CivName}. Let us carry the torch of freedom together.</Text>
+		</Row>
+		<!-- AI contacting you after you befriend their enemy -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_HUMAN_DOFED_ENEMY_1">
+			<Text>You may find {1_CivName} a troublesome partner. I suggest you keep them at arm's length.</Text>
+		</Row>
+		<!-- AI contacting you after you denounce their friend -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>{1_CivName} are reliable allies of ours. Can't you see past your differences?</Text>
+		</Row>
+		<!-- AI contacting you after you denounce their enemy -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>All those who believe in freedom must oppose {1_CivName}. I am glad to see you feel the same.</Text>
+		</Row>
+		<!-- AI contacting you after they befriend your friend -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>I dream of a world where nations may work together in peace. To that end, I too have befriended {1_CivName}.</Text>
+		</Row>
+		<!-- AI contacting you after they denounce your enemy -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>We have been greatly concerned by the actions of {1_CivName} for some time. I shall follow your lead in denouncing them.</Text>
+		</Row>
+		<!-- AI contacting you after they denounce your friend -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>I can judge {1_CivName} by the company they keep. The Lanfang Republic hereby denounces them.</Text>
+		</Row>
+		<!-- AI contacting you after they befriend your enemy -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>You scowl and shout at {1_CivName}, but you will not shake the resolve of the democratic world. We offer them our support.</Text>
+		</Row>
+
+		<!-- ==================================== AI warnings ==================================== -->
+		<!-- AI has noticed your military posture is aggressive -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Do you at last bring war to Lanfang? Be warned; we are prepared to face you with everything we have.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Villages have reported a buildup of your troops close to our border. I must ask you to withdraw and avoid any escalation.</Text>
+		</Row>
+
+		<!-- AI has noticed your aggressive settling -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your core cities starve as you expand recklessly. Focus on your infrastructure, before your people overthrow their foolish leader.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_EXPANSION_WARNING_1">
+			<Text>We should negotiate for territorial rights, instead of simply wandering about planting flags. Please consult us next time you wish to settle near our border.</Text>
+		</Row>
+
+		<!-- AI has noticed your aggressive plot claiming -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>You should consider channeling your taxpayer's capital into rebuiliding your society. It is in a pitiful state.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_PLOT_BUYING_WARNING_1">
+			<Text>Your people work hard; they expect money for infrastructure and services. Why do you waste their gold on pointless claims?</Text>
+		</Row>
+
+		<!-- ==================================== War requests ==================================== -->
+		<!-- AI wants you to go to war against a third party -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_COOP_WAR_REQUEST_1">
+			<Text>{1_PlayerName:textkey} rears their ugly head at the democratic world. We must stop them together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_COOP_WAR_REQUEST_2">
+			<Text>Lanfang intends to launch defensive countermeasures against {1_PlayerName:textkey}'s aggression. Can we count on your assistance?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_COOP_WAR_REQUEST_3">
+			<Text>We have been pushed too far by {1_PlayerName:textkey}. It is time we defend ourselves - together.</Text>
+		</Row>
+
+		<!-- ==================================== Miscellanious comments ==================================== -->
+		<!-- You and the AI are competing for the same city states -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_MINOR_CIV_COMPETITION_1">
+			<Text>{1_MinorCivName:textkey} are well on their way to becoming full members of the kongsi. I would ask that you not deny them that chance.</Text>
+		</Row>
+
+		<!-- ==================================== Player requests ==================================== -->
+		<!-- You continue to ask for something that the AI is not interested in -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_REPEAT_NO_1">
+			<Text>I apologize.</Text>
+		</Row>
+		<!-- You ask the AI to not settle near you -->
+		<!-- AI agrees -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_DONT_SETTLE_YES_1">
+			<Text>Very well. We will seek mining opportunities elsewhere.</Text>
+		</Row>
+		<!-- AI doesn't agree -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_DONT_SETTLE_NO_1">
+			<Text>Forgive me, but it is essential that Lanfang explore new mining opportunities.</Text>
+		</Row>
+
+		<!-- ==================================== Insults ==================================== -->
+		<!-- Generic insult if no others are picked -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_INSULT_GENERIC_1">
+			<Text>I couldn't help but notice how pathetic you are. And when I realized it I couldn't help but share.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_INSULT_GENERIC_2">
+			<Text>Ah, it's always nice to see my favorite city-state again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_INSULT_GENERIC_3">
+			<Text>I'm really getting tired of seeing your face. My hope is that one day you'll just go away or something.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_INSULT_GENERIC_4">
+			<Text>Ah, it's you. My apologies. Sometimes I get you mixed up with the barbarians I have to swat from time to time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_INSULT_MILITARY_1">
+			<Text>I thought you might like to know that your army is a little on the weak side. Better watch your back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_INSULT_MILITARY_2">
+			<Text>With an army so weak it's a surprise your empire hasn't succumb to a barbarian invasion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_INSULT_NUKE_1">
+			<Text>Our words are backed with nuclear weapons!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_INSULT_BULLY_1">
+			<Text>It's a shame there are some leaders in this world who have their fun by picking on the weak. Don't you agree?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_INSULT_UNHAPPINESS_1">
+			<Text>I can hear your people wailing in sorrow all the way over in my empire. If you don't do something soon they might just pack up and find a real civilization to live in.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_INSULT_UNHAPPINESS_2">
+			<Text>With people so unhappy it's a shock to me that they'd keep you around as their leader.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_INSULT_CITIES_1">
+			<Text>It's come to my attention that your empire appears to be quite puny. Did you forget to expand your borders or are you just having a little trouble with that?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_INSULT_POPULATION_1">
+			<Text>Travelers have told us that your empire's economy is in pretty sad shape. If you beg a little I might give you a hand. Okay, actually I won't.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_INSULT_CULTURE_1">
+			<Text>What a sad sight... your empire is so uncultured. What do your citizens do all day, beat rocks together?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_INSULT_CULTURE_2">
+			<Text>Rumor has it that your culture is so laughable that even the barbarians are shying away from your lands.</Text>
+		</Row>
+
+		<!-- ==================================== Trade ==================================== -->
+		<!-- AI is offering a trade because they want a luxury from you -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_LUXURY_TRADE_1">
+			<Text>We struck upon this while scouting out new mining locations. We can conduct a trade, if you are interested.</Text>
+		</Row>
+		<!-- AI is asking for a mutual open borders agreement -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_OPEN_BORDERS_EXCHANGE_1">
+			<Text>I believe there is no need to restrict the freedom of our people to travel as they please.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_TRADE_NEEDMORE_ANGRY">
+			<Text>I believe in positive trade agreements. Please let me know if you come up with one.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_TRADE_NEEDMORE_HAPPY">
+			<Text>This will need to be distributed to all our communities - could we ask for a higher quantity in exchange?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_TRADE_NEEDMORE_NEUTRAL">
+			<Text>I am trying my best to accomodate you, but I must ask for more.</Text>
+		</Row>
+
+		<!-- ==================================== Player declares war on the AI ==================================== -->
+		<!-- AI Attacked by another player -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_ATTACKED_HOSTILE_1">
+			<Text>The republic is prepared to face you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_ATTACKED_HOSTILE_2">
+			<Text>Then we shall face you down. Democracy will win the day, as it always has.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_ATTACKED_BETRAYED">
+			<Text>I see it was foolish to engage with you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_ATTACKED_EXCITED">
+			<Text>You may find the fire of democracy rather difficult to extinguish.</Text>
+		</Row>
+
+		<!-- ==================================== AI declares war on the player ==================================== -->
+		<!-- Generic response -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_DOW_GENERIC_1">
+			<Text>I'm sorry that it has come to this. We are not a belligerent people, but our interests must be protected!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_DOW_GENERIC_2">
+			<Text>Your people cry out for liberation. We can no longer ignore their pleas.</Text>
+		</Row>
+		<!-- AI is in a land dispute with the player -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_DOW_LAND_1">
+			<Text>As we have been unable to settle our land issues peacefully, I regretfully declare our nations to be in a state of war.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_DOW_LAND_2">
+			<Text>I will not allow Lanfang to suffocate under your reckless expansion. We will seize back our mines!</Text>
+		</Row>
+		<!-- AI declares war after the player refuses a demand -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_WAR_DEMAND_REFUSED_1">
+			<Text>That is unfortunate. I did not wish to go to war with you.</Text>
+		</Row>
+
+		<!-- ==================================== Peace offers ==================================== -->
+
+		<!-- AI doesn't want to have peace -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_NO_PEACE_1">
+			<Text>Peace will come, but I do not yet know the form it will take.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_NO_PEACE_2">
+			<Text>We must strengthen our position before negotiating peace.</Text>
+		</Row>
+		<!-- Player asks for peace on the same turn war was declared - no peace! -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_TOO_SOON_NO_PEACE_1">
+			<Text>Are you quite mad?</Text>
+		</Row>
+
+		<!-- ==================================== Cultural Influence ==================================== -->
+		<!-- Player is influential on the AI (Our people are wearing your blue jeans...) -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now electing their leaders and establishing mining communities. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- AI is influential on the player -->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_INFLUENTIAL_ON_HUMAN_1">
+			<Text>We are glad to see that your people are electing their leaders and establishing mining communities. The amazing works of our civilization are truly inspiring!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

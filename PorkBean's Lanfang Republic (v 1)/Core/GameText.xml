@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/18/2019 2:59:46 PM -->
+<GameData>
+	<Language_en_US>
+		<!--Civilization-->
+		<Row Tag="TXT_KEY_CIV_PB_LANFANG_DESC">
+			<Text>Lanfang Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_FACTOID_HEADING">
+			<Text>Lanfang Factoid</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_FACTOID_TEXT">
+			<Text>The Lanfang Republic was one of the earliest modern republics in the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_HEADING_3">
+			<Text>Early History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_HEADING_4">
+			<Text>Founding of the Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_HEADING_5">
+			<Text>Relationship with China</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_HEADING_6">
+			<Text>Dutch Conquest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_HEADING_7">
+			<Text>Legacy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_TEXT_1">
+			<Text>The Lanfang Republic was a Chinese state and kongsi federation in Western Borneo. It was established by a Hakka Chinese named Luo Fangbo in 1777, until it was ended by Dutch occupation in 1884. It was one of many tributary states of Qing China. The Lanfang Republic was one of the earliest modern republics in the world.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_TEXT_2">
+			<Text>Pontianak lies on the Equator track with a height ranging from 0.1 to 1.5 meters above sea level. Cities are separated by the Kapuas Besar River, Kapuas Kecil River and Landak River. Thus Pontianak city is divided into three parts. Pontianak is located in the delta of the Kapuas River with a relatively flat conturtopographic with a ground level elevation ranging from 0.1 s / d 1.9 meters above sea level. Almost the entire area of Pontianak City and surrounding areas within a radius of 19 km of estuary river estuary lies in the lowlands which on average the height of the land is 1–2 meters above sea level and less than 2%.[NEWLINE][NEWLINE]Pontianak features a tropical rainforest climate under the Koppen climate classification (Af) with no distinct seasons at all. The city experiences a large amount of rainfall throughout the year, averaging 3,210 mm (126 in) of precipitation annually. Only in the month of August does the average monthly precipitation fall below 200 mm (7 7⁄8 in). Temperatures are consistent throughout the course of the year, with average high temperatures of 30C (86F) and average low temperatures of 23C (73F).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_TEXT_3">
+			<Text>The sultans of Western Borneo imported Chinese laborers in the 18th century to work in gold or tin mines. A number of mining companies (kongsi) enjoyed some political autonomy, but Lanfang is the best known thanks to a history written by Yap Siong-yoen, the son-in-law of the last kapitan of the Lanfang kongsi, which was translated into Dutch in 1885. None of the other Chinese mining settlements in western Kalimantan left written accounts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_TEXT_4">
+			<Text>The founding father of the Lanfang Republic was Luo Fangbo, who hailed from Meizhou in Guangdong Province. Chinese settlers have long lived in Borneo island, with most engaging in trading and mining. They formed their own companies, among which was the Southern Company headed by Luo.[NEWLINE][NEWLINE]As Dutch imperialism encroached upon modern-day Indonesia, Luo established the Lanfang Republic in 1777 (with its capital in East Wanjin) to protect the Chinese settlers from Dutch oppression. The settlers subsequently elected Luo as their inaugural president. Luo implemented many democratic principles, including the idea that all matters of state must involve the consultation of the republic's citizenry. He also created a comprehensive set of executive, legislative, and judicial agencies. The Republic did not have a standing military, but had a defense ministry that administered a national militia based on conscription. During peacetime, the populace mostly engaged in farming, production, trading, and mining. Lanfang's administrative divisions included three tiers (province, prefecture, and county) with the people electing leaders for all levels. Lanfang was allied with Sultan Abdurrahman of the Pontianak Sultanate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_TEXT_5">
+			<Text>Although Luo discarded the ancient institutions of monarchism and dynastic succession, he continued to adhere to many Chinese traditions. For example, he established the founding year of the republic as the first year of the calendar. Moreover, he submitted a report to the Chinese emperor notifying him about the Republic's founding and paid tribute to the Chinese Qing Empire.[NEWLINE][NEWLINE]Luo served as head of state until his death in 1795. Afterwards, Lanfang citizens elected Jiang Wubo as their next president. Lanfang citizens elected a total of twelve leaders, who helped improve agricultural techniques, expand mine production, develop cultural education, and organize military training. These measures allowed Lanfang to increase its wealth and power, which encouraged the non-Chinese indigenous population to pledge their allegiances to Lanfang.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_TEXT_6">
+			<Text>In the mid-to-late 19th century, the Chinese Qing Empire weakened substantially and became increasingly unable to support the Lanfang Republic as its vassal state. Thus, Lanfang Republic's vigorous development suffered from the eventual expansion of the Dutch. The Republic's citizenry waged a tenacious resistance, but ultimately failed due to poor weaponry. Lin Ah Sin was the last leader of Lanfang. Many of Lanfang's citizens and their descendants made their way to Sumatra or Singapore.[NEWLINE][NEWLINE]Wary of Qing intervention, the Dutch did not openly annex the Lanfang Republic, and created another puppet regime. It was not until 1912, when the Qing Dynasty collapsed, that the Dutch proclaimed their occupation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_TEXT_7">
+			<Text>Nineteenth-century commentators wrote favorably of the democratic nature of the kongsi federation. Historians of this period categorized the kongsi federations as republics. The Dutch sinologist Jan Jakob Maria de Groot was in favor of this interpretation, calling the kongsis "village republics" that partook in the "spirit of a democracy."[NEWLINE][NEWLINE]In response to comparisons with Western republicanism, historian Wang Tai Pang has cautioned that "such an approach to the history of kongsi is evidently Eurocentric." He concedes that the federations were similar to Western democracies insofar as they involved the election of representatives. However, Wang argues that the uniquely Chinese characteristics of kongsi federations are overlooked when historians only emphasize the connection between kongsis and republicanism in the West.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_LANFANG_TITLE">
+			<Text>Lanfang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PB_LANFANG_SHORT_DESC">
+			<Text>Lanfang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PB_LANFANG_ADJECTIVE">
+			<Text>Lanfang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_PB_LANFANG_TEXT">
+			<Text>Wise and learned Luo Fangbo, pioneer of the democratic way of life! You are the elected leader of the Lanfang Republic, a small but prosperous state on the western edge of the island of Borneo. Born out of the Chinese "kongsi" mining companies, the Lanfang Republic is considered one of the earliest modern republics in the world, predating the establishment of the United States as a republic by more than a decade. Through times of both co-operation and conflict with the local sultans, and later the imperial Dutch, the Republic held true to its core principles of consensus and representation.[NEWLINE][NEWLINE]President Luo, the world needs your example and wisdom now more than ever! The people have spoken, and you are to once again lead them into a new age. Can you protect the interests of the common man, and deliver to him a land in which to flourish? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_0">
+			<Text>Dong Wan Li</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_1">
+			<Text>Pontianak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_2">
+			<Text>Sungai Raya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_3">
+			<Text>Ketapang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_4">
+			<Text>Sanggau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_5">
+			<Text>Sintang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_6">
+			<Text>Ngabang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_7">
+			<Text>Mempawah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_8">
+			<Text>Putussibau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_9">
+			<Text>Bengkayang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_10">
+			<Text>Singkawang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_11">
+			<Text>Sekadau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_12">
+			<Text>Nanga Pinoh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_13">
+			<Text>Sukadana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_14">
+			<Text>Pahuman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_15">
+			<Text>Sungaipinyuh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_16">
+			<Text>Jungkat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_17">
+			<Text>Rasau</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_18">
+			<Text>Sungaiduri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_19">
+			<Text>Pemali</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_20">
+			<Text>Darit</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_21">
+			<Text>Sidas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_22">
+			<Text>Sosok</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_23">
+			<Text>Serimbu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_24">
+			<Text>Endia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_25">
+			<Text>Ledo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_26">
+			<Text>Pemangkat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_27">
+			<Text>Momong</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_28">
+			<Text>Haur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_LANFANG_29">
+			<Text>Liku</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_0">
+			<Text>Jiang Wubo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_1">
+			<Text>Yan Sibo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_2">
+			<Text>Song</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_3">
+			<Text>Liu Taiji</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_4">
+			<Text>Gu Liubo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_5">
+			<Text>Xie Guifang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_6">
+			<Text>Ye Tenghui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_7">
+			<Text>Liu Ganxing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_8">
+			<Text>Liu Asheng</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_LANFANG_9">
+			<Text>Lin Ah Sin</Text>
+		</Row>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO">
+			<Text>Luo Fangbo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_PEDIA">
+			<Text>Luo Fangbo was a Hakka Chinese diplomat and President of the Lanfang Republic mining federation in Western Borneo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_PEDIA_FACT_1">
+			<Text>Luo Fangbo repeatedly failed the notoriously difficult Imperial Examinations. He has this in common with Hong Xiuquan, later Qing rebel and self-declared Divine King of the Heavenly Kingdom.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_PEDIA_HEADING_1">
+			<Text>Early History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_PEDIA_HEADING_2">
+			<Text>Founding the Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_PEDIA_HEADING_3">
+			<Text>Interacting with the Sultans</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_PEDIA_HEADING_4">
+			<Text>Expansion of the Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_PEDIA_HEADING_5">
+			<Text>Death</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_PEDIA_LIVED">
+			<Text>c. approx. 1738 - 1795 AD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_PEDIA_NAME">
+			<Text>Luo Fangbo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_PEDIA_SUBTITLE">
+			<Text>President of the Lanfang Republic</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_PEDIA_TEXT_1">
+			<Text>Luo Fangbo, also known as Low Fan Pak or Low Lan Fang, was a, 18th century Hakka Chinese from Guangdong Province. Luo was considered to be an educated man, skilled in martial arts and admired for his character. However, he was unable to pass the highly competitive Imperial Examinations after several attempts and decided upon a new career path in Borneo. By 1770, the number of Chinese in the area of West Kalimantan had swelled to more than 20,000.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_PEDIA_TEXT_2">
+			<Text>Luo was able to unite enough of his fellow Hakka to form the Lanfang Republic in 1777. With Dutch imperialism encroaching upon Chinese settlements at the time, Luo established the capital at Dong Wan Li (now Mandor, Indonesia) and was elected as the first president by the citizenry. Luo implemented many democratic principles and a comprehensive set of government legislative bodies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_PEDIA_TEXT_3">
+			<Text>As Luo's mining communities expanded into the surrounding area, the Sultans of the island saw an increase in wealth from ceding parts of their territory to the miners. As a result, Sultan Omar of Mempawah decided to inflate his standing and build a grand palace at his capital. This deeply offended Sultan Abdul Rahman of Kuntian, kickstarting a fierce rivalry between the two Muslim leaders.[NEWLINE][NEWLINE]Sultan Abdul negotiated an alliance with Luo, and the two were able to attack and defeat Sultan Omar. Luo's role in the victory raised the profile of the Lanfang Republic, and that of the other kongsi federations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_PEDIA_TEXT_4">
+			<Text>Many smaller kongsi swore allegiance and were integrated into Lanfang, which had become the largest and most powerful of all the republics in the area. Sultan Omar sued for peace with Luo, further expanding Lanfang territory and mining rights of the citizens. As a result of Lanfang's increased prestige, Sultan Abdul also negotiated a favorable deal to become partially subject to the Lanfang government.[NEWLINE][NEWLINE]Luo suddenly had a much larger territory and population to preside over. His fledgling country had become the largest in the region, and controlled mining operations in virtually all of West Borneo. The republic was divided into provinces, counties and townships, and legislative assemblies known as zongtings were established all across the region.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_PEDIA_TEXT_5">
+			<Text>Luo Fangbo served until his death in 1795, at the age of 57. He served as president for 18 years. His successors managed his republic for another 89 years, until 1884 when it was finally subjugated by the Dutch colonial empire.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_LF_LUO_FANGBO_PEDIA_TITLES_1">
+			<Text>President</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="TXT_KEY_TRAIT_LF_KONGSI_FEDERATION">
+			<Text>For every City actively working 3 Mines or Quarries in your Empire, unlock a random Social Policy tree. Once all Social Policy trees have been unlocked, this bonus will provide a random Freedom Tenet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LF_KONGSI_FEDERATION_SHORT">
+			<Text>Kongsi Federation</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LF_KONGSI_FEDERATION_GRANTED_SHORT">
+			<Text>Kongsi adopts new Policy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_LF_KONGSI_FEDERATION_GRANTED_POLTREE">
+			<Text>You have reached the required number of Cities actively working 3 Mines or Quarries! A free Social Policy Tree or Freedom Tenet has been unlocked. The next bonus will be granted at {1_NUM} Cities.</Text>
+		</Row>
+		<!--Units-->
+		<Row Tag="TXT_KEY_UNIT_LF_LANSAAI">
+			<Text>Lansaai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LF_LANSAAI_HELP">
+			<Text>Front-line land Unit of the mid-game. Only Lanfang may build it. Slightly weaker than the base unit, but gains a +50% [ICON_STRENGTH] Combat Strength bonus if within two tiles of a Trade Route. When beginning a turn on a resource improved by a Mine, this unit provides a variety of yields depending on the type of resource.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LF_LANSAAI_STRATEGY">
+			<Text>Lansaai are the Lanfang Unique Unit, replacing the Rifleman. They are slightly weaker than the Rifleman, but gain a +50% [ICON_STRENGTH] Combat Strength bonus when fighting within two tiles of any Trade Route. In addition, the Lansaai may provide a variety of different yields when beginning a turn on a Luxury or Strategic resource that has been improved with a Mine. The valid resources and their yields are as follows:[NEWLINE][NEWLINE][ICON_RES_GOLD] Gold provides two [ICON_GOLD] Gold.[NEWLINE][ICON_RES_SILVER] Silver provides one [ICON_GOLD] and one [ICON_PEACE] Faith.[NEWLINE][ICON_RES_GEMS] Gems provide one [ICON_GOLD] Gold and one [ICON_CULTURE] Culture.[NEWLINE][ICON_RES_SALT] Salt provides one [ICON_FOOD] Food and one [ICON_PRODUCTION] Production.[NEWLINE][ICON_RES_COPPER] Copper provides one [ICON_PRODUCTION] Production and one [ICON_SCIENCE] Science.[NEWLINE][ICON_RES_IRON] Iron provides two [ICON_PRODUCTION] Production.[NEWLINE][ICON_RES_COAL] Coal provides two [ICON_PRODUCTION] Production and one [ICON_GOLDEN_AGE] Golden Age point.[NEWLINE][ICON_RES_ALUMINUM] Aluminum provides three [ICON_PRODUCTION] Production.[NEWLINE][ICON_RES_URANIUM]Uranium provides four [ICON_SCIENCE] Science.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_LF_LANSAAI_TEXT">
+			<Text>Lansaai is a word meaning "gold miners". The gold mines of West Kalimantan in Borneo saw fierce competition between the Malay Sultans, the Chinese Kongsi, and later the Dutch. Miners of the Kongsi were also their main line of defense, and took part in disputes, skirmishes, and all-out conflicts.</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_LF_PROTECT_TRADE">
+			<Text>Protecting Trade</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LF_PROTECT_TRADE_HELP">
+			<Text>+50% Combat Strength from nearby Trade Route</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LF_MINER">
+			<Text>Gold Miner</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_LF_MINER_HELP">
+			<Text>Generates various yields when beginning a turn on a resource improved with a Mine.</Text>
+		</Row>
+		<!--Buildings-->
+		<Row Tag="TXT_KEY_BUILDING_LF_ZONGTING">
+			<Text>Zongting</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LF_ZONGTING_TEXT">
+			<Text>The main body of the kongsi republics was the Zongting (assembly hall), an assembly of delegates representing the constituent kongsi mining communities. The assembly hall exercised both executive and legislative functions. The Zongting had their own courts of law, their own financial systems, minted their own money, levied their own taxes, and maintained a number of treaties with the neighbouring Malay sultanates and Dayak tribes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LF_ZONGTING_STRATEGY">
+			<Text>In addition to the regular abilities of the Forge (+15% [ICON_PRODUCTION] Production when building Land Units, +1 [ICON_PRODUCTION] from sources of [ICON_RES_IRON] Iron), a Zongting has a small chance of building Mines on unimproved tiles along Trade Routes within range of this city. Only Lanfang may build it. Does not require a source of Iron.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LF_ZONGTING_HELP">
+			<Text>Unique Lanfang Forge replacement. A Zongting can build Mines along friendly Trade Routes within range of this city. Does not require a source of Iron to build.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LF_KONGSI_DUMMY">
+			<Text>Lanfang Mines Counter Dummy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_LF_NOTIFICATION_DUMMY">
+			<Text>Lanfang Notification Dummy</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

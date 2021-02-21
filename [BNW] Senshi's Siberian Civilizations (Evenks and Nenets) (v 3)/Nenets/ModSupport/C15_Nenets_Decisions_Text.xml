@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 9/27/2016 11:45:18 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_DECISIONS_C15_NENETS_DEERSTEAL">
+			<Text>Steal Deer from the Rich</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_C15_NENETS_DEERSTEAL_DESC">
+			<Text>
+				The wealthy reindeer breeders of the surrounding lands are cruel and greedy. We should steal some of their deer to teach them a lesson they won't soon forget, and to provide a grand feast for our followers![NEWLINE]
+				[NEWLINE]Requirements:
+				[NEWLINE][ICON_BULLET]Player must be The Nenets
+				[NEWLINE][ICON_BULLET]Must have a [ICON_INTERNATIONAL_TRADE_ROUTE] Trade Route with a [ICON_CITY_STATE] City-State
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]-30 [ICON_INFLUENCE] Influence with a random [ICON_CITY_STATE] City-State you're trading with
+				[NEWLINE][ICON_BULLET]Has a chance to declare war on this [ICON_CITY_STATE] City-State
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]One [ICON_RES_DEER] Deer resource is spawned in your lands.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_C15_NENETS_DEERSTEAL_DESC_ENACTED">
+			<Text>Requirements:
+				[NEWLINE][ICON_BULLET]Player must be The Nenets
+				[NEWLINE][ICON_BULLET]Must have a [ICON_INTERNATIONAL_TRADE_ROUTE] Trade Route with a [ICON_CITY_STATE] City-State
+				[NEWLINE][ICON_BULLET]May only be enacted once per era
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]One [ICON_RES_DEER] Deer resource is spawned in your lands.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_C15_NENETS_MYA">
+			<Text>Develop the Mya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_C15_NENETS_MYA_DESC">
+			<Text>
+				The climates of the Arctic Circle are increasingly harsh for our people! The development of a warm tent from the hides of our beloved deer could provide some much needed shelter for them.[NEWLINE]
+				[NEWLINE]Requirements:
+				[NEWLINE][ICON_BULLET]Player must be The Nenets
+				[NEWLINE][ICON_BULLET]Player must have researched Trapping
+				[NEWLINE][ICON_BULLET]May only be enacted once per game
+				[NEWLINE]Costs:
+				[NEWLINE][ICON_BULLET]{1_Cost} [ICON_RESEARCH] Science
+				[NEWLINE][ICON_BULLET]1 Magistrate
+				[NEWLINE]Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_PRODUCTION] Production on Snow and Tundra tiles
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DECISIONS_C15_NENETS_MYA_DESC_ENACTED">
+			<Text>
+				Rewards:
+				[NEWLINE][ICON_BULLET]+1 [ICON_PRODUCTION] Production on Snow and Tundra tiles
+			</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

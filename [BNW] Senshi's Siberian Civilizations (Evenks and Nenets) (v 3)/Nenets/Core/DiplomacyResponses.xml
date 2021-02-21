@@ -1,0 +1,22 @@
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_SENSHI_VAVLYO">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_VAVLYO_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_SENSHI_VAVLYO">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_SENSHI_VAVLYO_DEFEATED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<!--General phrases -->
+		<!--Greeting (first time meeting) -->
+		<Row Tag="TXT_KEY_LEADER_SENSHI_VAVLYO_FIRSTGREETING_1">
+			<Text>I am Vavlyo Neniang, shaman of these lands. Ah, a foreign leader? Excellent! Your deer should provide an excellent feast once we relieve you of them.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_VAVLYO_DEFEATED_1">
+			<Text>You may have the power to destroy my lands, slaughter my people and take my deer, but you will NEVER break my spirit!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

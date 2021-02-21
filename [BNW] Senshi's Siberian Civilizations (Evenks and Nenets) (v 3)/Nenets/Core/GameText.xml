@@ -1,0 +1,236 @@
+﻿<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NENETS_01">
+			<Text>Nyar'yana Marq</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NENETS_02">
+			<Text>Salya' Harad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NENETS_03">
+			<Text>Iskateley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NENETS_04">
+			<Text>Amderma</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NENETS_05">
+			<Text>Yar-Sale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NENETS_06">
+			<Text>Saneroyaha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NENETS_07">
+			<Text>Vaigach</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NENETS_08">
+			<Text>Muravlen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NENETS_09">
+			<Text>Ustkara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NENETS_10">
+			<Text>Baidarata</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NENETS_11">
+			<Text>Kharuta</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NENETS_12">
+			<Text>Aksarka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NENETS_13">
+			<Text>Naidem</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NENETS_14">
+			<Text>Khalmersede</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NENETS_15">
+			<Text>Erv</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NENETS_16">
+			<Text>Karataika</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NENETS_17">
+			<Text>Varandey</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NENETS_18">
+			<Text>Khoreiver</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NENETS_19">
+			<Text>Kharyagin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SENSHI_NENETS_20">
+			<Text>Bugrino</Text>
+		</Row>
+
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_NENETS_0">
+			<Text>Tyko</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_NENETS_1">
+			<Text>Nerkagi</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_NENETS_2">
+			<Text>Pankov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_NENETS_3">
+			<Text>Yurii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_NENETS_4">
+			<Text>Togompada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_NENETS_5">
+			<Text>Magari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_NENETS_6">
+			<Text>Motti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_NENETS_7">
+			<Text>Nacahevskii</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_NENETS_8">
+			<Text>Kharyutchi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SENSHI_NENETS_9">
+			<Text>Tepki</Text>
+		</Row>
+
+		<!--Demonyms-->
+		<Row Tag="TXT_KEY_CIV_SENSHI_NENETS_ADJECTIVE">
+			<Text>Nenetsi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_NENETS_DESC">
+			<Text>The Nenets</Text>
+			<Plurality>2</Plurality>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_SENSHI_NENETS_SHORT_DESC">
+			<Text>The Nenets</Text>
+			<Plurality>2</Plurality>
+		</Row>
+
+		<!--DoM-->
+		<Row Tag="TXT_KEY_CIV5_DOM_SENSHI_VAVLYO_TEXT">
+			<Text>Vavlyo Neniang! Your name echoes through the tundra and into the hearts of your people! A powerful shaman of the Nenets Neniang clan, you led a group of Nenetsi and Khanty in a time of hardship to revolt against the tyranny of the Russians. Your just revolution was greatly successful, rallying your followers into an organised force, raiding the rich and using their fattened reindeer to feed the needy. While you were eventually tricked into capture and exiled, the Russians could do nothing to break your everlasting spirit![NEWLINE][NEWLINE]Wise and powerful shaman, your people call out across the snow to you once more! Will you lead the Nenets on the path of glory and righteousness? Will you build a civilization to stand the test of time?</Text>
+		</Row>
+
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NENETS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NENETS_TEXT_1">
+			<Text>The Nenets, also known as the Samoyeds, are an indigenous people in northern arctic Russia. According to the latest census in 2010, there are 44,857 Nenets in the Russian Federation, most of them living in the Yamalo-Nenets Autonomous Okrug and Nenets Autonomous Okrug. They speak either the Tundra or Forest varieties of Nenets. The literal morphs samo and yed in Russian convey the meaning "self-eater", which appears as derogatory. Therefore, the name Samoyed quickly went out of usage in the 20th century, and the people bear the name of Nenets, which means "man".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NENETS_HEADING_2">
+			<Text>Geography and Climate</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NENETS_TEXT_2">
+			<Text>The arctic ecology of the Nenets Autonomous Okrug has a number of unique features derived from the extreme temperatures and unique geologic province. Polar bears are found in this locale; in fact, the sub-population found here is a genetically distinct taxon associated with the Barents Sea region. The autonomous okrug has a size of approximately 177,000 km2, more than four times the size of Switzerland. The district is around 320 km from north to south and around 950 km from east to west, stretching from Mys Bolvansky Nos in the north to the source of the Oma River in the south and Cape Kanin Nos in the west to the banks of the Kara River in the east. The region has a subarctic climate with short, mild summers that may exceed +25 °C (77 °F) and very cold winters. Precipitation is somewhat greater in summer than in winter.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NENETS_HEADING_3">
+			<Text>Language</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NENETS_TEXT_3">
+			<Text>The Nenets language is on the Samoyedic branch of the Uralic language family, with two major dialects, Forest Nenets and Tundra Nenets. Between 26,500 and 27,000 people in Siberia speak the language. Ethnalogue cites that in Siberia, Russian Federation, most young people are still fluent in Nenets, whereas in the European areas they tend to speak Russian. Overall, the majority of speakers are from older generations. UNESCO classifies it as an endangered language. There are two distinct groups of Nenets based on their economy: the Tundra Nenets (living far to the north) and the Khandeyar or Forest Nenets. A distinct third group of Nenets (Yaran people) has emerged as a result of intermarriages between Nenets and the Izhma tribe of the Komi peoples.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NENETS_HEADING_4">
+			<Text>Early History and Lifestyle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NENETS_TEXT_4">
+			<Text>The Nenets moved (from farther south in Siberia) to the northernmost part of what later became Russia before the 12th century. They ended up between the Kanin and Taymyr peninsulas, around the Ob and Yenisey rivers, with only a few of them settling into small communities like Kolva. Their main subsistence comes from hunting and reindeer herding. Using reindeer as a draft animal throughout the year enables them to cover great distances. Large-scale reindeer herding emerged in the 18th century. They bred the Samoyed dog to help herd their reindeer and pull their sleds, and European explorers later used those dogs for polar expeditions, because they have adapted so well to the arctic conditions. Tundra wolves can be a source of considerable economic loss, as they prey on the reindeer herds which are the livelihood of some Nenets families. Along with reindeer meat, fish is a major component in the Nenets' diet. Nenets housing is conical yurt(mya). They had a shamanistic and animistic belief system which stresses respect for the land and its resources, and a clan-based social structure. The Nenets shaman is called a Tadibya.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NENETS_HEADING_5">
+			<Text>Post Russian Revolution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_SENSHI_NENETS_TEXT_5">
+			<Text>After the Russian Revolution, their culture suffered due to Soviet collectivization policy. The government of the Soviet Union tried to force the nomadic Nenets to become sedentary. They were forced to settle in villages and their children were educated in state boarding schools, which resulted in erosion of their cultural identity. Many, especially in the Nenets Autonomous Okrug lost their mother tongue and became assimilated. Since the 1930s, a few Nenets have come to express themselves through professionalized cultural media. For instance, Tyko Vylka and Konstantin Pankov became well-known painters. Anna Nerkagi is one of the most celebrated Nenets writers. Yuri Vella, though living as a reindeer herder, has become the first writer in the Forest Nenets language. Environmental damage to the Nenets' ancestral land is significant due to industrialization of their land, colonization and climate change. Because of the expansive gas and oil industry, reindeer pastures are shrinking, and some regions, such as the Yamal Peninsula are overgrazed, further endangering the Nenets way of life. It is documented that global warming and climate change affect nomadic Nenets reindeer herders, as certain lands they need to cross to follow migration patterns are only accessible during winter. Earlier spring melts compounded by delayed autumn freeze, affect the reindeer and herders’ ability to traverse the frozen tundra. The Arkhangelsk-based medical doctor, Leonid Zubov, has documented how this disables Nenets peoples access to medical facilities, causing them to wait until the next snow season for medical attention.</Text>
+		</Row>
+
+		<!--Leader-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_VAVLYO_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_VAVLYO_TEXT_1">
+			<Text>Vavlyo Neniang, also known as Vauli Piettomin, was a Nenets shaman who led a combined group of Nenets and Khanty against the Russians.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_VAVLYO_HEADING_2">
+			<Text>Movement and First Capture</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_VAVLYO_TEXT_2">
+			<Text>Vavlyo, a talented, powerful, and dynamic shaman of the Neniang (literally "mosquito") clan, organized Nenets followers to make Robin Hood-like raids on huge herds of reindeer owned by the wealthy reindeer breeders in the Obdorsk region. It was a time of hardship, when famine and forest fires left many families poor and some facing starvation. At first, Vavlyo and his fiery brother Togompada attracted followers from related Nenets clans. They also gained Khanty adherents, including some who threatened to kill the Russians for pressuring them to become Russian Orthodox. As Vavlyo’s raids became increasingly successful, with deer and valuable furs being redistributed among followers, incensed Nenets and Khanty mobilized in opposition. Some Northern Khanty were readily attracted to Vavlyo’s growing wealth and power. Opposition to him centered around the Obdorsk Khanty "prince" Taishin and members of the Khudi clan of Nenets. In 1839, a plot to lure Vavlyo into arrest succeeded, when he and a few followers were surrounded in the tundra as they attempted to "liberate" a hundred reindeer from Khozobyko Khudi. Vavlyo and his friend Magari Vaitin were taken to the Obdorsk prison, then handed over to Russian authorities by Taishin. A special Berezovo tribunal sentenced Vavlyo and Magari each to twenty lashes with a knout and a year’s hard labor, with subsequent exile in the Surgut region. A higher Tobolsk court intervened, requesting that the governor himself sentence Vavlyo and Magari. The two were finally sent to Surgut, where they began working for a local trader, Nikifor Silin. Not long after, they escaped, taking with them a small boat laden with trade goods.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_VAVLYO_HEADING_3">
+			<Text>Post-Return</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_VAVLYO_TEXT_3">
+			<Text>Vavlyo returned to the Obdorsk tundra, where he gathered more followers than ever before. He claimed that during his absence he spoked to the White Tsar, who restored his freedom. Followers began to look at him like some "superior being", particularly because of his shamanic character and rank. Vavlyo was intent on revenge against three established figures of authority: the Khanty leader Taishin, the allegedly corrupt Russian judge at Obdorsk, Sokolov, and the police chief Skorniakov. Vavlyo ordered all loyal natives to withhold their fur tax until the Russian judge at Obdorsk was removed. He also gathered large numbers of families into a single camp. He continued to encourage poorer followers to appropriate reindeer from wealthy breeders. In 1840, at the height of his power, Vavlyo had an impressive circle of four hundred tents in his camp. His popularity was enormous, with rumors of his physical and charismatic prowess spreading throughout the land. His chief aides were still members of his own family and clan: his partner-in-exile, Magari Vaitin, his brother, Togompada, and his uncle Motti Task.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_VAVLYO_HEADING_4">
+			<Text>Advance on Obdorsk</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_VAVLYO_TEXT_4">
+			<Text>When Vavlyo’s forces were strong enough, they approached Obdorsk during the January market of 1841. Vavlyo told his followers, armed with flintlock guns, rifles, spears, arrows, and knives, that their pressure could lower the prices of Russian trade goods, increase the value of native furs, and force Taishin to abdicate or to distribute government supplies of grain. When news of Vavlyo’s advance reached Obdorsk and Berezovo, many merchants fled, while frightened Russian inhabitants surrounded their homes with "every available defense". Panicky rumors spread that Vavlyo’s camp had as many campfires "as the stars in the sky" and as many lances "as trees in the forest". Obdorsk itself was poorly fortified, with only a small garrison of Cossacks, many of whom had become traders unaccustomed to police or military duties. Reinforcements were called from Berezovo, and an emergency council of merchants, Russian officials, and a few native elders, including Taishin, developed a plan to lure Vavlyo into Obdorsk without his full retinue. Key actors in the plan were the Nenets-speaking merchant Nikolai Nachaevskii (a trading partner of Vavlyo) and Taishin himself. Vavlyo and a band of four hundred to six hundred men were camped near Obdorsk. The group included the extended family and followers of a Khanty reindeer breeder named Yaptika Murzin, who Vavlyo wanted to place in Taishin’s position as primary elder and middleman for native relations with the Russians. On the encouragement of trader Nachaevskii, Vavlyo sent for Taishin, who arrived at Vavlyo’s camp on the thirteenth of January, with about ten elders. Taishin agreed to give up his "princely" inherited position to Yaptika Murzin, if Vavlyo would halt his advance on Obdorsk. He was to enter the town with only a few followers, in order to clinch the transfer of power. Vavlyo, suspecting danger, sent a small advance guard with at least one Russian-speaking Nenets into Obdorsk to learn of plots against him. Hearing nothing, he decided to risk a visit to Taishin. Taking only forty men, with sleds laden with guns under the furs, Vavlyo arrived at a government grain store, where he met Taishin. They proceeded to Taishin’s house, where a prominent group of Nenets and Khanty elders agreed to redistribute hundreds of reindeer and three hundred pounds of grain. Meanwhile, the house was surrounded by Cossacks and Obdorsk merchants, some disguised as Khanty. The police chief Skorniakov burst in and managed during a scuffle, to secure a few of Vavlyo’s men. Vavlyo escaped to the street but was caught and beaten up soon after. The rest of the retinue mingled with Obdorsk Khanty who were willing to shelter them. By daybreak, many escaped.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_VAVLYO_HEADING_5">
+			<Text>Post-Arrest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_VAVLYO_TEXT_5">
+			<Text>Berezovo Cossack reinforcements, arriving after Vavlyo’s arrest, staged a jubilant parade through Obdorsk. Skorniakov, concerned about rescue attempts, then had the Cossacks escort Vavlyo and his four arrested followers to prison in Berezovo. A local Russian blacksmith was commissioned to forge special irons to fetter Vavlyo. A special governor’s commission, headed by the governor’s adjutant Count Tolstoi, was sent to Obdorsk to investigate the uprising. Vavlyo was eventually sentenced to prison and hard labor in East Siberia. In Saint Petersburg, War Minister Chernyshev and Tsar Nicholas I were apprised of Obdorsk’s danger before Vavlyo’s arrest and of his successful imprisonment. Primary figures in Vavlyo’s demise, including Skorniakov and Nachaevskii, received medals from St. Petersburg. Taishin was summoned to Saint Petersburg, where he met the Tsar, received lavish gifts, and was awarded a gold medal "for bravery". Vavlyo was never to return from Eastern Siberia, presumably dying there.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_VAVLYO_HEADING_6">
+			<Text>Judgement of History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_VAVLYO_TEXT_6">
+			<Text>Vavlyo Neniang was talented and charismatic enough to gather a large group of followers to conduct raids on wealthy reindeer breeders and to attempt an assault on Obdorsk. Though his plans ended in failure, Vavlyo would be remembered by his followers as a hero with shamanic powers. The rich natives and Russians may have despised him, but the poor Khanty and Nenets were grateful for his leadership.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_VAVLYO_LIVED">
+			<Text>Early-Mid 19th century</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_VAVLYO_NAME">
+			<Text>Vavlyo Neniang</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_VAVLYO_SUBTITLE">
+			<Text>Shaman Leader of the Nenets Uprising</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_SENSHI_VAVLYO">
+			<Text>Vavlyo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_SENSHI_VAVLYO_TITLES_1">
+			<Text>Shaman, Rebel Leader</Text>
+		</Row>
+
+		<!--Unique Ability-->
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_SAMBADABTS_SHORT">
+			<Text>Sambadabts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_SENSHI_SAMBADABTS">
+			<Text>Each source of [ICON_RES_DEER] Deer worked by a city provides +1 [ICON_PEACE] Faith and causes one unfilled Great Work of Music slot to act as if it were filled. Over time, sources of [ICON_RES_DEER] Deer may appear on Snow or Tundra tiles within your territory.</Text>
+		</Row>
+
+		<!--Unique Unit-->
+		<Row Tag="TXT_KEY_UNIT_SENSHI_TADIBYA">
+			<Text>Tadibya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_TADIBYA_STRATEGY">
+			<Text>Unlike the Great Musician which it replaces, the Tadibya may not be expended for a Great Work of Music. Has the ability to either spawn a source of Deer within your territory, preform a Musical Tour or spread Religion up to three times (unit is expended when undertaking any of these actions).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_TADIBYA_HELP">
+			<Text>Unlike the Great Musician which it replaces, the Tadibya may not be expended for a Great Work of Music. Has the ability to either spawn a source of Deer within your territory, preform a Musical Tour or spread Religion up to three times (unit is expended when undertaking any of these actions).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_SENSHI_TADIBYA_TEXT">
+			<Text>The Tadibya was the Nenetsi equivalent of a shaman. They were seen as mediators between the physical world and the worlds of the spirits, both the upper- and underworlds. The tadibyas were ranked with specific names depending on their power and purpose. Three major tadibya ranks were the Vidutana, shamans in contact with the upper world, the Yanyani, shamans in contect with the earth, and Sambana, shamans able to contact the dead, and who were expected to perform rituals involving the deceased.</Text>
+		</Row>
+		<!--Unique Unit-->
+		<Row Tag="TXT_KEY_UNIT_SENSHI_SAMOYED">
+			<Text>Samoyed Sled</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_SAMOYED_STRATEGY">
+			<Text>Weaker than the Horseman, which it replaces, the Samoyed Sled does not require Horses and is available earlier, at Animal Husbandry. May be expended to build a Camp or Trading Post, regardless of technology prerequisites. Never obsoletes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SENSHI_SAMOYED_HELP">
+			<Text>Weaker than the Horseman, which it replaces, the Samoyed Sled does not require Horses and is available earlier, at Animal Husbandry. May be expended to build a Camp or Trading Post, regardless of technology prerequisites. Never obsoletes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_SENSHI_SAMOYED_TEXT">
+			<Text>Near Salekhard (formerly called Obdorsk) and Labytnangy, dogs are seen everywhere. The majority of these dogs are pulling sleds in the winter, but in the summer they are allowed to wander free. They are not fed regularly and always looking for food. They chase anything trying to catch but reindeer. Their typical prey includes lemmings, voles and other rodents. Arctic fox and Arctic hare venturing close enough are always chased and sometimes make a meal of by the dogs. Nenets and Khanty people treat their dogs well. The typical number of dogs per household ranges from one to five. Nenets and Khanty allow their dogs inside their chum (a teepee-like conical house made of wooden poles and deer skins). During meal time dogs form a second circle behind people's backs. Occasionally, bones or pieces of fish are tossed for the dogs. Dogfights over the food are common even inside the chum, but people just laugh and do not intervene. Overnight dogs are allowed to stay inside and sleep with people keeping each other warm. Nenets highly value their adult dogs, but a puppy can be obtained at no cost or traded for a bottle of vodka.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

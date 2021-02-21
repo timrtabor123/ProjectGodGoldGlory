@@ -1,0 +1,28 @@
+<GameData>
+	<Language_en_US>
+		<!--Heads of Govt.-->
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_NENETS">
+			<Text>Governor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_NENETS_1">
+			<Text>Igor Fyodorov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_NENETS_2">
+			<Text>Igor Koshin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_NENETS_3">
+			<Text>Iouri Neiolov</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_NENETS_4">
+			<Text>Dmitry Kobylkin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_JFD_HEAD_OF_GOVERNMENT_TITLE_CIVILIZATION_SENSHI_NENETS_5">
+			<Text>Valery Potapenko</Text>
+		</Row>
+		<!--RYOGA UNIQUE CULTURAL INFLUENCE-->
+		<Row Tag="TXT_KEY_GENERIC_SENSHI_NENETS_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are bashing hide drums all night and my local deli now only sells venison! I pray to the sky god Num that the rest of the world does not succumb to the influence of your culture.</Text>
+		</Row>
+		<!--E&D-->
+	</Language_en_US>
+</GameData>

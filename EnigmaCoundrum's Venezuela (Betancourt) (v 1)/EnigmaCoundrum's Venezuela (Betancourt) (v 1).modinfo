@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="798b4aaa-b3e3-4021-909f-9278d2a2f2c1" version="1">
+  <Properties>
+    <Name>EnigmaCoundrum's Venezuela (Betancourt)</Name>
+    <Teaser>Adds the Republic of Venezuela under Romulo Betancourt to the game!</Teaser>
+    <Description>Adds the Republic of Venezuela under Romulo Betancourt to the game!</Description>
+    <Authors>EnigmaConundrum, JFD, DarthKyofu, Senshi, Alga, Zharques, Sas</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="d1b6328c-ff44-4b0d-aad7-c657f83610cd" minversion="0" maxversion="999" title="Community Patch" />
+    <Mod id="31a31d1c-b9d7-45e1-842c-23232d66cd47" minversion="0" maxversion="999" title="JFD's Cultural Diversity (Core)" />
+    <Mod id="36e88483-48fe-4545-b85f-bafc50dde315" minversion="0" maxversion="999" title="Yet (not) Another Earth Maps Pack" />
+    <Mod id="ce8aa614-7ef7-4a45-a179-5329869e8d6d" minversion="0" maxversion="999" title="Pouakai's Enlightenment Era" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="4DB36CD48A869F0EFA537E4C98AED802" import="1">Art/Graphics/Beauty Queen/sv_BeautyQueen.dds</File>
+    <File md5="6C8279CBF44A30825FAB5C9D4F3AA2C8" import="1">Art/Icons/EC_VenezuelaBetancourt_AlphaAtlas_128.dds</File>
+    <File md5="DFA22D6B2041FABDB8B5A9FB7E4AADC1" import="1">Art/Icons/EC_VenezuelaBetancourt_AlphaAtlas_16.dds</File>
+    <File md5="0835A5419B2B9BEA766818394CFCCB56" import="1">Art/Icons/EC_VenezuelaBetancourt_AlphaAtlas_24.dds</File>
+    <File md5="DFCCDA26F0EB8666B88B4FE544B5C5A7" import="1">Art/Icons/EC_VenezuelaBetancourt_AlphaAtlas_256.dds</File>
+    <File md5="36873BC1909161BFBAD8F13637248947" import="1">Art/Icons/EC_VenezuelaBetancourt_AlphaAtlas_32.dds</File>
+    <File md5="FE7B5D9633D911D6E0C524FB0FDFEEA3" import="1">Art/Icons/EC_VenezuelaBetancourt_AlphaAtlas_45.dds</File>
+    <File md5="1D28DE3BFF494C33747B891A6C1BDD2D" import="1">Art/Icons/EC_VenezuelaBetancourt_AlphaAtlas_48.dds</File>
+    <File md5="A30C36AFFCF1DE5336DECDD0F910FCB9" import="1">Art/Icons/EC_VenezuelaBetancourt_AlphaAtlas_64.dds</File>
+    <File md5="5FD8C16C084076811E90E56216C0A7B0" import="1">Art/Icons/EC_VenezuelaBetancourt_AlphaAtlas_80.dds</File>
+    <File md5="8D9B64108683A011CF3143283BB134C7" import="1">Art/Icons/EC_VenezuelaBetancourt_IconAtlas_128.dds</File>
+    <File md5="5E27FF0FC0DED60A74C41D343C9A7073" import="1">Art/Icons/EC_VenezuelaBetancourt_IconAtlas_256.dds</File>
+    <File md5="23F164501B036104C5020B6093F1EB9C" import="1">Art/Icons/EC_VenezuelaBetancourt_IconAtlas_32.dds</File>
+    <File md5="56097CEBC8500E2BBDF6291301B2ACD5" import="1">Art/Icons/EC_VenezuelaBetancourt_IconAtlas_45.dds</File>
+    <File md5="ABC2DFBE3FFD2165AF16A46C94211EB7" import="1">Art/Icons/EC_VenezuelaBetancourt_IconAtlas_64.dds</File>
+    <File md5="FC7DEC2666267A98EE96D917BCA3ED00" import="1">Art/Icons/EC_VenezuelaBetancourt_IconAtlas_80.dds</File>
+    <File md5="61CA49D72E5DCAE121000590EB3F17F8" import="1">Art/Icons/EC_VenezuelaBetancourt_UnitFlagAtlas_32.dds</File>
+    <File md5="961E6A58F7101D3EB8F9673AAE470FFC" import="1">Art/Leaderscene/EC_VenezuelaBetancourt_Diplo.dds</File>
+    <File md5="BC1A504DA07092B2D82535FB4AB3CD75" import="1">Art/Leaderscene/EC_VenezuelaBetancourt_Scene.xml</File>
+    <File md5="CFA4D2F6B0D3CA5E0B81764BC3AA3821" import="1">Art/Maps/DOM_VenezuelaBetancourt.dds</File>
+    <File md5="53B0C4C1D5CBEB5DA1B34B309FFE25D6" import="1">Art/Maps/MapVenezuelaBetancourt512.dds</File>
+    <File md5="25C9AD462AAC4E9AC1A02E81883B136F" import="1">Audio/EC_VenezuelaBetancourt_Peace.mp3</File>
+    <File md5="0AFBCF4AD21176A24200315024672826" import="1">Audio/EC_VenezuelaBetancourt_War.mp3</File>
+    <File md5="C600DC9F4F8634E0B71A1C9E0F5BABF8" import="0">Core/VenezuelaBetancourt_ArtDefines.sql</File>
+    <File md5="8E3F1BA98F3C4E5637699F46BF4A3794" import="0">Core/VenezuelaBetancourt_GameDefines.sql</File>
+    <File md5="A8E6DEA84EF886846D94AE57C4146D54" import="0">Core/VenezuelaBetancourt_GameText.xml</File>
+    <File md5="8914AB07E8A8B1D3EDADEE25F834ADE8" import="0">Core/VenezuelaBetancourt_ModSupport.sql</File>
+    <File md5="7FD8FC395DB10E6AE649914FF7DDE070" import="0">Credits.txt</File>
+    <File md5="AC3374870A5416FACE378C0D1E69DC39" import="0">Lua/EC_Civs_VenezuelaBetancourt_Functions.lua</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Core/VenezuelaBetancourt_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/VenezuelaBetancourt_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>Core/VenezuelaBetancourt_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>Core/VenezuelaBetancourt_ModSupport.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/EC_Civs_VenezuelaBetancourt_Functions.lua">
+      <Name>EC_Civs_VenezuelaBetancourt_Functions.lua</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,61 @@
+-- Credits
+-- Author: JFD
+-- DateCreated: 1/6/2018 1:43:31 PM
+----------------
+EnigmaConundrum: 
+----------------
+	Author
+	Design 
+----------------
+JFD: 
+----------------
+	Author
+	Coding 
+	Research 
+	Writing
+----------------
+Darth: 
+----------------
+	Art (Civ Icon)
+----------------
+Rawsasquatch: 
+----------------
+	Art (Leaderscene; LeaderIcon; Unique Icons)
+----------------
+Senshi: 
+----------------
+	Art (Map)
+----------------
+Zharques: 
+----------------
+	Pedias
+	Writing
+----------------
+Civitar and embryodead: 
+----------------
+	Graphics (Unit Model)
+	https://forums.civfanatics.com/resources/afghanistani-camel-gunners.22906/
+----------------
+Whoward:
+----------------
+	Utilities (PlotIterators.lua)
+	https://forums.civfanatics.com/threads/border-and-area-plot-iterators.474634/
+----------------
+Cimarrón: 
+----------------
+	Music (War)
+	https://youtu.be/MCE3MLtcZKI
+----------------
+John Williams: 
+----------------
+	Music (Peace)
+	https://youtu.be/VQkzba7xRhs
+----------------
+Wikipedia.com: 
+----------------
+	Pedias (Uniques)
+	https://en.wikipedia.org/wiki/Ahmad_Shah_Durrani
+	https://en.wikipedia.org/wiki/Divan
+	https://en.wikipedia.org/wiki/Jezail?wprov=srpw1_0
+--------------------------------------------------------------
+--------------------------------------------------------------

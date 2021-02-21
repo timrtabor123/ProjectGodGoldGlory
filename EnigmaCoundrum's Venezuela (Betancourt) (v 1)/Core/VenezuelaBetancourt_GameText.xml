@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--CIVILIZATION-->
+		<Row Tag="TXT_KEY_CIV_EC_VENEZUELA_BETANCOURT_ADJECTIVE">
+			<Text>Venezuelan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_EC_VENEZUELA_BETANCOURT_DESC">
+			<Text>Venezuelan Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_EC_VENEZUELA_BETANCOURT_SHORT_DESC">
+			<Text>Venezuela</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_HEADING_1">
+			<Text>Pre-Colombian Period</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_TEXT_1">
+			<Text>Evidence of the earliest known inhabitants of the Venezuelan area comes in the form of of leaf-shaped flake tools, together with chopping and plano-convex scraping implements exposed on the high riverine terraces of the Pedregal River in western Venezuela. Late Pleistocene hunting artifacts, including spear tips, come from a similar site in northwestern Venezuela known as El Jobo. According to radiocarbon dating, these date from 15,000 to 9,000 B.P. Pre-Columbian Venezuela had an estimated population of one million. In addition to indigenous peoples known today, the population included historic groups such as the Kalina (Caribs), Caquetio, Auaké, Mariche, and Timoto-Cuicas. The Timoto-Cuica culture was the most complex society in Pre-Columbian Venezuela; with pre-planned permanent villages, surrounded by irrigated, terraced fields and with tanks for water storage.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_HEADING_2">
+			<Text>Columbus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_TEXT_2">
+			<Text>Christopher Columbus sailed along the eastern coast of Venezuela on his third voyage in 1498, the only one of his four voyages to reach the South American mainland. This expedition discovered the so-called "Pearl Islands" of Cubagua and Margarita off the northeastern coast of Venezuela. Later Spanish expeditions returned to exploit these islands' abundant pearl oysters, enslaving the indigenous people of the islands and harvesting the pearls intensively. They became one of the most valuable resources of the incipient Spanish Empire in the Americas between 1508 and 1531, by which time the local indigenous population and the pearl oysters had been devastated. The second Spanish expedition, led by Alonso de Ojeda, sailing along the length of the northern coast of South America in 1499, gave the name Venezuela ("little Venice" in Spanish) to the Gulf of Venezuela, because of its perceived similarity to the Italian city. Spain's colonization of mainland Venezuela started in 1502. Spain established its first permanent South American settlement in what became the city of Cumaná. At the time of the Spanish arrival, indigenous people lived mainly in groups as agriculturists and hunters.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_HEADING_3">
+			<Text>The Spanish Empire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_TEXT_3">
+			<Text>By the middle of the 16th century not many more than 2,000 Europeans lived in present-day Venezuela. The opening of gold mines at Yaracuy led to the introduction of slavery, at first involving the indigenous population, then imported Africans. The first real economic success of the colony involved the raising of livestock, much helped by the grassy plains known as Llanos. During the 16th and 17th centuries the cities which constitute today's Venezuela suffered relative neglect. The Viceroyalties of New Spain and Peru (located on the sites formerly occupied by the capital cities of the Aztecs and Incas respectively) showed more interest in their nearby gold- and silver-mines than in the remote agricultural societies of Venezuela. Responsibility for the Venezuelan territories shifted between the two Viceroyalties, until the establishment of the Viceroyalty of New Granada. Venezuela had more contacts with Europe through the British and French islands in the Caribbean.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_HEADING_4">
+			<Text>Fight for Independence</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_TEXT_4">
+			<Text>Some Venezuelans began to grow resistant to colonial control towards the end of the eighteenth century. Spain's neglect of its Venezuelan colony contributed to Venezuelan intellectuals' increased zeal for learning. The colony had more external sources of information than other more "important" Spanish dependencies, not excluding the viceroyalties. The first organized conspiracy against the colonial regime in Venezuela occurred in 1797, organized by Manuel Gual and José María España. It took direct inspiration from the French Revolution, but was put down with the collaboration of the "mantuanos" because it promoted radical social changes. The general Francisco de Miranda hero of French Revolution has long been associated with the struggle of the Spanish colonies in Latin America for independence. Miranda envisioned an independent empire consisting of all the territories that had been under Spanish and Portuguese rule, stretching from the Mississippi River to Cape Horn. This empire was to be under the leadership of a hereditary emperor called the "Inca", in honor of the great Inca Empire, and would have a bicameral legislature. He conceived the name Colombia for this empire, after the explorer Christopher Columbus. With informal British help, general Miranda led an attempted invasion of the Captaincy General of Venezuela in 1804. At the time, Britain was at war with Spain, an ally of Napoleon. In November 1805, Miranda travelled to New York, where privately began organizing a filibustering expedition to liberate Venezuela. Miranda hired a ship of 20 guns, which he rebaptized Leander in honor of his oldest son, and set sail to Venezuela on 2 February 1806 but failed in an attempt of landing in Ocumare de la Costa. The Venezuelan War of Independence ensued. It ran concurrently with that of New Granada. The First Republic of Venezuela was lost in 1812 following the 1812 Caracas earthquake and the Battle of La Victoria.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_HEADING_5">
+			<Text>Gran Colombia and subsequent independence as Venezuela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_TEXT_5">
+			<Text>Bolívar arrived in Cartagena and was well received, as he was later in Bogotá, where he joined the army of the United Provinces of New Granada. He recruited a force and invaded Venezuela from the southwest by crossing the Andes (1813). His chief lieutenant was the headstrong José Félix Ribas. In Trujillo, an Andean province, Bolívar emitted his infamous Decree of War to the Death with which he hoped to get the pardos and any mantuano who was having second thoughts on his side. In November 1823 José Antonio Páez, a Bolivarian general, occupied Puerto Cabello, the last Royalist stronghold in Venezuela. In Venezuela, nominally a province of Gran Colombia, José Antonio Páez, initiated the separation of Venezuela in 1826. Bolívar returned post-haste to Bogotá, where vice-president Santander complained about Venezuelan insubordination. Bolívar traveled to Caracas and seemingly put Páez in his place. In 1828, in view of the political opposition he faced, both in Venezuela and in New Granada, and because his Great Colombia had started to disintegrate, Bolívar named himself dictator. He escaped an assassination attempt with the help of his mistress, Manuela Saenz. After the resignation of Bolivar in 1830, Páez declared the second independence of Venezuela.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_HEADING_6">
+			<Text>Oil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_TEXT_6">
+			<Text>It did not take much geological expertise to know that Venezuela had large petroleum deposits, because the petroleum oozed out from seeps all over the country and an asphalt lake had formed naturally. Venezuelans themselves had tried to extract oil for a small hand-pumped refinery early in the 20th century. When word spread internationally of Venezuela's oil potential, representatives of large foreign companies came to the country and started lobbying for rights of exploration and exploitation, and Juan Vicente Gómez, who had seized power, established the concessionary system.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_HEADING_7">
+			<Text>El Trienio Adeco, years of dictatorship </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_TEXT_7">
+			<Text>El Trienio Adeco was a three-year period in Venezuelan history, from 1945 to 1948, under the government of the popular party Democratic Action. The party gained office via the 1945 Venezuelan coup d'état against President Isaías Medina Angarita, and held the first democratic elections in Venezuelan history. The 1947 Venezuelan general election saw Democratic Action formally elected to office, but it was removed from office shortly after in the 1948 Venezuelan coup d'état. There was no particular incident that set off the bloodless 1948 coup. Venezuela saw ten years of military dictatorship from 1948 to 1958. Pérez Jiménez outlawed political activity, crushed the labour movement, closed down the universities, and muzzled the press. Democratic Action’s nationwide reform programs were abandoned in favour of modernizing Caracas and enriching the dictator and his army associates. Finally, popular opposition grew so great that the navy and air force joined to overthrow Pérez Jiménez in January 1958. A civilian-military junta ran the country for one year, after which Rómulo Betancourt was elected president. The second Betancourt administration (1959–64) was considerably more moderate than the first. This time Democratic Action, in contrast to its earlier exclusivism, cooperated with the next largest faction, the middle-of-the-road Christian Democrats (Social Christian Party), and set up a coalition government. This government launched programs designed to modernize agriculture, develop domestic industry, improve the nation’s health, and eliminate illiteracy. In 1960 it passed an agrarian reform law, and in 1962 it inaugurated a national steel industry. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_HEADING_8">
+			<Text>Punto Fijo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_TEXT_8">
+			<Text>Despite broad developmental progress, the Betancourt administration was troubled by political unrest and economic crisis. A guerrilla insurgency emerged in the early 1960s, stimulated by followers who believed Betancourt had abandoned his goals of social justice and change. To complicate matters, a sharp economic depression occurred in 1960–63. In foreign affairs Venezuela severed diplomatic relations with the Dominican Republic in 1960 (after Dominican agents attempted to assassinate Betancourt) and broke relations with Cuba in 1961 (following repeated Cuban attempts to aid the Venezuelan communists). It became a founding member of OPEC in 1960–61. The 1963 presidential elections, held in an atmosphere of great political tension, were narrowly won by the Democratic Action candidate Raúl Leoni. The Christian Democrats thereupon withdrew from the governing coalition, but they were replaced by the labour-leftist Democratic Republican Union. The oil and iron ore industries began to boom once more, and a new petrochemical industry was launched. Although prosperity had returned, growing popular dissatisfaction strengthened the opposition Christian Democrats, whose presidential candidate, Rafael Caldera Rodríguez, won the 1968 elections. Caldera’s inauguration in 1969 marked the first time in Venezuela’s history that an incumbent government peacefully surrendered power to an opposition electoral victor. The programs of the Christian Democrats were similar to those of Democratic Action. Caldera improved relations with Cuba, the Soviet Union, and the Latin American military dictatorships. In the early 1970s Venezuela established majority ownership of foreign banks, took control of the natural gas industry, and declared a moratorium on the granting of oil concessions.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_HEADING_9">
+			<Text>Unrest</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_TEXT_9">
+			<Text>Venezuela began to see increases in protests, labour strikes, and an increasingly heated political debate as Pérez attempted to reduce tariffs and decrease government intervention in the economy. In 1992 a small group of junior army officers, led by Lieutenant Colonel Hugo Chávez Frías, attempted a coup against President Pérez, and later that same year air force officers staged a second coup attempt. Pérez survived these two incidents but subsequently was charged with misappropriating public funds; he was forced to leave office early, in mid-1993. Following two brief interim presidencies, national elections were held in late 1993. Former President Rafael Caldera came back to office, this time running as an independent after breaking from the Social Christian party. The banking system was in crisis as Caldera took power in 1994, and his administration experimented with a series of populist economic plans before turning to negotiations with the International Monetary Fund. Caldera also released from prison the coup leader Hugo Chávez before his trial had ended, thus making Chávez eligible to run for public office.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_HEADING_10">
+			<Text>Chavez and the Bolivarian Revolution</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_TEXT_10">
+			<Text>By the 1998 elections more than half the Venezuelan populace was below the poverty line, while annual inflation exceeded 30 percent and oil prices were in steep decline. The voters rejected the traditional political parties of Democratic Action and COPEI and elected Chávez as president. At the same time, his coalition became the largest voting bloc in the legislature. Chávez’s political platform promised to rid the country of corruption, help the poor, and reduce the power of elites. He pledged to write a new constitution and remake Venezuelan democracy. In mid-1999 Venezuelans elected a constituent assembly dominated by pro-Chávez delegates, and voters soon approved a new constitution by referendum. Throughout his first term, Chávez’s plans to reform policies in keeping with his leftist ideology faltered. Although Chávez enjoyed the support of the working class for his spending on education, food coupons, and social services, other Venezuelans opposed his programs, and in 2001 the implementation of his economic reforms prompted massive protests and strikes. In April 2002 a coup briefly ousted him from office, but within two days, after protests from his supporters and threats of rebellion by troops loyal to him, he was reinstated. In late 2002 Chávez’s opponents organized a general strike to force his resignation or early elections. At the end of 2007, however, Venezuelan voters rejected a controversial constitutional referendum that included an amendment which would have allowed Chávez to run for reelection indefinitely. Undeterred, in 2008 Chávez nationalized Venezuela’s telecommunications, electricity, steel, and cement companies. By this time Chávez had reversed his earlier defeat regarding term limits. In February 2009 a constitutional referendum calling for the elimination of term limits on all elected officials had been approved by more than 54 percent of voters, clearing the way for Chávez to run for president again in 2012. In 2011 it was revealed that Chávez was battling an unspecified cancer that required an operation in Cuba and repeated visits there for follow-up care. In the election, held in October 2012, Chávez captured more than 54 percent of the vote. In December Chávez stunned Venezuelans when he not only returned to Cuba for yet another surgery but also remained out of the public eye during his recovery, which kept him in Havana into the new year and caused him to miss his scheduled inauguration. In early February 2013 he returned to Venezuela without reentering the limelight, and on March 5 he finally succumbed to his long battle with cancer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_HEADING_11">
+			<Text>Maduro and Modern Venezuela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_CIVS_EC_VENEZUELA_BETANCOURT_TEXT_11">
+			<Text>The growth of the Venezuelan economy slowed to a crawl, inflation climbed above 50 percent, and staples such as toilet paper, milk, and flour became increasingly difficult to obtain. Discontent with the Maduro government’s handling of the economy and with the growing crime rate led to street protests by students in San Cristóbal in western Venezuela in early February 2014 that soon spread to other cities, including Caracas, over the coming weeks. By February 12, security forces and armed pro-government civilian groups had begun responding violently to the escalating protests, which by the last week of the month had resulted in about a dozen deaths. This, combining with increasing authoritarianism, has led to modern Venezuela slipping in a number of human development indices. </Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_1">
+			<Text>Caracas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_2">
+			<Text>Maracaibo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_3">
+			<Text>Valencia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_4">
+			<Text>Barquisimeto</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_5">
+			<Text>Maracay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_6">
+			<Text>Ciudad Guayana</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_7">
+			<Text>Barcelona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_8">
+			<Text>Maturín</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_9">
+			<Text>Turmero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_10">
+			<Text>Ciudad Bolívar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_11">
+			<Text>Barinas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_12">
+			<Text>Los Teques</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_13">
+			<Text>Santa Teresa del Tuy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_14">
+			<Text>Cumaná</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_15">
+			<Text>San Cristóbal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_16">
+			<Text>San Felipe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_17">
+			<Text>Puerto La Cruz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_18">
+			<Text>Mérida</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_19">
+			<Text>Cabimas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_20">
+			<Text>Guatire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_21">
+			<Text>Porlamar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_22">
+			<Text>Cúa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_23">
+			<Text>Guarenas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_24">
+			<Text>San Fernando de Apure</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_25">
+			<Text>Ocumare del Tuy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_26">
+			<Text>Puerto Cabello</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_27">
+			<Text>Guacara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_28">
+			<Text>El Tigre</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_29">
+			<Text>El Limón</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_30">
+			<Text>Naguanagua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_31">
+			<Text>Acarigua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_32">
+			<Text>Coro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_33">
+			<Text>Punto Fijo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_34">
+			<Text>Cabudare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_35">
+			<Text>Charallave</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_36">
+			<Text>Ciudad Ojeda</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_37">
+			<Text>Palo Negro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_38">
+			<Text>Yaritagua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_39">
+			<Text>Cagua</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_EC_VENEZUELA_BETANCOURT_40">
+			<Text>Anaco</Text>
+		</Row>
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_EC_VENEZUELA_BETANCOURT_9">
+			<Text>Fernando Soto Rojas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EC_VENEZUELA_BETANCOURT_8">
+			<Text>Nicolas Maduro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EC_VENEZUELA_BETANCOURT_7">
+			<Text>Rafael Caldera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EC_VENEZUELA_BETANCOURT_6">
+			<Text>Diosdado Cabello</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EC_VENEZUELA_BETANCOURT_5">
+			<Text>Jesse Chacón</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EC_VENEZUELA_BETANCOURT_4">
+			<Text>Rafael Ramírez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EC_VENEZUELA_BETANCOURT_3">
+			<Text>Francisco Arias Cárdenas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EC_VENEZUELA_BETANCOURT_2">
+			<Text>Carlos Andrés Pérez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EC_VENEZUELA_BETANCOURT_1">
+			<Text>Hernán Grüber Ódreman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_EC_VENEZUELA_BETANCOURT_0">
+			<Text>Pedro Carmona</Text>
+		</Row>
+		<!--LEADER-->
+		<Row Tag="TXT_KEY_LEADER_EC_VENEZUELA_BETANCOURT">
+			<Text>Rómulo Betancourt</Text>
+		</Row>
+		<!--Pedia-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EC_VENEZUELA_BETANCOURT_NAME">
+			<Text>Rómulo Betancourt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EC_VENEZUELA_BETANCOURT_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EC_VENEZUELA_BETANCOURT_TEXT_1">
+			<Text>Rómulo Ernesto Betancourt Bello, known as the “Father of Venezuelan Democracy” was born on the 22 of February 1908, in Guatire, a town near Caracas. He attended a private school in Guatire, followed by high school in Caracas, before studying law at the Central University of Venezuela. It was here that as a young man he was expelled from Venezuela for radical agitation and moved to Costa Rica where he founded, and led, a number of radical and Communist student groups. In 1937, after resigning from the Communist Party and returning to Venezuela, he founded the Partido Democrático Nacional, which became an official political party in 1941 as Acción Democrática (AD).</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EC_VENEZUELA_BETANCOURT_HEADING_2">
+			<Text>El Trienio Adeco</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EC_VENEZUELA_BETANCOURT_TEXT_2">
+			<Text>Betancourt became president in 1945 by means of a military coup d'état and, during his time in office, completed an impressive agenda, with the period known as “El Trienio Adeco”. During the three years during his first term in office, his accomplishments included the declaration of universal suffrage, the institution of social reforms, and securing half of the profits generated by foreign oil companies for Venezuela. The reform of the oil industry was particularly notable, as before Betancourt's changes in the taxing system, the state of Venezuela was making only a fraction of what foreign oil companies were making in profit. One of Betancourt's original objectives was the nationalization of the country's oil industry, following the lead of Mexico in 1938. This was not to be the case, however, as Venezuela's economy was not stable enough to handle potential boycotts by foreign oil companies and would have left nation fiscally vulnerable. This led to Betancourt instead raising taxes on the oil industry, which, according to him, was just as effective as nationalization. Another notable achievement of Betancourt's first administration included the termination of the concession policy, the initial development of refineries within Venezuela, and tremendous improvement in worker conditions and pay. Further to policy on the petroleum industry was his resettlement policy. His government worked closely with the International Refugee Organization to aid European refugees and displaced persons who could not or would not return home after World War II; his government assumed responsibility for the legal protection and resettlement of tens of thousands of refugees inside Venezuela.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EC_VENEZUELA_BETANCOURT_HEADING_3">
+			<Text>Exile</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EC_VENEZUELA_BETANCOURT_TEXT_3">
+			<Text>Betancourt presided over the country's first free elections, in 1947, which were won by Acción Democrática's Rómulo Gallegos. However, on 27 November 1948, Carlos Delgado Chalbaud, Marcos Pérez Jiménez and Luis Felipe Llovera Páez launched the 1948 Venezuelan coup d'état and overthrew Gallegos after just ten months in office. Betancourt went into exile in New York City. Here, he planned a political return sustained on democratic principles and open elections. He traveled extensively, living in Cuba, Costa Rica, and Puerto Rico, and remained a leader of an opposition-in-exile to the Perez Jimenez dictatorship, as well as writing one of his most famous authorial works, Venezuela: Oil and Politics, which, was prohibited from circulating in Venezuela during his exile. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EC_VENEZUELA_BETANCOURT_HEADING_4">
+			<Text>Puntofijo Pact</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EC_VENEZUELA_BETANCOURT_TEXT_4">
+			<Text>Marcos Pérez Jiménez was ousted by Wolfgang Larrazábal in 1958, and, after the interim presidency of Edgar Sanabria, Betancourt was returned to the presidency after the 1958 Venezuelan presidential election. This was due to an agreement, known as the Puntofijo Pact, in which the three major political parties agreed to accept the results of the upcoming presidential election and preserve the new democratic system. The formal pact was a written guarantee that the signing parties would respect future election results, prevent single-party hegemony, cooperate to fight dictators, share political power, and divide oil wealth amongst themselves. This pact is credited with undergirding democracy in Venezuela and inaugurating the most stable period in the history of Venezuela's republics, known as the Puntofijismo.[NEWLINE][NEWLINE]Betancourt saw the objectives of returning the state to fiscal solvency and education as two major priorities for his second term, of which both he managed to improve. He also created two important institutions; the Venezuelan Petroleum Corporation, to oversee the national petroleum industry, and the Organization of the Petroleum Exporting Countries (OPEC), the international oil cartel that Venezuela established in partnership with Kuwait, Saudi Arabia, Iraq, and Iran, which was considered a radical revolutionary idea at the time by its detractors. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EC_VENEZUELA_BETANCOURT_HEADING_5">
+			<Text>Against extremists</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EC_VENEZUELA_BETANCOURT_TEXT_5">
+			<Text>
+				leftists were involved in unsuccessful revolts at Barcelona in 1961 and in navy bases in 1962, Betancourt suspended civil liberties. Elements of the left parties then formed the Armed Forces for National Liberation (FALN), a communist guerrilla army to fight him. This drove the leftists underground, where they engaged in rural and urban guerrilla activities, including sabotaging oil pipelines, bombing a Sears Roebuck warehouse, Alfredo Di Stefano kidnapping, and bombing the United States Embassy in Caracas. After numerous attacks, he arrested the MIR and Communist Party of Venezuela (PCV) members of Congress.[NEWLINE][NEWLINE]Amid his crackdown against violent political elements, Betancourt had denounced the dictatorship of Dominican Republic's Rafael Leonidas Trujillo, which was supported by the US government. In turn, Trujillo had developed an obsessive personal hatred of Betancourt and supported many plots by Venezuelan exiles to overthrow him. Venezuelan government took its case against Trujillo to the Organization of American States, turning to diplomacy first over armed response to resolve the political conflict. That, in turn, infuriated Trujillo, who ordered his foreign agents to assassinate Betancourt in Caracas. This led to Betancourt being badly burned, but not killed, as the weapon of choice had been an incendiary car bomb. Amid confusion and conspiracy, and with both burned hands wrapped in bandages, Betancourt walked out of the hospital in front of photographers to prove his survival.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EC_VENEZUELA_BETANCOURT_HEADING_6">
+			<Text>Democracy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EC_VENEZUELA_BETANCOURT_TEXT_6">
+			<Text>Despite threats to disrupt the process, nearly 90 percent of the electorate participated on 1 December 1963 election, which proved Betancourt’s commitment to democracy. The Venezuelan president's antipathy for nondemocratic rule had previously been embodied in the so-called Betancourt Doctrine, which denied Venezuelan diplomatic recognition to any regime, right or left, that came to power by military force, despite his original start in politics. He was Venezuela's first democratically elected president to serve his full term, and was succeeded by Raúl Leoni.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EC_VENEZUELA_BETANCOURT_HEADING_7">
+			<Text>Later life</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EC_VENEZUELA_BETANCOURT_TEXT_7">
+			<Text>In 1964, Betancourt was awarded a lifetime seat in Venezuela's senate, due to status as a former president. His last days were dedicated to writing and to his wife Dr. Renee Hartmann. He died on 28 September 1981 in Doctors Hospital in New York City. Married to Carmen Valverde, he was succeed by his daughter with her, Virginia Betancourt Valverde, who was his only child, despite divorcing and remarrying Dr. Renee Hartmann.</Text>
+		</Row>
+		<!--Lived-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EC_VENEZUELA_BETANCOURT_LIVED">
+			<Text>1908 - 1981 AD</Text>
+		</Row>
+		<!--Titles-->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EC_VENEZUELA_BETANCOURT_SUBTITLE">
+			<Text>Leader of Venezuela</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_EC_VENEZUELA_BETANCOURT_TITLES_1">
+			<Text>President</Text>
+		</Row>
+		<!--DOM-->
+		<Row Tag="TXT_KEY_CIV_DAWN_EC_VENEZUELA_BETANCOURT_TEXT">
+			<Text>Greetings, Romulo Betancourt, Father of Venezuelan Democracy, exile, president, and political reformer. Coming to power for the first time through a military coup, you declared universal suffrage, instituted social reforms, and most importantly, reformed the countries oil industry. You then presided over free elections, but were forced into exile as a new military coup overthrew your successor. And after nearly a decade separated from your home country, you made a triumphant return to become president after the election of 1958. At the head of the Puntofijo Pact, you heralded the most stable period in the history of Venezuela's republics, known as the Puntofijismo, where democracy reigned, high importance was given to human rights both at home and abroad, the state was prosperous and productive.[NEWLINE][NEWLINE]President Betancourt, the Puntofijismo is dead. Undermined from within and without, your enemies have long waited to seize the opportunity to lead Venezuela into darkness. Venezuela once again calls for such a wise and fair ruler to return them to the golden age they once knew, where abundance and tolerance were not the strangers they are today. Romulo Betancourt, will you reinstitute the Puntofijo Pact to lead Venezuela into another age of success? Will you build a civilization that can stand the test of time?</Text>
+		</Row>
+		<!--Responses-->
+		<Row Tag="TXT_KEY_LEADER_EC_VENEZUELA_BETANCOURT_FIRSTGREETING_1">
+			<Text>Ah!  Welcome!  I am Rómulo Betancourt, President of Venezuela.  If you are a friend to progress and democracy, I believe we will get on quite well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EC_VENEZUELA_BETANCOURT_FIRSTGREETING_2">
+			<Text>Greetings, I am President Rómulo Betancourt.  I extend my hand in friendship to all, but be warned - as long as I live, tyrants will never be tolerated in Venezuela.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EC_VENEZUELA_BETANCOURT_DEFEATED_1">
+			<Text>Venezuela may be yours for now, but we were born free and this cannot be taken from us.  My country’s spirit will never die.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_EC_VENEZUELA_BETANCOURT_DEFEATED_2">
+			<Text>Dictator!  Though I leave today, soon I shall return, and Venezuela will be free once more!</Text>
+		</Row>
+		<!--UNIQUE TRAIT-->
+		<Row Tag="TXT_KEY_TRAIT_EC_VENEZUELA_BETANCOURT_SHORT">
+			<Text>Puntofijismo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_EC_VENEZUELA_BETANCOURT">
+			<Text>[ICON_HAPPINESS_1] Happiness buildings each provide an Artist specialist slot, which generate [ICON_GREAT_PEOPLE] Beauty Queen Points when worked. Gain 5% of the yields generated by another civilization's [ICON_CAPITAL] Capital while you have an active Friendship with them.</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_VENEZUELA_BETANCOURT_ARTIST_1">
+			<Text>Colosseum (Artist)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_VENEZUELA_BETANCOURT_ARTIST_HELP">
+			<Text>Fill the Artist specialist slot to generate [ICON_GREAT_PEOPLE] Beauty Queen Points.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_VENEZUELA_BETANCOURT_ARTIST_2">
+			<Text>Tavern (Artist)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_VENEZUELA_BETANCOURT_ARTIST_3">
+			<Text>Zoo (Artist)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_VENEZUELA_BETANCOURT_ARTIST_3_EE">
+			<Text>Menagerie (Artist)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_VENEZUELA_BETANCOURT_ARTIST_4">
+			<Text>Stadium (Artist)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_VENEZUELA_BETANCOURT">
+			<Text>Dummy: Venezuela (Betancourt)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_VENEZUELA_BETANCOURT_HELP">
+			<Text></Text>
+		</Row>
+		<!--UNIQUE 1-->
+		<Row Tag="TXT_KEY_UNIT_EC_BEAUTY_QUEEN">
+			<Text>Beauty Queen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EC_BEAUTY_QUEEN_HELP">
+			<Text>Replaces the Great Merchant. May not construct Customs Houses. Alongside the Trade Mission, the Beauty Queen may also perform a Concert Tour, generating [ICON_GOLD] Gold as well as [ICON_TOURISM] Tourism. Performing Trade Missions or Concert Tours provides a free [ICON_CULTURE] Social Policy during a [ICON_GOLDEN_AGE] Golden Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EC_BEAUTY_QUEEN_STRATEGY">
+			<Text>Replaces the Great Merchant. May not construct Customs Houses. Alongside the Trade Mission, the Beauty Queen may also perform a Concert Tour, generating [ICON_GOLD] Gold as well as [ICON_TOURISM] Tourism. Performing Trade Missions or Concert Tours provides a free [ICON_CULTURE] Social Policy during a [ICON_GOLDEN_AGE] Golden Age.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_EC_BEAUTY_QUEEN_TEXT">
+			<Text>Venezuela is judged to be a powerhouse of the beauty pageant industry, with an extensive and successful history in said pageants, and is considered as the most powerful country in beauty pageants with a total of one-hundred-and-thirty-one placements and twenty-three victories in the Big Four international beauty pageants – Miss Universe, Miss World, Miss International, and Miss Earth. Venezuela have won 23 times. In the past, Osmel Sousa, also known as the Caesar of Beauty, was the president of the Miss Venezuela and Mister Venezuela Organization, from 1981 to 2018.</Text>
+		</Row>
+		<!--Unique Names-->
+		<Row Tag="TXT_KEY_GREAT_PERSON_EC_BEAUTY_QUEEN_01">
+			<Text>Mariángel Villasmil Arteaga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EC_BEAUTY_QUEEN_02">
+			<Text>Lulyana Thalía Olvino Torres</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EC_BEAUTY_QUEEN_03">
+			<Text>María Isabel Rodríguez Guzmán</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EC_BEAUTY_QUEEN_04">
+			<Text>Sthefany Yoharlis Gutiérrez Gutiérrez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EC_BEAUTY_QUEEN_05">
+			<Text>Keysi Mairin Sayago Arrechedera</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EC_BEAUTY_QUEEN_06">
+			<Text>Mariam Habach Santucci </Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EC_BEAUTY_QUEEN_07">
+			<Text>Mariana Coromoto Jiménez Martínez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EC_BEAUTY_QUEEN_08">
+			<Text>Migbelis Lynette Castellanos Romero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EC_BEAUTY_QUEEN_09">
+			<Text>María Gabriela de Jesús Isler Morales</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EC_BEAUTY_QUEEN_10">
+			<Text>Irene Sofía Esser Quintero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EC_BEAUTY_QUEEN_11">
+			<Text>Stefanía Fernández</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EC_BEAUTY_QUEEN_12">
+			<Text>Milka Chulina</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EC_BEAUTY_QUEEN_13">
+			<Text>Dayana Mendoza</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EC_BEAUTY_QUEEN_14">
+			<Text>Cristal Montañez</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EC_BEAUTY_QUEEN_15">
+			<Text>Mercedes Revenga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EC_BEAUTY_QUEEN_16">
+			<Text>Blanca "Blanquita" Heredia Osío</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EC_BEAUTY_QUEEN_17">
+			<Text>Sofía Silva Inserri</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EC_BEAUTY_QUEEN_18">
+			<Text>Marzia Rita Gisela Piazza Suprani</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EC_BEAUTY_QUEEN_19">
+			<Text>Neyla Chiquinquirá Moronta Sangronis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GREAT_PERSON_EC_BEAUTY_QUEEN_20">
+			<Text>Maritza Sayalero Fernández</Text>
+		</Row>
+		<!--UNIQUE 2-->
+		<Row Tag="TXT_KEY_BUILDING_EC_OIL_ADVISORY">
+			<Text>Oil Advisory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EC_OIL_ADVISORY_HELP">
+			<Text>Replaces the Hydroplant. No terrain requirements, and requires [ICON_RES_OIL] Oil instead of [ICON_RES_ALUMINUM] Aluminum. Provides +2% [ICON_PRODUCTION] Production per allied city-state and +2% [ICON_GOLD] Gold per active Declaration of Friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EC_OIL_ADVISORY_STRATEGY">
+			<Text>Replaces the Hydroplant. No terrain requirements, and requires [ICON_RES_OIL] Oil instead of [ICON_RES_ALUMINUM] Aluminum. Provides +2% [ICON_PRODUCTION] Production per allied city-state and +2% [ICON_GOLD] Gold per active Declaration of Friendship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EC_OIL_ADVISORY_TEXT">
+			<Text>Oil has always been a valuable commodity for the Venezuelans since at least 1910, as despite the knowledge of the existence of oil reserves in Venezuela for centuries, the first oil wells of significance were not drilled until the early 1910s. By 1929, the dramatic development of the Venezuela oil industry had begun to dominate all other economic sectors in the country, however, agricultural production began to decrease dramatically. This was known as “Dutch Disease”. By 1940 Venezuela was the third largest producer of crude oil in the world with more than 27 million tonnes per year - just slightly less than the production in the USSR. Before Betancourt's changes in the taxing system, the state of Venezuela was making only a fraction of what foreign oil companies were making in profit. One of Betancourt's original objectives was the nationalization of the country's oil industry, however, this was not to be as Venezuela was vulnerable to foreign boycotts. According to Betancourt, a spike in taxes was just as effective as nationalizing the oil industry, "Tax income was increased from then to such a degree that nationalization was unnecessary to obtain maximum economic benefits for the people of the country". Oil companies were forced to cede to the demands of labor unions and no longer entitled to make larger profits than the Venezuelan government. In response to the chronically low oil prices of the mid and late 1950s, oil producing countries Venezuela, Iran, Saudi Arabia, Iraq, and Kuwait met in Baghdad in September 1960 to form the Organization of the Petroleum Exporting Countries (OPEC). After Hugo Chávez officially took office in February 1999, several policy changes involving the country's oil industry were made to explicitly tie it to the state under his Bolivarian Revolution.</Text>
+		</Row>
+		<!--Dummies-->
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_EC_OIL_ADVISORY">
+			<Text>Dummy: Oil Advisory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_DUMMY_EC_OIL_ADVISORY_HELP">
+			<Text></Text>
+		</Row>
+	</Language_en_US>
+</GameData>

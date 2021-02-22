@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/4/2020 10:46:56 AM -->
+<GameData>
+	<Language_en_US>
+		<!--Civilization-->
+		<Row Tag="TXT_KEY_CIV_PB_IGA_DESC">
+			<Text>Iga Sokoku Ikki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PB_IGA_SHORT_DESC">
+			<Text>Iga</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PB_IGA_ADJECTIVE">
+			<Text>Iga</Text>
+			<Gender>neuter:an</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_IGA_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_IGA_TEXT_1">
+			<Text>Since the Nara period, the Iga district had supplied lumber to jisha (temple-shrines). But in the Kamakura period, jisha declined in influence while shugo (governors) and jito (manor administrators) grew dominant. The power of these functionaries then waned in Iga while that of bushi (warriors) rose instead. Iga was divided into local jizamurai regions locked in guerrilla war for which Iga warriors developed specialized skills and tactics. The Koga-ryu school began in a similar way.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_IGA_HEADING_2">
+			<Text>Geography</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_IGA_TEXT_2">
+			<Text>Iga Province was a province of Japan located in what is today part of western Mie Prefecture. Its abbreviated name was Ishu. Iga bordered on Ise, Omi, Yamato, and Yamashiro Provinces. Its roughly coincides with the modern municipalities of Iga and Nabari.[NEWLINE][NEWLINE]Iga is classified as one of the provinces of the Tokaido. Under the Engishiki classification system, Iga was ranked as an "inferior country" (gekoku) and a "near country" (kingoku). Surrounded by mountains, historically, Iga Province was rather inaccessible due to extremely poor road conditions. However, the area is now relatively easy to access from nearby Nara and Kyoto, as well as the larger cities of Osaka and Nagoya.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_IGA_HEADING_3">
+			<Text>The Iga Sokoku Ikki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PB_IGA_TEXT_3">
+			<Text>During the early Muromachi period, the people of Iga became independent of their feudal overlords and established a kind of republic - Iga Sokoku Ikki in Japanese. Iga-mono (Iga men) first appear in historical records in 1487 when the Shogun Ashikaga Yoshihisa attacked Rokkaku Takayori, the daimyo of southern Ōmi Province from the Rokkaku clan. Both Iga and Koga ninja fought on the side of Rokkaku, helping to successfully repel the shogun's attack. In 1579, warlord Oda Nobunaga's son Oda Nobukatsu launched an unsuccessful attack against the Iga Republic. In 1581, Oda Nobunaga himself attacked Iga from six directions with a force of 40 to 60 thousand men, about a ten to one advantage, and slaughtered many Iga ninja and their families. The Iga held only two castles when Nobunaga declared a ceasefire and allowed some of the ninja to escape.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_DAWN_PB_IGA_TEXT">
+			<Text>The spirit of En no Gyoja walks with you, Momochi Tamba, Grand Master of the Iga shinobi! You are one of the founders of Iga-ryu ninjutsu, the way of the clandestine spies and assassins of feudal Japan. Deemed disreputable by the honor-bound classes of the samurai, the shinobi often operated as mercenaries for hire in the service of the feuding nobles of the age. During the Muromachi period Iga Province came to be ruled, not by a local lord, but by an organized council of leaders from the province's minor clans. This "Republic", the Iga Sokoku Ikki, would defend and rule Iga until its eventual fall in 1581 to the warlord Oda Nobunaga.[NEWLINE][NEWLINE]Master Momochi, you are called upon once again to unite the clans and stand together against the warring factions of this land! Can you bring about a new age for the shinobi? Can you preserve your traditions and way of life? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA">
+			<Text>Momochi Tamba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_PEDIA_NAME">
+			<Text>Momochi Tamba</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_PEDIA_SUBTITLE">
+			<Text>Soke of the Iga-ryu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_PEDIA_TITLES_1">
+			<Text>Soke</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_PEDIA_TITLES_2">
+			<Text>Tamba no Kami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_PEDIA_TITLES_3">
+			<Text>Council of Twelve (Member)</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_PEDIA_LIVED">
+			<Text>1512-1581?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_PEDIA_HEADING_1">
+			<Text>Name</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_PEDIA_TEXT_1">
+			<Text>Momochi Tamba is a name commonly associated with one of the three Iga ninja leaders of the Warring States period. He is best known for defying Nobunaga during the rebellions in Iga. Edo period folklore tends to state that he taught Goemon and Kirigakure Saizo.[NEWLINE][NEWLINE]Momochi Tamba was Momochi Seiemon's son and the presiding lord to a small clan. Historically, his true name has not been verified. Momochi Sandayu is a fictional invention of the Edo period and is a distortion of a term for "clan elder" (daifu). The name may have also been given to his grandson rather than the Momochi leader in question. Tanba or Tamba is either argued to be his government rank or a division of the Iga ninja to distinguish himself from the other elite ninja families, the Fujibayashi and the Hattori. Iranki dubs him Tango over Tanba/Tamba. His given name may have been Yasumitsu or Masanishi.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_PEDIA_HEADING_2">
+			<Text>Authenticity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_PEDIA_TEXT_2">
+			<Text>Ninja lore in general tends to be recorded oral legends, so it's difficult to verify the authenticity of his early history. According to the tales, Tamba was known as a shinobi amongst shinobi. He was silent and emotionless: a true shadow without form. He reputedly never showed his face to others. Tales are divided on whether Tamba was an impossibly skilled elite or a cowardly lower classed ninja. One legend states that Tamba was never one person but rather three elite ninja who would flawlessly impersonate one another when deemed necessary. Most legends tend to favor his remarkable intelligence and state that he was a spy famed and valued for his reliability.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_PEDIA_HEADING_3">
+			<Text>First Oda Invasion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_PEDIA_TEXT_3">
+			<Text>Oda Nobukatsu invaded Iga in 1578 to expand his influence. He was initially successful until he was intercepted by the Iga rebels or ninja a year later. The defenders held the geographical advantage against Nobukatsu and gradually reclaimed their lost territory. According to the Iranki, Sandayū was among the defenders. He led two or three hundred defenders to arms, setting up various artillery barricades along a high mountain path. Oda retainer Tsuke Saburōzaemon accompanied Nobukatsu into their barricade with an army of 1,500. He and his men lost their lives, and Nobukatsu barely fled with his life. Nobunaga was outraged by his son's humiliation and wrote in a letter, "...I am tempted to break family ties with him".</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_PEDIA_HEADING_4">
+			<Text>Second Oda Invasion and Disappearance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_PEDIA_TEXT_4">
+			<Text>In 1581 Nobunaga personally led an army of 40,000 with six generals to eradicate Iga residents. Historians argue that Nobunaga may have led the assault primarily to avenge his stained family honor rather than the personal grudge often stated in legends. Tamba was noted to be present around the end of the conflict and led 1,600 or so tired Iga residents (either common men and women or rebel ninja) within Kashiwara Castle. He reputedly held a strong defense against the castle siege. From here on, he disappears from historical accounts of the conflict.[NEWLINE][NEWLINE]Historically, the rebels were overwhelmed by the massive Oda army. No man, woman, or child was spared from the massacre that followed their defeat. Edo period folklore tends to favor the romantic image of Tamba's defiant death at an earlier date at Iga Ueno Castle rather than depict him as a victim to the slaughter. Alternatively he was fabled to have survived the conflict and died at an old age due to natural causes.</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="TXT_KEY_TRAIT_PB_KISHOMON">
+			<Text>All Units ignore enemy Zone of Control when near a City with an Iga Spy. Ranged Units gain double [ICON_MOVES] Movement in Forest and Jungle.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PB_KISHOMON_SHORT">
+			<Text>Kishomon</Text>
+		</Row>
+		<!--City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_1">
+			<Text>Ueno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_2">
+			<Text>Hijiyama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_3">
+			<Text>Maruyama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_4">
+			<Text>Kashiwara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_5">
+			<Text>Nanbari</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_6">
+			<Text>Kashiwano</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_7">
+			<Text>Tsuge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_8">
+			<Text>Tamataki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_9">
+			<Text>Okajima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_10">
+			<Text>Chigachishi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_11">
+			<Text>Takeshima</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_12">
+			<Text>Mibuno</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_13">
+			<Text>Fukuchi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_14">
+			<Text>Asai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_15">
+			<Text>Todoroki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_16">
+			<Text>Tayaiyonokami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_17">
+			<Text>Momochi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_18">
+			<Text>Sugiyama</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_19">
+			<Text>Akame</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_20">
+			<Text>Oyamada</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_21">
+			<Text>Ao</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_22">
+			<Text>Nunobiki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_23">
+			<Text>Shimagahara</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_24">
+			<Text>Tomono</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_25">
+			<Text>Kozu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_26">
+			<Text>Hinachi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_27">
+			<Text>Kambe</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_28">
+			<Text>Marubashira</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_29">
+			<Text>Awa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_30">
+			<Text>Komohara</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_PB_IGA_0">
+			<Text>Fujibayashi Nagatonokami</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_IGA_1">
+			<Text>Ueda Mitsutsugu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_IGA_2">
+			<Text>Takino Yoshimasa</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_IGA_3">
+			<Text>Machii Seibei</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_IGA_4">
+			<Text>Morita Joun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_IGA_5">
+			<Text>Tsuge Kiyohiro</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_IGA_6">
+			<Text>Otowa Hanroku</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_IGA_7">
+			<Text>Kido Yazaemon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_IGA_8">
+			<Text>Igasaki Dojun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_IGA_9">
+			<Text>Hattori Hanzo</Text>
+		</Row>
+		<!--Units-->
+		<Row Tag="TXT_KEY_UNIT_PB_NINJA">
+			<Text>Ninja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PB_NINJA_HELP">
+			<Text>Lower [ICON_STRENGTH] Combat Strength, but fights as a powerful Ranged Unit. May move after attacking, and may enter rival territory without Open Borders. Only Iga may build it, and replaces the Scout.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PB_NINJA_STRATEGY">
+			<Text>The Ninja is Iga's Unique Unit, replacing the Scout. It has a lower overall Combat Strength, but fights as a Ranged instead of a Melee Unit. Like the Scout it suffers no terrain movement penalties, and is also able to move after performing an attack.[NEWLINE][NEWLINE]If upgraded on Ancient Ruins, the Ninja will become a Composite Bowman.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PB_NINJA_TEXT">
+			<Text>Ninja, or shinobi, were covert agents and mercenaries in feudal Japan. The functions of a ninja included espionage, deception, and surprise attacks. Their covert methods of waging irregular warfare were deemed dishonorable and beneath the honor of the samurai. Though shinobi proper, as specially trained spies and mercenaries, appeared in the 15th century during the Sengoku period, antecedents may have existed as early as the 12th century.</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_PB_NINJA">
+			<Text>Ninja</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_NINJA_HELP">
+			<Text>May move after attacking. May enter rival territory without Open Borders.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_KAKUREZATO">
+			<Text>Kakurezato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_KAKUREZATO_HELP">
+			<Text>Extra Movement until entering combat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_SNEAK_ATTACK">
+			<Text> </Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_SNEAK_ATTACK_HELP">
+			<Text>Movement returned to normal!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_KISHOMON">
+			<Text>Kishomon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_KISHOMON_HELP">
+			<Text>Double Movement in Forest and Jungle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_RECONNAISSANCE">
+			<Text>Reconnaissance</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_RECONNAISSANCE_HELP">
+			<Text>Ignoring Zone of Control from nearby Iga Spy</Text>
+		</Row>
+		<!--Improvements-->
+		<Row Tag="TXT_KEY_BUILD_PB_KAKUREZATO">
+			<Text>Construct a [LINK=IMPROVEMENT_PB_KAKUREZATO]Kakurezato[\LINK]</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PB_KAKUREZATO_REC">
+			<Text>It will increase the amount of [ICON_CULTURE] Culture provided by this tile, speeding up the availability of new Social Policies.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PB_KAKUREZATO_HELP">
+			<Text>Units that begin their turn on a Kakurezato gain an extra Movement point until they enter combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PB_KAKUREZATO">
+			<Text>Kakurezato</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PB_KAKUREZATO_HELP">
+			<Text>+2 [ICON_CULTURE] Culture. Any Unit that begins a turn on this tile will gain +1 [ICON_MOVES] Movement until it enters combat. Must be built in Forest or Jungle. Unlocks at Guilds.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENTS_PB_KAKUREZATO_TEXT">
+			<Text>A hidden village, or kakurezato, was a remote settlement in Japan during the Senkogu Jidai. Difficult to access or attack, tradition holds that the Kakurezato were the hiding places of the Ninja. It is said that one could visit a Hidden Village by accident, enjoy the warm weather, and receive wonderful hospitality and souvenirs. After leaving, however, the visitors would find themelves unable ever to find their way back to the village.</Text>
+		</Row>
+	</Language_en_US>
+	<Language_JA_JP>
+		<!--Civilization-->
+		<Row Tag="TXT_KEY_CIV_PB_IGA_DESC">
+			<Text>伊賀惣国一揆</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PB_IGA_SHORT_DESC">
+			<Text>伊賀</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PB_IGA_ADJECTIVE">
+			<Text>伊賀の</Text>
+		</Row>
+		<!--Leader-->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA">
+			<Text>百地丹波</Text>
+		</Row>
+		<!--Trait-->
+		<Row Tag="TXT_KEY_TRAIT_PB_KISHOMON">
+			<Text>伊賀のスパイがいる都市の近くのユニットは敵の支配領域を無視。遠隔歩兵ユニットは森林とジャングルで[ICON_MOVES]移動ポイントが2倍になる。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PB_KISHOMON_SHORT">
+			<Text>起請文</Text>
+		</Row>
+		<!--City Names-->
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_1">
+			<Text>上野</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_2">
+			<Text>比自山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_3">
+			<Text>丸山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_4">
+			<Text>柏原</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_5">
+			<Text>名張</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_6">
+			<Text>柏野</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_7">
+			<Text>柘植</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_8">
+			<Text>玉瀧</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_9">
+			<Text>岡島</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_10">
+			<Text>千賀地氏</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_11">
+			<Text>竹島</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_12">
+			<Text>壬生野</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_13">
+			<Text>福地</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_14">
+			<Text>浅井</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_15">
+			<Text>轟</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_16">
+			<Text>田矢伊予守</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_17">
+			<Text>百地</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_18">
+			<Text>杉山</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_19">
+			<Text>赤目</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_20">
+			<Text>大山田</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_21">
+			<Text>阿保</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_22">
+			<Text>布引</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_23">
+			<Text>島ヶ原</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_24">
+			<Text>友生</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_25">
+			<Text>上津</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_26">
+			<Text>比奈知</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_27">
+			<Text>神戸</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_28">
+			<Text>丸柱</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_29">
+			<Text>安房</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PB_IGA_30">
+			<Text>薦原</Text>
+		</Row>
+		<!--Spy Names-->
+		<Row Tag="TXT_KEY_SPY_NAME_PB_IGA_0">
+			<Text>藤林長門守</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_IGA_1">
+			<Text>植田光次</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_IGA_2">
+			<Text>滝野吉政</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_IGA_3">
+			<Text>町井清兵衛</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_IGA_4">
+			<Text>森田浄雲</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_IGA_5">
+			<Text>柘植清広</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_IGA_6">
+			<Text>音羽半六</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_IGA_7">
+			<Text>城戸弥左衛門</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_IGA_8">
+			<Text>伊賀崎道順</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PB_IGA_9">
+			<Text>服部半蔵</Text>
+		</Row>
+		<!--Units-->
+		<Row Tag="TXT_KEY_UNIT_PB_NINJA">
+			<Text>忍者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PB_NINJA_HELP">
+			<Text>[ICON_STRENGTH]戦闘力は低くなるが、でも強力な遠隔歩兵ユニット。攻撃後の移動が可能。国境解放条約を結ばなくても敵の領土に入ることができる。伊賀のみ生産可能。他の文明の斥候に相当する。</Text>
+		</Row>
+		<!--Promotions-->
+		<Row Tag="TXT_KEY_PROMOTION_PB_NINJA">
+			<Text>忍者</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_NINJA_HELP">
+			<Text>攻撃後の移動が可能。国境解放条約を結ばなくても敵の領土に入ることができる。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_KAKUREZATO">
+			<Text>隠れ里</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_KAKUREZATO_HELP">
+			<Text>戦闘まで移動ポイントが+１増加する。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_SNEAK_ATTACK">
+			<Text>　</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_SNEAK_ATTACK_HELP">
+			<Text>移動ポイントが正常に戻った!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_KISHOMON">
+			<Text>起請文</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_KISHOMON_HELP">
+			<Text>森林とジャングルで移動ポイントが2倍になる。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_RECONNAISSANCE">
+			<Text>偵察</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PB_RECONNAISSANCE_HELP">
+			<Text>伊賀のスパイの近くに敵の支配領域を無視。</Text>
+		</Row>
+		<!--Improvements-->
+		<Row Tag="TXT_KEY_BUILD_PB_KAKUREZATO">
+			<Text>[LINK=IMPROVEMENT_PB_KAKUREZATO]隠れ里[\LINK]を建設</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PB_KAKUREZATO_REC">
+			<Text>[ICON_CULTURE]文化力+2をもたらす。社会制度はより急速に達成される。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_PB_KAKUREZATO_HELP">
+			<Text>このタイル上の[ICON_CULTURE]文化力産出量を増やし、このタイル上でターンを開始するすべてのユニットは戦闘まで移動ポイントが+１増加する。</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PB_KAKUREZATO">
+			<Text>を建設</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENT_PB_KAKUREZATO_HELP">
+			<Text>[ICON_CULTURE]文化力+2をもたらす。このタイル上でターンを開始するすべてのユニットは戦闘まで[ICON_MOVES]移動ポイントが+１増加する。森かジャングルが必要。ギルド後に利用可能。</Text>
+		</Row>
+	</Language_JA_JP>
+</GameData>

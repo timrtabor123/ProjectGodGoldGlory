@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/31/2021 11:51:36 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- When you first meet this AI player -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_FIRSTGREETING_1">
+			<Text>I am Momochi Tamba, who speaks for the people of Iga. I believe it is time we made ourselves known.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_FIRSTGREETING_2">
+			<Text>This is Iga Province, ruled by no lord. I, Momochi Tamba, greet you on behalf of the Council.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_FIRSTGREETING_3">
+			<Text>I am grateful to meet you in person. I am Momochi Tamba, of Iga Province.</Text>
+		</Row>
+		<!-- When you've defeated this AI player through conquest -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_DEFEATED_1">
+			<Text>I have no desire for vengeance. Evil is its own punishment.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_DEFEATED_2">
+			<Text>To rule is to carry a mountain. Your greatest struggles still lie ahead.</Text>
+		</Row>
+		<!-- Trying to contact or trade with the AI too many times; "REPEAT" appears first, and then "TOO_MUCH" if you continue (regardless of AI feelings) -->
+		<!-- Repeatedly contacting the AI -->
+		<!-- AI has no strong feelings -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_REPEAT_1">
+			<Text>Oh, is there more?</Text>
+		</Row>
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_HOSTILE_REPEAT_1">
+			<Text>Then, I will persevere as your host.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_HOSTILE_REPEAT_2">
+			<Text>Isn't it about time you were leaving?</Text>
+		</Row>
+		<!-- You have contacted them for a fifth time -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_REPEAT_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+		<!-- Repeatedly trying to trade with the AI -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_REPEAT_TRADE_1">
+			<Text>Perhaps I have not made myself clear.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_REPEAT_TRADE_2">
+			<Text>In my shoes, would you accept a deal such as this?</Text>
+		</Row>
+		<!-- You have tried for a fifth time (?) -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>...</Text>
+		</Row>
+
+		<!-- ==================================== Greetings ==================================== -->
+		<!-- Generic greetings depending on how the AI feels about you -->
+		<!-- AI likes you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_POLITE_HELLO_1">
+			<Text>I am pleased to greet you once again.</Text>
+		</Row>
+		<!-- AI has no strong feelings -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_NEUTRAL_HELLO_1">
+			<Text>Welcome back. I will inform the Council of your return.</Text>
+		</Row>
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_HOSTILE_HELLO_1">
+			<Text>The roads are dangerous at night.</Text>
+		</Row>
+
+		<!-- Greetings while at war -->
+		<!-- All other times -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_AT_WAR_HOSTILE_1">
+			<Text>Why has the brutal lord come to Iga?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_AT_WAR_HOSTILE_2">
+			<Text>It was foolish to think you could walk into our home.</Text>
+		</Row>
+
+		<!-- Situational greetings -->
+		<!-- You have a Declaration of Friendship with them -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_WORKING_WITH_1">
+			<Text>Come, my friend. There is truth in sake.</Text>
+		</Row>
+		<!-- The human is at war -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>Ever insatiable is your appetite for bloodshed.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_HUMAN_AT_WAR_1">
+			<Text>Welcome back. If you wish to hire mercenaries, the men of Iga may be willing to oblige.</Text>
+		</Row>
+		<!-- The human has an aggressive military posture -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>I see subtlety is not your greatest strength.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>A wise hawk hides his talons.</Text>
+		</Row>
+		<!-- The human is aggressively setting cities -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>Do not think we cannot force your expansion back, if necessary.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>Borders have long meant little to our people.</Text>
+		</Row>
+		<!-- The human is aggressively claiming plots -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Your aggressive purchase of land is quite typical of a rapacious lord.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>Borders have long meant little to our people.</Text>
+		</Row>
+		<!-- AI is praising your strong military -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>Well-trained foot soldiers such as yours could face down almost any foe.</Text>
+		</Row>
+		<!-- AI is praising your strong economy -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>With such wealth at your disposal, you could hire every mercenary in Iga Province.</Text>
+		</Row>
+		<!-- AI is mocking you for having fewer cities than them -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>Iga is no vast empire, but next to your domain we rule the world.</Text>
+		</Row>
+		<!-- AI is mocking you for having a small military -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>I see almost no soldiers among your ranks. Perhaps they are better at concealment than warfare.</Text>
+		</Row>
+		<!-- AI considers you to be a warmonger -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Think very carefully before turning your blood-stained sword on Iga.</Text>
+		</Row>
+
+		<!-- ==================================== Declarations of Friendship and Denouncing ==================================== -->
+		<!-- AI offers you a Declaration of Friendship -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_DEC_FRIENDSHIP_1">
+			<Text>True friends are made in harship. Our domains stand a better chance if they stand together.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_DEC_FRIENDSHIP_2">
+			<Text>Iga has enemies, but your domain need not be one of them. Will you join us in a Declaration of Friendship?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_DEC_FRIENDSHIP_3">
+			<Text>The Council has decided to offer you a Declaration of Friendship. Should you accept, then the men of Iga would be at your disposal.</Text>
+		</Row>
+		<!-- AI isn't ready for a Declaration of Friendship yet -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_TOO_SOON_FOR_DOF_1">
+			<Text>For now, Iga remains alone and hidden. It is too soon for things to change.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_TOO_SOON_FOR_DOF_2">
+			<Text>Iga's friendship is strong, but hard-won. Perhaps in time you will prove yourself a favourable partner.</Text>
+		</Row>
+		<!-- AI, as your friend, wants you to denounce another civilization -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>The lord of {1_CivName} eyes our two realms with envious eyes. Let us denounce their bloodlust before it begins.</Text>
+		</Row>
+		<!-- AI is denouncing you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_DENOUNCE_1">
+			<Text>Good medicine is bitter in the mouth. You must change your ways.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_DENOUNCE_2">
+			<Text>To continue as you are is not strength. It is the path to ruin.[NEWLINE][NEWLINE]([COLOR_WARNING_TEXT]They have publicly denounced us! NOTE: You are not at war.[ENDCOLOR])</Text>
+		</Row>
+		<!-- AI is responding to you denouncing them -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>I fear the other lords will show little concern.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_RESPONSE_TO_BEING_DENOUNCED_2">
+			<Text>The mad ramblings of a deluded lord.</Text>
+		</Row>
+		<!-- AI contacting you after you befriend their friend -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_HUMAN_DOFED_FRIEND_1">
+			<Text>We have worked with {1_CivName}'s lord many times. You will find them an amiable partner.</Text>
+		</Row>
+		<!-- AI contacting you after you befriend their enemy -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_HUMAN_DOFED_ENEMY_1">
+			<Text>The vile lord of {1_CivName} shows as little regard for their friends as they do their enemies.</Text>
+		</Row>
+		<!-- AI contacting you after you denounce their friend -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>{1_CivName} is no threat to you. If your relations continue to degrade, Iga will be forced to choose sides.</Text>
+		</Row>
+		<!-- AI contacting you after you denounce their enemy -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>The brutal lord of {1_CivName} is a threat to stability and peace. We agree that their ambition must be reigned in.</Text>
+		</Row>
+		<!-- AI contacting you after they befriend your friend -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>The Council has decided to follow your example, and so we have sent a diplomatic mission to the lord of {1_CivName}.</Text>
+		</Row>
+		<!-- AI contacting you after they denounce your enemy -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>{1_CivName} has made clear their designs on Iga, and the world. The Council has decided to join in your denunciation of them.</Text>
+		</Row>
+		<!-- AI contacting you after they denounce your friend -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>Not one, but two bloodthirsty lords. It is a pity you cannot forsee {1_CivName}'s betrayal.</Text>
+		</Row>
+		<!-- AI contacting you after they befriend your enemy -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>Iga has sworn to protect {1_CivName}. To insult them, is to insult us.</Text>
+		</Row>
+
+		<!-- ==================================== AI warnings ==================================== -->
+		<!-- AI has noticed your military posture is aggressive -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Do you feel as though you have the advantage? Our way of warfare thrives on such hubris.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>Naturally, Iga intelligence-gathering could not miss your military position.</Text>
+		</Row>
+
+		<!-- AI has noticed your aggressive settling -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_EXPANSION_SERIOUS_WARNING_1">
+			<Text>Your expansion draws ever closer. Be careful, or your next sip of sake may be your last.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_EXPANSION_WARNING_1">
+			<Text>Iga has no love of conquest, but in return we expect not to be encroached upon.</Text>
+		</Row>
+
+		<!-- AI has noticed your aggressive plot claiming -->
+		<!-- AI dislikes you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>This land cannot be bought for your personal fiefdom. If you declare that it is yours, you must fight for it.</Text>
+		</Row>
+		<!-- AI has no negative feelings -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_PLOT_BUYING_WARNING_1">
+			<Text>It is unseemly to waste gold for such meager gains.</Text>
+		</Row>
+
+		<!-- ==================================== War requests ==================================== -->
+		<!-- AI wants you to go to war against a third party -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_COOP_WAR_REQUEST_1">
+			<Text>Lord {1_PlayerName:textkey} threatens not just the people of Iga, but your people as well. We must attack while the advantage is ours.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_COOP_WAR_REQUEST_2">
+			<Text>The continuous conquests of Lord {1_PlayerName:textkey} can no longer be permitted. I'm sure you will agree.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_COOP_WAR_REQUEST_3">
+			<Text>Unless we act, Lord {1_PlayerName:textkey} will unify the world under their own brutal hegemony!</Text>
+		</Row>
+
+		<!-- ==================================== Miscellaneous comments ==================================== -->
+		<!-- You and the AI are competing for the same city states -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_MINOR_CIV_COMPETITION_1">
+			<Text>Minor realsm such as {1_MinorCivName:textkey} should be left in peace. Do you not agree?</Text>
+		</Row>
+
+		<!-- ==================================== Player requests ==================================== -->
+		<!-- You continue to ask for something that the AI is not interested in -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_REPEAT_NO_1">
+			<Text>I must refuse, again.</Text>
+		</Row>
+		<!-- You ask the AI to not settle near you -->
+		<!-- AI agrees -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_DONT_SETTLE_YES_1">
+			<Text>If you insist.</Text>
+		</Row>
+		<!-- AI doesn't agree -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_DONT_SETTLE_NO_1">
+			<Text>This is Iga Province. Our home.</Text>
+		</Row>
+
+		<!-- ==================================== Insults ==================================== -->
+		<!-- Generic insult if no others are picked -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_INSULT_GENERIC_1">
+			<Text>I couldn't help but notice how pathetic you are. And when I realized it I couldn't help but share.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_INSULT_GENERIC_2">
+			<Text>Ah, it's always nice to see my favorite city-state again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_INSULT_GENERIC_3">
+			<Text>I'm really getting tired of seeing your face. My hope is that one day you'll just go away or something.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_INSULT_GENERIC_4">
+			<Text>Ah, it's you. My apologies. Sometimes I get you mixed up with the barbarians I have to swat from time to time.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_INSULT_MILITARY_1">
+			<Text>I thought you might like to know that your army is a little on the weak side. Better watch your back.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_INSULT_MILITARY_2">
+			<Text>With an army so weak it's a surprise your empire hasn't succumb to a barbarian invasion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_INSULT_NUKE_1">
+			<Text>Our words are backed with nuclear weapons!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_INSULT_BULLY_1">
+			<Text>It's a shame there are some leaders in this world who have their fun by picking on the weak. Don't you agree?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_INSULT_UNHAPPINESS_1">
+			<Text>I can hear your people wailing in sorrow all the way over in my empire. If you don't do something soon they might just pack up and find a real civilization to live in.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_INSULT_UNHAPPINESS_2">
+			<Text>With people so unhappy it's a shock to me that they'd keep you around as their leader.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_INSULT_CITIES_1">
+			<Text>It's come to my attention that your empire appears to be quite puny. Did you forget to expand your borders or are you just having a little trouble with that?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_INSULT_POPULATION_1">
+			<Text>Travelers have told us that your empire's economy is in pretty sad shape. If you beg a little I might give you a hand. Okay, actually I won't.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_INSULT_CULTURE_1">
+			<Text>What a sad sight... your empire is so uncultured. What do your citizens do all day, beat rocks together?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_INSULT_CULTURE_2">
+			<Text>Rumor has it that your culture is so laughable that even the barbarians are shying away from your lands.</Text>
+		</Row>
+
+		<!-- ==================================== Trade ==================================== -->
+		<!-- AI is offering a trade because they want a luxury from you -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_LUXURY_TRADE_1">
+			<Text>We would like to discuss a fair exchange of goods.</Text>
+		</Row>
+		<!-- AI is asking for a mutual open borders agreement -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_OPEN_BORDERS_EXCHANGE_1">
+			<Text>Though borders mean little to us, we would like to formalize an Open Borders agreement.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_TRADE_NEEDMORE_ANGRY">
+			<Text>Please, at least show me something the Council has a small chance of accepting.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_TRADE_NEEDMORE_HAPPY">
+			<Text>Trade is not our top priority, but perhaps we might be able to accomodate you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_TRADE_NEEDMORE_NEUTRAL">
+			<Text>This is not an equal exchange.</Text>
+		</Row>
+
+		<!-- ==================================== Player declares war on the AI ==================================== -->
+		<!-- AI Attacked by another player -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_ATTACKED_HOSTILE_1">
+			<Text>Is this what it has come to? So be it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_ATTACKED_HOSTILE_2">
+			<Text>How reckless.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_ATTACKED_BETRAYED">
+			<Text>Naturally, our intelligence knew of your plans before they were even concieved.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_ATTACKED_EXCITED">
+			<Text>It is about time the men of Iga show you why they are so feared.</Text>
+		</Row>
+
+		<!-- ==================================== AI declares war on the player ==================================== -->
+		<!-- Generic response -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_DOW_GENERIC_1">
+			<Text>Let us drop the pretense of peace.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_DOW_GENERIC_2">
+			<Text>With many, small strokes, the terrible oak of your rule will be felled.</Text>
+		</Row>
+		<!-- AI is in a land dispute with the player -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_DOW_LAND_1">
+			<Text>I would prefer to see you poisoned at your dinner table, but we will adopt this method for now.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_DOW_LAND_2">
+			<Text>We will not simply accept such aggressive acts.</Text>
+		</Row>
+		<!-- AI declares war after the player refuses a demand -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_WAR_DEMAND_REFUSED_1">
+			<Text>It is unfortunate that a peaceful agreement could not be achieved.</Text>
+		</Row>
+
+		<!-- ==================================== Peace offers ==================================== -->
+
+		<!-- AI doesn't want to have peace -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_NO_PEACE_1">
+			<Text>For now, we have nothing to discuss.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_NO_PEACE_2">
+			<Text>There will be peace, but first there will be punishment for your transgressions.</Text>
+		</Row>
+		<!-- Player asks for peace on the same turn war was declared - no peace! -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_TOO_SOON_NO_PEACE_1">
+			<Text>A reckless gambit by a foolish lord.</Text>
+		</Row>
+
+		<!-- ==================================== Cultural Influence ==================================== -->
+		<!-- Player is influential on the AI (Our people are wearing your blue jeans...) -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_INFLUENTIAL_ON_AI_1">
+			<Text>Our people are now nowhere to be seen. I worry the rest of the world will also succumb to the influence of your culture.</Text>
+		</Row>
+		<!-- AI is influential on the player -->
+		<Row Tag="TXT_KEY_LEADER_PB_MOMOCHI_TAMBA_INFLUENTIAL_ON_HUMAN_1">
+			<Text>We are glad to see that your people are attending ninja school and doing their ninja homework. The amazing works of our civilization are truly inspiring!</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="989fb849-71ef-40bf-bad4-098afdc9ebb5" version="1">
+  <Properties>
+    <Name>ASE's Settlers Only</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Start with only settlers.</Teaser>
+    <Description>Start with only settlers.</Description>
+    <Authors>ExplosiveWatermelon</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="6FCE78911333937BA351B84BACDEDD92" import="0">CBRX_EditedEdition_4.Civ5Map</File>
+    <File md5="97EC59828E9D6E9E242451939C9BAB2B" import="0">Lua/DeleteUnits.lua</File>
+    <File md5="CD3E8C278CE1FD36806AA4CF6BE3BF88" import="1">Lua/TableSaverLoader016.lua</File>
+    <File md5="10EB5E5CEE5475847D1F888C3BC16929" import="1">Lua/EW_Start_GlobalDefines.lua</File>
+    <File md5="791393726AA15279802CA395A7AEF22A" import="1">Lua/EW_Start_TSLSerializerV3.lua</File>
+    <File md5="69FCADF0D2AE7C0C2CEC9D821AD41883" import="1">Lua/TSLSerializerCoreV3.lua</File>
+  </Files>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/DeleteUnits.lua">
+      <Name>SettlerOnly</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

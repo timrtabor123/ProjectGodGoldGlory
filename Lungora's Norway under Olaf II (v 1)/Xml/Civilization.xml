@@ -345,9 +345,9 @@
   <Colors>
     <Row>
       <Type>COLOR_PLAYER_LUNGNORWAY_BACKGROUND</Type>
-      <Red>0.90588</Red>
-      <Green>0.22</Green>
-      <Blue>0.192158</Blue>
+      <Red>0.416</Red>
+      <Green>0.106</Green>
+      <Blue>0.09</Blue>
       <Alpha>1.0</Alpha>
     </Row>
   </Colors>

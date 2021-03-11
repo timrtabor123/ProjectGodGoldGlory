@@ -2314,7 +2314,7 @@ function Player.GetGovernmentName(player, governmentID)
 	local government = GameInfo.JFD_Governments[governmentID]
 	local governmentType = government.Type
 	local currentEraID = player:GetCurrentEra()
-	local strGovernmentName = ""
+	local strGovernmentName = g_ConvertTextKey(government.Description)
 	
 	if government.IsUnique then
 		return g_ConvertTextKey(government.Description)
